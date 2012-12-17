@@ -1,0 +1,41 @@
+{
+   "http://uri.gbv.de/organization/isil/DE-84" : {
+      "@id" : "http://uri.gbv.de/organization/isil/DE-84",
+      "foaf:name" : "Universitätsbibliothek Braunschweig"
+   },
+   "http://uri.gbv.de/organization/isil/DE-84@bmi" : {
+      "@id" : "http://uri.gbv.de/organization/isil/DE-84@bmi",
+      "dc:description" : "Rebenring 31 (Rebenpark)",
+      "foaf:homepage" : "http://www.mathematik.tu-bs.de/bmi/",
+      "foaf:name" : "Bibliothek der Mathematischen Institute"
+   },
+   "http://uri.gbv.de/organization/isil/DE-84@cb" : {
+      "@id" : "http://uri.gbv.de/organization/isil/DE-84@cb",
+      "foaf:name" : "Teilbibliothek Chemie"
+   },
+   "http://uri.gbv.de/organization/isil/DE-84@kibu" : {
+      "@id" : "http://uri.gbv.de/organization/isil/DE-84@kibu",
+      "foaf:name" : "Kinderbuchsammlung"
+   },
+   "http://uri.gbv.de/organization/isil/DE-84@lb" : {
+      "@id" : "http://uri.gbv.de/organization/isil/DE-84@lb",
+      "foaf:name" : "Lehrbuchsammlung"
+   },
+   "http://uri.gbv.de/organization/isil/DE-84@ls1" : {
+      "@id" : "http://uri.gbv.de/organization/isil/DE-84@ls1",
+      "foaf:name" : "Lesesaal 1"
+   },
+   "http://uri.gbv.de/organization/isil/DE-84@ls2" : {
+      "@id" : "http://uri.gbv.de/organization/isil/DE-84@ls2",
+      "foaf:name" : "Lesesaal 2"
+   },
+   "http://uri.gbv.de/organization/isil/DE-84@ls3" : {
+      "@id" : "http://uri.gbv.de/organization/isil/DE-84@ls3",
+      "foaf:name" : "Lesesaal 3"
+   },
+   "http://uri.gbv.de/organization/isil/DE-84@wire" : {
+      "@id" : "http://uri.gbv.de/organization/isil/DE-84@wire",
+      "foaf:name" : "Institut für Wissenschaftliches Rechnen"
+   }
+}
+

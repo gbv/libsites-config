@@ -1,0 +1,17 @@
+{
+   "http://uri.gbv.de/organization/isil/DE-960" : {
+      "@id" : "http://uri.gbv.de/organization/isil/DE-960",
+      "org:hasSite" : [
+         "http://uri.gbv.de/organization/isil/DE-960-7@verwaltung",
+         "http://uri.gbv.de/organization/isil/DE-960-7@magazin"
+      ]
+   },
+   "http://uri.gbv.de/organization/isil/DE-960-7@magazin" : {
+      "@id" : "http://uri.gbv.de/organization/isil/DE-960-7@magazin",
+      "foaf:name" : "Magazin"
+   },
+   "http://uri.gbv.de/organization/isil/DE-960-7@verwaltung" : {
+      "@id" : "http://uri.gbv.de/organization/isil/DE-960-7@verwaltung",
+      "foaf:name" : "Bibliotheksverwaltung"
+   }
+}

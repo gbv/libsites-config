@@ -1,0 +1,18 @@
+{
+   "http://uri.gbv.de/organization/isil/DE-Wim2" : {
+      "@id" : "http://uri.gbv.de/organization/isil/DE-Wim2",
+      "org:hasSite" : [
+         "http://uri.gbv.de/organization/isil/DE-Wim2@mag",
+         "http://uri.gbv.de/organization/isil/DE-Wim2@mha"
+      ]
+   },
+   "http://uri.gbv.de/organization/isil/DE-Wim2@mag" : {
+      "@id" : "http://uri.gbv.de/organization/isil/DE-Wim2@mag",
+      "foaf:name" : "Magazin",
+      "gbv:address" : "Steubenstraße 6"
+   },
+   "http://uri.gbv.de/organization/isil/DE-Wim2@mha" : {
+      "@id" : "http://uri.gbv.de/organization/isil/DE-Wim2@mha",
+      "foaf:name" : "Handbibliothek Fakultät Medien"
+   }
+}

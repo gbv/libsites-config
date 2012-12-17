@@ -1,0 +1,43 @@
+@
+UB Hildesheim
+Marienburger Platz 22
+31141 Hildesheim
+
++49 05121 883260
+
+auskunft@uni-hildesheim.de
+
+52.134268, 9.974501
+
+Mo-Fr 9:00-21:00, Sa 10:00-16:00
+Vorlesungsfreie Zeit: Mo-Fr 9:00-18:00
+
+@ami
+AMI-Medienzentrum
+Raum G009
+Marienburger Platz 22
+31141 Hildesheim
+
++49 05121 883740
+
+amimz@uni-hildesheim.de
+
+52.1341,9.976481
+
+Di,Do 9:30-12:30, 14:00-16:00, Mi 14:00-16:00
+
+@azp
+AZP-Bibliothek
+Tilsiterstraße 1
+31141 Hildesheim
+
++49 05121 883466
+
+52.132922,9.977087
+
+Di 16:00-18:00, Do 15:00-17:30
+
+@hand
+Handapparat
+Handapparate stehen außerhalb der UB.
+Bitte wenden Sie sich an die Auskunft. 

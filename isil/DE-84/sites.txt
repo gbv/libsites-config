@@ -1,0 +1,28 @@
+@kibu
+Kinderbuchsammlung
+
+@wire
+Institut für Wissenschaftliches Rechnen
+
+@bmi
+Bibliothek der Mathematischen Institute
+Rebenring 31 (Rebenpark)
+http://www.mathematik.tu-bs.de/bmi/
+
+@cb
+Teilbibliothek Chemie
+
+@
+Universitätsbibliothek Braunschweig
+
+@ls1
+Lesesaal 1
+
+@ls2
+Lesesaal 2
+
+@ls3
+Lesesaal 3
+
+@lb
+Lehrbuchsammlung

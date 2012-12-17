@@ -1,0 +1,74 @@
+@
+Zentralbibliothek
+Scharnhorststr. 1, 21335 Lüneburg
+
+53.227837, 10.400831
+
++49 04131/677-1100
+unibib@uni.leuphana.de  
+
+Mo-Fr 8:30-23 Uhr, Sa-So 10-18 Uhr
+
+
+DE-Luen4-1
+Teilbibliothek Rotes Feld
+Wilschenbrucher Weg 84, 21335 Lüneburg
+
+53.2464214, 10.4115179
+
+(+49) 04131/677-7766
+bibrot@uni.leuphana.de  
+
+Mo-Fr 8-18 Uhr, Sa 11-16 Uhr, in der vorlesungsfreien Zeit Mo-Fr 8-16 Uhr
+
+@stb
+Infothek für Studium und Beruf
+
+@sgr
+Standort Gründungsmanagement
+
+@schul
+Institut für Schul- und Hochschulforschung
+
+@psych
+Institut für Psychologie
+
+@ffb
+Forschungsinstitut Freie Berufe
+
+@math
+Institut für Mathematik
+
+@suc
+Institut für Ökologie und Umweltchemie
+
+@elbschloss
+Elbschloss Bleckede
+
+@frg
+Frauen- und Gleichstellungsbüro
+
+@kmu
+Institut für Kunst, Musik und ihre Vermittlung
+
+@fern
+Fernstudienzentrum
+
+@fstade
+Fernstudienzentrum Stade
+
+@ost
+Ost-Akademie-Bibliothek
+
+@lehrbuchsammlung
+Lehrbuchsammlung
+
+@agenda21
+Agenda 21
+
+@sdd
+Standort Deutschdidaktik
+
+@sdt
+Standort: Seminar Deutsch
+

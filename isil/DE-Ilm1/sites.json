@@ -1,0 +1,12 @@
+{
+   "http://uri.gbv.de/organization/isil/DE-Ilm1" : {
+      "@id" : "http://uri.gbv.de/organization/isil/DE-Ilm1",
+      "org:hasSite" : [
+         "http://uri.gbv.de/organization/isil/DE-Ilm1@hsb"
+      ]
+   },
+   "http://uri.gbv.de/organization/isil/DE-Ilm1@hsb" : {
+      "@id" : "http://uri.gbv.de/organization/isil/DE-Ilm1@hsb",
+      "foaf:name" : "Hochschulbibliographie"
+   }
+}
