@@ -1,27 +1,4 @@
 {
-   "http://uri.gbv.de/organization/isil/AMI-Medienzentrum" : {
-      "@id" : "http://uri.gbv.de/organization/isil/AMI-Medienzentrum",
-      "foaf:mbox" : "mailto:amimz@uni-hildesheim.de",
-      "foaf:name" : "Raum G009",
-      "foaf:phone" : "tel:+49-05121-883740",
-      "gbv:address" : "Marienburger Platz 22\n31141 Hildesheim",
-      "gbv:openinghours" : "Di,Do 9:30-12:30, 14:00-16:00, Mi 14:00-16:00",
-      "geo:location" : {
-         "geo:lat" : "52.1341",
-         "geo:long" : "9.976481"
-      }
-   },
-   "http://uri.gbv.de/organization/isil/AZP-Bibliothek" : {
-      "@id" : "http://uri.gbv.de/organization/isil/AZP-Bibliothek",
-      "foaf:name" : "Tilsiterstraße 1",
-      "foaf:phone" : "tel:+49-05121-883466",
-      "gbv:address" : "31141 Hildesheim",
-      "gbv:openinghours" : "Di 16:00-18:00, Do 15:00-17:30",
-      "geo:location" : {
-         "geo:lat" : "52.132922",
-         "geo:long" : "9.977087"
-      }
-   },
    "http://uri.gbv.de/organization/isil/DE-Hil2" : {
       "@id" : "http://uri.gbv.de/organization/isil/DE-Hil2",
       "foaf:mbox" : "mailto:auskunft@uni-hildesheim.de",
@@ -32,13 +9,35 @@
       "geo:location" : {
          "geo:lat" : "52.134268",
          "geo:long" : "9.974501"
-      }
+      },
+      "org:hasSite" : [
+         "http://uri.gbv.de/organization/isil/DE-Hil2@hand",
+         "http://uri.gbv.de/organization/isil/DE-Hil2@ami",
+         "http://uri.gbv.de/organization/isil/DE-Hil2@azp"
+      ]
    },
    "http://uri.gbv.de/organization/isil/DE-Hil2@ami" : {
-      "@id" : "http://uri.gbv.de/organization/isil/DE-Hil2@ami"
+      "@id" : "http://uri.gbv.de/organization/isil/DE-Hil2@ami",
+      "foaf:mbox" : "mailto:amimz@uni-hildesheim.de",
+      "foaf:name" : "AMI-Medienzentrum",
+      "foaf:phone" : "tel:+49-05121-883740",
+      "gbv:address" : "Raum G009\nMarienburger Platz 22\n31141 Hildesheim",
+      "gbv:openinghours" : "Di,Do 9:30-12:30, 14:00-16:00, Mi 14:00-16:00",
+      "geo:location" : {
+         "geo:lat" : "52.1341",
+         "geo:long" : "9.976481"
+      }
    },
    "http://uri.gbv.de/organization/isil/DE-Hil2@azp" : {
-      "@id" : "http://uri.gbv.de/organization/isil/DE-Hil2@azp"
+      "@id" : "http://uri.gbv.de/organization/isil/DE-Hil2@azp",
+      "foaf:name" : "AZP-Bibliothek",
+      "foaf:phone" : "tel:+49-05121-883466",
+      "gbv:address" : "Tilsiterstraße 1\n31141 Hildesheim",
+      "gbv:openinghours" : "Di 16:00-18:00, Do 15:00-17:30",
+      "geo:location" : {
+         "geo:lat" : "52.132922",
+         "geo:long" : "9.977087"
+      }
    },
    "http://uri.gbv.de/organization/isil/DE-Hil2@hand" : {
       "@id" : "http://uri.gbv.de/organization/isil/DE-Hil2@hand",
@@ -46,4 +45,3 @@
       "foaf:name" : "Handapparat"
    }
 }
-

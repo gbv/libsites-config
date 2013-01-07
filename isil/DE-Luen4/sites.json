@@ -1,14 +1,15 @@
 {
    "http://uri.gbv.de/organization/isil/DE-Luen4" : {
       "@id" : "http://uri.gbv.de/organization/isil/DE-Luen4",
-      "foaf:mbox" : "mailto:unibib@uni.leuphana.de",
+      "dc:description" : "DE-Luen4-1\nTeilbibliothek Rotes Feld\nWilschenbrucher Weg 84, 21335 Lüneburg",
+      "foaf:mbox" : "mailto:bibrot@uni.leuphana.de",
       "foaf:name" : "Zentralbibliothek",
-      "foaf:phone" : "tel:+49-04131/677-1100",
+      "foaf:phone" : "tel:(+49)-04131/677-7766",
       "gbv:address" : "Scharnhorststr. 1, 21335 Lüneburg",
-      "gbv:openinghours" : "Mo-Fr 8:30-23 Uhr, Sa-So 10-18 Uhr",
+      "gbv:openinghours" : "Mo-Fr 8:30-23 Uhr, Sa-So 10-18 Uhr\nMo-Fr 8-18 Uhr, Sa 11-16 Uhr, in der vorlesungsfreien Zeit Mo-Fr 8-16 Uhr",
       "geo:location" : {
-         "geo:lat" : "53.227837",
-         "geo:long" : "10.400831"
+         "geo:lat" : "53.2464214",
+         "geo:long" : "10.4115179"
       },
       "org:hasSite" : [
          "http://uri.gbv.de/organization/isil/DE-Luen4@ost",
@@ -27,21 +28,8 @@
          "http://uri.gbv.de/organization/isil/DE-Luen4@agenda21",
          "http://uri.gbv.de/organization/isil/DE-Luen4@sdt",
          "http://uri.gbv.de/organization/isil/DE-Luen4@stb",
-         "http://uri.gbv.de/organization/isil/DE-Luen4-1",
          "http://uri.gbv.de/organization/isil/DE-Luen4@lehrbuchsammlung"
       ]
-   },
-   "http://uri.gbv.de/organization/isil/DE-Luen4-1" : {
-      "@id" : "http://uri.gbv.de/organization/isil/DE-Luen4-1",
-      "foaf:mbox" : "mailto:bibrot@uni.leuphana.de",
-      "foaf:name" : "Teilbibliothek Rotes Feld",
-      "foaf:phone" : "tel:(+49)-04131/677-7766",
-      "gbv:address" : "Wilschenbrucher Weg 84, 21335 Lüneburg",
-      "gbv:openinghours" : "Mo-Fr 8-18 Uhr, Sa 11-16 Uhr, in der vorlesungsfreien Zeit Mo-Fr 8-16 Uhr",
-      "geo:location" : {
-         "geo:lat" : "53.2464214",
-         "geo:long" : "10.4115179"
-      }
    },
    "http://uri.gbv.de/organization/isil/DE-Luen4@agenda21" : {
       "@id" : "http://uri.gbv.de/organization/isil/DE-Luen4@agenda21",
