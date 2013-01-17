@@ -1,3 +1,6 @@
+@
+Universitätsbibliothek Braunschweig
+
 @kibu
 Kinderbuchsammlung
 
@@ -12,9 +15,6 @@ http://www.mathematik.tu-bs.de/bmi/
 @cb
 Teilbibliothek Chemie
 
-@
-Universitätsbibliothek Braunschweig
-
 @ls1
 Lesesaal 1
 
@@ -26,3 +26,8 @@ Lesesaal 3
 
 @lb
 Lehrbuchsammlung
+
+@py
+Physikbibliothek
+Mendelssohnstr. 2
+http://www.tu-braunschweig.de/physik/studierende/bibliotheken

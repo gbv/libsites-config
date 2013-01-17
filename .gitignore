@@ -1,2 +1,4 @@
 isil/**/*.json
 isil/**/*.nt
+isil/**/*.pica
+isil/**/lobid.ttl
