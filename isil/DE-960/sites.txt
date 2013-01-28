@@ -6,8 +6,4 @@ DE-960-4
 
 DE-960-7
 
-DE-960-7@magazin
-Magazin
 
-DE-960-7@verwaltung
-Bibliotheksverwaltung

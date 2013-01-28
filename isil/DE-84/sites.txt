@@ -6,6 +6,8 @@ Kinderbuchsammlung
 
 @wire
 Institut für Wissenschaftliches Rechnen
+Hans-Sommer-Str. 65
+http://www.wire.tu-bs.de/cgi-bin/bib-ng/index.cgi
 
 @bmi
 Bibliothek der Mathematischen Institute
@@ -14,6 +16,8 @@ http://www.mathematik.tu-bs.de/bmi/
 
 @cb
 Teilbibliothek Chemie
+Hagenring 30
+http://www.biblio.tu-bs.de/standorte/CB.html
 
 @ls1
 Lesesaal 1
