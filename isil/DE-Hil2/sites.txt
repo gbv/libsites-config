@@ -1,7 +1,7 @@
-@
+﻿@
 UB Hildesheim
 
-+49 05121 883260
++49-5121-883260
 
 auskunft@uni-hildesheim.de
 
@@ -16,7 +16,7 @@ Raum G009
 Marienburger Platz 22
 31141 Hildesheim
 
-+49 05121 883740
++49-5121-883740
 
 amimz@uni-hildesheim.de
 
@@ -29,7 +29,7 @@ AZP-Bibliothek
 Tilsiterstraße 1
 31141 Hildesheim
 
-+49 05121 883466
++49-5121-883466
 
 52.132922,9.977087
 

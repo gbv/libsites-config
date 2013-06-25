@@ -1,2 +1,39 @@
-@hsb
-Hochschulbibliographie
+@
+Universitätsbibliothek Ilmenau
+Hauptbibliothek (Leibnizbau)
+Langewiesener Str. 37
+98693 Ilmenau
+
++49 03677 694531
+
+auskunft.ub@tu-ilmenau.de
+
+50.67961, 10.93450
+
+Mo-Fr 8:00-20:00, Sa 9:00-17:00
+
+
+@curie
+Curiebibliothek
+Weimarer Str. 25 
+98693 Ilmenau
+
++49 03677 693282
+
+curie.ub@tu-ilmenau.de
+
+50.68857, 10.91961
+
+Mo-Do: 8:00-12:00, 13:00-18:00
+Fr: 08:00-12:00
+
+
+@mag
+Magazin
+Diese Bestände sind nicht frei zugänglich. Bitte lösen Sie eine Magazinbestellung aus.
+
+
+@ha
+Handapparat
+Bitte wenden Sie sich an die Auskunft.
+
