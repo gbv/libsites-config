@@ -1,7 +1,7 @@
 @
 Universitätsbibliothek Potsdam
 
-@Golm
+@golm
 Bereichsbibliothek Golm
 Universitätskomplex II
 Gebäude 18 – IKMZ
@@ -16,7 +16,7 @@ http://info.ub.uni-potsdam.de/standorte/standort.php?bibliothek=Bereichsbiblioth
 
 12.973209,52.408231
 
-@MaGo
+@mago
 Magazin Golm 
 
 Bestellen Sie bitten über den Online-Katalog der UB. 
