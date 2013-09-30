@@ -1,5 +1,1 @@
-@magazin
-Magazin
 
-@lehrstuhl
-Lehrstuhl
