@@ -1,22 +1,63 @@
-@tb
+@tll
+Agrarwissenschaftliche Bibliothek der Thüringer Landesanstalt für Landwirtschaft
+http://www.thulb.uni-jena.de/tll.html
+
+@tb_geist
 TB Geisteswissenschaften
 http://www.thulb.uni-jena.de/tb_geist.html
-
-@tb_rewi
-TB Rechts-, Wirtschafts- und Sozialwissenschaften
-http://www.thulb.uni-jena.de/tb_rewi.html
 
 @tb_medizin
 TB Medizin
 http://www.thulb.uni-jena.de/tb_medizin.html
 
+@frauenheilkunde
+TB Medizin : Frauenheilkunde und Geburtshilfe
+http://www.thulb.uni-jena.de/Frauenheilkunde.html
+
+@studienbibliothek
+TB Medizin : Medizinische Studienbibliothek
+http://www.thulb.uni-jena.de/Studienbibliothek.html
+
+@psychatrie
+TB Medizin : Psychiatrie
+http://www.thulb.uni-jena.de/Psychiatrie.html
+
+@spowi
+TB Medizin : Sportwissenschaft
+http://www.thulb.uni-jena.de/spowi.html
+
+@vorklinische_medizin
+TB Medizin : Vorklinische Medizin, Rechts- und Zahnmedizin
+http://www.thulb.uni-jena.de/Vorklinische_Medizin.html
+
 @tb_natwi
 TB Naturwissenschaften
 http://www.thulb.uni-jena.de/tb_natwi.html
 
-@Physik
+@astronomie
+TB Naturwissenschaften : Astronomie
+http://www.thulb.uni-jena.de/Astronomie.html
+
+@beutenberg
+TB Naturwissenschaften : Beutenberg
+http://www.thulb.uni-jena.de/Beutenberg.html
+
+@chemie
+TB Naturwissenschaften : Chemie
+http://www.thulb.uni-jena.de/Chemie.html
+
+@haeckelhaus
+TB Naturwissenschaften : Geschichte der Medizin, Naturwissenschaften und Technik
+http://www.thulb.uni-jena.de/Haeckelhaus.html
+
+@herbarium
+TB Naturwissenschaften : Herbarium Haussknecht
+http://www.thulb.uni-jena.de/Herbarium.html
+
+@physik
+TB Naturwissenschaften : Physik
 http://www.thulb.uni-jena.de/Physik.html
 
-@tll
-Agrarwissenschaftliche Bibliothek der Thüringer Landesanstalt für Landwirtschaft
-http://www.thulb.uni-jena.de/tll.html
+@tb_rewi
+TB Rechts-, Wirtschafts- und Sozialwissenschaften
+http://www.thulb.uni-jena.de/tb_rewi.html
