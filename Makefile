@@ -3,7 +3,7 @@ info:
 	@echo "'make dirs' creates (empty) directories as listed in isil.csv."
 
 dirs:
-	@xargs mkdir -p < isil.csv
+	@cd isil && xargs mkdir -p < ../isil.csv
 
 clean:
 	@git clean -xdf
