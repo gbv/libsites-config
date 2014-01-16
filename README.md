@@ -18,3 +18,9 @@ Mit `make dirs` werden für die in `isil.csv` aufgeführten Einrichtungen
 Unterverzeichnisse angelegt, falls noch nicht vorhanden.
 
 `make clean` löscht alle Dateien, die nicht unter Versionskontrolle stehen.
+
+### Status
+
+Der master-branch wird automatisch bei <http://travis-ci.org> getestet.
+
+[![Build Status](https://travis-ci.org/gbv/libsites-config.png?branch=master)](https://travis-ci.org/gbv/libsites-config)

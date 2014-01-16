@@ -8,7 +8,7 @@ before_install:
     - git config user.email 'travis@nowhere.dne'
 
 install:
-    - cpanm --quiet --notest --skip-satisfied --installdeps .
+    - cpanm --verbose --notest --skip-satisfied --installdeps .
 
 script:
     - make dirs
