@@ -61,3 +61,8 @@ http://www.thulb.uni-jena.de/Physik.html
 @tb_rewi
 TB Rechts-, Wirtschafts- und Sozialwissenschaften
 http://www.thulb.uni-jena.de/tb_rewi.html
+
+@ha
+Handapparat
+http://www.thulb.uni-jena.de/ha.html
+
