@@ -1,0 +1,15 @@
+language: perl
+perl:
+    - "5.18"
+    - "5.14"
+
+before_install:
+    - git config --global user.name "TravisCI"
+    - git config user.email 'travis@nowhere.dne'
+
+install:
+    - cpanm --quiet --notest --skip-satisfied --installdeps .
+
+script:
+    - make dirs
+    - ls isil/*/sites.txt # TODO
