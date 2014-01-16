@@ -1,0 +1,22 @@
+@tb
+TB Geisteswissenschaften
+http://www.thulb.uni-jena.de/tb_geist.html
+
+@tb_rewi
+TB Rechts-, Wirtschafts- und Sozialwissenschaften
+http://www.thulb.uni-jena.de/tb_rewi.html
+
+@tb_medizin
+TB Medizin
+http://www.thulb.uni-jena.de/tb_medizin.html
+
+@tb_natwi
+TB Naturwissenschaften
+http://www.thulb.uni-jena.de/tb_natwi.html
+
+@Physik
+http://www.thulb.uni-jena.de/Physik.html
+
+@tll
+Agrarwissenschaftliche Bibliothek der Thüringer Landesanstalt für Landwirtschaft
+http://www.thulb.uni-jena.de/tll.html
