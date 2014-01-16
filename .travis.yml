@@ -8,6 +8,8 @@ before_install:
     - git config user.email 'travis@nowhere.dne'
 
 install:
+    - pwd
+    - ls -la
     - cpanm --verbose --notest --skip-satisfied --installdeps .
 
 script:
