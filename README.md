@@ -1,26 +1,14 @@
-Dieses git-Repository enthält Konfigurationsdateien zur **Definition von
-Standorten** von Bibliotheken und verwandten Einrichtungen. 
-
-Weitere Informationen siehe unter
+Dieses git-Repository enthält Konfigurationsdateien zur GBV-Standortverwaltung.
+Weitere Informationen gibt es im Unterverzeichnis `doc/` bzw. im GBV-Wiki unter
 <http://www.gbv.de/wikis/cls/Standortverwaltung>.
 
-### Anlegen und Ändern von Standorten und Standortbeschreibungen
+Das Repository ist öffentlich unter <https://github.com/gbv/libsites-config>
+einsehbar. Änderungen an der Konfiguration können durch einen
+[Pull-Request](https://help.github.com/articles/using-pull-requests) angemeldet
+werden.
 
-Zur Einrichtung im Standortverzeichnis muss
-
-* entweder eine Datei mit dem Namen `sites.txt` im Unterverzeichnis mit dem
-  ISIL der Einrichtung existieren,
-
-* oder der ISIL in der Datei `isil.csv` aufgeführt sein (für
-  Einrichtungen ohne weitere Standorte außer dem Hauptgebäude).
-
-Mit `make dirs` werden für die in `isil.csv` aufgeführten Einrichtungen
-Unterverzeichnisse angelegt, falls noch nicht vorhanden.
-
-`make clean` löscht alle Dateien, die nicht unter Versionskontrolle stehen.
-
-### Status
-
-Der master-branch wird automatisch bei <http://travis-ci.org> getestet.
+Der master-branch des Repository wird automatisch bei <http://travis-ci.org>
+auf syntaktische Korrektheit getestet.
 
 [![Build Status](https://travis-ci.org/gbv/libsites-config.png?branch=master)](https://travis-ci.org/gbv/libsites-config)
+[![CC Zero](http://i.creativecommons.org/p/mark/1.0/80x15.png)](http://creativecommons.org/publicdomain/mark/1.0/)
