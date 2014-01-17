@@ -114,11 +114,11 @@ Im einfachsten Fall gibt es neben dem Hauptstandort keine weiteren Departments
 eigenen ISIL. Für die HAWK ([ISIL DE-Hil3]) sieht die gesamte Konfiguration in
 `sites.txt` beispielsweise folgendermaßen aus:
 
-    DE-Hil3-1
-    DE-Hil3-2
-    DE-Hil3-3
-    DE-Hil3-4
-    DE-Hil3-9
+    ISIL DE-Hil3-1
+    ISIL DE-Hil3-2
+    ISIL DE-Hil3-3
+    ISIL DE-Hil3-4
+    ISIL DE-Hil3-9
   
 Die UB Hildesheim ([ISIl DE-Hil2]) hat dagegen neben dem Hauptstandort drei
 Departments:
