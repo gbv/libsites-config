@@ -8,4 +8,4 @@ install:
 
 script:
     - make dirs
-    - ls isil/*/sites.txt # TODO
+    - ls isil/*/sites.txt | xargs bin/sites

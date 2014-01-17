@@ -14,10 +14,12 @@ test-isil:
 dirs: test-isil
 	@cd isil && xargs mkdir -v -p < ../isil.csv
 
-test-sites:
+test-sites: sites
 	@ls isil | perl -ne \
 		'die "invalid ISIL directory: $$_" unless /^[A-Z]{1,3}-[A-Za-z0-9_:-]{1,10}$$/'
-	@echo "isil/*/sites.txt - ??" # TODO
+
+sites:
+	@ls isil/*/sites.txt | xargs ./bin/sites
 
 docs:
 	@cd doc && make html pdf

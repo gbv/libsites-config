@@ -1,4 +1,5 @@
 isil/**/*.json
+isil/**/*.yaml
 isil/**/*.nt
 isil/**/*.ttl
 isil/**/*.pica
