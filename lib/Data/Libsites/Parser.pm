@@ -19,9 +19,15 @@ sub next {
         return unless $self->_id;
     }
 
-    $self->parse_site;
-}
+    my $site = $self->parse_site;
 
+    foreach (keys %$site) {
+        $site->{$_} =~ s/\s+$//sm;
+        delete $site->{$_} if ($site->{$_} // '') eq '';
+    }
+
+    $site;
+}
 
 sub parse_id {
     my ($self, $line) = @_;
@@ -50,26 +56,26 @@ sub parse_site {
 
     my $site = delete $self->{_id} or return;
 
-    my $has_address = 0;
-    my $has_name    = 0;
     my $append = sub {
         $site->{$_[0]} .= "\n" if defined $site->{$_[0]};
         $site->{$_[0]} .= $_[1]; 
     };
 
+    my $expect_address = 1;
+
     while ( defined ( $_ = $self->_readline ) ) {
         $self->parse_id($_);
         return $site if $self->_id;
 
-        if (!$has_name and !defined $site->{name}) {
+        if (!defined $site->{name}) {
             $site->{name} = $_;
             next;
         }
 
-        my $want_address = undef;
-
         given($_) {
-            when('') { $has_name = 1; };
+            when('') {
+                $expect_address = 0;
+            };
             when( qr{[^@ ]+@[^@ ]+$} ) {
                 $site->{email} = $_;
             };
@@ -91,18 +97,17 @@ sub parse_site {
                 $site->{phone} = $_;
             }
             default {
-                if ($has_address) {
-                    $append->( description => $_ );
-                } else {
+                if ($expect_address) {
                     $append->( address => $_ );
-                    $want_address = 1;
+                    next;
+                } else {
+                    $append->( description => $_ );
                 }
             };
         };
-        $has_address = 1 unless $want_address;
-    }
+        $expect_address = 0;
 
-#    delete $site->{name} if defined $site->{name} and $site->{name} eq '';
+    }
 
     return $site;
 }
