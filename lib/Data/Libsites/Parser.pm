@@ -21,6 +21,10 @@ sub next {
 
     my $site = $self->parse_site;
 
+    if ( defined $site->{name} && $site->{name} =~ s/\s*\(=\s*([^)]+)\)\s*// ) {
+        $site->{short} = $1;
+    }
+
     foreach (keys %$site) {
         $site->{$_} =~ s/\s+$//sm;
         delete $site->{$_} if ($site->{$_} // '') eq '';

@@ -23,7 +23,7 @@ Die Konfiguration der GBV-Standortverwaltung besteht aus:
 Zu den einzelnen Departments sind in `sites.txt` folgende Angaben möglich:
 
 * Standortkürzel oder ISIL (notwendige Angabe)
-* Name
+* Name und ggf. Kurzbezeichnung
 * Öffnungszeiten
 * Addresse
 * Kurzbeschreibung oder Hinweis
@@ -69,7 +69,7 @@ zugeordnet werden. Dabei lassen sich zwei Fälle unterscheiden:
 
 * **Unselbständige Departments** die genau einer Einrichtung untergeordnet sind. 
    Diese Standorte werden durch ein frei wählbares alphanumerisches Kürzel
-   (Kleinbuchstaben, Ziffern, Unterstrich) im Zusammenhang mit dem ISIL der 
+   (Kleinbuchstaben und Ziffern) im Zusammenhang mit dem ISIL der 
    übergeordneten Einrichtung identifiziert, wobei dem Kürzel das Zeichen 
    '`@`' vorangestellt wird. Beispielsweise hat die AZP-Bibliothek der UB Hildesheim
    das Kürzel [DE-Hil2@azp].
@@ -192,6 +192,8 @@ implementiert. Die formale Syntax richtet sich nach folgenden Regeln:
     Identifier     ::= isil | Kürzel | isil Kürzel
     isil           ::= 'ISIL '? [A-Z]{1,4} '-' [A-Za-z0-9/:-]+
     code (Kürzel)  ::= '@' [a-z0-9]*
+    name           ::= Zeichenkette                       ; name
+                     | Zeichenkatte '(=' Zeichenkette ')' ; name and short name
     email          ::= [^@ ]+ '@' [^@ ]+
     url (Homepage) ::= 'http' 's'? '://' Char+
     geolocation    ::= [0-9]+ '.' [0-9] Whitespace* [,/;] Whitespace*

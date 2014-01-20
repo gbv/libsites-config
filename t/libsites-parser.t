@@ -21,6 +21,12 @@ is_deeply ($parser->next, {
 }, 'second location');
 
 is_deeply ($parser->next, {
+    code         => 'longname',
+    name         => 'Long name',
+    short        => 'short name',
+}, 'short name');
+
+is_deeply ($parser->next, {
     isil        => 'DE-123',
 }, 'ISIL only');
 
@@ -45,5 +51,8 @@ contact@example.org
 Mo-Fr 9:00-21:00, Sa 10:00-16:00
 Vorlesungsfreie Zeit: Mo-Fr 9:00-18:00
 +49-5121-883260
+
+@longname
+Long name (= short name)
 
 ISIL DE-123
