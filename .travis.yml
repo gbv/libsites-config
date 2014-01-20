@@ -7,4 +7,5 @@ install:
     - cpanm --notest --skip-satisfied --installdeps .
 
 script:
+    - make dirs
     - make test

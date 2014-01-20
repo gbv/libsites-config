@@ -16,7 +16,7 @@ is_deeply ($parser->next, {
     code         => '0',
     email        => 'contact@example.org',
     openinghours => "Mo-Fr 9:00-21:00, Sa 10:00-16:00\nVorlesungsfreie Zeit: Mo-Fr 9:00-18:00",
-    geolocation  => { long => '9.974501', lat => '52.134268' },
+    geolocation  => { geo_long => '9.974501', geo_lat => '52.134268' },
     phone        => '+49-5121-883260',
 }, 'second location');
 

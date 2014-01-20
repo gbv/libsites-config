@@ -95,7 +95,7 @@ sub parse_site {
                 break;
             };
             when( qr{^(\d+\.\d+)\s*[,/;]\s*(\d+\.\d+)$} ) {
-                $site->{geolocation} = { 'lat' => $1, 'long' => $2 };
+                $site->{geolocation} = { geo_lat => $1, geo_long => $2 };
             };
             when ( qr{^(\+|\(\+)[0-9\(\)/ -]+$} ) {
                 $site->{phone} = $_;

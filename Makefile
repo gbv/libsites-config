@@ -1,4 +1,5 @@
 info:
+	@echo "'make sites' konvertiert alle sites.txt."
 	@echo "'make test' überprüft alle Dateien auf syntaktische Korrektheit."
 	@echo "'make dirs' erstellt Verzeichniss für alle Einrichtungen in isil.csv."
 	@echo "'make deps' installiert benötigte Perl-Module zur Konvertierung."

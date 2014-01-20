@@ -5,6 +5,8 @@ use Catmandu qw(importer exporter);
 use JSON;
 
 my $verbose;
+use Catmandu::Fix::libsites_rdf;
+my $rdf_fix = Catmandu::Fix::libsites_rdf->new;
 
 foreach my $isil (@ARGV) {
     if ($isil eq '-v') {
@@ -13,8 +15,7 @@ foreach my $isil (@ARGV) {
     }
     $isil =~ s|(\./)?isil/([^/]+)(/sites\.txt)?$|$2|;
 
-    my $infile  = "isil/$isil/sites.txt";
-    my $outfile = "isil/$isil/sites.yaml";
+    my $infile   = "isil/$isil/sites.txt";
 
     if ($isil !~ /^[A-Z]{1,3}-[A-Za-z0-9\/:-]{1,10}$/) {
         warn "invalid ISIL $isil\n";
@@ -24,11 +25,19 @@ foreach my $isil (@ARGV) {
         next;
     }
 
-    my $exporter = exporter('YAML', file => $outfile);
+    my $yaml_exporter = exporter( 'YAML', file => "isil/$isil/sites.yaml" );
+    my $rdf_exporter  = exporter( 'RDF', file => "isil/$isil/sites.ttl", type => 'Turtle' );
+
     importer('Libsites', file => $infile, isil => $isil)->each(sub{
-        print $verbose->encode($_[0]) if $verbose;
-        $exporter->add($_[0]);
+        print "# YAML:\n".$verbose->encode($_[0]) if $verbose;
+        $yaml_exporter->add($_[0]);
+        my $aref = $rdf_fix->fix($_[0]);
+        print "# aREF:\n".$verbose->encode($aref) if $verbose;
+        $rdf_exporter->add($aref);
     });
 
-    say "$outfile - ".$exporter->count." departments";
+    $yaml_exporter->commit;
+    $rdf_exporter->commit;
+
+    say "isil/$isil/sites.{yml,ttl} - ".$rdf_exporter->count." departments";
 }
