@@ -2,8 +2,15 @@
 use v5.14;
 use lib './lib';
 use Catmandu qw(importer exporter);
+use JSON;
+
+my $verbose;
 
 foreach my $isil (@ARGV) {
+    if ($isil eq '-v') {
+        $verbose = JSON->new->utf8->canonical->pretty;
+        next;
+    }
     $isil =~ s|(\./)?isil/([^/]+)(/sites\.txt)?$|$2|;
 
     my $infile  = "isil/$isil/sites.txt";
@@ -19,6 +26,7 @@ foreach my $isil (@ARGV) {
 
     my $exporter = exporter('YAML', file => $outfile);
     importer('Libsites', file => $infile, isil => $isil)->each(sub{
+        print $verbose->encode($_[0]) if $verbose;
         $exporter->add($_[0]);
     });
 

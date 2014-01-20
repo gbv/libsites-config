@@ -7,5 +7,4 @@ install:
     - cpanm --notest --skip-satisfied --installdeps .
 
 script:
-    - make dirs
-    - ls isil/*/sites.txt | xargs bin/sites
+    - make test

@@ -32,13 +32,9 @@ Zu den einzelnen Departments sind in `sites.txt` folgende Angaben möglich:
 * Homepage
 * Geokoordinaten 
 
-Die genaue Syntax ist am Besten den [vorhandenen
+Die genaue Syntax ist der [Spezifikation](#spezifikation), oder [vorhandenen
 Konfigurationen](https://github.com/gbv/libsites-config/tree/master/isil) und
 [Beispielen](#beispiele) zu entnehmen.
-
-Allee Inhalte stehen als Open Data ([CC Zero]) zur freien Verfügung.
-
-[CC Zero]: http://creativecommons.org/publicdomain/zero/1.0/deed.de
 
 ## Verwaltung der Konfiguration
 
@@ -49,8 +45,10 @@ Bearbeitung der jeweiligen Konfigurationsdateien (`isil.csv`, `sites.txt`)
 möglich. Änderungen lassen sich am besten per Pull-Request am Repository auf
 GitHub anmelden. 
 
-Zum Überprüfen der syntaktischen Korrektheit enthält das
-Repository Test-Routinen, die mit `make test` aufgerufen werden können.  
+Zum Überprüfen der syntaktischen Korrektheit enthält das Repository
+Test-Routinen, die mit `make test` aufgerufen werden können. Mit dem Skript
+`bin/sites` können einzelne Konfigurationsdateien überprüft und konvertiert
+werden.
 
 # Konfiguration
 
@@ -149,10 +147,56 @@ Abschnitt in [isil/DE-Hil2/sites.txt] definiert beispielsweise das
 
     Di,Do 9:30-12:30, 14:00-16:00, Mi 14:00-16:00
 
-Diese Angaben werden nach RDF übersetzt unter <http://uri.gbv.de/organization/>
-zur Verfügung gestellt und bilden die Grundlage für weitere Anwendungen. 
+Basierend auf der [Spezifikation](#spezifikation) dieses Textformates werden
+die Angaben zunächst in ein einfaches Key-Value-Format und danach nach RDF
+übersetzt. Zusammen mit Informationen aus weiteren Datenquellen werden die
+Informationen unter <http://uri.gbv.de/organization/> als Linked Open Data ([CC
+Zero]) zur freien Verfügung gestellt.
+
+[CC Zero]: http://creativecommons.org/publicdomain/zero/1.0/deed.de
 
 [isil/DE-Hil2/sites.txt]: https://github.com/gbv/libsites-config/blob/master/isil/DE-Hil2/sites.txt
 
 [ISIL DE-Hil2]: http://uri.gbv.de/organization/isil/DE-Hil2
 [ISIL DE-Hil3]: http://uri.gbv.de/organization/isil/DE-Hil3
+
+# Spezifikation
+
+Die Datei `sites.txt` ist eine reine Textdatei in UTF-8-Kodierung (d.h. sie
+sollte *nicht* mit Excel, Word o.Ä. Office-Programmen bearbeitet werden!). Die
+Datei wird zur Interpretation zeilenweise gelesen und enthält eine Liste von
+Departments, die folgendermaßen aufgebaut ist:
+
+1. Jedes Department wird durch eine Zeile eingeleitet in der als Identifer der
+   ISIL bzw. das Kürzel des Departments steht. Der ISIL kann die Zeichenkette
+   "`ISIL `" vorangestellt werden. Für die übergeordnete Einrichtung kann auch
+   das Kürzel '`@`' verwendet werden.
+
+2. Die folgende Zeile enthält den Namen des Departments (Leerzeile falls kein
+   Name).
+
+3. Alle anschließenden Zeile bis zum nächsten Department-Identifier oder Dateiende
+   werden durch Muster überprüft, ob sie eine Email-Adresse, Homepage-URL,
+   Koordinate, Telefonnummer oder Öffnungszeiten enthalten. Öffnungszeiten
+   können im Gegensatz zu den anderen Angaben auch mehrfach vorkommen.
+
+4. Solange kein Muster passt werden alle Zeilen bis zur ersten Leerzeile als
+   Adresse interpretiert.
+
+4. Alle übrigen Zeilen werden als Kommentar oder Kurzbeschreibung des Department
+   interpretiert.
+
+Die Spezifikation von `sites.txt` ist im Perl-Modul `Data::Libsites::Parser`
+implementiert. Die formale Syntax richtet sich nach folgenden Regeln:
+
+    Identifier     ::= isil | Kürzel | isil Kürzel
+    isil           ::= 'ISIL '? [A-Z]{1,4} '-' [A-Za-z0-9/:-]+
+    code (Kürzel)  ::= '@' [a-z0-9]*
+    email          ::= [^@ ]+ '@' [^@ ]+
+    url (Homepage) ::= 'http' 's'? '://' Char+
+    geolocation    ::= [0-9]+ '.' [0-9] Whitespace* [,/;] Whitespace*
+    phone          ::= ( '+' | '(+' )? [0-9()/ -]+
+    openinghours   ::= ( ( [0-9][0-9] ':' [0-9][0-9] ) | 'Uhr' ) &&
+                       ( 'Mo' | 'Di' | 'Mi' | 'Do' | 'Fr' | 'Sa' | 'So' )
+
+

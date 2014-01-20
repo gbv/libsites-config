@@ -1,6 +1,7 @@
 info:
-	@echo "'make test' führt testschecks all files syntactically."
+	@echo "'make test' überprüft alle Dateien auf syntaktische Korrektheit."
 	@echo "'make dirs' erstellt Verzeichniss für alle Einrichtungen in isil.csv."
+	@echo "'make deps' installiert benötigte Perl-Module zur Konvertierung."
 	@echo "'make docs' erstellt die Dokumentation im Verzeichnis doc/."
 	@echo "'make clean' löscht alle Dateien, die nicht unter Versionskontrolle stehen."
 
@@ -25,7 +26,10 @@ sites:
 	@ls isil/*/sites.txt | xargs ./bin/sites
 
 docs:
-	@cd doc && make html pdf
+	@cd doc && make html pdf wiki
+
+deps:
+	@cpanm --installdeps .
 
 clean:
 	@git clean -xdf
