@@ -28,14 +28,17 @@ sub fix {
     $uri .= '@' . $r->{code} if $r->{code};
  
     if ($r->{parent}) {
-        $rdf->{org_siteOf} = $isilbase . $r->{parent};
-        return { 
-            $uri => $rdf, 
-            $rdf->{org_siteOf} => { org_hasSite => "<$uri>" },
-        };
-    } else {
-        return { $uri => $rdf };
-    }
+        my $parent = $isilbase . $r->{parent};
+        if ($parent ne $uri) {
+           $rdf->{org_siteOf} = $parent;
+           return {
+                $uri => $rdf, 
+                $parent => { org_hasSite => "<$uri>" },
+           };
+        }
+    } 
+
+    return { $uri => $rdf };
 }
 
 1;
