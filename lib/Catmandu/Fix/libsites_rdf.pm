@@ -24,25 +24,18 @@ sub fix {
 
     $rdf->{foaf_mbox} = "<mailto:".$r->{email}.">" if $r->{email};
 
-    if ($r->{isil}) {
-        $rdf->{'_id'} = $r->{isil};
-    } else {
-        $rdf->{'_id'} = $r->{parent};
-    }
-    $rdf->{_id} = $isilbase . $rdf->{_id}; 
-                
-    $rdf->{_id} .='@' . $r->{code} if $r->{code};
-
+    my $uri = $isilbase . ($r->{isil} || $r->{parent});
+    $uri .= '@' . $r->{code} if $r->{code};
  
     if ($r->{parent}) {
-        $rdf->{'org:siteOf'} = $isilbase . $r->{parent};
+        $rdf->{org_siteOf} = $isilbase . $r->{parent};
+        return { 
+            $uri => $rdf, 
+            $rdf->{org_siteOf} => { org_hasSite => "<$uri>" },
+        };
+    } else {
+        return { $uri => $rdf };
     }
-
-    # TODO: this should not be necessary!
-#    delete $rdf->{$_} for grep { !defined $rdf->{$_} } keys %$rdf;
-
-    $rdf;
 }
 
 1;
-

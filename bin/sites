@@ -26,7 +26,9 @@ foreach my $isil (@ARGV) {
     }
 
     my $yaml_exporter = exporter( 'YAML', file => "isil/$isil/sites.yaml" );
-    my $rdf_exporter  = exporter( 'RDF', file => "isil/$isil/sites.ttl", type => 'Turtle' );
+    my $rdf_exporter  = exporter( 'RDF', file => "isil/$isil/sites.ttl", type => 'Ntriples' );
+
+    my $model = RDF::Trine::Model->new;
 
     importer('Libsites', file => $infile, isil => $isil)->each(sub{
         print "# YAML:\n".$verbose->encode($_[0]) if $verbose;
@@ -38,6 +40,10 @@ foreach my $isil (@ARGV) {
 
     $yaml_exporter->commit;
     $rdf_exporter->commit;
+    if ($verbose) {
+        print "# RDF/Turtle\n";
+        print `cat isil/$isil/sites.ttl`;
+    }
 
     say "isil/$isil/sites.{yml,ttl} - ".$rdf_exporter->count." departments";
 }
