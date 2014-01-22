@@ -42,13 +42,31 @@ Die Konfiguration der GBV-Standortverwaltung ist in einem öffentlichen
 git-Repository unter unter <https://github.com/gbv/libsites-config> einsehbar.
 Änderungen an der Konfiguration sind ausschließlich durch Anlegen bzw.
 Bearbeitung der jeweiligen Konfigurationsdateien (`isil.csv`, `sites.txt`)
-möglich. Änderungen lassen sich am besten per Pull-Request am Repository auf
-GitHub anmelden. 
+möglich.
+
+Für eine zeitnahme und reibungslose Übernahme von Änderungen empfehlen
+wir, die Änderung mit folgenden Schritten direkt auf GitHub vorzunehmen:
+
+1. Login auf http://github.com (ggf. muss erst ein Account angelegt werden)
+
+2. Aufruf der entsprechenden Konfigurationsdatei (z.B.
+  <https://github.com/gbv/libsites-config/blob/master/isil/DE-517/sites.txt>
+   für die Standorte der UB Postdam mit dem ISIL DE-517).
+
+3. Bearbeitung der Datei im Browser (Button "edit" oben rechts).
+
+4. Erstellung eines Pull-Requests durch Abspeichern und Angabe eines
+   Bearbeitungskommentars.
+
+Die Änderung erscheint anschließend als Pull-Request unter
+<https://github.com/gbv/libsites-config/pulls> und kann durch die VZG
+freigeschaltet werden.
 
 Zum Überprüfen der syntaktischen Korrektheit enthält das Repository
-Test-Routinen, die mit `make test` aufgerufen werden können. Mit dem Skript
-`bin/sites` können einzelne Konfigurationsdateien überprüft und konvertiert
-werden.
+Test-Routinen. In einer lokalen Kopie des Repository können diese Tests mit
+`make test` aufgerufen werden. Mit dem Skript `bin/sites` können darüber hinaus
+einzelne Konfigurationsdateien überprüft und konvertiert werden (die
+Kommandozeilenoption `-v` gibt bei Bedarf Details zur Konvertertierung aus).
 
 # Konfiguration
 

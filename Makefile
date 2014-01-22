@@ -25,6 +25,7 @@ dirs: test-isil
 
 sites:
 	@ls isil/*/sites.txt | xargs ./bin/sites
+	@./bin/siteof
 
 docs:
 	@cd doc && make html pdf wiki

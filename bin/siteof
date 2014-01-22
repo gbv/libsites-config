@@ -1,0 +1,59 @@
+#!/usr/bin/env perl
+use v5.14;
+use lib './lib';
+
+# TODO: Simplify with Catmandu::Importer
+
+my $verbose;
+use RDF::Trine::Parser;
+use RDF::Trine::Parser::Notation3;
+use RDF::aREF;
+use RDF::NS;
+use Catmandu qw(export);
+
+sub is_isil { $_[0] =~ /^[A-Z]{1,3}-[A-Za-z0-9\/:-]{1,10}$/ } 
+
+my $parser = RDF::Trine::Parser->new('Turtle');
+
+# TODO: move into another module
+sub statement_pattern {
+    state $n3 = do { 
+        my $p = RDF::Trine::Parser::Notation3->new;
+        $p->{bindings} = RDF::NS->new; # TODO: patch in Notation3 parser
+        $p;
+    };
+
+    my ($pattern) = @_;
+    my ($s) = $n3->parse_formula(undef,$pattern)->pattern->triples;
+    return $s;
+}
+
+my $base = "http://uri.gbv.de/organization/isil/";
+
+foreach my $isil (<isil/*>) {
+    $isil = substr $isil, 5;
+    next unless is_isil($isil);
+    next unless -f (my $file = "isil/$isil/sites.ttl");
+    my $uri = $base.$isil;
+
+    my $pattern = statement_pattern("<$uri> org:hasSite ?department");
+
+    $parser->parse_file( $uri, $file, sub {
+        return unless $pattern->subsumes( $_[0] );
+        return unless $_[0]->object->uri =~ qr{^http://uri.gbv.de/organization/isil/(.+)};  
+        my ($main,$sub) = split '@', $1;
+        unless (is_isil($main)) {
+            warn "not an ISIL: $main\n";
+            return;
+        }
+        return if $main eq $isil;
+        my $file = "isil/$main/siteof.ttl";
+        mkdir "isil/$main";
+        say "$file - $isil";
+        export(
+            { _id => $_[0]->object->uri, org_siteOf => $uri },
+            'RDF', file => $file, type => 'Turtle' 
+        );
+    } );
+}
+
