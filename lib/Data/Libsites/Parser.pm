@@ -15,8 +15,12 @@ sub next {
 
     # first site
     unless ($self->_id) {
-        $self->parse_id($self->_readline);
-        return unless $self->_id;
+        my $line = $self->_readline;
+        $self->parse_id($line);
+        unless ($self->_id) {
+            warn "first line must be an identifier!\n" if defined $line;
+            return;
+        }
     }
 
     my $site = $self->parse_site;
@@ -69,6 +73,7 @@ sub parse_site {
 
     while ( defined ( $_ = $self->_readline ) ) {
         $self->parse_id($_);
+
         return $site if $self->_id;
 
         if (!defined $site->{name}) {
