@@ -51,7 +51,10 @@ foreach my $isil (<isil/*>) {
         mkdir "isil/$main";
         say "$file - $isil";
         export(
-            { _id => $_[0]->object->uri, org_siteOf => $uri },
+            { 
+                $_[0]->object->uri => { org_siteOf => $uri }, 
+                $uri => { org_hasSite => $_[0]->object->uri }, 
+            },
             'RDF', file => $file, type => 'Turtle' 
         );
     } );
