@@ -13,7 +13,7 @@ infog1@uni-potsdam.de
 
 http://info.ub.uni-potsdam.de/standorte/standort.php?bibliothek=Bereichsbibliothek%20Golm%20im%20IKMZ
 
-12.973209,52.408231
+52.408231,12.973209
 
 @bbb
 Bereichsbibliothek Babelsberg
@@ -30,7 +30,7 @@ infobb@uni-potsdam.de
 
 http://info.ub.uni-potsdam.de/standorte/standort.php?bibliothek=Bereichsbibliothek%20Babelsberg%20Haus%205
 
-13.13081226820,52.39404892000
+52.39404892000,13.13081226820
 
 @np09
 Bereichsbibliothek Neues Palais, Haus 09
@@ -46,7 +46,7 @@ infonp2@uni-potsdam.de
 
 http://info.ub.uni-potsdam.de/standorte/standort.php?bibliothek=Bereichsbibliothek%20Neues%20Palais%20Haus%209    
 
-13.01299279920,52.40062914330
+52.40062914330,13.01299279920
 
 @np10
 Bereichsbibliothek Neues Palais, Haus 10
@@ -62,7 +62,7 @@ infonp3@uni-potsdam.de
 
 http://info.ub.uni-potsdam.de/standorte/standort.php?bibliothek=Bereichsbibliothek%20Neues%20Palais%20Haus%2010
 
-13.01305254320,52.40026112000
+52.40026112000,13.01305254320
 
 @np11
 Bereichsbibliothek Neues Palais, Haus 11
@@ -78,7 +78,7 @@ infonp1@uni-potsdam.de
 
 http://info.ub.uni-potsdam.de/standorte/standort.php?bibliothek=Bereichsbibliothek%20Neues%20Palais%20Haus%2011
 
-13.01286434950,52.40184194750   
+52.40184194750,13.01286434950   
  
 @ha
 Handapparat                               
