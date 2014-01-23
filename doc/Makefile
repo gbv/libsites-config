@@ -6,6 +6,7 @@ VERSION = 0.8
 LANGUAGE=ngerman
 include vzgspec/Makefile
 
-wiki:
-	@echo '{{GBV-Standortverwaltung:Kopfzeile}}' > $(NAME).wiki
-	@$(PANDOC) $(NAME).md -t mediawiki -o $(NAME).wiki
+wiki: $(NAME).wiki
+
+$(NAME).wiki: $(NAME).md
+	@$(PANDOC) $< -t mediawiki -o $@
