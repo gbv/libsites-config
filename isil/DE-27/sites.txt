@@ -2,11 +2,11 @@
 Agrarwissenschaftliche Bibliothek der Thüringer Landesanstalt für Landwirtschaft
 http://www.thulb.uni-jena.de/tll.html
 
-@tb_geist
+@tbgeist
 TB Geisteswissenschaften
 http://www.thulb.uni-jena.de/tb_geist.html
 
-@tb_medizin
+@tbmedizin
 TB Medizin
 http://www.thulb.uni-jena.de/tb_medizin.html
 
@@ -30,7 +30,7 @@ http://www.thulb.uni-jena.de/spowi.html
 TB Medizin : Vorklinische Medizin, Rechts- und Zahnmedizin
 http://www.thulb.uni-jena.de/Vorklinische_Medizin.html
 
-@tb_natwi
+@tbnatwi
 TB Naturwissenschaften
 http://www.thulb.uni-jena.de/tb_natwi.html
 
@@ -58,7 +58,7 @@ http://www.thulb.uni-jena.de/Herbarium.html
 TB Naturwissenschaften : Physik
 http://www.thulb.uni-jena.de/Physik.html
 
-@tb_rewi
+@tbrewi
 TB Rechts-, Wirtschafts- und Sozialwissenschaften
 http://www.thulb.uni-jena.de/tb_rewi.html
 
