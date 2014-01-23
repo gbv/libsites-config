@@ -78,7 +78,7 @@ der entsprechenden ISIL-Stelle ein Eintrag beantragt werden. Der ISIL
 identifiziert gleichzeitg den *Hauptstandort* der Einrichtung
 (Department-Kürzel "@"). Nähere Informationen zum Hauptstandort (Name, Adresse,
 Telefonnummer etc.) sollten nicht in *sites.txt* eingetragen werden, da sie
-automatisch aus dem ISIL-Verzeichnis übernommen werden.
+automatisch aus dem [ISIL-Verzeichnis] übernommen werden.
 
 ## Weitere Departments
 
@@ -114,14 +114,6 @@ aufzublähen. Ob und ab welcher Granularität eigene Departments konfiguriert
 werden, liegt im eigenen Ermessen der jeweiligen Einrichtung. Als Faustregel
 kann gelten, dass ein Department über eine gewisse Eigenständigkeit wie 
 eigene Adresse und Öffnungszeiten verfügen sollte.
-
-## Siehe auch
-
-* [ISIL- und Sigelverzeichnis]
-* [lobid-organisations]
-
-[ISIL- und Sigelverzeichnis]: http://zdb-opac.de/DB=1.2/
-[lobid-organisations]: http://lobid.org/organisation
 
 # Beispiel
 
@@ -219,4 +211,25 @@ implementiert. Die formale Syntax richtet sich nach folgenden Regeln:
     openinghours   ::= ( ( [0-9][0-9] ':' [0-9][0-9] ) | 'Uhr' ) &&
                        ( 'Mo' | 'Di' | 'Mi' | 'Do' | 'Fr' | 'Sa' | 'So' )
 
+# Weitere Informationen
+
+Grundlegende Angaben zum Haupstandort werden aus dem [ISIL-Verzeichnis]
+übernommen. Weitere Informationen zum Beantragen und Ändern von ISIL-Einträgen
+siehe unter <http://sigel.staatsbibliothek-berlin.de/>
+
+Unter <http://lobid.org/organisation> gibt es eine ähnlichen Dienst wie die
+GBV-Standortverwaltung, der ebenfalls auf Daten des ISIL-Verzeichnis basiert.
+Die GBV-Standortverwaltung greift ihrerseits via <http://api.lobid.org/> auf
+diesen Dienst zu. Bei Fehlern bei der Übernahme aus dem ISIL-Verzeichnis sollte
+zunächst die entsprechende URI bei lobid.org (z.B.
+<http://lobid.org/organisation/DE-27> für die ThULB Jena mit ISIL DE-27)
+überprüft werden.
+
+Diese Dokumentation wird im git-Repository unter
+<https://github.com/gbv/libsites-config/tree/master/doc> verwaltet. Die jeweils
+aktuelle Version steht im GBV-Wiki unter
+<http://www.gbv.de/wikis/cls/Konfiguration_der_GBV-Standortverwaltung> und als
+PDF unter <http://www.gbv.de/wikis/cls/Datei:libsites-config.pdf>.
+
+[ISIL-Verzeichnis]: http://zdb-opac.de/DB=1.2/
 

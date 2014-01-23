@@ -30,8 +30,11 @@ sites:
 docs:
 	@cd doc && make html pdf wiki
 
+gbvwiki: docs
+	@./bin/mediawiki-upload
+	
 deps:
 	@cpanm --installdeps .
 
 clean:
-	@git clean -xdf
+	@git clean -xdf -e mediawiki.json
