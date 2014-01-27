@@ -17,9 +17,17 @@ sub generator {
             file => $self->fh,
             isil => $self->isil,
         );
+        state %ids;
+
         my $record = $parser->next;
-        if ($record and $self->isil) {
-            $record->{parent} = $self->isil;
+        if ($record) {
+            my $id = join '@', map { $record->{$_} // '' } qw(isil code);
+            $id =~ s/\@$//;
+            if ($ids{$id}++) {
+                die "duplicated department: $id\n";
+            } elsif ($self->isil) {
+                $record->{parent} = $self->isil;
+            }
         }
         $record;
     };
