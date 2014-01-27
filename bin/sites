@@ -29,8 +29,17 @@ foreach my $isil (@ARGV) {
     my $rdf_exporter  = exporter( 'RDF', file => "isil/$isil/sites.ttl", type => 'Ntriples' );
 
     my $model = RDF::Trine::Model->new;
+    my %ids;
 
     importer('Libsites', file => $infile, isil => $isil)->each(sub{
+        my $id = join "@", $_[0]->{isil}, $_[0]->{code};
+        $id =~ s/@$//;
+        if ($ids{$id}++) {
+            if ($verbose) {
+                warn "Ignoring another declaration of $id!\n";
+            }
+            return;
+        }
         print "# YAML:\n".$verbose->encode($_[0]) if $verbose;
         $yaml_exporter->add($_[0]);
         my $aref = $rdf_fix->fix($_[0]);
@@ -44,6 +53,8 @@ foreach my $isil (@ARGV) {
         print "# RDF/Turtle\n";
         print `cat isil/$isil/sites.ttl`;
     }
-
-    say "isil/$isil/sites.{yml,ttl} - ".$rdf_exporter->count." departments";
+    
+    my $repeated = join ",", grep { $ids{$_} > 1 } keys %ids;
+    say "isil/$isil/sites.{yml,ttl} - ".$rdf_exporter->count." departments".
+        ($repeated ? " (repeated: $repeated)!" : ".");
 }
