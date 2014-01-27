@@ -135,7 +135,7 @@ TB Geisteswissenschaften / Handapparat / Ebene 3
 http://www.thulb.uni-jena.de/ha_lst.html
 
 @psy
-
+TB Medizin : Psychiatrie
 http://www.thulb.uni-jena.de/Psychiatrie.html
 
 @rewiha
