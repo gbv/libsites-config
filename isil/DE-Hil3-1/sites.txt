@@ -1,2 +1,11 @@
-@
-HAWK Hochschule für angewandte Wissenschaft und Kunst Hildesheim/Holzminden/Göttingen, Bibliothek Naturwissenschaften und Technik (=Göttingen Bibliothek N)
+DE-Hil3-1
+HAWK Hochschule für angewandte Wissenschaft und Kunst Hildesheim/Holzminden/Göttingen, Bibliothek Naturwissenschaften und Technik (= Göttingen Bibliothek N)
+
+http://www.hawk-hhg.de/bibliothek/default.php
+
+51.5217232, 9.9696867
+
+Mo - Mi 9.30 - 16.00 Uhr
+Do 9.30 -  17.00 Uhr
+Fr 9.30 - 13.00 Uhr
+Vorlesungsfreie Zeit: geänderte Öffnungszeiten s. Homepage
