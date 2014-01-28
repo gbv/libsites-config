@@ -33,8 +33,11 @@ is_deeply ($parser->next, {
 
 is $parser->next, undef, 'eof';
 
+$parser = Data::Libsites::Parser->new( file => IO::String->new("ISIL DE-ABC") );
+is_deeply $parser->next, { isil => 'DE-ABC' }, 'ISIL';
+
 $parser = Data::Libsites::Parser->new( file => IO::String->new("DE-ABC") );
-is_deeply $parser->next, { isil => 'DE-ABC' };
+ok !$parser->next, 'no ISIL';
 
 done_testing;
 
