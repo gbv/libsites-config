@@ -1,5 +1,6 @@
 use v5.14;
 use Test::More;
+use IO::String;
 
 use_ok('Data::Libsites::Parser');
 
@@ -31,6 +32,9 @@ is_deeply ($parser->next, {
 }, 'ISIL only');
 
 is $parser->next, undef, 'eof';
+
+$parser = Data::Libsites::Parser->new( file => IO::String->new("DE-ABC") );
+is_deeply $parser->next, { isil => 'DE-ABC' };
 
 done_testing;
 

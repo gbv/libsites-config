@@ -46,7 +46,7 @@ sub parse_id {
 
     my %id;
 
-    return unless $2 or $4;
+    return unless $3 or $4;
 
     if ($3) {
         $id{isil} = $3;
