@@ -1,3 +1,5 @@
+SELF_DIR := $(dir $(lastword $(MAKEFILE_LIST)))
+
 info:
 	@echo "make deps - installiert benötigte Perl-Module zur Konvertierung."
 	@echo "make sites - konvertiert alle sites.txt."
