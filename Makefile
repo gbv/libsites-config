@@ -1,10 +1,10 @@
 info:
-	@echo "'make sites' konvertiert alle sites.txt."
-	@echo "'make test' überprüft alle Dateien auf syntaktische Korrektheit."
-	@echo "'make dirs' erstellt Verzeichniss für alle Einrichtungen in isil.csv."
-	@echo "'make deps' installiert benötigte Perl-Module zur Konvertierung."
-	@echo "'make docs' erstellt die Dokumentation im Verzeichnis doc/."
-	@echo "'make clean' löscht alle Dateien, die nicht unter Versionskontrolle stehen."
+	@echo "make deps - installiert benötigte Perl-Module zur Konvertierung."
+	@echo "make sites - konvertiert alle sites.txt."
+	@echo "make test -  überprüft alle Dateien auf syntaktische Korrektheit."
+	@echo "make dirs - erstellt Verzeichniss für alle Einrichtungen in isil.csv."
+	@echo "make docs - erstellt die Dokumentation im Verzeichnis doc/."
+	@echo "make clean - löscht alle Dateien, die nicht unter Versionskontrolle stehen."
 
 test: test-code test-isil test-sites
 
