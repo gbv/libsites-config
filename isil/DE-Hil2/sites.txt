@@ -1,14 +1,13 @@
 ﻿@
 UB Hildesheim
 
-+49-5121-883260
++49-5121-88393010
 
 auskunft@uni-hildesheim.de
 
 52.134268, 9.974501
 
-Mo-Fr 9:00-21:00, Sa 10:00-16:00
-Vorlesungsfreie Zeit: Mo-Fr 9:00-18:00
+Mo-Fr 9:00-21:00, Sa 10:00-18:00
 
 @ami
 AMI-Medienzentrum
@@ -16,7 +15,7 @@ Raum G009
 Marienburger Platz 22
 31141 Hildesheim
 
-+49-5121-883740
++49-5121-88320574
 
 amimz@uni-hildesheim.de
 
@@ -29,7 +28,7 @@ AZP-Bibliothek
 Tilsiterstraße 1
 31141 Hildesheim
 
-+49-5121-883466
++49-5121-88321114
 
 52.132922,9.977087
 
