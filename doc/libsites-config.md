@@ -61,7 +61,8 @@ wir, die Änderung mit folgenden Schritten direkt auf GitHub vorzunehmen:
 Die Änderung erscheint anschließend als Pull-Request unter
 <https://github.com/gbv/libsites-config/pulls> und kann durch die VZG
 freigeschaltet werden. Durch die Freischaltung werden Änderungen direkt
-in der Standortverwaltung aktiviert.
+in der Standortverwaltung aktiviert. Ob und welche Version tatsächlich
+im Produktionssystem aktiv ist, kann unter "Quellen" eingesehen werden.
 
 Zum Überprüfen der syntaktischen Korrektheit enthält das Repository
 Test-Routinen. In einer lokalen Kopie des Repository können diese Tests mit
