@@ -8,6 +8,16 @@ info:
 	@echo "make docs - erstellt die Dokumentation im Verzeichnis doc/."
 	@echo "make clean - löscht alle Dateien, die nicht unter Versionskontrolle stehen."
 
+# Abhängigkeiten installieren
+deps:
+	@cpanm --installdeps .
+
+# Konvertierung aller sites.txt
+sites:
+	@ls isil/*/sites.txt | xargs ./bin/sites
+	@./bin/siteof
+
+# Tests
 test: test-code test-isil test-sites
 
 test-isil:
@@ -22,21 +32,17 @@ test-sites: sites
 test-code:
 	@prove -Ilib t
 
+# ISIL-Verzeichnisse
 dirs: test-isil
 	@cd isil && xargs mkdir -v -p < ../isil.csv
 
-sites:
-	@ls isil/*/sites.txt | xargs ./bin/sites
-	@./bin/siteof
-
+# Dokumentation
 docs:
 	@cd doc && make html pdf wiki
 
 gbvwiki: docs
 	@./bin/mediawiki-upload
 	
-deps:
-	@cpanm --installdeps .
-
+# Aufräumen
 clean:
 	@git clean -xdf -e mediawiki.json
