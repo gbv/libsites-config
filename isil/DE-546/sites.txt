@@ -1,7 +1,20 @@
+@
+Fachhochschule Erfurt, Hochschulbibliothek
+Altonaer Str. 25
+99085 Erfurt
+
+Ausleihtheke:
+Tel.: 0361 6700-519
+Fax: 0361 6700-518
+
+bibliothek@fh-erfurt.de 
+
+
+@schl
+Zweigstelle Schlüterstraße
+Schlüterstraße 1 
+99086 Erfurt 
+
 @magazin
 Magazin
  
-@schl
-Standort Schlüterstrasse
-Schlüterstraße 1
-99086 Erfurt
