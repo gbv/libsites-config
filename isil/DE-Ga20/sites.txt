@@ -1,0 +1,11 @@
+@da	
+Dauerausleihe Mitarbeiter	
+
+@fh	
+Freihandbestand	
+
+@hb	
+Handbestand	
+
+@mag	
+Magazin	
