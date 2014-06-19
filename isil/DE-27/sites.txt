@@ -194,3 +194,10 @@ http://www.thulb.uni-jena.de/Studienbibliothek.html
 Bibliothekshauptgebäude / Multimedia-Arbeitsbereich / Ebene 1
 http://www.thulb.uni-jena.de/tb_geist.html
 
+@gei
+TB Geisteswissenschaften
+http://www.thulb.uni-jena.de/tb_geist.html
+
+@geiha
+TB Geisteswissenschaften / Handapparat
+http://www.thulb.uni-jena.de/ha_lst.html
