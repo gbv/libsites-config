@@ -1,0 +1,8 @@
+@fh	
+Freihandbestand	
+
+@hb	
+Handbestand	
+
+@mag	
+Magazin	
