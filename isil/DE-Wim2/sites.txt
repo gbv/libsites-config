@@ -1,6 +1,86 @@
-@mag
-Magazin
-Steubenstraße 6
+@
+Universitätsbibliothek der Bauhaus-Universität Weimar
+50.977337, 11.327252
 
-@mha
-Handbibliothek Fakultät Medien
+Steubenstr. 6
+99423 Weimar
+
+
+Telefon: 03643/582810
+
+E-Mail: info@ub.uni-weimar.de
+
+Mo - Fr 9 - 21 Uhr, Sa 10 - 16 Uhr
+
+@LBS
+Universitätsbibliothek der Bauhaus-Universität Weimar
+Lehrbuchsammlung
+50.977337, 11.327252
+
+Steubenstr. 6
+99423 Weimar
+
+
+Telefon: 03643/582810
+
+E-Mail: info@ub.uni-weimar.de
+
+Mo - Fr 9 - 21 Uhr, Sa 10 - 16 Uhr
+
+@Limona
+
+Universitätsbibliothek der Bauhaus-Universität Weimar
+Teilbibliothek Limona
+50.977452, 11.326737
+
+Steubenstr. 8
+99423 Weimar
+
+
+Telefon: 03643/582810
+
+E-Mail: info@ub.uni-weimar.de
+
+Mo - Fr 9 - 21 Uhr, Sa 10 - 16 Uhr
+
+
+@SoMag
+
+Universitätsbibliothek der Bauhaus-Universität Weimar
+Sondermagazin: Ausleihe in den Lesesaal
+
+Steubenstr. 6
+99423 Weimar
+
+Telefon: 03643/582810
+
+E-Mail: info@ub.uni-weimar.de
+
+
+@BST
+
+Universitätsbibliothek der Bauhaus-Universität Weimar
+Teilbibliothek Baustoffe/Naturwissenschaften
+50.980574, 11.322447
+
+Coudraystr. 7
+99423 Weimar
+
+Telefon: 03643/582890
+
+E-Mail: info@ub.uni-weimar.de
+
+Mo - Do 9 - 18 Uhr, Fr 9 - 16 Uhr
+
+
+@HA
+
+Universitätsbibliothek der Bauhaus-Universität Weimar
+Handapparate: Keine Ausleihe
+
+Steubenstr. 6
+99423 Weimar
+
+Telefon: 03643/582810
+
+E-Mail: info@ub.uni-weimar.de
