@@ -1,4 +1,4 @@
-DE-Wim8@
+@
 
 Hochschulbibliothek | Hochschule für Musik FRANZ LISZT Weimar
 Hauptbibliothek
@@ -16,8 +16,7 @@ http://www.hfm-weimar.de/148
 
 50.978433,11.331523
 
-
-DE-Wim8@MW
+@MW
 
 Hochschulbibliothek | Hochschule für Musik FRANZ LISZT Weimar
 Teilbilbiothek Musikwissenschaft
@@ -38,7 +37,7 @@ http://www.hfm-weimar.de/148
 50.978574,11.338996
 
 
-DE-Wim8@HSA
+@HSA
 
 Hochschularchiv | Thüringisches Landesmusikarchiv
 
@@ -58,7 +57,7 @@ http://www.hfm-weimar.de/343
 50.978574,11.338996
 
 
-DE-Wim8@HA
+@HA
 
 Hochschulbibliothek | Hochschule für Musik FRANZ LISZT Weimar
 Handapparate
@@ -73,7 +72,7 @@ bibliothek@hfm-weimar.de
 Keine Ausleihe
 
 
-DE-Wim8@JAZZ
+@JAZZ
 
 Internationales Archiv für Jazz und Populäre Musik der Lippmann+Rau-Stiftung Eisenach
 
