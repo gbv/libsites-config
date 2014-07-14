@@ -24,9 +24,7 @@ Carl-Alexander-Platz 1
 
 bibliothek@hfm-weimar.de
 
-Präsenznutzung, Wochenendausleihe für Hochschulangehörige
-
-Aktuelle Öffnungszeiten siehe: http://www.hfm-weimar.de/148
+Präsenznutzung, Wochenendausleihe für Hochschulangehörige. Aktuelle Öffnungszeiten siehe: http://www.hfm-weimar.de/148
 
 50.978574,11.338996
 
@@ -41,9 +39,7 @@ Carl-Alexander-Platz 1
 
 archiv@hfm-weimar.de
 
-Keine Ausleihe
-
-Aktuelle Öffnungszeiten siehe: http://www.hfm-weimar.de/343
+Keine Ausleihe. Aktuelle Öffnungszeiten siehe: http://www.hfm-weimar.de/343
 
 50.978574,11.338996
 
@@ -70,8 +66,7 @@ Palmental 1
 
 info@lr-musikarchiv.de
 
-Nutzung nach Absprache
-Keine Ausleihe
+Nutzung nach Absprache. Keine Ausleihe
 
 http://www.lr-musikarchiv.de
 
