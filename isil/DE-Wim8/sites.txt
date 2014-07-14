@@ -9,8 +9,7 @@ Platz der Demokratie 2/3
 
 bibliothek@hfm-weimar.de
 
-Aktuelle Öffnungszeiten siehe:
-http://www.hfm-weimar.de/148
+Aktuelle Öffnungszeiten siehe: http://www.hfm-weimar.de/148
 
 50.978433,11.331523
 
@@ -27,8 +26,7 @@ bibliothek@hfm-weimar.de
 
 Präsenznutzung, Wochenendausleihe für Hochschulangehörige
 
-Aktuelle Öffnungszeiten siehe:
-http://www.hfm-weimar.de/148
+Aktuelle Öffnungszeiten siehe: http://www.hfm-weimar.de/148
 
 50.978574,11.338996
 
@@ -45,8 +43,7 @@ archiv@hfm-weimar.de
 
 Keine Ausleihe
 
-Aktuelle Öffnungszeiten siehe:
-http://www.hfm-weimar.de/343
+Aktuelle Öffnungszeiten siehe: http://www.hfm-weimar.de/343
 
 50.978574,11.338996
 
