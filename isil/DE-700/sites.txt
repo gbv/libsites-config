@@ -1,0 +1,97 @@
+@
+Osnabrück UB
+
+Alte Münze 16
+49074 Osnabrück
+
+sekretariat@ub.uni-osnabrueck.de
+
+http://www.ub.uni-osnabrueck.de
+
+52.272910, 8.045333
+
+Mo-Fr 9:00-22:00; Sa 11:00-18:00
+
+@B
+Bibliothek Alte Münze Geb.10
+
+Alte Münze 16
+49074 Osnabrück
+
++49-541-9694488
+
+info@ub.uni-osnabrueck.de
+
+52.272910, 8.045333
+
+Mo-Fr 9:00-22:00; Sa 11:00-18:00
+
+@G
+Bereichsbibliothek Sozialwissenschaften Geb.5
+
+Seminarstraße 33
+49074 Osnabrück
+
++49-541-9694577
+
+infog@ub.uni-osnabrueck.de
+
+52.271725, 8.047717
+
+Mo-Fr 9:00-21:00
+
+@J
+Bereichsbibliothek Rechts- und Wirtschaftswissenschaften Geb.21/22
+
+Martinistraße 2-6/ Heger-Tor-Wall 14
+49078 Osnabrück
+
++49-541-9696209
+
+infojw@ub.uni-osnabrueck.de
+
+52.272677, 8.039954
+
+Mo-Fr 8:00-24:00; Sa 8:00-24:00; So 10:00-24:00
+
+@N
+Bereichsbibliothek Naturwissenschaften/Mathematik Geb.31 
+
+Albrechtstraße 28
+49076 Osnabrück
+
++49-541-9692543
+
+infon@ub.uni-osnabrueck.de
+
+52.283901, 8.025806
+
+Mo-Fr 9:00-20:00
+
+@ELSI
+Forschungsbibliothek des ELSI
+
+Süsterstraße 28
+49074 Osnabrück
+
++49-541-9696229
+
+infoelsi@ub.uni-osnabrueck.de
+
+52.269336, 8.047916
+
+Mo-Fr 9:00-20:00
+
+@IKFNIMIS
+Gemeinsame Forschungsbibliothek IKFN/IMIS
+
+Neuer Graben 19-21
+49074 Osnabrück
+
++49-541-9694776
+
+infoiknfimis@ub.uni-osnabrueck.de
+
+52.271681, 8.046082
+
+Mo-Fr 9:00-18:00
