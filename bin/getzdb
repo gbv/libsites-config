@@ -20,11 +20,8 @@ foreach my $isil (@ARGV) {
     my $gbvuri = "http://uri.gbv.de/organization/isil/$isil";
     say "$url - $file";
 
-    RDF::Trine::Parser->parse_url_into_model($url, $model);
-
-    open my $fh, ">", $file;
-    RDF::Trine::Serializer::NTriples->new->serialize_model_to_file($fh,$model);
-    close $fh;
+    # RDF::Trine::Parser->parse_url_into_model corrupts UTF8 (WTF?) 
+    system("rapper $url > $file");
  
     # replace URI. TODO: replace Adress (vCard)
     {
@@ -32,10 +29,12 @@ foreach my $isil (@ARGV) {
         local $^I = '';
         while (<>) {
             s/\Q$uri/$gbvuri/g;
+            s/"\(ISIL\)([^"]+)"/"\1"/g;
             print;
         }
     }
 
-    say "<$url> <http://www.w3.org/2002/07/owl#sameAs> <$gbvuri> .";
-
+    open my $fh, ">>", $file;
+    say $fh "<$url> <http://www.w3.org/2002/07/owl#sameAs> <$gbvuri> .";
+    close $fh;
 }
