@@ -1,0 +1,41 @@
+#!/usr/bin/env perl
+use v5.14;
+
+use RDF::Trine;
+
+use Catmandu qw(export);
+
+foreach my $isil (@ARGV) {
+    $isil =~ s|(\./)?isil/([^/]+)(/sites\.txt)?$|$2|;
+    if ($isil !~ /^[A-Z]{1,3}-[A-Za-z0-9\/:-]{1,10}$/) {
+        warn "invalid ISIL $isil\n";
+        next;  
+    }
+
+    my $model = RDF::Trine::Model->new;
+
+    my $file = "isil/$isil/zdb.nt";
+    my $url = "http://ld.zdb-services.de/data/organisations/$isil";
+    my $uri = "http://ld.zdb-services.de/resource/organisations/$isil";
+    my $gbvuri = "http://uri.gbv.de/organization/isil/$isil";
+    say "$url - $file";
+
+    RDF::Trine::Parser->parse_url_into_model($url, $model);
+
+    open my $fh, ">", $file;
+    RDF::Trine::Serializer::NTriples->new->serialize_model_to_file($fh,$model);
+    close $fh;
+ 
+    # replace URI. TODO: replace Adress (vCard)
+    {
+        local @ARGV = $file;
+        local $^I = '';
+        while (<>) {
+            s/\Q$uri/$gbvuri/g;
+            print;
+        }
+    }
+
+    say "<$url> <http://www.w3.org/2002/07/owl#sameAs> <$gbvuri> .";
+
+}
