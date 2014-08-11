@@ -5,6 +5,7 @@ info:
 	@echo "make sites - konvertiert alle sites.txt."
 	@echo "make test -  überprüft alle Dateien auf syntaktische Korrektheit."
 	@echo "make dirs - erstellt Verzeichniss für alle Einrichtungen in isil.csv."
+	@echo "make zdb - läd und Konvertiert RDF-Daten des Sigelverzeichnis."
 	@echo "make docs - erstellt die Dokumentation im Verzeichnis doc/."
 	@echo "make clean - löscht alle Dateien, die nicht unter Versionskontrolle stehen."
 
@@ -16,6 +17,10 @@ deps:
 sites:
 	@ls isil/*/sites.txt | xargs ./bin/sites
 	@./bin/siteof
+
+# ZDB
+zdb:
+	@ls isil | xargs ./bin/getzdb
 
 # Tests
 test: test-code test-isil test-sites
