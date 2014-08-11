@@ -21,6 +21,7 @@ info@ub.uni-osnabrueck.de
 
 52.272910, 8.045333
 
+Mo-Fr 9:00-22:00, Sa 11:00-18:00
 
 @g
 Bereichsbibliothek Sozialwissenschaften Geb.5
@@ -33,6 +34,7 @@ infog@ub.uni-osnabrueck.de
 
 52.271725, 8.047717
 
+Mo-Fr 9:00-21:00
 
 @j
 Bereichsbibliothek Rechts- und Wirtschaftswissenschaften Geb.21/22
@@ -45,6 +47,7 @@ infojw@ub.uni-osnabrueck.de
 
 52.272677, 8.039954
 
+Mo-Fr 8:00-24:00, Sa 8:00-24:00, So 10:00-24:00
 
 @n
 Bereichsbibliothek Naturwissenschaften/Mathematik Geb.31 
@@ -57,6 +60,7 @@ infon@ub.uni-osnabrueck.de
 
 52.283901, 8.025806
 
+Mo-Fr 9:00-20:00
 
 @elsi
 Forschungsbibliothek des ELSI
@@ -69,6 +73,7 @@ infoelsi@ub.uni-osnabrueck.de
 
 52.269336, 8.047916
 
+Mo-Fr 9:00-20:00
 
 @ikfnimis
 Gemeinsame Forschungsbibliothek IKFN/IMIS
@@ -80,3 +85,5 @@ Neuer Graben 19-21
 infoiknfimis@ub.uni-osnabrueck.de
 
 52.271681, 8.046082
+
+Mo-Fr 9:00-18:00
