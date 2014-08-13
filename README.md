@@ -16,6 +16,9 @@ Ausgabe):
 
     ./bin/sites -v DE-Hil3
 
+Das Skript `bin/getzdb` dient zum Herunterladen und Konvertieren von Angaben 
+aus dem ZDB-ISIL/Sigelverzeichnis.
+
 Die Dokumentation steht in der Datei `doc/libsites-config.md`. Mit `make docs`
 lassen sich HTML- und PDF-Version sowie eine MediaWiki-Variante zum Speichern
 unter <http://www.gbv.de/wikis/cls/Konfiguration_der_GBV-Standortverwaltung>

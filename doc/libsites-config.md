@@ -1,7 +1,7 @@
 # Übersicht
  
-Unter <http://uri.gbv.de/organization/> werden Informationen zu Standorten von
-Bibliotheken, Museen und verwandten Einrichtungen zusammengeführt und als
+Unter <http://uri.gbv.de/organization/> werden Informationen zu **Standorten von
+Bibliotheken, Museen und verwandten Einrichtungen** zusammengeführt und als
 Linked Open Data zur Verfügung gestellt. Grundlage sind der *International
 Standard Identifier for Libraries and Related Organizations* (ISIL) und Angaben
 aus den jeweiligen ISIL-Verzeichnissen. Darüber hinaus können mit der
@@ -72,12 +72,13 @@ Kommandozeilenoption `-v` gibt bei Bedarf Details zur Konvertertierung aus).
 
 # Konfiguration
 
-## Hauptstandort
-
 Jede Einrichtung im GBV-Standortverzeichnis muss durch einen ISIL
 identifizierbar sein. Sofern noch kein ISIL vorhanden ist, muss zunächst bei
-der entsprechenden ISIL-Stelle ein Eintrag beantragt werden. Der ISIL
-identifiziert gleichzeitg den *Hauptstandort* der Einrichtung
+der entsprechenden ISIL-Stelle ein Eintrag beantragt werden!
+
+## Hauptstandort
+
+Der ISIL identifiziert gleichzeitg den *Hauptstandort* der Einrichtung
 (Department-Kürzel "@"). Nähere Informationen zum Hauptstandort (Name, Adresse,
 Telefonnummer etc.) sollten nicht in *sites.txt* eingetragen werden, da sie
 automatisch aus dem [ISIL-Verzeichnis] übernommen werden.
