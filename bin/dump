@@ -1,0 +1,26 @@
+#!/usr/bin/env perl
+
+use RDF::Trine;
+use RDF::Trine::Parser;
+use RDF::Trine::Serializer;
+use RDF::NS;
+
+my $model = RDF::Trine::Model->new;
+
+while(<>) {
+    chomp;
+    die "file not found: $_" unless -e $_;
+    my $parser = RDF::Trine::Parser->guess_parser_by_filename($_);
+    $parser->parse_file_into_model( "file:///$_", $_, $model );
+}
+
+my $ns = RDF::NS->new;
+$ns = { map { $_ => $ns->{$_} } 
+        qw(rdfs rdf skos gbv vcard dc dct void foaf daia daiaserv owl) };
+
+my $serializer = RDF::Trine::Serializer->new(
+    'Turtle', namespaces => $ns
+);
+
+$serializer->serialize_model_to_file(*STDOUT,$model);
+

@@ -2,16 +2,21 @@ SELF_DIR := $(dir $(lastword $(MAKEFILE_LIST)))
 
 info:
 	@echo "make deps - installiert benötigte Perl-Module zur Konvertierung."
-	@echo "make sites - konvertiert alle sites.txt."
+	@echo "make sites - konvertiert alle sites.txt nach RDF."
 	@echo "make test -  überprüft alle Dateien auf syntaktische Korrektheit."
 	@echo "make dirs - erstellt Verzeichniss für alle Einrichtungen in isil.csv."
 	@echo "make zdb - läd und Konvertiert RDF-Daten des Sigelverzeichnis."
+	@echo "make dump - Erstell aus allen RDF-Daten in einen Dump."
 	@echo "make docs - erstellt die Dokumentation im Verzeichnis doc/."
 	@echo "make clean - löscht alle Dateien, die nicht unter Versionskontrolle stehen."
 
 # Abhängigkeiten installieren
 deps:
 	@cpanm --installdeps .
+	@if ! hash rapper 2>/dev/null;\
+	   then echo "missing 'rapper', install raptor-utils!";\
+	   exit 1;\
+	fi
 
 # Konvertierung aller sites.txt
 sites:
@@ -40,6 +45,11 @@ test-code:
 # ISIL-Verzeichnisse
 dirs: test-isil
 	@cd isil && xargs mkdir -v -p < ../isil.csv
+
+# Dump aller Tripel
+dump: libsites.ttl
+libsites.ttl:
+	@find isil -regextype sed -regex ".*\.\(ttl\|nt\)$$" | bin/dump > $@
 
 # Dokumentation
 docs:
