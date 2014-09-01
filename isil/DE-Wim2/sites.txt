@@ -1,5 +1,5 @@
 @
-Universitätsbibliothek der Bauhaus-Universität Weimar
+Universitätsbibliothek Weimar
 Steubenstr. 6/8
 99423 Weimar
 
@@ -18,7 +18,6 @@ Coudraystr. 7
 99423 Weimar
 
 Ausleihe: +49 3643/582890
-
 info@ub.uni-weimar.de
 
 Mo-Do 9 - 18 Uhr, Fr 9 - 16 Uhr
