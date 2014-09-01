@@ -28,7 +28,7 @@ Zu den einzelnen Departments sind in `sites.txt` folgende Angaben möglich:
 * Addresse
 * Kurzbeschreibung oder Hinweis
 * Mailadresse
-* Telefonnummer
+* Telefonnummer (nach [E.123](https://en.wikipedia.org/wiki/E.123), ggf. mit `-` und anschließendem Kommentar)
 * Homepage
 * Geokoordinaten 
 
@@ -210,7 +210,7 @@ implementiert. Die formale Syntax richtet sich nach folgenden Regeln:
     email          ::= [^@ ]+ '@' [^@ ]+
     url (Homepage) ::= 'http' 's'? '://' Char+
     geolocation    ::= [0-9]+ '.' [0-9] Whitespace* [,/;] Whitespace*
-    phone          ::= ( '+' | '(+' )? [0-9()/ -]+
+    phone          ::= '+' [0-9]+ [ -] [0-9/ -]+ ( .+)?
     openinghours   ::= ( ( [0-9][0-9] ':' [0-9][0-9] ) | 'Uhr' ) &&
                        ( 'Mo' | 'Di' | 'Mi' | 'Do' | 'Fr' | 'Sa' | 'So' )
 

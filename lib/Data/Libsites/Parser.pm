@@ -91,10 +91,13 @@ sub parse_site {
             when( qr{^https?://.+$} ) {
                 $site->{url} = $_;
             };
-            when(qr{^(\+|\(\+)[0-9\(\)/ -]+$}) { 
-                s/\s+/-/g; 
+            # E.123 notation, ggf. mit '-' und '/':
+            # +49 123 456
+            # (0123) 456
+            # ggf. anhängender Kommentar
+            when(qr{^(\+[0-9]+|\([0-9]+\))[ -][0-9 /-]+( .+)?$}) { 
                 $site->{phone} = $_;
-            }
+            };
             if ($_ =~ /([0-9]{2}:[0-9]{2})|Uhr/ && $_ =~ /(Mo|Di|Mi|Do|Fr|Sa|So)/) {
                 $append->( openinghours => $_ );
                 break;
@@ -102,9 +105,6 @@ sub parse_site {
             when( qr{^(\d+\.\d+)\s*[,/;]\s*(\d+\.\d+)$} ) {
                 $site->{geolocation} = { geo_lat => $1, geo_long => $2 };
             };
-            when ( qr{^(\+|\(\+)[0-9\(\)/ -]+$} ) {
-                $site->{phone} = $_;
-            }
             default {
                 if ($expect_address) {
                     $append->( address => $_ );
