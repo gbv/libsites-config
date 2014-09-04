@@ -1,0 +1,4 @@
+# run update script every minute
+ * *  * * * cd /etc/libsites && . ~/.bashrc > /dev/null && ./bin/update
+# get zdb data and create dump every day
+53 09 * * * cd /etc/libsites && . ~/.bashrc > /dev/null && make zdb dump >> update.log

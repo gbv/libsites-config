@@ -1,5 +1,3 @@
-#!/bin/bash
-
 LOGFILE=update.log
 GIT_TIME=$(git log -1 --format=%ct --date=raw)
 LOG_TIME=$(stat -c%Z $LOGFILE 2&> /dev/null)
