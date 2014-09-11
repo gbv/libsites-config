@@ -1,6 +1,5 @@
 @
-Hochschulbibliothek | Hochschule für Musik FRANZ LISZT Weimar
-Hauptbibliothek
+Hochschulbibliothek | Hauptbibliothek
 Fürstenhaus
 Platz der Demokratie 2/3
 99423 Weimar
@@ -14,8 +13,7 @@ Aktuelle Öffnungszeiten siehe: http://www.hfm-weimar.de/148
 50.978433,11.331523
 
 @mw
-Hochschulbibliothek | Hochschule für Musik FRANZ LISZT Weimar
-Teilbilbiothek Musikwissenschaft
+Hochschulbibliothek | Teilbilbiothek Musikwissenschaft
 hochschulzentrum am horn
 Carl-Alexander-Platz 1
 99423 Weimar
@@ -24,10 +22,21 @@ Carl-Alexander-Platz 1
 
 bibliothek@hfm-weimar.de
 
-Präsenznutzung, Wochenendausleihe für Hochschulangehörige. Aktuelle Öffnungszeiten siehe: http://www.hfm-weimar.de/148
+Präsenznutzung, Wochenendausleihe für Hochschulangehörige
+Aktuelle Öffnungszeiten siehe: http://www.hfm-weimar.de/148
 
 50.978574,11.338996
 
+@ha
+Hochschulbibliothek | Handapparate
+Platz der Demokratie 2/3
+99423 Weimar
+
++49-3643 555 124
+
+bibliothek@hfm-weimar.de
+
+Keine Ausleihe
 
 @hsa
 Hochschularchiv | Thüringisches Landesmusikarchiv
@@ -39,23 +48,10 @@ Carl-Alexander-Platz 1
 
 archiv@hfm-weimar.de
 
-Keine Ausleihe. Aktuelle Öffnungszeiten siehe: http://www.hfm-weimar.de/343
+Keine Ausleihe
+Aktuelle Öffnungszeiten siehe: http://www.hfm-weimar.de/343
 
 50.978574,11.338996
-
-
-@ha
-Hochschulbibliothek | Hochschule für Musik FRANZ LISZT Weimar
-Handapparate
-Platz der Demokratie 2/3
-99423 Weimar
-
-+49-3643 555 124
-
-bibliothek@hfm-weimar.de
-
-Keine Ausleihe
-
 
 @jazz
 Internationales Archiv für Jazz und Populäre Musik der Lippmann+Rau-Stiftung Eisenach
@@ -66,7 +62,7 @@ Palmental 1
 
 info@lr-musikarchiv.de
 
-Nutzung nach Absprache. Keine Ausleihe
+Nutzung nach Absprache, keine Ausleihe
 
 http://www.lr-musikarchiv.de
 
