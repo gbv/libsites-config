@@ -1,5 +1,5 @@
 @hss
-Bibliothekshauptgebäude / Handschriften- und Sondersammlungen / Ebene -1
+Bibliothekshauptgebäude / Handschriften- und Sondersammlungen
 http://www.thulb.uni-jena.de/Handschriften__Sondersammlungen.html
 
 @ha
@@ -7,20 +7,35 @@ Handapparat
 http://www.thulb.uni-jena.de/ha.html
 
 @haua
-Bibliothekshauptgebäude / Handapparat Universitätsarchiv / Ebene -1
+Bibliothekshauptgebäude / Handapparat Universitätsarchiv
 http://www.uni-jena.de/uniarchiv.html
 
-@gei3
-TB Geisteswissenschaften / Ebene 3
-http://www.thulb.uni-jena.de/tb_geist.html
 
 @mag
 Magazin
 http://www.thulb.uni-jena.de/Magazinbestellung.html
 
-@beu
-TB Naturwissenschaften : Beutenberg
-http://www.thulb.uni-jena.de/Beutenberg.html
+@ls
+Bibliothekshauptgebäude / Allgemeiner Lesesaal
+http://www.thulb.uni-jena.de/tb_geist.html
+
+@mls
+Bibliothekshauptgebäude / Multimedia-Arbeitsbereich
+http://www.thulb.uni-jena.de/tb_geist.html
+
+
+@gei
+TB Geisteswissenschaften
+http://www.thulb.uni-jena.de/tb_geist.html
+
+@geiha
+TB Geisteswissenschaften / Handapparat
+http://www.thulb.uni-jena.de/ha_lst.html
+
+@lbs
+TB Geisteswissenschaften / Lehrbuchsammlung
+http://www.thulb.uni-jena.de/lbs.html
+
 
 @nat
 TB Naturwissenschaften
@@ -30,17 +45,13 @@ http://www.thulb.uni-jena.de/tb_natwi.html
 TB Naturwissenschaften / Handapparat
 http://www.thulb.uni-jena.de/ha_lst.html
 
+@beu
+TB Naturwissenschaften : Beutenberg
+http://www.thulb.uni-jena.de/Beutenberg.html
+
 @herb
 TB Naturwissenschaften : Herbarium Haussknecht
 http://www.thulb.uni-jena.de/Herbarium.html
-
-@gei4
-TB Geisteswissenschaften / Ebene 4
-http://www.thulb.uni-jena.de/tb_geist.html
-
-@rewiuno
-TB Rechts-, Wirtschafts- und Sozialwissenschaften / UNO-Depositarbibliothek
-http://www.thulb.uni-jena.de/tb_rewi.html
 
 @che
 TB Naturwissenschaften : Chemie
@@ -50,18 +61,6 @@ http://www.thulb.uni-jena.de/Chemie.html
 TB Naturwissenschaften : Chemie / Handapparat
 http://www.thulb.uni-jena.de/ha_lst.html
 
-@mst
-TB Medizin : Medizinische Studienbibliothek
-http://www.thulb.uni-jena.de/Studienbibliothek.html
-
-@rewiedz
-TB Rechts-, Wirtschafts- und Sozialwissenschaften / EDZ
-http://www.thulb.uni-jena.de/tb_rewi.html
-
-@rewiedzm
-TB Rechts-, Wirtschafts- und Sozialwissenschaften / EDZ / Magazin
-http://www.thulb.uni-jena.de/tb_rewi.html
-
 @phy
 TB Naturwissenschaften : Physik
 http://www.thulb.uni-jena.de/Physik.html
@@ -70,29 +69,49 @@ http://www.thulb.uni-jena.de/Physik.html
 TB Naturwissenschaften : Physik / Handapparat
 http://www.thulb.uni-jena.de/ha_lst.html
 
-@gei1
-TB Geisteswissenschaften / Ebene 1
-http://www.thulb.uni-jena.de/tb_geist.html
-
-@geiha1
-TB Geisteswissenschaften / Handapparat / Ebene 1
-http://www.thulb.uni-jena.de/ha_lst.html
-
 @ast
 TB Naturwissenschaften : Astronomie
 http://www.thulb.uni-jena.de/Astronomie.html
 
-@geha4
-TB Geisteswissenschaften / Handapparat / Ebene 4
-http://www.thulb.uni-jena.de/ha_lst.html
+@haeck
+TB Naturwissenschaften : Geschichte der Medizin, Naturwissenschaften und Technik
+http://www.thulb.uni-jena.de/Haeckelhaus.html
+
+
 
 @rewi
 TB Rechts-, Wirtschafts- und Sozialwissenschaften
 http://www.thulb.uni-jena.de/tb_rewi.html
 
-@rewimag
-TB Rechts-, Wirtschafts- und Sozialwissenschaften / Magazin
-http://www.thulb.uni-jena.de/tb_rewi.html
+@rewiha
+TB Rechts-, Wirtschafts- und Sozialwissenschaften / Handapparat
+http://www.thulb.uni-jena.de/ha_lst.html
+
+
+
+@med
+TB Medizin
+http://www.thulb.uni-jena.de/TB_Medizin.html
+
+@medha
+TB Medizin / Handapparat
+http://www.thulb.uni-jena.de/ha_lst.html
+
+@mag3
+TB Medizin / Magazin
+http://www.thulb.uni-jena.de/TB_Medizin.html
+
+@mag4
+TB Medizin : Medizinische Studienbibliothek / Magazin
+http://www.thulb.uni-jena.de/Studienbibliothek.html
+
+@vor
+TB Medizin : Vorklinische Medizin und Zahnmedizin
+http://www.thulb.uni-jena.de/Vorklinische_Medizin.html
+
+@vorha
+TB Medizin : Vorklinische Medizin und Zahnmedizin / Handapparat
+http://www.thulb.uni-jena.de/ha_lst.html
 
 @frau
 TB Medizin : Frauenheilkunde und Geburtshilfe
@@ -100,46 +119,6 @@ http://www.thulb.uni-jena.de/Frauenheilkunde.html
 
 @frauha
 TB Medizin : Frauenheilkunde und Geburtshilfe / Handapparat
-http://www.thulb.uni-jena.de/ha_lst.html
-
-@mstha
-TB Medizin : Medizinische Studienbibliothek / Handapparat
-http://www.thulb.uni-jena.de/ha_lst.html
-
-@tll
-Agrarwissenschaftliche Bibliothek der Thüringer Landesanstalt für Landwirtschaft
-http://www.thulb.uni-jena.de/tll.html
-
-@med
-TB Medizin
-http://www.thulb.uni-jena.de/TB_Medizin.html
-
-@haeck
-TB Naturwissenschaften : Geschichte der Medizin, Naturwissenschaften und Technik
-http://www.thulb.uni-jena.de/Haeckelhaus.html
-
-@gei2
-TB Geisteswissenschaften / Ebene 2 
-http://www.thulb.uni-jena.de/tb_geist.html
-
-@geiha2
-TB Geisteswissenschaften / Handapparat / Ebene 2
-http://www.thulb.uni-jena.de/ha_lst.html
-
-@medha
-TB Medizin / Handapparat
-http://www.thulb.uni-jena.de/ha_lst.html
-
-@geiha3
-TB Geisteswissenschaften / Handapparat / Ebene 3
-http://www.thulb.uni-jena.de/ha_lst.html
-
-@psy
-TB Medizin : Psychiatrie
-http://www.thulb.uni-jena.de/Psychiatrie.html
-
-@rewiha
-TB Rechts-, Wirtschafts- und Sozialwissenschaften / Handapparat
 http://www.thulb.uni-jena.de/ha_lst.html
 
 @spo
@@ -150,54 +129,11 @@ http://www.thulb.uni-jena.de/spowi.html
 TB Medizin : Sportwissenschaft / Handapparat
 http://www.thulb.uni-jena.de/ha_lst.html
 
-@spoma
-TB Medizin : Sportwissenschaft / Magazin
-http://www.thulb.uni-jena.de/spowi.html
+@psy
+TB Medizin : Psychiatrie
+http://www.thulb.uni-jena.de/Psychiatrie.html
 
-@vor
-TB Medizin : Vorklinische Medizin, Rechts- und Zahnmedizin
-http://www.thulb.uni-jena.de/Vorklinische_Medizin.html
 
-@vorha
-TB Medizin : Vorklinische Medizin, Rechts- und Zahnmedizin / Handapparat
-http://www.thulb.uni-jena.de/ha_lst.html
-
-@ls
-Bibliothekshauptgebäude / Allgemeiner Lesesaal / Ebene 0
-http://www.thulb.uni-jena.de/tb_geist.html
-
-@lbs
-Bibliothekshauptgebäude / Lehrbuchsammlung / Ebene 0
-http://www.thulb.uni-jena.de/lbs.html
-
-@natlbs
-TB Naturwissenschaften / Lehrbuchsammlung
-http://www.thulb.uni-jena.de/tb_natwi.html
-
-@rewilbs
-TB Rechts-, Wirtschafts- und Sozialwissenschaften / Lehrbuchsammlung
-http://www.thulb.uni-jena.de/tb_rewi.html
-
-@medlbs
-TB Medizin / Lehrbuchsammlung
-http://www.thulb.uni-jena.de/TB_Medizin.html
-
-@mag3
-TB Medizin / Magazin
-http://www.thulb.uni-jena.de/TB_Medizin.html
-
-@mag4
-TB Medizin : Medizinische Studienbibliothek / Magazin
-http://www.thulb.uni-jena.de/Studienbibliothek.html
-
-@mls
-Bibliothekshauptgebäude / Multimedia-Arbeitsbereich / Ebene 1
-http://www.thulb.uni-jena.de/tb_geist.html
-
-@gei
-TB Geisteswissenschaften
-http://www.thulb.uni-jena.de/tb_geist.html
-
-@geiha
-TB Geisteswissenschaften / Handapparat
-http://www.thulb.uni-jena.de/ha_lst.html
+@tll
+Agrarwissenschaftliche Bibliothek der Thüringer Landesanstalt für Landwirtschaft
+http://www.thulb.uni-jena.de/tll.html
