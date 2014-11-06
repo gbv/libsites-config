@@ -47,7 +47,7 @@ http://info.ub.uni-potsdam.de/standorte/standort.php?bibliothek=Bereichsbiblioth
 
 52.39404892000,13.13081226820
 
-desription: Bereitstellung von Bestand aus dem Magazin Babelsberg in die Bibliothek (spätestens eine Stunde zuvor bestellt): Mo - Fr: 09:00, 12:00 und 15:00 Uhr. Die Bereitstellung von Bestand aus dem Magazin Golm erfolgt i.d.R. am nächsten Öffnungstag, ausgenommen Samstag.
+description: Bereitstellung von Bestand aus dem Magazin Babelsberg in die Bibliothek (spätestens eine Stunde zuvor bestellt): Mo - Fr: 09:00, 12:00 und 15:00 Uhr. Die Bereitstellung von Bestand aus dem Magazin Golm erfolgt i.d.R. am nächsten Öffnungstag, ausgenommen Samstag.
 
 @bbbmagazin
 Magazin Bereichsbibliothek Babelsberg 
