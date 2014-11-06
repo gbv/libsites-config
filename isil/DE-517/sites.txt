@@ -7,6 +7,8 @@ Karl-Liebknecht-Str. 24-25
 
 Mo-Do 09:00 - 22:00, Fr 09:00 - 18:00, Sa 10:00-18:00 Uhr
 
+description: Bereitstellung von Bestand aus dem Magazin Golm in die Bibliothek (spätestens eine Stunde zuvor bestellt): Mo - Fr: 09:00, 12:00 und 15:00 Uhr. Die Bereitstellung von Bestand aus dem Magazin Babelsberg erfolgt i.d.R. am nächsten Öffnungstag, ausgenommen Samstag.
+
 infog1@uni-potsdam.de
 
 +49 331 977 2594
@@ -14,7 +16,6 @@ infog1@uni-potsdam.de
 http://info.ub.uni-potsdam.de/standorte/standort.php?bibliothek=Bereichsbibliothek%20Golm%20im%20IKMZ
 
 52.408231,12.973209
-
 
 @golmmagazin
 Magazin Golm 
@@ -27,6 +28,7 @@ http://info.ub.uni-potsdam.de/standorte/standort.php?bibliothek=Bereichsbiblioth
 
 52.408231,12.973209
 
+description: Bestellen Sie bitte über den Online-Katalog. Bereitstellung von Bestand aus dem Magazin Golm in die BB Golm (spätestens eine Stunde zuvor bestellt): Mo - Fr: 09:00, 12:00 und 15:00 Uhr. Die Bereitstellung von Bestand an den Standorten  Babelsberg und Neues Palais erfolgt i.d.R. am nächsten Öffnungstag, ausgenommen Samstag.
 
 @bbb
 Bereichsbibliothek Babelsberg
@@ -45,6 +47,7 @@ http://info.ub.uni-potsdam.de/standorte/standort.php?bibliothek=Bereichsbiblioth
 
 52.39404892000,13.13081226820
 
+desription: Bereitstellung von Bestand aus dem Magazin Babelsberg in die Bibliothek (spätestens eine Stunde zuvor bestellt): Mo - Fr: 09:00, 12:00 und 15:00 Uhr. Die Bereitstellung von Bestand aus dem Magazin Golm erfolgt i.d.R. am nächsten Öffnungstag, ausgenommen Samstag.
 
 @bbbmagazin
 Magazin Bereichsbibliothek Babelsberg 
@@ -57,6 +60,7 @@ http://info.ub.uni-potsdam.de/standorte/standort.php?bibliothek=Bereichsbiblioth
 
 52.39404892000,13.13081226820
 
+description: Bestellen Sie bitte über den Online-Katalog. Bereitstellung von Bestand aus dem Magazin Babelsberg in die Bibliothek Babelsberg(spätestens eine Stunde zuvor bestellt): Mo-Fr 09:00, 12:00 und 15:00 Uhr. Die Bereitstellung von Bestand in die Standorte Golm und Neues Palais erfolgt i.d.R. am nächsten Öffnungstag, ausgenommen Samstag und Sonntag.
 
 @np09
 Bereichsbibliothek Neues Palais, Haus 09
@@ -74,6 +78,7 @@ http://info.ub.uni-potsdam.de/standorte/standort.php?bibliothek=Bereichsbiblioth
 
 52.40062914330,13.01299279920
 
+description: Die Bereitstellung von Beständen aus den Magazinen erfolgt i.d.R. am nächsten Öffnungstag, ausgenommen Samstag.
 
 @np10
 Bereichsbibliothek Neues Palais, Haus 10
@@ -91,6 +96,7 @@ http://info.ub.uni-potsdam.de/standorte/standort.php?bibliothek=Bereichsbiblioth
 
 52.40026112000,13.01305254320
 
+description: Die Bereitstellung von Beständen aus den Magazinen erfolgt i.d.R. am nächsten Öffnungstag, ausgenommen Samstag.
 
 @np11
 Bereichsbibliothek Neues Palais, Haus 11
@@ -100,7 +106,7 @@ Am Neuen Palais 10
 
 Mo - Fr 09:00 - 18:00 Uhr
 
-Aktuelle Veränderungen der Öffnungszeiten bitte der Homepage der UB entnehmen.
+description: Aktuelle Veränderungen der Öffnungszeiten bitte der Homepage der UB entnehmen.
 
 infonp1@uni-potsdam.de
 
@@ -114,6 +120,6 @@ http://info.ub.uni-potsdam.de/standorte/standort.php?bibliothek=Bereichsbiblioth
 @ha
 Handapparat
 
-Dieser Bestand ist außerhalb der UB aufgestellt. Bitte wenden Sie sich an die Informationsplätze der Bereichsbibliotheken.
+description: Dieser Bestand ist außerhalb der UB aufgestellt. Bitte wenden Sie sich an die Informationsplätze der Bereichsbibliotheken.
 
 

@@ -3,7 +3,6 @@ package Data::Libsites::Parser;
 use v5.14;
 use Moo;
 use Carp;
-no if $] >= 5.018, 'warnings', "experimental::smartmatch";
 
 has file  => (is => 'ro', default => sub { \*STDIN });
 has isil  => (is => 'ro');
@@ -71,49 +70,43 @@ sub parse_site {
 
     my $expect_address = 1;
 
-    while ( defined ( $_ = $self->_readline ) ) {
-        $self->parse_id($_);
+    my $line;
+    while ( defined ( $line = $self->_readline ) ) {
+        $self->parse_id($line);
 
         return $site if $self->_id;
 
         if (!defined $site->{name}) {
-            $site->{name} = $_;
+            $site->{name} = $line;
             next;
         }
 
-        given($_) {
-            when('') {
-                $expect_address = 0;
-            };
-            when( qr{[^@ ]+@[^@ ]+$} ) {
-                $site->{email} = $_;
-            };
-            when( qr{^https?://.+$} ) {
-                $site->{url} = $_;
-            };
-            # E.123 notation, ggf. mit '-' und '/':
-            # +49 123 456
-            # (0123) 456
-            # ggf. anhängender Kommentar
-            when(qr{^(\+[0-9]+|\([0-9]+\))[ -][0-9 /-]+( .+)?$}) { 
-                $site->{phone} = $_;
-            };
-            if ($_ =~ /([0-9]{2}:[0-9]{2})|Uhr/ && $_ =~ /(Mo|Di|Mi|Do|Fr|Sa|So)/) {
-                $append->( openinghours => $_ );
-                break;
-            };
-            when( qr{^(\d+\.\d+)\s*[,/;]\s*(\d+\.\d+)$} ) {
-                $site->{geolocation} = { geo_lat => $1, geo_long => $2 };
-            };
-            default {
-                if ($expect_address) {
-                    $append->( address => $_ );
-                    next;
-                } else {
-                    $append->( description => $_ );
-                }
-            };
-        };
+        if ($line eq '') {
+            $expect_address = 0;
+        } elsif ( $line =~ qr{^description:\s+(.*)} ) {
+            $append->( description => $1 );
+        } elsif ( $line =~ qr{[^@ ]+@[^@ ]+$} ) {
+            $site->{email} = $line;
+        } elsif ( $line =~ qr{^https?://.+$} ) {
+            $site->{url} = $line;
+        # E.123 notation, ggf. mit '-' und '/':
+        # +49 123 456
+        # (0123) 456
+        # ggf. anhängender Kommentar
+        } elsif ( $line =~ qr{^(\+[0-9]+|\([0-9]+\))[ -][0-9 /-]+( .+)?$} ) { 
+            $site->{phone} = $line;
+        } elsif ($line =~ /([0-9]{2}:[0-9]{2})|Uhr/ && $line =~ /(Mo|Di|Mi|Do|Fr|Sa|So)/) {
+            $append->( openinghours => $line );
+        } elsif ( $line =~ qr{^(\d+\.\d+)\s*[,/;]\s*(\d+\.\d+)$} ) {
+            $site->{geolocation} = { geo_lat => $1, geo_long => $2 };
+        } else {
+            if ($expect_address) {
+                $append->( address => $line );
+                next;
+            } else {
+                $append->( description => $line );
+            }
+        }
         $expect_address = 0;
 
     }
