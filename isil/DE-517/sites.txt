@@ -15,11 +15,27 @@ http://info.ub.uni-potsdam.de/standorte/standort.php?bibliothek=Bereichsbiblioth
 
 52.408231,12.973209
 
+Bereitstellung von Bestand aus dem Magazin Golm in die Bibliothek (spätestens eine Stunde zuvor bestellt): Mo - Fr: 09:00, 12:00 und 15:00 Uhr. Die Bereitstellung von Bestand aus dem Magazin Babelsberg erfolgt i.d.R. am nächsten Öffnungstag, ausgenommen Samstag.
+
+
+@golm_magazin
+Magazin Golm 
+Universitätskomplex II
+Gebäude 18 - IKMZ
+Karl-Liebknecht-Str. 24-25
+14476 Potsdam
+
+http://info.ub.uni-potsdam.de/standorte/standort.php?bibliothek=Bereichsbibliothek%20Golm%20im%20IKMZ
+
+52.408231,12.973209
+
+Bestellen Sie bitte über den Online-Katalog. Bereitstellung von Bestand aus dem Magazin Golm in die BB Golm (spätestens eine Stunde zuvor bestellt): Mo - Fr: 09:00, 12:00 und 15:00 Uhr. Die Bereitstellung von Bestand an den Standorten  Babelsberg und Neues Palais erfolgt i.d.R. am nächsten Öffnungstag, ausgenommen Samstag.
+
 @bbb
 Bereichsbibliothek Babelsberg
-Universitätskomplex III, Griebnitzsee 
+Universitätskomplex III, Griebnitzsee
 Gebäude 05
-August-Bebel-Straße 89 
+August-Bebel-Straße 89
 14482 Potsdam
 
 Mo - Fr 09:00 - 22:00, Sa 09:00 - 18:00, So 12:00 - 18:00 Uhr
@@ -32,9 +48,25 @@ http://info.ub.uni-potsdam.de/standorte/standort.php?bibliothek=Bereichsbiblioth
 
 52.39404892000,13.13081226820
 
+Bereitstellung von Bestand aus dem Magazin Babelsberg in die Bibliothek (spätestens eine Stunde zuvor bestellt): Mo - Fr: 09:00, 12:00 und 15:00 Uhr. Die Bereitstellung von Bestand aus dem Magazin Golm erfolgt i.d.R. am nächsten Öffnungstag, ausgenommen Samstag.
+
+
+@bbb_magazin
+Magazin Bereichsbibliothek Babelsberg 
+Universitätskomplex III, Griebnitzsee
+Gebäude 05
+August-Bebel-Straße 89
+14482 Potsdam
+
+http://info.ub.uni-potsdam.de/standorte/standort.php?bibliothek=Bereichsbibliothek%20Babelsberg%20Haus%205
+
+52.39404892000,13.13081226820
+
+Bestellen Sie bitte über den Online-Katalog. Bereitstellung von Bestand aus dem Magazin Babelsberg in die Bibliothek Babelsberg(spätestens eine Stunde zuvor bestellt): Mo-Fr 09:00, 12:00 und 15:00 Uhr. Die Bereitstellung von Bestand in die Standorte Golm und Neues Palais erfolgt i.d.R. am nächsten Öffnungstag, ausgenommen Samstag und Sonntag.
+
 @np09
 Bereichsbibliothek Neues Palais, Haus 09
-Universitätkomplex I, Neues Palais, Gebäude 09 
+Universitätskomplex I, Neues Palais, Gebäude 09
 Am Neuen Palais 10
 14469 Potsdam
 
@@ -44,9 +76,12 @@ infonp2@uni-potsdam.de
 
 +49 331 977 1541
 
-http://info.ub.uni-potsdam.de/standorte/standort.php?bibliothek=Bereichsbibliothek%20Neues%20Palais%20Haus%209    
+http://info.ub.uni-potsdam.de/standorte/standort.php?bibliothek=Bereichsbibliothek%20Neues%20Palais%20Haus%209
 
 52.40062914330,13.01299279920
+
+Die Bereitstellung von Beständen aus den Magazinen erfolgt i.d.R. am nächsten Öffnungstag, ausgenommen Samstag.
+
 
 @np10
 Bereichsbibliothek Neues Palais, Haus 10
@@ -64,6 +99,9 @@ http://info.ub.uni-potsdam.de/standorte/standort.php?bibliothek=Bereichsbiblioth
 
 52.40026112000,13.01305254320
 
+Die Bereitstellung von Beständen aus den Magazinen erfolgt i.d.R. am nächsten Öffnungstag, ausgenommen Samstag.
+
+
 @np11
 Bereichsbibliothek Neues Palais, Haus 11
 Komplex I, Neues Palais, Gebäude 11
@@ -72,15 +110,23 @@ Am Neuen Palais 10
 
 Mo - Fr 09:00 - 18:00 Uhr
 
+Aktuelle Veränderungen der Öffnungszeiten bitte der Homepage der UB entnehmen.
+
 infonp1@uni-potsdam.de
 
-+49 331 977 1401    
++49 331 977 1401
 
 http://info.ub.uni-potsdam.de/standorte/standort.php?bibliothek=Bereichsbibliothek%20Neues%20Palais%20Haus%2011
 
-52.40184194750,13.01286434950   
- 
+52.40184194750,13.01286434950
+
+Die Bereitstellung von Beständen aus den Magazinen erfolgt i.d.R. am nächsten Öffnungstag, ausgenommen Samstag.
+
+
 @ha
-Handapparat                               
+Handapparat
 
 Dieser Bestand ist außerhalb der UB aufgestellt. Bitte wenden Sie sich an die Informationsplätze der Bereichsbibliotheken.
+
+
+
