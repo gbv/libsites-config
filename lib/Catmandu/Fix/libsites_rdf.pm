@@ -11,7 +11,7 @@ sub fix {
     my ($self, $r) = @_;
 
     my $rdf = {
-        a => 'foaf:Organization',
+        a => 'foaf_Organization',
         foaf_homepage    => $r->{url},
         foaf_phone       => $r->{phone},
         foaf_name        => $r->{name},
