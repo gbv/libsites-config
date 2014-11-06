@@ -1,12 +1,9 @@
-DE-547@
-Universitätsbibliothek Erfurt (UB Erfurt)
-Nordhäuser Straße 63
-99089 Erfurt
-+49 361 737-5800
-information.ub(at)uni-erfurt.de
-http://www.uni-erfurt.de/bibliothek
-Mo - Fr 08.00 - 22.00 Uhr, Sa 10.00 - 13.00 Uhr, So 13.00 - 18.00 Uhr
-geänderte Öffnungszeiten während der vorlesungsfreien Zeit siehe 
-http://www.uni-erfurt.de/bibliothek/ub/oeffnungszeiten/
+DE-547
+Universitäts- und Forschungsbibliothek Erfurt/Gotha, Universitätsbibliothek Erfurt (UB Erfurt)
 
-50.99157, 11.01122
+information.ub@uni-erfurt.de
+http://www.uni-erfurt.de/bibliothek
+
+Mo - Fr 08.00 - 22.00 Uhr, Sa 10.00 - 13.00 Uhr, So 13.00 - 18.00 Uhr
+
+description: Geänderte Öffnungszeiten während der vorlesungsfreien Zeit siehe http://www.uni-erfurt.de/bibliothek/ub/oeffnungszeiten/
