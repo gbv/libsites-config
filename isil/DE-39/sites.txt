@@ -1,10 +1,6 @@
 @
-Forschungsbibliothek Gotha (FB Gotha)
-Schloss Friedenstein
-99867 Gotha
-+49 361 737 -5540
-bibliothek.gotha(at)uni-erfurt.de
-http://www.uni-erfurt.de/bibliothek
+Universitäts- und Forschungsbibliothek Erfurt/Gotha, Forschungsbibliothek Gotha (=Gotha FB)
+
 Mo - Fr 09.00 - 20.00 Uhr, Sa/So 09.00 - 13.00 Uhr
 
 50.94584, 10.70447
