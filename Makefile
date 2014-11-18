@@ -1,6 +1,6 @@
 SELF_DIR := $(dir $(lastword $(MAKEFILE_LIST)))
 
-.PHONY: info
+.PHONY: info test-isil test-code
 
 info:
 	@echo "make deps - installiert benötigte Perl-Module zur Konvertierung."
