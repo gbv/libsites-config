@@ -21,6 +21,7 @@ http://www.biblio.tu-bs.de/standorte/CB.html
 
 @ls1
 Lesesaal 1
+Pockelsstr. 13
 
 @ls2
 Lesesaal 2
