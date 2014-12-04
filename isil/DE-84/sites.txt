@@ -1,38 +1,35 @@
 @
-Universitätsbibliothek Braunschweig
+UB Braunschweig
+Pockelsstr. 13
+38106 Braunschweig
 
-@kibu
-Kinderbuchsammlung
+Mo-Fr 07:00 - 24:00 Uhr
+Sa 10:00 - 22:00 Uhr
+So 10:00 - 17:00 Uhr
 
-@wire
-Institut für Wissenschaftliches Rechnen
-Hans-Sommer-Str. 65
-http://www.wire.tu-bs.de/cgi-bin/bib-ng/index.cgi
+ub@tu-braunschweig.de
 
-@bmi
-Bibliothek der Mathematischen Institute
-Rebenring 31 (Rebenpark)
-http://www.mathematik.tu-bs.de/bmi/
++49 531 391 5018
+
+http://www.biblio.tu-bs.de
+
+52.274011,10.529346
 
 @cb
-Teilbibliothek Chemie
+Chemiebibliothek
 Hagenring 30
-http://www.biblio.tu-bs.de/standorte/CB.html
+38106 Braunschweig
 
-@ls1
-Lesesaal 1
-Pockelsstr. 13
++49 531 391 5034
 
-@ls2
-Lesesaal 2
-
-@ls3
-Lesesaal 3
-
-@lb
-Lehrbuchsammlung
+52.273240,10.535672
 
 @py
 Physikbibliothek
 Mendelssohnstr. 2
-http://www.tu-braunschweig.de/physik/studierende/bibliotheken
+38106 Braunschweig
+
++49 531 391 5028
+
+52.280400,10.547439
+
