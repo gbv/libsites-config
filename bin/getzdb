@@ -17,6 +17,7 @@ foreach my $isil (@ARGV) {
 
     my $exporter = exporter('RDF', type => 'ntriples', file => $file);
 
+
     importer('RDF', url => $uri, triples => 1, predicate_map => 1,
             fix => [sub {
                 my $aref = shift;
