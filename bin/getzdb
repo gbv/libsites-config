@@ -3,7 +3,7 @@ use v5.14;
 
 use RDF::Trine;
 
-use Catmandu qw(export);
+use Catmandu qw(importer export);
 
 foreach my $isil (@ARGV) {
     $isil =~ s|(\./)?isil/([^/]+)(/sites\.txt)?$|$2|;
@@ -12,29 +12,26 @@ foreach my $isil (@ARGV) {
         next;  
     }
 
-    my $model = RDF::Trine::Model->new;
-
-    my $file = "isil/$isil/zdb.nt";
-    my $url = "http://ld.zdb-services.de/data/organisations/$isil";
     my $uri = "http://ld.zdb-services.de/resource/organisations/$isil";
     my $gbvuri = "http://uri.gbv.de/organization/isil/$isil";
-    say "$url - $file";
 
-    # RDF::Trine::Parser->parse_url_into_model corrupts UTF8 (WTF?) 
-    system("rapper $url > $file");
- 
+    my $file = "isil/$isil/zdb.nt";
+    say "$uri - $file";
+
     # replace URI. TODO: replace Adress (vCard)
-    {
-        local @ARGV = $file;
-        local $^I = '';
-        while (<>) {
+    my $importer = importer('RDF', url => $uri, triples => 1, fix => sub {
+        my $aref = @_;
+
+        foreach (values %$aref) {
             s/\Q$uri/$gbvuri/g;
             s/"\(ISIL\)([^"]+)"/"\1"/g;
-            print;
         }
-    }
 
-    open my $fh, ">>", $file;
-    say $fh "<$url> <http://www.w3.org/2002/07/owl#sameAs> <$gbvuri> .";
-    close $fh;
+        $aref;
+    }); 
+
+    my $exporter = exporter('RDF', type => 'ntriples', file => $file);
+ 
+    $exporter->add({ _id => $url, owl_sameAs => $gbvuri });
+    $exporter->commit;
 }
