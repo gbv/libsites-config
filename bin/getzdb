@@ -15,16 +15,18 @@ foreach my $isil (@ARGV) {
 
     say "$uri - $file";
 
-    my $importer = importer('RDF', url => $uri, triples => 1, fix => [sub {
-        my $aref = @_;
-        foreach (values %$aref) {
-            s/\Q$uri/$gbvuri/g;
-            s/"\(ISIL\)([^"]+)"/"\1"/g;
-        }
-        $aref;
-    }]); 
-
     my $exporter = exporter('RDF', type => 'ntriples', file => $file);
+
+    importer('RDF', url => $uri, triples => 1, predicate_map => 1,
+            fix => [sub {
+                my $aref = shift;
+                foreach (values %$aref) {
+                    s/\Q$uri/$gbvuri/g;
+                    s/"\(ISIL\)([^"]+)"/"\1"/g;
+                }
+                $aref;
+            }]
+    )->each( sub { $exporter->add($_[0]) } ); 
  
     $exporter->add({ _id => $uri, owl_sameAs => $gbvuri });
     $exporter->commit;
