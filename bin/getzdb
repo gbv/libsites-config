@@ -1,37 +1,31 @@
 #!/usr/bin/env perl
 use v5.14;
-
-use RDF::Trine;
-
-use Catmandu qw(importer export);
+use Catmandu -all;
 
 foreach my $isil (@ARGV) {
     $isil =~ s|(\./)?isil/([^/]+)(/sites\.txt)?$|$2|;
     if ($isil !~ /^[A-Z]{1,3}-[A-Za-z0-9\/:-]{1,10}$/) {
         warn "invalid ISIL $isil\n";
-        next;  
+        next;
     }
 
-    my $uri = "http://ld.zdb-services.de/resource/organisations/$isil";
+    my $uri    = "http://ld.zdb-services.de/resource/organisations/$isil";
     my $gbvuri = "http://uri.gbv.de/organization/isil/$isil";
+    my $file   = "isil/$isil/zdb.nt";
 
-    my $file = "isil/$isil/zdb.nt";
     say "$uri - $file";
 
-    # replace URI. TODO: replace Adress (vCard)
-    my $importer = importer('RDF', url => $uri, triples => 1, fix => sub {
+    my $importer = importer('RDF', url => $uri, triples => 1, fix => [sub {
         my $aref = @_;
-
         foreach (values %$aref) {
             s/\Q$uri/$gbvuri/g;
             s/"\(ISIL\)([^"]+)"/"\1"/g;
         }
-
         $aref;
-    }); 
+    }]); 
 
     my $exporter = exporter('RDF', type => 'ntriples', file => $file);
  
-    $exporter->add({ _id => $url, owl_sameAs => $gbvuri });
+    $exporter->add({ _id => $uri, owl_sameAs => $gbvuri });
     $exporter->commit;
 }
