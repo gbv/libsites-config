@@ -17,13 +17,13 @@ foreach my $isil (@ARGV) {
 
     my $exporter = exporter('RDF', type => 'ntriples', file => $file);
 
-
     importer('RDF', url => $uri, triples => 1, predicate_map => 1,
             fix => [sub {
                 my $aref = shift;
+                # TODO: aref_translate
                 foreach (values %$aref) {
                     s/\Q$uri/$gbvuri/g;
-                    s/"\(ISIL\)([^"]+)"/"\1"/g;
+                    s/^\(ISIL\)([^"]+)/\1/g;
                 }
                 $aref;
             }]
