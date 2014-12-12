@@ -13,22 +13,26 @@ foreach my $isil (@ARGV) {
     my $gbvuri = "http://uri.gbv.de/organization/isil/$isil";
     my $file   = "isil/$isil/zdb.nt";
 
-    say "$uri - $file";
-
     my $exporter = exporter('RDF', type => 'ntriples', file => $file);
 
-    importer('RDF', url => $uri, triples => 1, predicate_map => 1,
-            fix => [sub {
-                my $aref = shift;
-                # TODO: aref_translate
-                foreach (values %$aref) {
-                    s/\Q$uri/$gbvuri/g;
-                    s/^\(ISIL\)([^"]+)/\1/g;
-                }
-                $aref;
-            }]
-    )->each( sub { $exporter->add($_[0]) } ); 
- 
-    $exporter->add({ _id => $uri, owl_sameAs => $gbvuri });
-    $exporter->commit;
+    # TODO: don't die on 404 not found
+    eval {
+        print"$uri - $file";
+        importer('RDF', url => $uri, triples => 1, predicate_map => 1,
+                fix => [sub {
+                    my $aref = shift;
+                    # TODO: aref_translate
+                    foreach (values %$aref) {
+                        s/\Q$uri/$gbvuri/g;
+                        s/^\(ISIL\)([^"]+)/\1/g;
+                    }
+                    $aref;
+                }]
+        )->each( sub { $exporter->add($_[0]) } ); 
+
+        $exporter->add({ _id => $uri, owl_sameAs => $gbvuri });
+        $exporter->commit;
+        print "\n";
+    };
+    print " - failed\n" if $@;
 }
