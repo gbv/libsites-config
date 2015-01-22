@@ -15,6 +15,9 @@ http://www.uni-jena.de/uniarchiv.html
 Magazin
 http://www.thulb.uni-jena.de/Magazinbestellung.html
 
+@dmag
+Sicherungs-Digitalisat
+
 @ls
 Bibliothekshauptgebäude / Allgemeiner Lesesaal
 http://www.thulb.uni-jena.de/tb_geist.html
@@ -132,7 +135,6 @@ http://www.thulb.uni-jena.de/ha_lst.html
 @psy
 TB Medizin : Psychiatrie
 http://www.thulb.uni-jena.de/Psychiatrie.html
-
 
 @tll
 Agrarwissenschaftliche Bibliothek der Thüringer Landesanstalt für Landwirtschaft
