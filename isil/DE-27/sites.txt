@@ -22,8 +22,12 @@ Sicherungs-Digitalisat
 Bibliothekshauptgebäude / Allgemeiner Lesesaal
 http://www.thulb.uni-jena.de/tb_geist.html
 
+@ls2
+Bibliothekshauptgebäude / Sonderlesesaal 2
+http://www.thulb.uni-jena.de/tb_geist.html
+
 @mls
-Bibliothekshauptgebäude / Multimedia-Arbeitsbereich
+Bibliothekshauptgebäude / Sonderlesesaal 2
 http://www.thulb.uni-jena.de/tb_geist.html
 
 
