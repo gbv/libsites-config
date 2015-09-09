@@ -11,6 +11,8 @@ werden. Alle Inhalte werden als Public Domain (CC-Zero) freigegeben.
 
 ## Technischer Hintergrund
 
+> Die folgenden Ausführungen sind nicht mehr aktuell!
+
 Der master-branch des Repository wird durch aufruf von `make test` automatisch
 unter <http://travis-ci.org> auf syntaktische Korrektheit getestet. Die zum
 Testen notwendigen Perl-Module lassen sich mit `make deps` installieren. Zur

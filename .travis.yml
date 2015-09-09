@@ -1,11 +1,15 @@
-language: perl
-perl:
-    - "5.18"
-    - "5.14"
+language: bash
+sudo: required
+cache: apt
 
+# we don't use docker but this triggers travis-ci to provide Ubuntu 14.04
+services:
+    - docker
+before_install:
+    - lsb_release -a
+    - sudo apt-get update -qq
 install:
-    - cpanm --notest --skip-satisfied --installdeps .
-
+    - git clone https://github.com/gbv/libsites.git
+    - cd libsites && sudo make dependencies && make local && cd -
 script:
-    - make dirs
-    - make test
+    - perl check.pl
