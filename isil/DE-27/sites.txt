@@ -112,6 +112,10 @@ http://www.thulb.uni-jena.de/TB_Medizin.html
 TB Medizin : Medizinische Studienbibliothek / Magazin
 http://www.thulb.uni-jena.de/Studienbibliothek.html
 
+@mag5
+TB Rechts-, Wirtschafts- und Sozialwissenschaften / Magazin
+http://www.thulb.uni-jena.de/tb_rewi.html
+
 @vor
 TB Medizin : Vorklinische Medizin und Zahnmedizin
 http://www.thulb.uni-jena.de/Vorklinische_Medizin.html
