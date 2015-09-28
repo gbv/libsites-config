@@ -1,12 +1,12 @@
 @
 Cellarius Bibliothek
-Fachhochschule Schmalkalden
+Hochschule Schmalkalden
 Blechhammer, Haus I
 98574 Schmalkalden
 
 +49 3683 6 88-1785
 
-bibliothek@fh-schmalkalden.de
+bibliothek@hs-schmalkalden.de
 
 50.717354, 10.464998
 
