@@ -10,14 +10,14 @@ auskunft@uni-hildesheim.de
 Mo-Fr 9:00-21:00, Sa 10:00-18:00
 
 @ami
-AMI-Medienzentrum
+Medienausleihe Hauptcampus
 Raum G009
-Marienburger Platz 22
+Universitätsplatz 1
 31141 Hildesheim
 
 +49-5121-88320574
 
-amimz@uni-hildesheim.de
+medienausleihe@uni-hildesheim.de 
 
 52.1341,9.976481
 
@@ -25,14 +25,16 @@ Di,Do 9:30-12:30, 14:00-16:00, Mi 14:00-16:00
 
 @azp
 AZP-Bibliothek
-Tilsiterstraße 1
+Kulturcampus Domäne Marienburg
+Weißes Haus (Haus 46), Raum 003
+Domänenstraße 46
 31141 Hildesheim
 
-+49-5121-88321114
++49-5121-88321110
 
-52.132922,9.977087
+52.115046, 9.982790
 
-Di 16:00-18:00, Do 15:00-17:30
+Mo 12:00-15:00
 
 @hand
 Handapparat
