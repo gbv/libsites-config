@@ -1,7 +1,7 @@
 ﻿@
 UB Hildesheim
 
-+49-5121-88393010
++49 5121 8 83-93010
 
 auskunft@uni-hildesheim.de
 
@@ -15,7 +15,7 @@ Raum G009
 Universitätsplatz 1
 31141 Hildesheim
 
-+49-5121-88320574
++49 5121 8 83-20574
 
 medienausleihe@uni-hildesheim.de 
 
@@ -30,7 +30,7 @@ Weißes Haus (Haus 46), Raum 003
 Domänenstraße 46
 31141 Hildesheim
 
-+49-5121-88321110
++49 5121 8 83-21110
 
 52.115046, 9.982790
 
