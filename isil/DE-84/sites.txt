@@ -15,57 +15,6 @@ http://www.biblio.tu-bs.de
 
 52.274011,10.529346
 
-@ls1
-UB Braunschweig
-Pockelsstr. 13
-38106 Braunschweig
-
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
-
-ub@tu-braunschweig.de
-
-+49 531 391 5018
-
-http://www.biblio.tu-bs.de
-
-52.274011,10.529346
-
-@ls2
-UB Braunschweig
-Pockelsstr. 13
-38106 Braunschweig
-
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
-
-ub@tu-braunschweig.de
-
-+49 531 391 5018
-
-http://www.biblio.tu-bs.de
-
-52.274011,10.529346
-
-@ls3
-UB Braunschweig
-Pockelsstr. 13
-38106 Braunschweig
-
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
-
-ub@tu-braunschweig.de
-
-+49 531 391 5018
-
-http://www.biblio.tu-bs.de
-
-52.274011,10.529346
-
 @cb
 Chemiebibliothek
 Hagenring 30
