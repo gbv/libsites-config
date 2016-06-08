@@ -1108,7 +1108,7 @@ Mühlenpfordtstr. 23
 52.27303,10.525139999999965 
 
 @R3
-Institut für Controlling und Unternehmensrecht
+Institut für Controlling und Unternehmensrechnung
 Fallersleber-Tor-Wall 23
 38106 Braunschweig
 
