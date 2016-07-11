@@ -11,9 +11,96 @@ ub@tu-braunschweig.de
 
 +49 531 391 5018
 
-http://www.biblio.tu-bs.de
+http://ub.tu-braunschweig.de/
 
 52.274011,10.529346
+
+@ls1
+UB Braunschweig - Lesesaal 1
+Pockelsstr. 13
+38106 Braunschweig
+
+Mo-Fr 07:00 - 24:00 Uhr
+Sa 10:00 - 22:00 Uhr
+So 10:00 - 17:00 Uhr
+
+ub@tu-braunschweig.de
+
++49 531 391 5018
+
+http://ub.tu-braunschweig.de/
+
+52.274011,10.529346
+
+@ls2
+UB Braunschweig - Lesesaal 2
+Pockelsstr. 13
+38106 Braunschweig
+
+Mo-Fr 07:00 - 24:00 Uhr
+Sa 10:00 - 22:00 Uhr
+So 10:00 - 17:00 Uhr
+
+ub@tu-braunschweig.de
+
++49 531 391 5018
+
+http://ub.tu-braunschweig.de/
+
+52.274011,10.529346
+
+@ls3
+UB Braunschweig - Lesesaal 3
+Pockelsstr. 13
+38106 Braunschweig
+
+Mo-Fr 07:00 - 24:00 Uhr
+Sa 10:00 - 22:00 Uhr
+So 10:00 - 17:00 Uhr
+
+ub@tu-braunschweig.de
+
++49 531 391 5018
+
+http://ub.tu-braunschweig.de/
+
+52.274011,10.529346
+
+@mag1
+UB Braunschweig - Magazin
+38106 Braunschweig
+
+@mag2
+UB Braunschweig - Magazin
+38106 Braunschweig
+
+@mag3
+UB Braunschweig - Magazin
+38106 Braunschweig
+
+@mag4
+UB Braunschweig - Magazin
+38106 Braunschweig
+
+@mag5
+UB Braunschweig - Magazin
+38106 Braunschweig
+
+@mag6
+UB Braunschweig - Magazin
+38106 Braunschweig
+
+@mag7
+UB Braunschweig - Magazin
+38106 Braunschweig
+
+@mag8
+UB Braunschweig - Magazin
+38106 Braunschweig
+
+@mag9
+UB Braunschweig - Magazin
+38106 Braunschweig
 
 @cb
 Chemiebibliothek
@@ -340,7 +427,7 @@ Humboldtstr. 33
 
 +49 531 391 2812
 
-5226963,10.533509999999978
+52.26963,10.533509999999978
 
 @c8g
 Institut für Psychologie 
@@ -349,7 +436,7 @@ Bültenweg 74/75
 
    
 
-5227611,10.534080000000017 
+52.27611,10.534080000000017 
 
 @c8h
 Institut für Psychologie
@@ -378,7 +465,7 @@ Humboldtstr. 33
 
 +49 531 391 2855
 
-5226963,10.533509999999978
+52.26963,10.533509999999978
 
 @c8p
 Institut für Psychologie 
@@ -428,8 +515,6 @@ Pockelsstr. 3
 38106 Braunschweig
 
 +49 531 391 3588
-
- 
 
 52.272654,10.527581800000007 
 
@@ -1329,7 +1414,7 @@ Bültenweg 74/75 (Zimmer 105)
 
 https://www.tu-braunschweig.de/career/literatur
 
-5227611,10.534080000000017 
+52.27611,10.534080000000017 
 
 @sv
 Kooperationsstelle Hochschule-Gewerkschaften SON
@@ -1338,7 +1423,7 @@ Bültenweg 74/75
 
 +49 531 391 4280
 
-5227611,10.534080000000017 
+52.27611,10.534080000000017 
 
 @sx
 Frauenbibliothek
