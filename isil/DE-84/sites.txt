@@ -11,9 +11,96 @@ ub@tu-braunschweig.de
 
 +49 531 391 5018
 
-http://www.biblio.tu-bs.de
+http://ub.tu-braunschweig.de/
 
 52.274011,10.529346
+
+@ls1
+UB Braunschweig - Lesesaal 1
+Pockelsstr. 13
+38106 Braunschweig
+
+Mo-Fr 07:00 - 24:00 Uhr
+Sa 10:00 - 22:00 Uhr
+So 10:00 - 17:00 Uhr
+
+ub@tu-braunschweig.de
+
++49 531 391 5049
+
+http://ub.tu-braunschweig.de/
+
+52.274011,10.529346
+
+@ls2
+UB Braunschweig - Lesesaal 2
+Pockelsstr. 13
+38106 Braunschweig
+
+Mo-Fr 07:00 - 24:00 Uhr
+Sa 10:00 - 22:00 Uhr
+So 10:00 - 17:00 Uhr
+
+ub@tu-braunschweig.de
+
++49 531 391 5056
+
+http://ub.tu-braunschweig.de/
+
+52.274011,10.529346
+
+@ls3
+UB Braunschweig - Lesesaal 3
+Pockelsstr. 13
+38106 Braunschweig
+
+Mo-Fr 07:00 - 24:00 Uhr
+Sa 10:00 - 22:00 Uhr
+So 10:00 - 17:00 Uhr
+
+ub@tu-braunschweig.de
+
++49 531 391 5059
+
+http://ub.tu-braunschweig.de/
+
+52.274011,10.529346
+
+@mag1
+UB Braunschweig - Magazin
+38106 Braunschweig
+
+@mag2
+UB Braunschweig - Magazin
+38106 Braunschweig
+
+@mag3
+UB Braunschweig - Magazin
+38106 Braunschweig
+
+@mag4
+UB Braunschweig - Magazin
+38106 Braunschweig
+
+@mag5
+UB Braunschweig - Magazin
+38106 Braunschweig
+
+@mag6
+UB Braunschweig - Magazin
+38106 Braunschweig
+
+@mag7
+UB Braunschweig - Magazin
+38106 Braunschweig
+
+@mag8
+UB Braunschweig - Magazin
+38106 Braunschweig
+
+@mag9
+UB Braunschweig - Magazin
+38106 Braunschweig
 
 @cb
 Chemiebibliothek
@@ -82,8 +169,6 @@ Pockelsstraße 14 (Forumsgebäude)
 
 +49 531 391 7430 - Sekr.
 
- 
-
 52.27349779999990,10.529713799999968 
 
 @a42
@@ -92,8 +177,6 @@ Pockelsstraße 14 (Forumsgebäude)
 38106 Braunschweig
 
 +49 531 391 7424 - Sekr.
-
- 
 
 52.27349779999990,10.529713799999968 
 
@@ -104,8 +187,6 @@ Pockelsstraße 14 (Forumsgebäude)
 
 +49 531 391 7537 - Sekr.
 
- 
-
 52.27349779999990,10.529713799999968 
 
 @a44
@@ -114,8 +195,6 @@ Pockelsstraße 14 (Forumsgebäude)
 38106 Braunschweig
 
 +49 531 391 7402 - Sekr.
-
- 
 
 52.27349779999990,10.529713799999968 
 
@@ -126,8 +205,6 @@ Pockelsstraße 14 (Forumsgebäude)
 
 +49 531 391 7552
 
- 
-
 52.27349779999990,10.529713799999968 
 
 @a46
@@ -136,8 +213,6 @@ Pockelsstraße 14 (Forumsgebäude)
 38106 Braunschweig
 
 +49 531 391 7567
-
- 
 
 52.27349779999990,10.529713799999968 
 
@@ -148,8 +223,6 @@ Mendelssohnstr. 1
 
 +49 531 391 5680
 
- 
-
 52.2799713,10.547182600000042 
 
 @a6
@@ -158,8 +231,6 @@ Mendelssohnstr. 1
 38106 Braunschweig
 
 +49 531 391 5665
-
- 
 
 52.2799713,10.547182600000042 
 
@@ -179,8 +250,6 @@ Mühlenpfordstr. 23
 
 +49 531 391 2102
 
- 
-
 52.27303,10.525139999999965 
 
 @af
@@ -189,8 +258,6 @@ Mendelssohnstr. 2
 38106 Braunschweig
 
 +49 531 391 8500
-
- 
 
 52.28033,10.5472
 
@@ -201,8 +268,6 @@ Mendelssohnstr. 3
 
 +49 531 391 5201 - Sekr.
 
- 
-
 52.28033,10.547900000000027
 
 @b1
@@ -211,8 +276,6 @@ Langer Kamp 19c
 38106 Braunschweig
 
 +49 531 391 5628
-
- 
 
 52.27674,10.53774999999996
 
@@ -234,8 +297,6 @@ Spielmannstr. 7
 
 +49 531 391 5800
 
- 
-
 52.2735043,10.53028919999997 
 
 @b4
@@ -245,8 +306,6 @@ Hagenring 30
 
 +49 531 391 5256
 
- 
-
 52.27370999999990,10.53598999999997 
 
 @b5
@@ -255,8 +314,6 @@ Spielmannstr. 7
 38106 Braunschweig
 
 +49 531 391 5732
-
- 
 
 52.2735043,10.53028919999997 
 
@@ -289,8 +346,6 @@ Schleinitzstr. 20, 3. OG
 
 +49 531 391 7202
 
- 
-
 52.27356690000001,10.52469300000007 
 
 @c1
@@ -299,8 +354,6 @@ Beethovenstr. 55
 38106 Braunschweig
 
 +49 531 391 2751
-
- 
 
 52.28048,10.54517999999996 
 
@@ -340,16 +393,14 @@ Humboldtstr. 33
 
 +49 531 391 2812
 
-5226963,10.533509999999978
+52.26963,10.533509999999978
 
 @c8g
 Institut für Psychologie 
 Bültenweg 74/75
 38106 Braunschweig
 
-   
-
-5227611,10.534080000000017 
+52.27611,10.534080000000017 
 
 @c8h
 Institut für Psychologie
@@ -378,7 +429,7 @@ Humboldtstr. 33
 
 +49 531 391 2855
 
-5226963,10.533509999999978
+52.26963,10.533509999999978
 
 @c8p
 Institut für Psychologie 
@@ -395,8 +446,6 @@ Spielmannstr. 7
 38106 Braunschweig
 
 +49 531 391 5773
-
- 
 
 52.2735043,10.53028919999997 
 
@@ -429,8 +478,6 @@ Pockelsstr. 3
 
 +49 531 391 3588
 
- 
-
 52.272654,10.527581800000007 
 
 @f3
@@ -461,8 +508,6 @@ Pockelsstr. 3 (Okerufer)
 38106 Braunschweig
 
 +49 531 391 94400
-
- 
 
 52.272654,10.527581800000007 
 
@@ -504,8 +549,6 @@ Bienroder Weg 87
 
 +49 531 391 94351
 
- 
-
 52.2851198,10.538257899999962
 
 @f9
@@ -514,8 +557,6 @@ Pockelsstr. 3 (Okerufer)
 38106 Braunschweig
 
 +49 531 391 2523
-
- 
 
 52.272654,10.527581800000007 
 
@@ -526,8 +567,6 @@ Pockelsstr. 3
 
 +49 531 391 94501
 
- 
-
 52.272654,10.527581800000007 
 
 @g0
@@ -536,8 +575,6 @@ Pockelsstr. 4 (Schleinitzstr. 20)
 38106 Braunschweig
 
 +49 531 391 2515
-
- 
 
 52.2732324,10.5285664
 
@@ -548,8 +585,6 @@ Pockelsstr. 3 (Okerufer)
 
 +49 531 391 2544
 
- 
-
 52.272654,10.527581800000007 
 
 @g3
@@ -559,8 +594,6 @@ Zimmerstr. 24
 
 +49 531 391 3559
 
- 
-
 52.2732,10.53449999999998 
 
 @g4
@@ -569,8 +602,6 @@ Schleinitzstr. 21b (Steinbaracke)
 38106 Braunschweig
 
 +49 531 391 5922
-
- 
 
 52.27367169999999,10.526204199999938 
 
@@ -636,8 +667,6 @@ Schleinitzstr. 21a (Steinbaracke)
 
 +49 531 391 7801
 
- 
-
 52.27367169999999,10.526204199999938 
 
 @h2
@@ -702,8 +731,6 @@ Pockelsstr. 3 (3. Etage)
 
 +49 531 391 94574
 
- 
-
 52.272654,10.527581800000007 
 
 @h8
@@ -757,8 +784,6 @@ Hans-Sommer-Str. 66
 
 +49 531 391 3774
 
- 
-
 52.276328,10.54024800000002 
 
 @l6
@@ -799,8 +824,6 @@ Hermann-Blenk-Straße 42
 
 +49 531 391 66301 - Sekr.
 
- 
-
 52.3145378,10.542056600000024 
 
 @lc
@@ -821,8 +844,6 @@ Schleinitzstr. 20
 
 +49 531 391 7028
 
- 
-
 52.27356690000001,10.52469300000007 
 
 @m1
@@ -842,8 +863,6 @@ Hermann-Blenk-Str. 27
 38106 Braunschweig
 
 +49 531 391 9802
-
- 
 
 52.3138324,10.548239800000033 
 
@@ -876,8 +895,6 @@ Langer Kamp 19a
 
 +49 531 391 2672
 
- 
-
 52.27776,10.537410000000023
 
 @m7
@@ -886,8 +903,6 @@ Hermann-Blenk-Str. 37
 38106 Braunschweig
 
 +49 531 391 94202
-
- 
 
 52.3142729,10.543860399999971 
 
@@ -909,8 +924,6 @@ Hans-Sommer-Str. 5
 
 +49 531 391 2627
 
- 
-
 52.27627,10.537609999999972 
 
 @n0
@@ -929,8 +942,6 @@ Langer Kamp 7
 
 +49 531 391 2781
 
- 
-
 52.27773999999990,10.540340000000015 
 
 @n3
@@ -939,8 +950,6 @@ Volkmaroder Str. 5
 38104 Braunschweig
 
 +49 531 391 9611
-
- 
 
 52.28763,10.565510000000017 
 
@@ -960,8 +969,6 @@ Langer Kamp 8
 
 +49 531 391 95501
 
- 
-
 52.27799,10.538000000000011 
 
 @n7
@@ -970,8 +977,6 @@ Langer Kamp 8
 38106 Braunschweig
 
 +49 531 391 3068
-
-  
 
 52.27799,10.538000000000011 
 
@@ -982,8 +987,6 @@ Hans-Sommer-Str. 66
 
 +49 531 391 3913
 
- 
-
 52.276328,10.54024800000002 
 
 @o0
@@ -992,8 +995,6 @@ Schleinitzstr. 23
 38106 Braunschweig
 
 +49 531 391 7737
-
- 
 
 52.27377689999999,10.528196600000001 
 
@@ -1015,8 +1016,6 @@ Hans-Sommer-Str. 66
 
 +49 531 391 3867
 
- 
-
 52.276328,10.54024800000002 
 
 @o4
@@ -1025,8 +1024,6 @@ Hans-Sommer-Str. 66
 38106 Braunschweig
 
 +49 531 391 3163
-
- 
 
 52.276328,10.54024800000002 
 
@@ -1329,7 +1326,7 @@ Bültenweg 74/75 (Zimmer 105)
 
 https://www.tu-braunschweig.de/career/literatur
 
-5227611,10.534080000000017 
+52.27611,10.534080000000017 
 
 @sv
 Kooperationsstelle Hochschule-Gewerkschaften SON
@@ -1338,7 +1335,7 @@ Bültenweg 74/75
 
 +49 531 391 4280
 
-5227611,10.534080000000017 
+52.27611,10.534080000000017 
 
 @sx
 Frauenbibliothek
