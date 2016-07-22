@@ -11,7 +11,7 @@ Mo-Fr 9:00-21:00, Sa 10:00-18:00
 
 @ami
 Medienausleihe Hauptcampus
-Raum G009
+Raum H-1/02
 Universitätsplatz 1
 31141 Hildesheim
 
@@ -21,7 +21,7 @@ medienausleihe@uni-hildesheim.de
 
 52.1341,9.976481
 
-Di,Do 9:30-12:30, 14:00-16:00, Mi 14:00-16:00
+Di,Do 9:30-12:30, 14:00-16:00
 
 @azp
 AZP-Bibliothek
@@ -41,3 +41,43 @@ Handapparat
 
 Handapparate stehen außerhalb der UB.
 Bitte wenden Sie sich an die Auskunft. 
+
+@ha
+Handapparat
+
+Handapparate stehen außerhalb der UB.
+Bitte wenden Sie sich an die Auskunft.
+
+@mag
+Magazin
+
+Für Titel aus dem Magazin nutzen Sie bitte den Bestellen-Link. 
+Bestellte Titel werden Mo - Fr von 9:00 bis 17:00 Uhr stündlich an der Leihtheke bereitgestellt.
+
+@alt
+Magazin
+
+Für Titel aus dem Magazin nutzen Sie bitte den Bestellen-Link. 
+Bestellte Titel werden Mo - Fr von 9:00 bis 17:00 Uhr stündlich an der Leihtheke bereitgestellt.
+
+@rara
+Magazin
+
+Für Titel aus dem Magazin nutzen Sie bitte den Bestellen-Link. 
+Bestellte Titel werden Mo - Fr von 9:00 bis 17:00 Uhr stündlich an der Leihtheke bereitgestellt.
+
+@zs-mag
+Zeitschriftenmagazin
+
+Bitte bestellen Sie gewünschte Bände mit einem Leihschein oder wenden Sie sich an die Auskunft. 
+
+@mf
+Mikroformenschrank
+
+Bitte wenden Sie sich an die Auskunft um Medien aus den Mikroformenschränken zu erhalten.
+
+
+@medio
+Mediothek
+
+Die Mediothek finden Sie im Obergeschoss der UB. Gewünschte Medien werden von der Auskunft in der Mediothek für Sie herausgesucht.
