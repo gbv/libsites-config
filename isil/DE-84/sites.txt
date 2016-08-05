@@ -22,7 +22,7 @@ ub@tu-braunschweig.de
 
 +49 531 391 5049
 
-http://ub.tu-braunschweig.de/
+http://ub.tu-braunschweig.de/plan/Lageplan01.html
 
 52.274011,10.529346
 
@@ -39,7 +39,7 @@ ub@tu-braunschweig.de
 
 +49 531 391 5056
 
-http://ub.tu-braunschweig.de/
+http://ub.tu-braunschweig.de/plan/Lageplan02.html
 
 52.274011,10.529346
 
@@ -56,7 +56,41 @@ ub@tu-braunschweig.de
 
 +49 531 391 5059
 
-http://ub.tu-braunschweig.de/
+http://ub.tu-braunschweig.de/plan/Lageplan03.html
+
+52.274011,10.529346
+
+@zfm
+UB Braunschweig - Zeitschriftenfreihandmagazin
+Pockelsstr. 13
+38106 Braunschweig
+
+Mo-Fr 07:00 - 24:00 Uhr
+Sa 10:00 - 22:00 Uhr
+So 10:00 - 17:00 Uhr
+
+ub@tu-braunschweig.de
+
++49 531 391 5049
+
+http://www.ub.tu-braunschweig.de/plan/Lageplan-1.html
+
+52.274011,10.529346
+
+@lbs
+UB Braunschweig - Lehrbuchsammlung
+Pockelsstr. 13
+38106 Braunschweig
+
+Mo-Fr 07:00 - 24:00 Uhr
+Sa 10:00 - 22:00 Uhr
+So 10:00 - 17:00 Uhr
+
+ub@tu-braunschweig.de
+
++49 531 391 5049
+
+http://www.ub.tu-braunschweig.de/plan/LageplanLB.html
 
 52.274011,10.529346
 
@@ -64,37 +98,106 @@ http://ub.tu-braunschweig.de/
 UB Braunschweig - Magazin
 38106 Braunschweig
 
+Publikationen, die an diesem Ort gelagert sind, können bestellt werden.
+Bestellte Publikationen können an der Leihtheke im Erdgeschoss abgeholt.
+
 @mag2
 UB Braunschweig - Magazin
 38106 Braunschweig
+
+Publikationen, die an diesem Ort gelagert sind, können bestellt werden.
+Bestellte Publikationen können nach erfolgter Lieferung bei der Leihstelle im Erdgeschoss abgeholt.
 
 @mag3
 UB Braunschweig - Magazin
 38106 Braunschweig
 
+Publikationen, die an diesem Ort gelagert sind, können bestellt werden.
+Bestellte Publikationen können nach erfolgter Lieferung bei der Leihstelle im Erdgeschoss abgeholt.
+
 @mag4
 UB Braunschweig - Magazin
 38106 Braunschweig
+
+Publikationen, die an diesem Ort gelagert sind, können bestellt werden.
+Bestellte Publikationen können nach erfolgter Lieferung bei der Leihstelle im Erdgeschoss abgeholt.
 
 @mag5
 UB Braunschweig - Magazin
 38106 Braunschweig
 
+Publikationen, die an diesem Ort gelagert sind, können bestellt werden.
+Bestellte Publikationen können nach erfolgter Lieferung bei der Leihstelle im Erdgeschoss abgeholt.
+
 @mag6
 UB Braunschweig - Magazin
 38106 Braunschweig
+
+Publikationen, die an diesem Ort gelagert sind, können bestellt werden.
+Bestellte Publikationen können nach erfolgter Lieferung bei der Leihstelle im Erdgeschoss abgeholt.
 
 @mag7
 UB Braunschweig - Magazin
 38106 Braunschweig
 
+Publikationen, die an diesem Ort gelagert sind, können bestellt werden.
+Bestellte Publikationen können nach erfolgter Lieferung bei der Leihstelle im Erdgeschoss abgeholt.
+
 @mag8
 UB Braunschweig - Magazin
 38106 Braunschweig
 
+Publikationen, die an diesem Ort gelagert sind, können bestellt werden.
+Bestellte Publikationen können nach erfolgter Lieferung bei der Leihstelle im Erdgeschoss abgeholt.
+
 @mag9
 UB Braunschweig - Magazin
 38106 Braunschweig
+
+Publikationen, die an diesem Ort gelagert sind, können bestellt werden.
+Bestellte Publikationen können nach erfolgter Lieferung bei der Leihstelle im Erdgeschoss abgeholt.
+
+@mag10
+UB Braunschweig - Magazin
+38106 Braunschweig
+
+Publikationen, die an diesem Ort gelagert sind, können bestellt werden.
+Bestellte Publikationen können nach erfolgter Lieferung bei der Leihstelle im Erdgeschoss abgeholt.
+
+@mag11
+UB Braunschweig - Magazin
+38106 Braunschweig
+
+Publikationen, die an diesem Ort gelagert sind, können bestellt werden.
+Bestellte Publikationen können nach erfolgter Lieferung bei der Leihstelle im Erdgeschoss abgeholt.
+
+@mag12
+UB Braunschweig - Magazin
+38106 Braunschweig
+
+Publikationen, die an diesem Ort gelagert sind, können bestellt werden.
+Bestellte Publikationen können nach erfolgter Lieferung bei der Leihstelle im Erdgeschoss abgeholt.
+
+@mag13
+UB Braunschweig - Magazin
+38106 Braunschweig
+
+Publikationen, die an diesem Ort gelagert sind, können bestellt werden.
+Bestellte Publikationen können nach erfolgter Lieferung bei der Leihstelle im Erdgeschoss abgeholt.
+
+@mag14
+UB Braunschweig - Magazin
+38106 Braunschweig
+
+Publikationen, die an diesem Ort gelagert sind, können bestellt werden.
+Bestellte Publikationen können nach erfolgter Lieferung bei der Leihstelle im Erdgeschoss abgeholt.
+
+@mag15
+UB Braunschweig - Magazin
+38106 Braunschweig
+
+Publikationen, die an diesem Ort gelagert sind, können bestellt werden.
+Bestellte Publikationen können nach erfolgter Lieferung bei der Leihstelle im Erdgeschoss abgeholt.
 
 @cb
 Chemiebibliothek
