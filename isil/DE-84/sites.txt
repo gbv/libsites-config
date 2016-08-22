@@ -1655,6 +1655,8 @@ Mo-Fr 07:00 - 24:00 Uhr
 Sa 10:00 - 22:00 Uhr
 So 10:00 - 17:00 Uhr
 
+Publikationen, die an diesem Ort gelagert sind, können bestellt werden. Bestellte Publikationen können an der Leihtheke im Erdgeschoss abgeholt werden.
+
 52.274011,10.529346
 
 @mag
@@ -1668,6 +1670,8 @@ Mo-Fr 07:00 - 24:00 Uhr
 Sa 10:00 - 22:00 Uhr
 So 10:00 - 17:00 Uhr
 
+Publikationen, die an diesem Ort gelagert sind, können bestellt werden. Bestellte Publikationen können an der Leihtheke im Erdgeschoss abgeholt werden.
+
 52.274011,10.529346
 
 @sek
@@ -1680,6 +1684,8 @@ Pockelsstr. 13
 Mo-Fr 07:00 - 24:00 Uhr
 Sa 10:00 - 22:00 Uhr
 So 10:00 - 17:00 Uhr
+
+Publikationen, die an diesem Ort gelagert sind, können bestellt werden. Bestellte Publikationen können an der Leihtheke im Erdgeschoss abgeholt werden.
 
 52.274011,10.529346
 
