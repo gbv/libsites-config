@@ -24,7 +24,7 @@ medienausleihe@uni-hildesheim.de
 Di,Do 9:30-12:30, 14:00-16:00
 
 @azp
-AZP-Bibliothek
+AZP - Bibliothek
 Kulturcampus Domäne Marienburg
 Weißes Haus (Haus 46), Raum 003
 Domänenstraße 46
@@ -48,6 +48,11 @@ Handapparat
 Handapparate stehen außerhalb der UB.
 Bitte wenden Sie sich an die Auskunft.
 
+@fh
+Freihandbestand
+
+Bitte entnehmen Sie Titel selbst aus den Regalen.
+
 @mag
 Magazin
 
@@ -66,7 +71,7 @@ Magazin
 Für Titel aus dem Magazin nutzen Sie bitte den Bestellen-Link. 
 Bestellte Titel werden Mo - Fr von 9:00 bis 17:00 Uhr stündlich an der Leihtheke bereitgestellt.
 
-@zs-mag
+@zsmag
 Zeitschriftenmagazin
 
 Bitte bestellen Sie gewünschte Bände mit einem Leihschein oder wenden Sie sich an die Auskunft. 
