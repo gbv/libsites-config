@@ -1,0 +1,57 @@
+#!/usr/bin/env perl
+use v5.14;
+use Catmandu -all;
+
+# TODO: make part of bin/sites
+
+foreach my $isil (@ARGV) {
+    $isil =~ s|(\./)?isil/([^/]+)(/sites\.txt)?$|$2|;
+
+    my $infile   = "isil/$isil/sites.yaml";
+
+    if ($isil !~ /^[A-Z]{1,3}-[A-Za-z0-9\/:-]{1,10}$/) {
+        warn "invalid ISIL $isil\n";
+        next;
+    } elsif ( ! -f $infile ) {
+        warn "missing $infile\n";
+        next;
+    }
+
+    my $importer = importer( 'YAML', file => "isil/$isil/sites.yaml", fix => \*DATA);
+    my $exporter = exporter( 'JSON', file => "isil/$isil/sites.force.json", pretty => 1, canonical => 1 );
+
+    my $sites = {};
+    foreach my $s (@{$importer->to_array}) {
+        my $id = delete $s->{isil} || '@' . $s->{code};
+        delete $s->{code};
+        delete $s->{parent};
+        $sites->{$id} = $s;
+    }
+
+    $exporter->add($sites)->commit;
+}
+
+# adjust to http://lobid.org/context/lobid-organisations.json
+# but the latter is still evolving
+#
+# old:
+#  isil, code   => isil/@id
+#  name         => name / name_en
+#  address      => address oder vcard??
+#  email
+#  description
+#  url
+#  phone
+#  openinghours => location
+#  geolocation
+
+__DATA__
+
+move_field(geolocation, location)
+move_field(location.geo_lat., location.lat)
+move_field(location.geo_long., location.long)
+# move_field(email, email.$append)
+move_field(openinghours, hasOpeningHoursSpecification.description)
+# name: ok
+
+

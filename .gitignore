@@ -1,5 +1,7 @@
 isil/**/*.json
+!isil/**/*.force.json
 isil/**/*.yaml
+isil/**/*.nt
 isil/**/*.nt
 isil/**/*.ttl
 isil/**/*.pica
