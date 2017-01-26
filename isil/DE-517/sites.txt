@@ -13,7 +13,7 @@ infog1@uni-potsdam.de
 
 +49 331 977 2594
 
-http://info.ub.uni-potsdam.de/standorte/standort.php?bibliothek=Bereichsbibliothek%20Golm%20im%20IKMZ
+http://www.ub.uni-potsdam.de/benutzung/standorte-und-oeffnungszeiten/campus-ii-golm-ikmz.html
 
 52.408231,12.973209
 
@@ -24,7 +24,7 @@ Gebäude 18 - IKMZ
 Karl-Liebknecht-Str. 24-25
 14476 Potsdam
 
-http://info.ub.uni-potsdam.de/standorte/standort.php?bibliothek=Bereichsbibliothek%20Golm%20im%20IKMZ
+http://www.ub.uni-potsdam.de/benutzung/standorte-und-oeffnungszeiten/campus-ii-golm-ikmz.html
 
 52.408231,12.973209
 
@@ -43,7 +43,7 @@ infobb@uni-potsdam.de
 
 +49 331 977 3311
 
-http://info.ub.uni-potsdam.de/standorte/standort.php?bibliothek=Bereichsbibliothek%20Babelsberg%20Haus%205
+http://www.ub.uni-potsdam.de/benutzung/standorte-und-oeffnungszeiten/campus-iii-babelsberg.html
 
 52.39404892000,13.13081226820
 
@@ -56,7 +56,7 @@ Gebäude 05
 August-Bebel-Straße 89
 14482 Potsdam
 
-http://info.ub.uni-potsdam.de/standorte/standort.php?bibliothek=Bereichsbibliothek%20Babelsberg%20Haus%205
+http://www.ub.uni-potsdam.de/benutzung/standorte-und-oeffnungszeiten/campus-iii-babelsberg.html
 
 52.39404892000,13.13081226820
 
@@ -74,7 +74,7 @@ infonp2@uni-potsdam.de
 
 +49 331 977 1541
 
-http://info.ub.uni-potsdam.de/standorte/standort.php?bibliothek=Bereichsbibliothek%20Neues%20Palais%20Haus%209
+http://www.ub.uni-potsdam.de/benutzung/standorte-und-oeffnungszeiten/campus-i-neues-palais.html
 
 52.40062914330,13.01299279920
 
@@ -92,7 +92,7 @@ Mo - Do 09:00 - 22:00, Fr 09:00 - 18:00, Sa 10:00 - 15:00 Uhr
 
 infonp3@uni-potsdam.de
 
-http://info.ub.uni-potsdam.de/standorte/standort.php?bibliothek=Bereichsbibliothek%20Neues%20Palais%20Haus%2010
+http://www.ub.uni-potsdam.de/benutzung/standorte-und-oeffnungszeiten/campus-i-neues-palais.html
 
 52.40026112000,13.01305254320
 
@@ -112,7 +112,7 @@ infonp1@uni-potsdam.de
 
 +49 331 977 1401
 
-http://info.ub.uni-potsdam.de/standorte/standort.php?bibliothek=Bereichsbibliothek%20Neues%20Palais%20Haus%2011
+http://www.ub.uni-potsdam.de/benutzung/standorte-und-oeffnungszeiten/campus-i-neues-palais.html
 
 52.40184194750,13.01286434950
 
