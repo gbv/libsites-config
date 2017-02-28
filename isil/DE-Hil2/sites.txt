@@ -2,18 +2,10 @@
 UB Hildesheim
 
 @ami
-Medienausleihe Hauptcampus
-Raum H-1/02
-Universitätsplatz 1
-31141 Hildesheim
+Magazin Mediothek
 
-+49 5121 8 83-20574
-
-medienausleihe@uni-hildesheim.de 
-
-52.1341,9.976481
-
-Di,Do 9:30-12:30, 14:00-16:00
+Für Titel aus dem Magazin Mediothek nutzen Sie bitte den Bestellen-Link. 
+Bestellte Titel stehen am nächsten Tag an der Leihtheke für Sie bereit.
 
 @azp
 AZP - Bibliothek
@@ -27,6 +19,16 @@ Domänenstraße 46
 52.115046, 9.982790
 
 Mo 12:00-15:00
+
+@cwm
+Center for World Music
+Timotheus Platz / Schillstraße
+(ehem. Timotheuskirche)
+31141 Hildesheim
+
++49 5121 8 83-92350
+
+52.135070,9.967677
 
 @hand
 Handapparat
@@ -42,6 +44,11 @@ Bitte wenden Sie sich an die Auskunft.
 
 @fh
 Freihandbestand
+
+Bitte entnehmen Sie Titel selbst aus den Regalen.
+
+@lounge
+Leselounge
 
 Bitte entnehmen Sie Titel selbst aus den Regalen.
 
@@ -73,8 +80,27 @@ Mikroformenschrank
 
 Bitte wenden Sie sich an die Auskunft um Medien aus den Mikroformenschränken zu erhalten.
 
-
 @medio
 Mediothek
 
 Die Mediothek finden Sie im Obergeschoss der UB. Gewünschte Medien werden von der Auskunft in der Mediothek für Sie herausgesucht.
+
+@prf
+Prüfungsarbeiten
+
+Regale links neben der Auskunft. Bitte entnehmen Sie Titel dort selbst aus den Regalen.
+
+@sem
+Semesterapparate
+
+Regale hinter dem Kopierraum. Aufstellung nach der Nummer des Semesterapparats.
+
+@sta
+Einbandsammlung
+
+Bitte wenden Sie sich an die Auskunft.
+
+@ztg
+Zeitschriftenstelle
+
+Bitte wenden Sie sich an die Zeitschriftenstelle.
