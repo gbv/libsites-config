@@ -502,20 +502,12 @@ Mendelssohnstr. 2
 52.28033,  10.5472
 
 @aj
-Institut für Mathematische Physik
+Institut für Mathematische Physik/Institut für Theoretische Physik
 Mendelssohnstr. 3
 38106 Braunschweig
 
-49 531 391-5201 (Sekr.)
-
-52.28033,  10.547900000000027
-
-@aj
-Institut für Theoretische Physik
-Mendelssohnstr. 3
-38106 Braunschweig
-
-49 531 391-5281
+49 531 391-5201 (Sekr. Math. Physik)
+49 531 391-5281 (Theor. Physik)
 
 52.28033,  10.547900000000027
 
@@ -774,22 +766,12 @@ http://www.gtas-braunschweig.de/index.php?id=32
 52.2732324,  10.5285665
 
 @f7
-Institut für Nachhaltigen Städtebau = Sustainable Urbanism
-Pockelsstr. 3, 12. OG
+Institut für Nachhaltigen Städtebau = Sustainable Urbanism/Institut für Städtebau und Entwurfsmethodik
+Pockelsstr. 3
 38106 Braunschweig
 
-49 531 391-3537
-
-http://www.tu-braunschweig-isl.de/
-
-52.272654,  10.527581800000007 
-
-@f7
-Institut für Städtebau und Entwurfsmethodik
-Pockelsstr. 3, 13. OG
-38106 Braunschweig
-
-49 531 391-3538
+49 531 391-3537 (Nach. Städtebau, 12. OG)
+49 531 391-3538 (Städtebau und Entwurfsmethodik, 13. OG)
 
 http://www.tu-braunschweig-isl.de/
 
@@ -937,16 +919,6 @@ Pockelsstr. 3 (Okerufer)
 38106 Braunschweig
 
 49 531 391-94450 (Sekr.)
-
-http://www.tu-braunschweig.de/ifev/service/bibliothek
-
-52.272654,  10.527581800000007 
-
-@h2
-Institut für Verkehrswesen, Eisenbahnbau und -betrieb
-Pockelsstr. 3 (Okerufer)
-38106 Braunschweig
-
 49 531 391-63600
 
 http://www.tu-braunschweig.de/ifev/service/bibliothek
