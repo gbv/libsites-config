@@ -86,7 +86,7 @@ Mediothek
 Die Mediothek finden Sie im Obergeschoss der UB. Gewünschte Medien werden von der Auskunft in der Mediothek für Sie herausgesucht.
 
 @prf
-Prüfungsarbeiten
+Abschlussarbeiten
 
 Regale links neben der Auskunft. Bitte entnehmen Sie Titel dort selbst aus den Regalen.
 
