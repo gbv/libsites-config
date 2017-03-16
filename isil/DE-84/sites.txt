@@ -502,7 +502,7 @@ Mendelssohnstr. 2
 52.28033,  10.5472
 
 @aj
-Institut für Mathematische Physik/Institut für Theoretische Physik
+Institut für Mathematische Physik
 Mendelssohnstr. 3
 38106 Braunschweig
 
@@ -766,7 +766,7 @@ http://www.gtas-braunschweig.de/index.php?id=32
 52.2732324,  10.5285665
 
 @f7
-Institut für Nachhaltigen Städtebau = Sustainable Urbanism/Institut für Städtebau und Entwurfsmethodik
+Institut für Nachhaltigen Städtebau
 Pockelsstr. 3
 38106 Braunschweig
 
@@ -914,7 +914,7 @@ Schleinitzstr. 21a (Steinbaracke)
 52.27367169999999, 10.526204199999938 
 
 @h2
-Institut für Eisenbahnwesen und Verkehrssicherung
+Institut für Eisenbahnwesen und Verkehrssicherheit
 Pockelsstr. 3 (Okerufer)
 38106 Braunschweig
 
