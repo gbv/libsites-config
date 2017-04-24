@@ -393,7 +393,7 @@ Humboldtstr. 1
 
 @a4
 Bibliothek der mathematischen Institute
-Pockelsstraße 14
+Universitätsplatz 2
 38106 Braunschweig
 
 49 531 391-7508
@@ -404,7 +404,7 @@ http://www.mathematik.tu-bs.de/bmi/index.htm
 
 @a41
 Institut für Analysis und Algebra
-Pockelsstraße 14 (Forumsgebäude)
+Universitätsplatz 2 (Forumsgebäude)
 38106 Braunschweig
 
 49 531 391-7430 (Sekr.)
@@ -449,7 +449,7 @@ Pockelsstraße 14 (Forumsgebäude)
 
 @a46
 Institut für Mathematische Stochastik
-Pockelsstraße 14 (Forumsgebäude)
+Universitätsplatz 2 (Forumsgebäude)
 38106 Braunschweig
 
 49 531 391-7567
