@@ -22,7 +22,7 @@ http://www.biblio.tu-bs.de/CB.html
 
 @best
 Universitätsbibliothek - Bestseller
-Pockelsstr. 13
+Universitätsplatz 1
 38106 Braunschweig
 
 +49 531 391 5018
@@ -37,7 +37,7 @@ So 10:00 - 17:00 Uhr
 
 @bszi
 Universitätsbibliothek - Braunschweigzimmer
-Pockelsstr. 13
+Universitätsplatz 1
 38106 Braunschweig
 
 +49 531 391 5018
@@ -50,7 +50,7 @@ So 10:00 - 17:00 Uhr
 
 @dienst
 Universitätsbibliothek - Dienstexemplar
-Pockelsstr. 13
+Universitätsplatz 1
 38106 Braunschweig
 
 +49 531 391 5018
@@ -63,7 +63,7 @@ So 10:00 - 17:00 Uhr
 
 @fv
 Universitätsbibliothek - Freihandverbuchung
-Pockelsstr. 13
+Universitätsplatz 1
 38106 Braunschweig
 
 +49 531 391 5018
@@ -78,7 +78,7 @@ So 10:00 - 17:00 Uhr
 
 @ha
 Universitätsbibliothek - Handapparat
-Pockelsstr. 13
+Universitätsplatz 1
 38106 Braunschweig
 
 +49 531 391 5018
@@ -91,7 +91,7 @@ So 10:00 - 17:00 Uhr
 
 @info
 Universitätsbibliothek - Information
-Pockelsstr. 13
+Universitätsplatz 1
 38106 Braunschweig
 
 +49 531 391 5018
@@ -104,7 +104,7 @@ So 10:00 - 17:00 Uhr
 
 @kibu
 Universitätsbibliothek - Kinderbuchsammlung
-Pockelsstr. 13
+Universitätsplatz 1
 38106 Braunschweig
 
 +49 531 391 5018
@@ -117,7 +117,7 @@ So 10:00 - 17:00 Uhr
 
 @g9
 Universitätsbibliothek - Kunstgeschichte
-Pockelsstr. 13
+Universitätsplatz 1
 38106 Braunschweig
 
 +49 531 391 5018
@@ -130,7 +130,7 @@ So 10:00 - 17:00 Uhr
 
 @kg
 Universitätsbibliothek - Kunstgeschichte
-Pockelsstr. 13
+Universitätsplatz 1
 38106 Braunschweig
 
 +49 531 391 5018
@@ -143,7 +143,7 @@ So 10:00 - 17:00 Uhr
 
 @lb
 Universitätsbibliothek - Lehrbuchsammlung
-Pockelsstr. 13
+Universitätsplatz 1
 38106 Braunschweig
 
 +49 531 391 5018
@@ -158,7 +158,7 @@ So 10:00 - 17:00 Uhr
 
 @ls1
 Universitätsbibliothek - Lesesaal 1
-Pockelsstr. 13
+Universitätsplatz 1
 38106 Braunschweig
 
 +49 531 391 5018
@@ -173,7 +173,7 @@ So 10:00 - 17:00 Uhr
 
 @ls1z
 Universitätsbibliothek - Lesesaal 1
-Pockelsstr. 13
+Universitätsplatz 1
 38106 Braunschweig
 
 +49 531 391 5018
@@ -188,7 +188,7 @@ So 10:00 - 17:00 Uhr
 
 @ls2
 Universitätsbibliothek - Lesesaal 2
-Pockelsstr. 13
+Universitätsplatz 1
 38106 Braunschweig
 
 +49 531 391 5018
@@ -203,7 +203,7 @@ So 10:00 - 17:00 Uhr
 
 @ls2py
 Universitätsbibliothek - Lesesaal 2
-Pockelsstr. 13
+Universitätsplatz 1
 38106 Braunschweig
 
 +49 531 391 5018
@@ -218,7 +218,7 @@ So 10:00 - 17:00 Uhr
 
 @ls2z
 Universitätsbibliothek - Lesesaal 2
-Pockelsstr. 13
+Universitätsplatz 1
 38106 Braunschweig
 
 +49 531 391 5018
@@ -233,7 +233,7 @@ So 10:00 - 17:00 Uhr
 
 @ls3
 Universitätsbibliothek - Lesesaal 3
-Pockelsstr. 13
+Universitätsplatz 1
 38106 Braunschweig
 
 +49 531 391 5018
@@ -248,7 +248,7 @@ So 10:00 - 17:00 Uhr
 
 @ls3z
 Universitätsbibliothek - Lesesaal 3
-Pockelsstr. 13
+Universitätsplatz 1
 38106 Braunschweig
 
 +49 531 391 5018
@@ -263,7 +263,7 @@ So 10:00 - 17:00 Uhr
 
 @ar-m
 Universitätsbibliothek - Magazin
-Pockelsstr. 13
+Universitätsplatz 1
 38106 Braunschweig
 
 +49 531 391 5018
@@ -278,7 +278,7 @@ Publikationen, die an diesem Ort gelagert sind, können bestellt werden. Bestell
 
 @mag
 Universitätsbibliothek - Magazin
-Pockelsstr. 13
+Universitätsplatz 1
 38106 Braunschweig
 
 +49 531 391 5018
@@ -293,7 +293,7 @@ Publikationen, die an diesem Ort gelagert sind, können bestellt werden. Bestell
 
 @sek
 Universitätsbibliothek - Magazin
-Pockelsstr. 13
+Universitätsplatz 1
 38106 Braunschweig
 
 +49 531 391 5018
@@ -308,7 +308,7 @@ Publikationen, die an diesem Ort gelagert sind, können bestellt werden. Bestell
 
 @q3
 Universitätsbibliothek - Romanistik
-Pockelsstr. 13
+Universitätsplatz 1
 38106 Braunschweig
 
 +49 531 391 5018
@@ -321,7 +321,7 @@ So 10:00 - 17:00 Uhr
 
 @schn
 Universitätsbibliothek - Sammlung Schneider
-Pockelsstr. 13
+Universitätsplatz 1
 38106 Braunschweig
 
 +49 531 391 5018
@@ -334,7 +334,7 @@ So 10:00 - 17:00 Uhr
 
 @tue
 Universitätsbibliothek - Tünzelsaal
-Pockelsstr. 13
+Universitätsplatz 1
 38106 Braunschweig
 
 +49 531 391 5018
@@ -349,7 +349,7 @@ So 10:00 - 17:00 Uhr
 
 @zfm
 Universitätsbibliothek - Zeitschriftenfreihandmagazin
-Pockelsstr. 13
+Universitätsplatz 1
 38106 Braunschweig
 
 +49 531 391 5018
@@ -413,7 +413,7 @@ Universitätsplatz 2 (Forumsgebäude)
 
 @a42
 Institut für Computational Mathematics
-Pockelsstraße 14 (Forumsgebäude)
+Universitätsplatz 2 (Forumsgebäude)
 38106 Braunschweig
 
 49 531 391-7424 (Sekr.)
@@ -422,7 +422,7 @@ Pockelsstraße 14 (Forumsgebäude)
 
 @a43
 Institut für Computational Mathematics
-Pockelsstraße 14 (Forumsgebäude)
+Universitätsplatz 2 (Forumsgebäude)
 38106 Braunschweig
 
 49 531 391-7537 (Sekr.)
@@ -431,7 +431,7 @@ Pockelsstraße 14 (Forumsgebäude)
 
 @a44
 Institut für Computational Mathematics
-Pockelsstraße 14 (Forumsgebäude)
+Universitätsplatz 2 (Forumsgebäude)
 38106 Braunschweig
 
 49 531 391-7402 (Sekr.)
@@ -440,7 +440,7 @@ Pockelsstraße 14 (Forumsgebäude)
 
 @a45
 Institut für Mathematische Optimierung
-Pockelsstraße 14 (Forumsgebäude)
+Universitätsplatz 2 (Forumsgebäude)
 38106 Braunschweig
 
 49 531 391-7552
