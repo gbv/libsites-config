@@ -587,7 +587,7 @@ Schleinitzstr. 20, 3. OG
 
 49 531 391-7202
 
-52.2745411, 10.530055199999993
+52.273498,  10.527380999999991
 
 @c1
 Institut für Medizinische und Pharmazeutische Chemie
@@ -1009,7 +1009,7 @@ Schleinitzstr. 20
 
 http://www.biblio.tu-bs.de/standorte/MZ.html
 
-52.2745411, 10.530055199999993
+52.273498,  10.527380999999991
 
 @l4
 Institut für Nachrichtentechnik
@@ -1089,7 +1089,7 @@ Schleinitzstr. 20
 
 49 531 391-7028
 
-52.2745411, 10.530055199999993
+52.273498,  10.527380999999991
 
 @m1
 Institut für Flugzeugbau und Leichtbau
@@ -1303,7 +1303,7 @@ Schleinitzstr. 20
 
 http://www.historisches-seminar-braunschweig.de/index.php?id=883
 
-52.2745411, 10.530055199999993
+52.273498,  10.527380999999991
 
 @q5
 Institut für Sozialwissenschaften
