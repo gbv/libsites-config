@@ -502,7 +502,7 @@ Mendelssohnstr. 2
 52.28033,  10.5472
 
 @aj
-Institut für Mathematische Physik
+Institut für Mathematische Physik / Institut für Theoretische Physik
 Mendelssohnstr. 3
 38106 Braunschweig
 
@@ -914,7 +914,7 @@ Schleinitzstr. 21a (Steinbaracke)
 52.27367169999999, 10.526204199999938 
 
 @h2
-Institut für Eisenbahnwesen und Verkehrssicherheit
+Institut für Eisenbahnwesen und Verkehrssicherung / Institut für Verkehrswesen, Eisenbahnbau und -betrieb
 Pockelsstr. 3 (Okerufer)
 38106 Braunschweig
 
