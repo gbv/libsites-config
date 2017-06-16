@@ -33,14 +33,14 @@ Timotheus Platz / Schillstraße
 @hand
 Handapparat
 
-Handapparate stehen außerhalb der UB.
-Bitte wenden Sie sich an die Auskunft. 
+Bestände, die im Katalog mit "Handapparat" gekennzeichnet sind, stehen nicht in der Universitätsbibliothek und sind nicht regulär benutzbar. Bei dringendem Bedarf können Sie sich jedoch bei dem Eigner des Handapparates nach einer Benutzungsmöglichkeit erkundigen. Meist finden Sie aber auch ein weiteres Exemplar im regulären Bestand der UB. Eine Übersicht, wo sich die einzelnen Handapparate befinden finden Sie auf der folgenden Seite:
+https://www.uni-hildesheim.de/bibliothek/benutzen-lernen-arbeiten/wo-finde-ich-was/handapparate/ 
 
 @ha
 Handapparat
 
-Handapparate stehen außerhalb der UB.
-Bitte wenden Sie sich an die Auskunft.
+Bestände, die im Katalog mit "Handapparat" gekennzeichnet sind, stehen nicht in der Universitätsbibliothek und sind nicht regulär benutzbar. Bei dringendem Bedarf können Sie sich jedoch bei dem Eigner des Handapparates nach einer Benutzungsmöglichkeit erkundigen. Meist finden Sie aber auch ein weiteres Exemplar im regulären Bestand der UB. Eine Übersicht, wo sich die einzelnen Handapparate befinden finden Sie auf der folgenden Seite:
+https://www.uni-hildesheim.de/bibliothek/benutzen-lernen-arbeiten/wo-finde-ich-was/handapparate/
 
 @fh
 Freihandbestand
@@ -104,3 +104,8 @@ Bitte wenden Sie sich an die Auskunft.
 Zeitschriftenstelle
 
 Bitte wenden Sie sich an die Zeitschriftenstelle.
+
+@holt
+Arbeitsbibliothek Holthusen
+
+Ehemalige Arbeitsbibliothek des Schriftstellers Hans Egon Holthusen. Benutzung nur vor Ort möglich - bitte wenden Sie sich an die Auskunft.
