@@ -1,6 +1,15 @@
 @28
 UB Rostock: Theologie, Kunst, Lehrerbildungsbibliothek, Zeitschriftenmagazin Geisteswissenschaften
 
++49381 498-8731
+
+bb2fhm.ub@uni-rostock.de
+
+54.086879, 12.134571
+
+Mo,Di,Mi,Do,Fr 09:00 - 19:00
+
+
 @28-ARC
 UB Rostock: Universitätsarchiv und Kustodie
 
@@ -54,4 +63,23 @@ UB Rostock: Handapparate BB3
 
 @28/BB4-HAP
 UB Rostock: Handapparate BB4
+
+@28/361-HAP
+UB Rostock: Handapparate 361
+
+@WA1
+Leibniz-Institut für Ostseeforschung Warnemünde
+
+@KUE3
+Leibniz-Institut für Atmosphärenphysik Kühlungsborn
+
+@R48
+Leibniz-Institut für Nutztierbiologie
+
+@563
+Hochschule für Musik und Theater Rostock
+
+@GUE2161
+Historische Bibliothek des Museums der Barlachstadt Güstrow
+
 
