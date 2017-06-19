@@ -1,14 +1,17 @@
 @28
 UB Rostock: Theologie, Kunst, Lehrerbildungsbibliothek, Zeitschriftenmagazin Geisteswissenschaften
 
+http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#BB2-FHM
+
+54.086879, 12.134571
+
 +49381 498-8731
 
 bb2fhm.ub@uni-rostock.de
 
-54.086879, 12.134571
-
 Mo,Di,Mi,Do,Fr 09:00 - 19:00
 
+description: Liebe Leserinnen und Leser, aus betrieblichen Gründen steht der PC-Pool vom 4.7.2017 bis zum 7.7.2017 nicht zur Verfügung. 
 
 @28-ARC
 UB Rostock: Universitätsarchiv und Kustodie
@@ -27,6 +30,20 @@ Patent- und Normenzentrum
 
 @28/BB1
 UB Rostock: Bibliothek Südstadt
+
+http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#BB1", 
+
+54.075575, 12.103565
+
++49 381 498-8640
++49 381 498-8650
+
+ausleihe-bb1.ub@uni-rostock.de
+information-bb1.ub@uni-rostock.de
+
+Mo,Di,Mi,Do,Fr 08:00 - 24:00, Sa 10:00 - 24:00, So 12:00 - 24:00
+
+description: -
 
 @28/049
 UB Rostock: Geisteswissenschaften
