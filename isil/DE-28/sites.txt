@@ -1,0 +1,57 @@
+@28
+UB Rostock: Theologie, Kunst, Lehrerbildungsbibliothek, Zeitschriftenmagazin Geisteswissenschaften
+
+@28-ARC
+UB Rostock: Universitätsarchiv und Kustodie
+
+@28-ITMZ
+IT- und Medienzentrum
+
+@28-MAG
+UB Rostock: Bücherspeicher
+
+@28-SON
+UB Rostock: Sondersammlungen
+
+@28-PNZ
+Patent- und Normenzentrum
+
+@28/BB1
+UB Rostock: Bibliothek Südstadt
+
+@28/049
+UB Rostock: Geisteswissenschaften
+
+@28/TES
+Uni Rostock: Testothek
+
+@28/260
+UB Rostock: Geschichte
+
+@28/261
+UB Rostock: Altertumswissenschaften
+
+@28/262
+UB Rostock: DDR-Geschichte
+
+@28/361
+UB Rostock: ##Theologie, Kunst, Lehrerbildungsbibliothek, Zeitschriftenmagazin Geisteswissenschaften
+
+@28/361o
+UB Rostock: Außenstelle im Institut für Anwaltsrecht
+
+@28/606
+UB Rostock: Volkskunde
+
+@28/BB1-HAP
+UB Rostock: Handapparate BB1
+
+@28/BB2-HAP
+UB Rostock: Handapparate BB2
+
+@28/BB3-HAP
+UB Rostock: Handapparate BB3
+
+@28/BB4-HAP
+UB Rostock: Handapparate BB4
+
