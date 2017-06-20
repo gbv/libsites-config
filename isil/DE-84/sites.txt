@@ -3,7 +3,8 @@ UB Braunschweig
 
 Mo-Fr 07:00 - 24:00 Uhr
 Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
+So 10:00 - 17:00 Uhr (April, Mai und September bis Dezember)
+So 10:00 - 22:00 Uhr (Januar bis März und Juni bis August)
 
 ub@tu-braunschweig.de
 
@@ -16,8 +17,6 @@ Hagenring 30
 
 +49 531 391 5034
 
-http://www.biblio.tu-bs.de/CB.html
-
 52.27370999999990,10.53598999999997 
 
 @best
@@ -27,11 +26,10 @@ Universitätsplatz 1
 
 +49 531 391 5018
 
-http://www.biblio.tu-bs.de/best/
-
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
+Mo - Fr	07:00 - 23:45 Uhr
+Sa	10:00 - 21:45 Uhr
+So 10:00 - 16:45 Uhr (April, Mai und September bis Dezember)
+So 10:00 - 21:45 Uhr (Januar bis März und Juni bis August)
 
 52.274011,10.529346
 
@@ -42,10 +40,6 @@ Universitätsplatz 1
 
 +49 531 391 5018
 
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
-
 52.274011,10.529346
 
 @dienst
@@ -54,10 +48,6 @@ Universitätsplatz 1
 38106 Braunschweig
 
 +49 531 391 5018
-
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
 
 52.274011,10.529346
 
@@ -68,11 +58,12 @@ Universitätsplatz 1
 
 +49 531 391 5018
 
-http://www.biblio.tu-bs.de/plan/Lageplan00.html
+Zum Lageplan: https://ub.tu-braunschweig.de/recherche/lesesaal/?Lesesaal=lesesaal4
 
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
+Mo - Fr	07:00 - 23:45 Uhr
+Sa	10:00 - 21:45 Uhr
+So 10:00 - 16:45 Uhr (April, Mai und September bis Dezember)
+So 10:00 - 21:45 Uhr (Januar bis März und Juni bis August)
 
 52.274011,10.529346
 
@@ -83,9 +74,10 @@ Universitätsplatz 1
 
 +49 531 391 5018
 
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
+Mo - Fr	07:00 - 23:45 Uhr
+Sa	10:00 - 21:45 Uhr
+So 10:00 - 16:45 Uhr (April, Mai und September bis Dezember)
+So 10:00 - 21:45 Uhr (Januar bis März und Juni bis August)
 
 52.274011,10.529346
 
@@ -96,9 +88,8 @@ Universitätsplatz 1
 
 +49 531 391 5018
 
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
+Mo-Fr 09:00 - 19:00 Uhr
+Sa 10:00 - 14:00 Uhr
 
 52.274011,10.529346
 
@@ -109,10 +100,6 @@ Universitätsplatz 1
 
 +49 531 391 5018
 
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
-
 52.274011,10.529346
 
 @g9
@@ -122,10 +109,6 @@ Universitätsplatz 1
 
 +49 531 391 5018
 
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
-
 52.274011,10.529346
 
 @kg
@@ -134,10 +117,6 @@ Universitätsplatz 1
 38106 Braunschweig
 
 +49 531 391 5018
-
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
 
 52.274011,10.529346
 
@@ -150,9 +129,10 @@ Universitätsplatz 1
 
 http://www.biblio.tu-bs.de/plan/Lageplan00.html
 
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
+Mo - Fr	07:00 - 23:45 Uhr
+Sa	10:00 - 21:45 Uhr
+So 10:00 - 16:45 Uhr (April, Mai und September bis Dezember)
+So 10:00 - 21:45 Uhr (Januar bis März und Juni bis August)
 
 52.274011,10.529346
 
@@ -165,9 +145,10 @@ Universitätsplatz 1
 
 http://www.biblio.tu-bs.de/plan/Lageplan01.html
 
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
+Mo - Fr	07:00 - 23:45 Uhr
+Sa	10:00 - 21:45 Uhr
+So 10:00 - 16:45 Uhr (April, Mai und September bis Dezember)
+So 10:00 - 21:45 Uhr (Januar bis März und Juni bis August)
 
 52.274011,10.529346
 
@@ -180,9 +161,10 @@ Universitätsplatz 1
 
 http://www.biblio.tu-bs.de/plan/Lageplan01.html
 
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
+Mo - Fr	07:00 - 23:45 Uhr
+Sa	10:00 - 21:45 Uhr
+So 10:00 - 16:45 Uhr (April, Mai und September bis Dezember)
+So 10:00 - 21:45 Uhr (Januar bis März und Juni bis August)
 
 52.274011,10.529346
 
@@ -195,9 +177,10 @@ Universitätsplatz 1
 
 http://www.biblio.tu-bs.de/plan/Lageplan02.html
 
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
+Mo - Fr	07:00 - 23:45 Uhr
+Sa	10:00 - 21:45 Uhr
+So 10:00 - 16:45 Uhr (April, Mai und September bis Dezember)
+So 10:00 - 21:45 Uhr (Januar bis März und Juni bis August)
 
 52.274011,10.529346
 
@@ -210,9 +193,10 @@ Universitätsplatz 1
 
 http://www.biblio.tu-bs.de/plan/Lageplan02.html
 
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
+Mo - Fr	07:00 - 23:45 Uhr
+Sa	10:00 - 21:45 Uhr
+So 10:00 - 16:45 Uhr (April, Mai und September bis Dezember)
+So 10:00 - 21:45 Uhr (Januar bis März und Juni bis August)
 
 52.274011,10.529346
 
@@ -225,9 +209,10 @@ Universitätsplatz 1
 
 http://www.biblio.tu-bs.de/plan/Lageplan02.html
 
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
+Mo - Fr	07:00 - 23:45 Uhr
+Sa	10:00 - 21:45 Uhr
+So 10:00 - 16:45 Uhr (April, Mai und September bis Dezember)
+So 10:00 - 21:45 Uhr (Januar bis März und Juni bis August)
 
 52.274011,10.529346
 
@@ -240,9 +225,10 @@ Universitätsplatz 1
 
 http://www.biblio.tu-bs.de/plan/Lageplan03.html
 
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
+Mo - Fr	07:00 - 23:45 Uhr
+Sa	10:00 - 21:45 Uhr
+So 10:00 - 16:45 Uhr (April, Mai und September bis Dezember)
+So 10:00 - 21:45 Uhr (Januar bis März und Juni bis August)
 
 52.274011,10.529346
 
@@ -255,9 +241,10 @@ Universitätsplatz 1
 
 http://www.biblio.tu-bs.de/plan/Lageplan03.html
 
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
+Mo - Fr	07:00 - 23:45 Uhr
+Sa	10:00 - 21:45 Uhr
+So 10:00 - 16:45 Uhr (April, Mai und September bis Dezember)
+So 10:00 - 21:45 Uhr (Januar bis März und Juni bis August)
 
 52.274011,10.529346
 
@@ -268,11 +255,10 @@ Universitätsplatz 1
 
 +49 531 391 5018
 
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
+Mo - Fr	09:00 - 18:45 Uhr
+Sa	10:00 - 21:45 Uhr
 
-Publikationen, die an diesem Ort gelagert sind, können bestellt werden. Bestellte Publikationen können an der Leihtheke im Erdgeschoss abgeholt werden.
+Publikationen, die an diesem Ort gelagert sind, können bestellt werden. Bestellte Publikationen werden während der Öffnungszeiten des Magazins an die Leihstelle geliefert und können dann an der Leihtheke im Erdgeschoss abgeholt werden.
 
 52.274011,10.529346
 
@@ -283,11 +269,10 @@ Universitätsplatz 1
 
 +49 531 391 5018
 
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
+Mo - Fr	09:00 - 18:45 Uhr
+Sa	10:00 - 21:45 Uhr
 
-Publikationen, die an diesem Ort gelagert sind, können bestellt werden. Bestellte Publikationen können an der Leihtheke im Erdgeschoss abgeholt werden.
+Publikationen, die an diesem Ort gelagert sind, können bestellt werden. Bestellte Publikationen werden während der Öffnungszeiten des Magazins an die Leihstelle geliefert und können dann an der Leihtheke im Erdgeschoss abgeholt werden.
 
 52.274011,10.529346
 
@@ -298,11 +283,10 @@ Universitätsplatz 1
 
 +49 531 391 5018
 
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
+Mo - Fr	09:00 - 18:45 Uhr
+Sa	10:00 - 21:45 Uhr
 
-Publikationen, die an diesem Ort gelagert sind, können bestellt werden. Bestellte Publikationen können an der Leihtheke im Erdgeschoss abgeholt werden.
+Publikationen, die an diesem Ort gelagert sind, können bestellt werden. Bestellte Publikationen werden während der Öffnungszeiten des Magazins an die Leihstelle geliefert und können dann an der Leihtheke im Erdgeschoss abgeholt werden.
 
 52.274011,10.529346
 
@@ -313,10 +297,6 @@ Universitätsplatz 1
 
 +49 531 391 5018
 
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
-
 52.274011,10.529346
 
 @schn
@@ -325,10 +305,6 @@ Universitätsplatz 1
 38106 Braunschweig
 
 +49 531 391 5018
-
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
 
 52.274011,10.529346
 
@@ -341,10 +317,6 @@ Universitätsplatz 1
 
 http://www.biblio.tu-bs.de/plan/Lageplan00.html
 
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
-
 52.274011,10.529346
 
 @zfm
@@ -354,9 +326,10 @@ Universitätsplatz 1
 
 +49 531 391 5018
 
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
+Mo - Fr	07:00 - 23:45 Uhr
+Sa	10:00 - 21:45 Uhr
+So 10:00 - 16:45 Uhr (April, Mai und September bis Dezember)
+So 10:00 - 21:45 Uhr (Januar bis März und Juni bis August)
 
 52.274011,10.529346
 
@@ -365,7 +338,7 @@ Institut für Wissenschaftliches Rechnen
 Mühlenpfordtstrasse 23, 8. Og
 38106 Braunschweig
 
-49 531 391-3000
++49 531 391-3000
 
 https://wirelib.sc.cs.tu-bs.de/
 
@@ -376,7 +349,7 @@ Physikzentrum der TU
 Mendelssohnstr. 2
 38106 Braunschweig
 
-49 531 391-5028
++49 531 391-5028
 
 https://www.tu-braunschweig.de/eitp/studium/bibliotheken/physikbibliothek
 
@@ -387,7 +360,7 @@ Institut für Pflanzenbiologie
 Humboldtstr. 1
 38106 Braunschweig
 
-49 531 391-5871
++49 531 391-5871
 
 52.270187,  10.533381200000008 
 
@@ -396,7 +369,7 @@ Bibliothek der mathematischen Institute
 Universitätsplatz 2
 38106 Braunschweig
 
-49 531 391-7508
++49 531 391-7508
 
 http://www.mathematik.tu-bs.de/bmi/index.htm
 
@@ -407,7 +380,7 @@ Institut für Analysis und Algebra
 Universitätsplatz 2 (Forumsgebäude)
 38106 Braunschweig
 
-49 531 391-7430 (Sekr.)
++49 531 391-7430 (Sekr.)
 
 52.27349779999990,  10.529713799999968 
 
@@ -416,7 +389,7 @@ Institut für Computational Mathematics
 Universitätsplatz 2 (Forumsgebäude)
 38106 Braunschweig
 
-49 531 391-7424 (Sekr.)
++49 531 391-7424 (Sekr.)
 
 52.27349779999990,  10.529713799999968 
 
@@ -425,7 +398,7 @@ Institut für Computational Mathematics
 Universitätsplatz 2 (Forumsgebäude)
 38106 Braunschweig
 
-49 531 391-7537 (Sekr.)
++49 531 391-7537 (Sekr.)
 
 52.27349779999990,  10.529713799999968 
 
@@ -434,7 +407,7 @@ Institut für Computational Mathematics
 Universitätsplatz 2 (Forumsgebäude)
 38106 Braunschweig
 
-49 531 391-7402 (Sekr.)
++49 531 391-7402 (Sekr.)
 
 52.27349779999990,  10.529713799999968 
 
@@ -443,7 +416,7 @@ Institut für Mathematische Optimierung
 Universitätsplatz 2 (Forumsgebäude)
 38106 Braunschweig
 
-49 531 391-7552
++49 531 391-7552
 
 52.27349779999990,  10.529713799999968 
 
@@ -452,7 +425,7 @@ Institut für Mathematische Stochastik
 Universitätsplatz 2 (Forumsgebäude)
 38106 Braunschweig
 
-49 531 391-7567
++49 531 391-7567
 
 52.27349779999990,  10.529713799999968 
 
@@ -461,7 +434,7 @@ Institut für Pharmazeutische Biologie
 Mendelssohnstr. 1
 38106 Braunschweig
 
-49 531 391-5680
++49 531 391-5680
 
 52.2799713,  10.547182600000042 
 
@@ -470,7 +443,7 @@ Institut für Pharmakologie, Toxikologie und klinische Pharmazie
 Mendelssohnstr. 1
 38106 Braunschweig
 
-49 531 391-5665
++49 531 391-5665
 
 52.2799713,  10.547182600000042 
 
@@ -479,7 +452,7 @@ Institut für Geosysteme und Bioindikation
 Langer Kamp 19c 
 38106 Braunschweig
 
-49 531 391-7246
++49 531 391-7246
 
 52.27674,  10.53774999999996
 
@@ -488,7 +461,7 @@ Institut für Computergraphik
 Mühlenpfordstr. 23
 38106 Braunschweig
 
-49 531 391-2102
++49 531 391-2102
 
 52.27303,  10.525139999999965 
 
@@ -497,7 +470,7 @@ Institut für Angewandte Physik
 Mendelssohnstr. 2
 38106 Braunschweig
 
-49 531 391-8500
++49 531 391-8500
 
 52.28033,  10.5472
 
@@ -506,8 +479,8 @@ Institut für Mathematische Physik / Institut für Theoretische Physik
 Mendelssohnstr. 3
 38106 Braunschweig
 
-49 531 391-5201 (Sekr. Math. Physik)
-49 531 391-5281 (Theor. Physik)
++49 531 391-5201 (Sekr. Math. Physik)
++49 531 391-5281 (Theor. Physik)
 
 52.28033,  10.547900000000027
 
@@ -516,7 +489,7 @@ Institut für Geoökologie
 Langer Kamp 19c
 38106 Braunschweig
 
-49 531 391-5628
++49 531 391-5628
 
 52.27674,  10.53774999999996
 
@@ -525,7 +498,7 @@ Chemiebibliothek
 Hagenring 30
 38106 Braunschweig
 
-49 531 391-5034
++49 531 391-5034
 
 http://www.biblio.tu-bs.de/CB.html
 
@@ -536,7 +509,7 @@ Institut für Mikrobiologie
 Spielmannstr. 7
 38106 Braunschweig
 
-49 531 391-5800
++49 531 391-5800
 
 52.2735043,  10.53028919999997 
 
@@ -545,7 +518,7 @@ Institut für Organische Chemie
 Hagenring 30
 38106 Braunschweig
 
-49 531 391-5256
++49 531 391-5256
 
 52.27370999999990,  10.53598999999997 
 
@@ -554,7 +527,7 @@ Institut für Biochemie, Biotechnologie und Bioinformatik
 Spielmannstr. 7
 38106 Braunschweig
 
-49 531 391-5732
++49 531 391-5732
 
 52.2735043,  10.53028919999997 
 
@@ -563,7 +536,7 @@ Institut für Physikalische und Theoretische Chemie
 Hans-Sommer-Str. 10
 38106 Braunschweig
 
-49 531 391-5339 (Sekr.)
++49 531 391-5339 (Sekr.)
 
 http://www.tu-braunschweig.de/pci/service/bibliothek
 
@@ -574,7 +547,7 @@ Institut für Technische Chemie
 Hans-Sommer-Str. 10
 38106 Braunschweig
 
-49 531 391-5360
++49 531 391-5360
 
 http://www.tu-braunschweig.de/pci/service/bibliothek
 
@@ -585,7 +558,7 @@ Institut für Lebensmittelchemie
 Schleinitzstr. 20, 3. OG
 38106 Braunschweig
 
-49 531 391-7202
++49 531 391-7202
 
 52.273498,  10.527380999999991
 
@@ -594,7 +567,7 @@ Institut für Medizinische und Pharmazeutische Chemie
 Beethovenstr. 55
 38106 Braunschweig
 
-49 531 391-2751
++49 531 391-2751
 
 52.28048,  10.54517999999996 
 
@@ -603,7 +576,7 @@ Institut für Pharmazeutische Technologie
 Mendelssohnstr. 1
 38106 Braunschweig
 
-49 531 391-5646
++49 531 391-5646
 
 https://www.tu-braunschweig.de/pharmtech/institut/bibliothek
 
@@ -614,7 +587,7 @@ Zoologisches Institut
 Mendelssohnstr. 4
 38106 Braunschweig
 
-49 531 391-3231
++49 531 391-3231
 
 52.28041,  10.548670000000016 
 
@@ -623,7 +596,7 @@ Institut für Psychologie
 Spielmannstr. 19
 38106 Braunschweig
 
-49 531 391-2547
++49 531 391-2547
 
 52.2732939,  10.530632200000014 
 
@@ -632,7 +605,7 @@ Institut für Psychologie
 Humboldtstr. 33
 38106 Braunschweig
 
-49 531 391-2812
++49 531 391-2812
 
 5226963,  10.533509999999978
 
@@ -641,8 +614,6 @@ Institut für Psychologie
 Bültenweg 74/75
 38106 Braunschweig
 
- - - -  - - -
-
 5227611,  10.534080000000017 
 
 @c8h
@@ -650,7 +621,7 @@ Institut für Psychologie
 Spielmannstr. 19
 38106 Braunschweig
 
-49 531 391-3145
++49 531 391-3145
 
 https://www.tu-braunschweig.de/psychologie/abt/serviceeinrichtungen/institutsbibliothek
 
@@ -661,7 +632,7 @@ Institut für Psychologie
 Gaussstr. 23
 38106 Braunschweig
 
-49 531 391-3651
++49 531 391-3651
 
 52.27303999999990,  10.531770000000051
 
@@ -670,7 +641,7 @@ Institut für Psychologie
 Humboldtstr. 33
 38106 Braunschweig
 
-49 531 391-2855
++49 531 391-2855
 
 5226963,  10.533509999999978
 
@@ -679,7 +650,7 @@ Institut für Psychologie
 Spielmannstr. 19
 38106 Braunschweig
 
-49 531 391-3145
++49 531 391-3145
 
 52.2732939,  10.530632200000014 
 
@@ -688,7 +659,7 @@ Institut für Genetik
 Spielmannstr. 7
 38106 Braunschweig
 
-49 531 391-5773
++49 531 391-5773
 
 52.2735043,  10.53028919999997 
 
@@ -697,7 +668,7 @@ Institut für Medizinische und Pharmazeutische Chemie
 Beethovenstr. 55
 38106 Braunschweig
 
-49 531 391-5997
++49 531 391-5997
 
 https://www.tu-braunschweig.de/pharmaziegeschichte/bibliothek
 
@@ -708,7 +679,7 @@ Institut für Geophysik und Extraterrestrische Physik
 Mendelssohnstr. 3
 38106 Braunschweig
 
-49 531 391-5224
++49 531 391-5224
 
 http://www.igep.tu-bs.de/institut/einrichtungen/index.html
 
@@ -719,7 +690,7 @@ Institut für Entwerfen und Raumkompositionen
 Pockelsstr. 3
 38106 Braunschweig
 
-49 531 391-3588
++49 531 391-3588
 
 52.272654,  10.527581800000007 
 
@@ -728,7 +699,7 @@ Institut für Stahlbau
 Beethovenstr. 51
 38106 Braunschweig
 
-49 531 391-3373 (Sekr.)
++49 531 391-3373 (Sekr.)
 
 http://www.is.tu-braunschweig.de/index.php/menu-institut-de/menu-bibliothek-de
 
@@ -739,7 +710,7 @@ Institut für Grundbau und Bodenmechanik
 Beethovenstr. 51b
 38106 Braunschweig
 
-49 531 391-62001 (Sekr.)
++49 531 391-62001 (Sekr.)
 
 https://www.tu-braunschweig.de/igb/institut/bibliothek
 
@@ -750,7 +721,7 @@ Institut für Entwerfen und Gebäudelehre
 Pockelsstr. 3 (Okerufer)
 38106 Braunschweig
 
-49 531 391-94400
++49 531 391-94400
 
 52.272654,  10.527581800000007 
 
@@ -759,7 +730,7 @@ Institut für Geschichte und Theorie der Architektur und Stadt
 Pockelsstr. 4 (Schleinitzstr.)
 38106 Braunschweig
 
-49 531 391-2347
++49 531 391-2347
 
 http://www.gtas-braunschweig.de/index.php?id=32
 
@@ -782,7 +753,7 @@ Institut für Landschaftsarchitektur
 Pockelsstr. 3, 4. OG
 38106 Braunschweig
 
-49 531 391-2365
++49 531 391-2365
 
 52.272654,  10.527581800000007 
 
@@ -791,7 +762,7 @@ Institut für Angewandte Mechanik
 Bienroder Weg 87
 38106 Braunschweig
 
-49 531 391-94351
++49 531 391-94351
 
 52.2851198,  10.538257899999962
 
@@ -800,7 +771,7 @@ Institut für Entwerfen und Baugestaltung
 Pockelsstr. 3 (Okerufer)
 38106 Braunschweig
 
-49 531 391-2523
++49 531 391-2523
 
 52.272654,  10.527581800000007 
 
@@ -809,7 +780,7 @@ Institut für rechnergestützte Modellierung im Bauingenieurswesen
 Pockelsstr. 3
 38106 Braunschweig
 
-49 531 391-94501
++49 531 391-94501
 
 52.272654,  10.527581800000007 
 
@@ -827,7 +798,7 @@ Institut für Industriebau und konstruktives Entwerfen
 Pockelsstr. 3 (Okerufer)
 38106 Braunschweig
 
-49 531 391-2544
++49 531 391-2544
 
 52.272654,  10.527581800000007 
 
@@ -836,7 +807,7 @@ Institut für Mediales Entwerfen
 Zimmerstr. 24
 38106 Braunschweig
 
-49 531 391-3559
++49 531 391-3559
 
 52.2732,  10.53449999999998 
 
@@ -845,7 +816,7 @@ Institut für Baukonstruktion
 Schleinitzstr. 21b (Steinbaracke)
 38106 Braunschweig
 
-49 531 391-5922
++49 531 391-5922
 
 52.27367169999999, 10.526204199999938 
 
@@ -854,7 +825,7 @@ Institut für Tragwerksentwurf
 Pockelsstr. 4 (Schleinitzstr.)
 38106 Braunschweig
 
-49 531 391-3571
++49 531 391-3571
 
 http://ite.tu-bs.de/bibliothek/
 
@@ -865,7 +836,7 @@ Institut für Gebäude- und Solartechnik
 Mühlenpfordtstr. 23
 38106 Braunschweig
 
-49 531 391-3555
++49 531 391-3555
 
 https://www.tu-braunschweig.de/igs/institut/bibliothek
 
@@ -876,7 +847,7 @@ Institut für Baustoffe, Massivbau und Brandschutz
 Beethovenstr. 52
 38106 Braunschweig
 
-49 531 391-5454
++49 531 391-5454
 
 http://www.ibmb.tu-braunschweig.de/index.php/bibliothek.html
 
@@ -887,7 +858,7 @@ Institut für Baugeschichte
 Pockelsstr. 4 (Schleinitzstr.)
 38106 Braunschweig
 
-49 531 391-2524
++49 531 391-2524
 
 https://www.tu-braunschweig.de/baugeschichte/bibliothek
 
@@ -898,7 +869,7 @@ Bet Tfila, Forschungsstelle für jüdische Architektur in Europa
 Pockelsstr. 4
 38106 Braunschweig
 
-49 531 391-2525
++49 531 391-2525
 
 http://www.bet-tfila.org/de/c-biblio.htm
 
@@ -909,7 +880,7 @@ Institut für Baukonstruktion und Holzbau
 Schleinitzstr. 21a (Steinbaracke)
 38106 Braunschweig
 
-49 531 391-7801
++49 531 391-7801
 
 52.27367169999999, 10.526204199999938 
 
@@ -918,8 +889,8 @@ Institut für Eisenbahnwesen und Verkehrssicherung / Institut für Verkehrswesen
 Pockelsstr. 3 (Okerufer)
 38106 Braunschweig
 
-49 531 391-94450 (Sekr.)
-49 531 391-63600
++49 531 391-94450 (Sekr.)
++49 531 391-63600
 
 http://www.tu-braunschweig.de/ifev/service/bibliothek
 
@@ -930,7 +901,7 @@ Institut für Verkehr und Stadtbauwesen
 Hermann-Blenk-Str. 42
 38106 Braunschweig
 
-49 531 391-66800
++49 531 391-66800
 
 https://www.tu-braunschweig.de/ivs/institut/institutsbibliothek
 
@@ -941,7 +912,7 @@ Institut für Straßenwesen
 Beethovenstr. 51b
 38106 Braunschweig
 
-49 531 391-62051
++49 531 391-62051
 
 http://www.tu-braunschweig.de/isbs/institut/bibliothek
 
@@ -952,7 +923,7 @@ Leichtweiß-Institut für Wasserbau
 Beethovenstr. 51a
 38106 Braunschweig
 
-49 531 391-3972
++49 531 391-3972
 
 https://www.tu-braunschweig.de/lwi/bibliothek
 
@@ -963,7 +934,7 @@ Institut für Bauwirtschaft und -betrieb
 Schleinitzstr. 23a
 38106 Braunschweig
 
-49 531 391-3175
++49 531 391-3175
 
 http://www.tu-braunschweig.de/ibb/service/bib
 
@@ -974,7 +945,7 @@ Institut für Geodäsie und Photogrammetrie
 Pockelsstr. 3 (3. Etage)
 38106 Braunschweig
 
-49 531 391-94574
++49 531 391-94574
 
 52.272654,  10.527581800000007 
 
@@ -983,7 +954,7 @@ Institut für Bauwerkserhaltung und Tragwerk
 Beethovenstr. 51
 38106 Braunschweig
 
-49 531 391-2512
++49 531 391-2512
 
 http://www.ibt.tu-braunschweig.de/index.php/menu-institut-de/menu-bibliothek-de
 
@@ -994,7 +965,7 @@ Institut für Siedlungswasserwirtschaft
 Pockelsstr. 2 (Okerufer)
 38106 Braunschweig
 
-49 531 391-7936
++49 531 391-7936
 
 https://www.tu-braunschweig.de/isww/home/bibliothek
 
@@ -1005,7 +976,7 @@ Mechanikzentrum
 Schleinitzstr. 20
 38106 Braunschweig
 
-49 531 391-7009
++49 531 391-7009
 
 http://www.biblio.tu-bs.de/standorte/MZ.html
 
@@ -1016,7 +987,7 @@ Institut für Nachrichtentechnik
 Schleinitzstr. 22
 38106 Braunschweig
 
-49 531 391-2420
++49 531 391-2420
 
 http://www.ifn.ing.tu-bs.de/ifn/general/library
 
@@ -1027,7 +998,7 @@ Institut für Halbleitertechnik
 Hans-Sommer-Str. 66
 38106 Braunschweig
 
-49 531 391-3774
++49 531 391-3774
 
 52.276328,  10.54024800000002 
 
@@ -1036,7 +1007,7 @@ Institut für Raumfahrtsysteme
 Hermann-Blenk-Str. 23
 38106 Braunschweig
 
-49 531 391-9961
++49 531 391-9961
 
 52.31395,  10.548990000000003 
 
@@ -1045,7 +1016,7 @@ Institut für Werkzeugmaschinen und Fertigungstechnik
 Langer Kamp 19b
 38106 Braunschweig
 
-49 531 391-7601
++49 531 391-7601
 
 https://www.tu-braunschweig.de/iwf/ueberuns/bibliothek
 
@@ -1056,7 +1027,7 @@ Institut für Fahrzeugtechnik
 Hans-Sommer-Str. 4
 38106 Braunschweig
 
-49 531 391-2610
++49 531 391-2610
 
 http://www.iff.tu-bs.de/index.php?id=869
 
@@ -1067,7 +1038,7 @@ Institut für Verkehrssicherheit und Automatisierungstechnik
 Hermann-Blenk-Straße 42
 38106 Braunschweig
 
-49 531 391-66301 (Sekr.)
++49 531 391-66301 (Sekr.)
 
 52.3145378,  10.542056600000024 
 
@@ -1076,7 +1047,7 @@ Institut für Mikrotechnik
 Alte Salzdahlumer Str. 203
 38124 Braunschweig
 
-49 531 391-9750
++49 531 391-9750
 
 http://www.imt.tu-bs.de/de/ausstattung/sonstiges/bibliothek
 
@@ -1087,7 +1058,7 @@ Institut für Produktionsmeßtechnik
 Schleinitzstr. 20
 38106 Braunschweig
 
-49 531 391-7028
++49 531 391-7028
 
 52.273498,  10.527380999999991
 
@@ -1096,7 +1067,7 @@ Institut für Flugzeugbau und Leichtbau
 Hermann-Blenk-Str. 35
 38106 Braunschweig
 
-49 531 391-9903
++49 531 391-9903
 
 https://www.tu-braunschweig.de/ifl/bibliothek
 
@@ -1107,7 +1078,7 @@ Institut für Flugführung
 Hermann-Blenk-Str. 27
 38106 Braunschweig
 
-49 531 391-9802
++49 531 391-9802
 
 52.3138324,  10.548239800000033 
 
@@ -1116,7 +1087,7 @@ Institut für Adaptronik und Funktionsintegration
 Langer Kamp 6
 38106 Braunschweig
 
-49 531 391-2681
++49 531 391-2681
 
 https://www.tu-braunschweig.de/iaf/institut/institutsbibliothek
 
@@ -1127,7 +1098,7 @@ Institut für Konstruktionstechnik
 Langer Kamp 8
 38106 Braunschweig
 
-49 531 391-3343
++49 531 391-3343
 
 https://www.tu-braunschweig.de/ik/institut/ausstattung
 
@@ -1138,7 +1109,7 @@ Institut für mobile Maschinen und Nutzfahrzeuge
 Langer Kamp 19a
 38106 Braunschweig
 
-49 531 391-2672
++49 531 391-2672
 
 52.27776,  10.537410000000023
 
@@ -1147,7 +1118,7 @@ Institut für Flugantriebe und Strömungsmaschinen
 Hermann-Blenk-Str. 37
 38106 Braunschweig
 
-49 531 391-94202
++49 531 391-94202
 
 52.3142729,  10.543860399999971 
 
@@ -1156,7 +1127,7 @@ Institut für Verbrennungskraftmaschinen
 Hermann-Blenk-Str. 42
 38106 Braunschweig
 
-49 531 391-66900
++49 531 391-66900
 
 https://www.tu-braunschweig.de/ivb/wir/bibliothek
 
@@ -1167,7 +1138,7 @@ Institut für Thermodynamik
 Hans-Sommer-Str. 5
 38106 Braunschweig
 
-49 531 391-2627
++49 531 391-2627
 
 52.27627,  10.537609999999972 
 
@@ -1176,7 +1147,7 @@ Institut für Energie- und Systemverfahrenstechnik
 Franz-Liszt-Str. 35
 38106 Braunschweig
 
-49 531 391-3043
++49 531 391-3043
 
 52.27846,  10.539980000000014 
 
@@ -1185,7 +1156,7 @@ Institut für chemische und thermische Verfahrenstechnik
 Langer Kamp 7
 38106 Braunschweig
 
-49 531 391-2781
++49 531 391-2781
 
 52.27773999999990,  10.540340000000015 
 
@@ -1194,7 +1165,7 @@ Institut für Partikeltechnik
 Volkmaroder Str. 5
 38104 Braunschweig
 
-49 531 391-9611
++49 531 391-9611
 
 52.28763,  10.565510000000017 
 
@@ -1203,7 +1174,7 @@ Institut für Fabrikbetriebslehre und Unternehmensforschung
 Langer Kamp 19
 38106 Braunschweig
 
-49 531 391-2710
++49 531 391-2710
 
 52.27791999999990,  10.537329999999997
 
@@ -1212,7 +1183,7 @@ Institut für Füge- und Schweißtechnik
 Langer Kamp 8
 38106 Braunschweig
 
-49 531 391-95501
++49 531 391-95501
 
 52.27799,  10.538000000000011 
 
@@ -1221,7 +1192,7 @@ Institut für Werkstoffe
 Langer Kamp 8
 38106 Braunschweig
 
-49 531 391-3068
++49 531 391-3068
 
   
 
@@ -1232,7 +1203,7 @@ Institut für Elektrische Maschinen, Antriebe und Bahnen
 Hans-Sommer-Str. 66
 38106 Braunschweig
 
-49 531 391-3913
++49 531 391-3913
 
 52.276328,  10.54024800000002 
 
@@ -1241,7 +1212,7 @@ Institut für Hochspannungstechnik und Elektr. Energieanl.
 Schleinitzstr. 23
 38106 Braunschweig
 
-49 531 391-7737
++49 531 391-7737
 
 52.27377689999999,  10.528196600000001 
 
@@ -1250,7 +1221,7 @@ Institut für Regelungstechnik
 Hans-Sommer-Str. 66
 38106 Braunschweig
 
-49 531 391-3840; -3837
++49 531 391-3840; -3837
 
 https://www.ifr.ing.tu-bs.de/de/institut/bibliothek/
 
@@ -1261,7 +1232,7 @@ Institut für Elektrische Meßtechnik und Grundlagen der Elektrotechnik
 Hans-Sommer-Str. 66
 38106 Braunschweig
 
-49 531 391-3867
++49 531 391-3867
 
 52.276328,  10.54024800000002 
 
@@ -1270,7 +1241,7 @@ Institut für Elektronische Bauelemente und Schaltungstechnik
 Hans-Sommer-Str. 66
 38106 Braunschweig
 
-49 531 391-3163
++49 531 391-3163
 
 52.276328,  10.54024800000002 
 
@@ -1279,7 +1250,7 @@ Institut für Datentechnik und Kommunikationsnetze
 Hans-Sommer-Str. 66
 38106 Braunschweig
 
-49 531 391-3734
++49 531 391-3734
 
 52.276328,  10.54024800000002 
 
@@ -1288,7 +1259,7 @@ Institut für Anglistik und Amerikanistik
 Bienroder Weg 80
 38106 Braunschweig
 
-49 531 391-8712
++49 531 391-8712
 
 https://www.tu-braunschweig.de/fk6/studierende/bibliotheken/biblio/index.html
 
@@ -1299,7 +1270,7 @@ Institut für Geschichtswissenschaft
 Schleinitzstr. 20
 38106 Braunschweig
 
-49 531 391-3099
++49 531 391-3099
 
 http://www.historisches-seminar-braunschweig.de/index.php?id=883
 
@@ -1310,7 +1281,7 @@ Institut für Sozialwissenschaften
 Bienroder Weg 97
 38106 Braunschweig
 
-49 531 391-8925 (Bibl)
++49 531 391-8925 (Bibl)
 
 http://www.tu-braunschweig.de/isw/bibliothek/kontakt
 
@@ -1321,7 +1292,7 @@ Institut für Germanistik Lit
 Bienroder Weg 80 (Bibliothek: Nr. 95)
 38106 Braunschweig
 
-49 531 391-8636
++49 531 391-8636
 
 http://www.tu-braunschweig.de/germanistik/biblio
 
@@ -1332,7 +1303,7 @@ Institut für Erziehungswissenschaften
 Bienroder Weg 97
 38106 Braunschweig
 
-49 531 391-8816
++49 531 391-8816
 
 http://www.tu-braunschweig.de/wbm/bibliothek
 
@@ -1343,7 +1314,7 @@ Institut für Rechtswissenschaften
 Spielmannstr.8
 38106 Braunschweig
 
-49 531 391-2850
++49 531 391-2850
 
 https://www.tu-braunschweig.de/recht/irw/bibliothek
 
@@ -1354,7 +1325,7 @@ Institut für Marketing
 Abt-Jerusalem-Str. 4
 38106 Braunschweig
 
-49 531 391-3202
++49 531 391-3202
 
 52.2728698,  10.530482099999972 
 
@@ -1363,7 +1334,7 @@ Institut für Robotik und Prozeßinformatik
 Mühlenpfordtstr. 23
 38106 Braunschweig
 
-49 531 391-7451
++49 531 391-7451
 
 52.27303,  10.525139999999965 
 
@@ -1372,7 +1343,7 @@ Institut für Controlling und Unternehmensrechnung
 Fallersleber-Tor-Wall 23
 38106 Braunschweig
 
-49 531 391-3608
++49 531 391-3608
 
 http://www.controlling-tubs.de/index.php?id=108
 
@@ -1383,7 +1354,7 @@ Institut für Wirtschaftsinformatik, Lehrstuhl für Decision Support
 Mühlenpfordtstr. 23, 5.OG
 38106 Braunschweig
 
-49 531 391-3211
++49 531 391-3211
 
 http://www.winfo.tu-bs.de/hp/team.html
 
@@ -1394,7 +1365,7 @@ Institut für Unternehmensführung
 Abt-Jerusalem-Str. 4
 38106 Braunschweig
 
-49 531 391-2871 (Sekr.)
++49 531 391-2871 (Sekr.)
 
 https://www.tu-braunschweig.de/orgfue/studium/institutsbibliothek
 
@@ -1405,7 +1376,7 @@ Institut für Rechtswissenschaften
 Bienroder Weg 87
 38106 Braunschweig
 
-49 531 391-2461 (Sekr)
++49 531 391-2461 (Sekr)
 
 https://www.tu-braunschweig.de/recht/irw/bibliothek
 
@@ -1416,7 +1387,7 @@ Institut für Finanzwirtschaft
 Abt-Jerusalem-Str. 7
 38106 Braunschweig
 
-49 531 391-2896 (Sekr.)
++49 531 391-2896 (Sekr.)
 
 52.2725608,  10.530492900000013 
 
@@ -1425,7 +1396,7 @@ Gauß-IT-Zentrum
 Hans-Sommer-Str. 65
 38106 Braunschweig
 
-49 531 391-63700
++49 531 391-63700
 
 52.27635,  10.541569999999979 
 
@@ -1434,7 +1405,7 @@ Seminar für Philosophie
 Bienroder Weg 80 (Bibliothek: Nr. 95)
 38106 Braunschweig
 
-49 531 391-8617 (Sekr.)
++49 531 391-8617 (Sekr.)
 
 https://www.tu-braunschweig.de/philosophie/bibliothek
 
@@ -1445,7 +1416,7 @@ Institut für Erziehungswissenschaften
 Bienroder Weg 97
 38106 Braunschweig
 
-49 531 391-8808 (Sekr.)
++49 531 391-8808 (Sekr.)
 
 http://www.tu-braunschweig.de/schulpaedagogik/biblio
 
@@ -1456,7 +1427,7 @@ Braunschweigische Regionalgeschichte
 Fallersleber-Tor-Wall 23
 38106 Braunschweig
 
-49 531 1219674 (Sekr.)
++49 531 1219674 (Sekr.)
 
 https://www.tu-braunschweig.de/hispaed/personal/lehrbeaufragte/gerdbiegel/index.html
 
@@ -1467,7 +1438,7 @@ Institut für Erziehungswissenschaften
 Bienroder Weg 97
 38106 Braunschweig
 
-49 531 391-8845
++49 531 391-8845
 
 https://www.tu-braunschweig.de/schulpaedagogik/lernwerkstatt-schulpaedagogik/index.html
 
@@ -1478,7 +1449,7 @@ Institut für Pädagogische Psychologie
 Bienroder Weg 82 im Keller
 38106 Braunschweig
 
-49 531 391-94019
++49 531 391-94019
 
 https://www.tu-braunschweig.de/ipp/studi/bib
 
@@ -1489,7 +1460,7 @@ Institut für Germanistik Did
 Bienroder Weg 80 (Bibliothek: Nr. 95)
 38106 Braunschweig
 
-49 531 391-8676; -8667 (Sekr.)
++49 531 391-8676; -8667 (Sekr.)
 
 52.28585,  10.538729999999987 
 
@@ -1498,7 +1469,7 @@ Institut für Anglistik und Amerikanistik
 Bienroder Weg 80 (Bibliothek: Nr. 95)
 38106 Braunschweig
 
-49 531 391-8884
++49 531 391-8884
 
 https://www.tu-braunschweig.de/fk6/studierende/bibliotheken/biblio/index.html
 
@@ -1509,7 +1480,7 @@ Institut für Geschichtswissenschaft
 Bienroder Weg 97
 38106 Braunschweig
 
-49 531 391-8630
++49 531 391-8630
 
 http://www.historisches-seminar-braunschweig.de/index.php?id=884
 
@@ -1520,7 +1491,7 @@ Institut für Fachdidaktik der Naturwissenschaften
 Bienroder Weg 82
 38106 Braunschweig
 
-49 531 391-94130
++49 531 391-94130
 
 52.2850261,  10.53865769999993 
 
@@ -1529,7 +1500,7 @@ Institut für Didaktik der Mathematik und Elementarmathematik
 Bienroder Weg 97
 38106 Braunschweig
 
-49 531 391-8861 (Sekr.)
++49 531 391-8861 (Sekr.)
 
 http://www.tu-braunschweig.de/idm/labor
 
@@ -1540,7 +1511,7 @@ Institut für Musik und ihre Vermittlung
 Rebenring 58
 38106 Braunschweig
 
-49 531 391-3487
++49 531 391-3487
 
 https://www.tu-braunschweig.de/musik/bibliothek
 
@@ -1551,7 +1522,7 @@ Institut für Erziehungswissenschaften
 Bienroder Weg 97
 38106 Braunschweig
 
-49 531 391-8808
++49 531 391-8808
 
 https://www.tu-braunschweig.de/schulpaedagogik/biblio
 
@@ -1562,7 +1533,7 @@ Gleichstellungsbüro
 Bültenweg 17
 38106 Braunschweig
 
-49 531 391-4545
++49 531 391-4545
 
 52.27442449999990,  10.533511699999963 
 
@@ -1571,7 +1542,7 @@ Career Service
 Bültenweg 74/75 (Zimmer 105)
 38106 Braunschweig
 
-49 531 391-4339
++49 531 391-4339
 
 https://www.tu-braunschweig.de/career/literatur
 
@@ -1582,9 +1553,7 @@ Kooperationsstelle Hochschule-Gewerkschaften SON
 Bültenweg 74/75
 38106 Braunschweig
 
-49 531 391-4280
-
-  
++49 531 391-4280
 
 5227611,  10.534080000000017 
 
@@ -1593,7 +1562,7 @@ Frauenbibliothek
 Zimmerstr. 24d
 38106 Braunschweig
 
-49 531 391-4589
++49 531 391-4589
 
 https://www.frauenbib-bs.de/?page_id=233
 
@@ -1604,7 +1573,7 @@ Institut für Fachdidaktik der Naturwissenschaften
 Bienroder Weg 95 (Bibliothek)
 38106 Braunschweig
 
-49 531 391-8884
++49 531 391-8884
 
 52.2852197, 10.53827810000007 
 
@@ -1613,7 +1582,7 @@ Sprachenzentrum der TU Braunschweig
 Pockelsstr. 4
 38106 Braunschweig
 
-49 531 391-5091
++49 531 391-5091
 
 https://www.tu-braunschweig.de/sprachenzentrum/beratung/mediothek
 
@@ -1624,7 +1593,7 @@ Seminar für Evangelische Theologie und Religionspädagogik
 Bienroder Weg 97
 38106 Braunschweig
 
-49 531 391-8896 (Bibl)
++49 531 391-8896 (Bibl)
 
 http://www.tu-braunschweig.de/theologie/bibliothek
 
@@ -1635,7 +1604,7 @@ Institut für Fachdidaktik der Naturwissenschaften
 Bienroder Weg 82
 38106 Braunschweig
 
-49 531 391-94111
++49 531 391-94111
 
 https://www.tu-braunschweig.de/ifdn/chemie/bibliothek
 
@@ -1646,7 +1615,7 @@ Institut für Sportwissenschaft und Sportpädagogik
 Pockelsstr. 11
 38106 Braunschweig
 
-49 531 391-3433
++49 531 391-3433
 
 https://www.tu-braunschweig.de/sport/biblio
 
