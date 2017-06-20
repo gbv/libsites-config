@@ -1,93 +1,85 @@
-@
-UB Rostock und Bibliotheken im Regionalverbund
-
 @28
 UB Rostock: Theologie, Kunst, Lehrerbildungsbibliothek, Zeitschriftenmagazin Geisteswissenschaften
-http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#BB2-FHM
-54.086879, 12.134571
-+49 381 498-8731
-bb2fhm.ub@uni-rostock.de
-Mo,Di,Mi,Do,Fr 09:00 - 19:00
-Aktuelles: Liebe Leserinnen und Leser, aus betrieblichen Gründen steht der PC-Pool vom 4.7.2017 bis zum 7.7.2017 nicht zur Verfügung. 
 
-@28arc
++49381 498-8731
+
+bb2fhm.ub@uni-rostock.de
+
+54.086879, 12.134571
+
+Mo,Di,Mi,Do,Fr 09:00 - 19:00
+
+
+@28-ARC
 UB Rostock: Universitätsarchiv und Kustodie
 
-@28itmz
+@28-ITMZ
 IT- und Medienzentrum
 
-@28mag
+@28-MAG
 UB Rostock: Bücherspeicher
 
-@28son
+@28-SON
 UB Rostock: Sondersammlungen
 
-@28pnz
+@28-PNZ
 Patent- und Normenzentrum
 
-@28bb1
+@28/BB1
 UB Rostock: Bibliothek Südstadt
-http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#BB1
-54.075575, 12.103565
-+49 381 498-8650
-+49 381 498-8640
-ausleihe-bb1.ub@uni-rostock.de
-information-bb1.ub@uni-rostock.de
-MO,Di,Mi,Do,Fr 08:00 - 24:00, Sa 10:00 - 24:00, So 12:00 - 24:00
-Aktuelles: 
 
-@28049
+@28/049
 UB Rostock: Geisteswissenschaften
 
-@28tes
+@28/TES
 Uni Rostock: Testothek
 
-@28260
+@28/260
 UB Rostock: Geschichte
 
-@28261
+@28/261
 UB Rostock: Altertumswissenschaften
 
-@28262
+@28/262
 UB Rostock: DDR-Geschichte
 
-@28361
-UB Rostock: Theologie, Kunst, Lehrerbildungsbibliothek, Zeitschriftenmagazin Geisteswissenschaften
+@28/361
+UB Rostock: ##Theologie, Kunst, Lehrerbildungsbibliothek, Zeitschriftenmagazin Geisteswissenschaften
 
-@28361o
+@28/361o
 UB Rostock: Außenstelle im Institut für Anwaltsrecht
 
-@28606
+@28/606
 UB Rostock: Volkskunde
 
-@28bb1hap
+@28/BB1-HAP
 UB Rostock: Handapparate BB1
 
-@28bb2hap
+@28/BB2-HAP
 UB Rostock: Handapparate BB2
 
-@28bb3hap
+@28/BB3-HAP
 UB Rostock: Handapparate BB3
 
-@28bb4hap
+@28/BB4-HAP
 UB Rostock: Handapparate BB4
 
-@28361hap
+@28/361-HAP
 UB Rostock: Handapparate 361
 
-@wa1
+@WA1
 Leibniz-Institut für Ostseeforschung Warnemünde
 
-@kue3
+@KUE3
 Leibniz-Institut für Atmosphärenphysik Kühlungsborn
 
-@r48
+@R48
 Leibniz-Institut für Nutztierbiologie
 
 @563
 Hochschule für Musik und Theater Rostock
 
-@gue2161
+@GUE2161
 Historische Bibliothek des Museums der Barlachstadt Güstrow
 
 
