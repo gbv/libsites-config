@@ -3,7 +3,8 @@ UB Braunschweig
 
 Mo-Fr 07:00 - 24:00 Uhr
 Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
+So 10:00 - 17:00 Uhr (April, Mai und September bis Dezember)
+So 10:00 - 22:00 Uhr (Januar bis März und Juni bis August)
 
 ub@tu-braunschweig.de
 
@@ -29,9 +30,10 @@ Universitätsplatz 1
 
 http://www.biblio.tu-bs.de/best/
 
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
+Mo - Fr	07:00 - 23:45 Uhr
+Sa	10:00 - 21:45 Uhr
+So 10:00 - 16:45 Uhr (April, Mai und September bis Dezember)
+So 10:00 - 21:45 Uhr (Januar bis März und Juni bis August)
 
 52.274011,10.529346
 
@@ -42,10 +44,6 @@ Universitätsplatz 1
 
 +49 531 391 5018
 
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
-
 52.274011,10.529346
 
 @dienst
@@ -54,10 +52,6 @@ Universitätsplatz 1
 38106 Braunschweig
 
 +49 531 391 5018
-
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
 
 52.274011,10.529346
 
@@ -70,9 +64,10 @@ Universitätsplatz 1
 
 http://www.biblio.tu-bs.de/plan/Lageplan00.html
 
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
+Mo - Fr	07:00 - 23:45 Uhr
+Sa	10:00 - 21:45 Uhr
+So 10:00 - 16:45 Uhr (April, Mai und September bis Dezember)
+So 10:00 - 21:45 Uhr (Januar bis März und Juni bis August)
 
 52.274011,10.529346
 
@@ -83,9 +78,10 @@ Universitätsplatz 1
 
 +49 531 391 5018
 
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
+Mo - Fr	07:00 - 23:45 Uhr
+Sa	10:00 - 21:45 Uhr
+So 10:00 - 16:45 Uhr (April, Mai und September bis Dezember)
+So 10:00 - 21:45 Uhr (Januar bis März und Juni bis August)
 
 52.274011,10.529346
 
@@ -96,9 +92,8 @@ Universitätsplatz 1
 
 +49 531 391 5018
 
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
+Mo-Fr 09:00 - 19:00 Uhr
+Sa 10:00 - 14:00 Uhr
 
 52.274011,10.529346
 
@@ -109,10 +104,6 @@ Universitätsplatz 1
 
 +49 531 391 5018
 
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
-
 52.274011,10.529346
 
 @g9
@@ -122,10 +113,6 @@ Universitätsplatz 1
 
 +49 531 391 5018
 
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
-
 52.274011,10.529346
 
 @kg
@@ -134,10 +121,6 @@ Universitätsplatz 1
 38106 Braunschweig
 
 +49 531 391 5018
-
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
 
 52.274011,10.529346
 
@@ -150,9 +133,10 @@ Universitätsplatz 1
 
 http://www.biblio.tu-bs.de/plan/Lageplan00.html
 
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
+Mo - Fr	07:00 - 23:45 Uhr
+Sa	10:00 - 21:45 Uhr
+So 10:00 - 16:45 Uhr (April, Mai und September bis Dezember)
+So 10:00 - 21:45 Uhr (Januar bis März und Juni bis August)
 
 52.274011,10.529346
 
@@ -165,9 +149,10 @@ Universitätsplatz 1
 
 http://www.biblio.tu-bs.de/plan/Lageplan01.html
 
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
+Mo - Fr	07:00 - 23:45 Uhr
+Sa	10:00 - 21:45 Uhr
+So 10:00 - 16:45 Uhr (April, Mai und September bis Dezember)
+So 10:00 - 21:45 Uhr (Januar bis März und Juni bis August)
 
 52.274011,10.529346
 
@@ -180,9 +165,10 @@ Universitätsplatz 1
 
 http://www.biblio.tu-bs.de/plan/Lageplan01.html
 
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
+Mo - Fr	07:00 - 23:45 Uhr
+Sa	10:00 - 21:45 Uhr
+So 10:00 - 16:45 Uhr (April, Mai und September bis Dezember)
+So 10:00 - 21:45 Uhr (Januar bis März und Juni bis August)
 
 52.274011,10.529346
 
@@ -195,9 +181,10 @@ Universitätsplatz 1
 
 http://www.biblio.tu-bs.de/plan/Lageplan02.html
 
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
+Mo - Fr	07:00 - 23:45 Uhr
+Sa	10:00 - 21:45 Uhr
+So 10:00 - 16:45 Uhr (April, Mai und September bis Dezember)
+So 10:00 - 21:45 Uhr (Januar bis März und Juni bis August)
 
 52.274011,10.529346
 
@@ -210,9 +197,10 @@ Universitätsplatz 1
 
 http://www.biblio.tu-bs.de/plan/Lageplan02.html
 
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
+Mo - Fr	07:00 - 23:45 Uhr
+Sa	10:00 - 21:45 Uhr
+So 10:00 - 16:45 Uhr (April, Mai und September bis Dezember)
+So 10:00 - 21:45 Uhr (Januar bis März und Juni bis August)
 
 52.274011,10.529346
 
@@ -225,9 +213,10 @@ Universitätsplatz 1
 
 http://www.biblio.tu-bs.de/plan/Lageplan02.html
 
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
+Mo - Fr	07:00 - 23:45 Uhr
+Sa	10:00 - 21:45 Uhr
+So 10:00 - 16:45 Uhr (April, Mai und September bis Dezember)
+So 10:00 - 21:45 Uhr (Januar bis März und Juni bis August)
 
 52.274011,10.529346
 
@@ -240,9 +229,10 @@ Universitätsplatz 1
 
 http://www.biblio.tu-bs.de/plan/Lageplan03.html
 
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
+Mo - Fr	07:00 - 23:45 Uhr
+Sa	10:00 - 21:45 Uhr
+So 10:00 - 16:45 Uhr (April, Mai und September bis Dezember)
+So 10:00 - 21:45 Uhr (Januar bis März und Juni bis August)
 
 52.274011,10.529346
 
@@ -255,9 +245,10 @@ Universitätsplatz 1
 
 http://www.biblio.tu-bs.de/plan/Lageplan03.html
 
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
+Mo - Fr	07:00 - 23:45 Uhr
+Sa	10:00 - 21:45 Uhr
+So 10:00 - 16:45 Uhr (April, Mai und September bis Dezember)
+So 10:00 - 21:45 Uhr (Januar bis März und Juni bis August)
 
 52.274011,10.529346
 
@@ -268,11 +259,10 @@ Universitätsplatz 1
 
 +49 531 391 5018
 
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
+Mo - Fr	09:00 - 18:45 Uhr
+Sa	10:00 - 21:45 Uhr
 
-Publikationen, die an diesem Ort gelagert sind, können bestellt werden. Bestellte Publikationen können an der Leihtheke im Erdgeschoss abgeholt werden.
+Publikationen, die an diesem Ort gelagert sind, können bestellt werden. Bestellte Publikationen werden während der Öffnungszeiten des Magazins an die Leihstelle geliefert und können dann an der Leihtheke im Erdgeschoss abgeholt werden.
 
 52.274011,10.529346
 
@@ -283,11 +273,10 @@ Universitätsplatz 1
 
 +49 531 391 5018
 
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
+Mo - Fr	09:00 - 18:45 Uhr
+Sa	10:00 - 21:45 Uhr
 
-Publikationen, die an diesem Ort gelagert sind, können bestellt werden. Bestellte Publikationen können an der Leihtheke im Erdgeschoss abgeholt werden.
+Publikationen, die an diesem Ort gelagert sind, können bestellt werden. Bestellte Publikationen werden während der Öffnungszeiten des Magazins an die Leihstelle geliefert und können dann an der Leihtheke im Erdgeschoss abgeholt werden.
 
 52.274011,10.529346
 
@@ -298,11 +287,10 @@ Universitätsplatz 1
 
 +49 531 391 5018
 
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
+Mo - Fr	09:00 - 18:45 Uhr
+Sa	10:00 - 21:45 Uhr
 
-Publikationen, die an diesem Ort gelagert sind, können bestellt werden. Bestellte Publikationen können an der Leihtheke im Erdgeschoss abgeholt werden.
+Publikationen, die an diesem Ort gelagert sind, können bestellt werden. Bestellte Publikationen werden während der Öffnungszeiten des Magazins an die Leihstelle geliefert und können dann an der Leihtheke im Erdgeschoss abgeholt werden.
 
 52.274011,10.529346
 
@@ -313,10 +301,6 @@ Universitätsplatz 1
 
 +49 531 391 5018
 
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
-
 52.274011,10.529346
 
 @schn
@@ -325,10 +309,6 @@ Universitätsplatz 1
 38106 Braunschweig
 
 +49 531 391 5018
-
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
 
 52.274011,10.529346
 
@@ -341,10 +321,6 @@ Universitätsplatz 1
 
 http://www.biblio.tu-bs.de/plan/Lageplan00.html
 
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
-
 52.274011,10.529346
 
 @zfm
@@ -354,9 +330,10 @@ Universitätsplatz 1
 
 +49 531 391 5018
 
-Mo-Fr 07:00 - 24:00 Uhr
-Sa 10:00 - 22:00 Uhr
-So 10:00 - 17:00 Uhr
+Mo - Fr	07:00 - 23:45 Uhr
+Sa	10:00 - 21:45 Uhr
+So 10:00 - 16:45 Uhr (April, Mai und September bis Dezember)
+So 10:00 - 21:45 Uhr (Januar bis März und Juni bis August)
 
 52.274011,10.529346
 
