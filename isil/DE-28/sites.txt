@@ -8,22 +8,54 @@ http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#BB2-FHM
 +49 381 498-8731
 bb2fhm.ub@uni-rostock.de
 Mo,Di,Mi,Do,Fr 09:00 - 19:00
-Aktuelles: Liebe Leserinnen und Leser, aus betrieblichen Gründen steht der PC-Pool vom 4.7.2017 bis zum 7.7.2017 nicht zur Verfügung. 
+Hinweis: Liebe Leserinnen und Leser, aus betrieblichen Gründen steht der PC-Pool vom 4.7.2017 bis zum 7.7.2017 nicht zur Verfügung. 
 
 @28arc
 UB Rostock: Universitätsarchiv und Kustodie
+http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#ARC
+54.088115, 12.133407
++49 381 498-8621
+universitaetsarchiv@uni-rostock.de
+Di 09:00 - 12:00, 13:00 - 18:00, Mi,Do 09:00 - 12:00, 13:00 - 16:00
+Hinweis: 
 
 @28itmz
 IT- und Medienzentrum
+https://www.itmz.uni-rostock.de/
+54.077476, 12.106839
++49 381 498-5301
+itmz@uni-rostock.de
+Hinweis:
 
 @28mag
 UB Rostock: Bücherspeicher
+http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#BSP
+54.087489, 12.134571
++49 381 498-8741
++49 381 498-8639
+buecherspeicher@uni-rostock.de
+Mo,Di,Mi,Do,Fr 09:00, 11:30, 13:30, 15:30
+Hinweis: 
 
 @28son
 UB Rostock: Sondersammlungen
+http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#SON
+54.087036, 12.136041
++49 381 498-8754
++49 381 498-8700
+sondersammlungen@uni-rostock.de
+Mo,Di,Mi,Do,Fr 09:00 - 19:00
+Hinweis: 
 
 @28pnz
 Patent- und Normenzentrum
+http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#PNZ
+54.084267, 12.112727
++49 381 498-8674
++49 381 498-8673
+patente@uni-rostock.de
+Mo,Mi,Do 09:30 - 12:00, 13:00 - 16:00, Di 09:30 - 12:00, 13:00 - 18:00
+Hinweis: 
 
 @28bb1
 UB Rostock: Bibliothek Südstadt
@@ -34,60 +66,158 @@ http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#BB1
 ausleihe-bb1.ub@uni-rostock.de
 information-bb1.ub@uni-rostock.de
 MO,Di,Mi,Do,Fr 08:00 - 24:00, Sa 10:00 - 24:00, So 12:00 - 24:00
-Aktuelles: 
+Hinweis: 
 
 @28049
 UB Rostock: Geisteswissenschaften
+http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#049
+54.085035, 12.133294
++49 381 498-8733
++49 381 498-8712
+ausleihe-bb2.ub@uni-rostock.de
+information-bb2.ub@uni-rostock.de
+Mo,Di,Mi,Do,Fr 08:00 - 19:00, Sa 10:00 - 16:00
+Hinweis:
 
 @28tes
 Uni Rostock: Testothek
+http://www.ipprdk.uni-rostock.de/testothek/
+54.085035, 12.133294
++49 381 498-2695
+testothek@uni-rostock.de
+Hinweis: 			
 
 @28260
 UB Rostock: Geschichte
+http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#260
+54.087131, 12.136277
++49 381 498-8724
+fbgeschichte.ub@uni-rostock.de
+Mo,Di,Mi,Do,Fr 08:00 - 19:00
+Hinweis:
 
 @28261
 UB Rostock: Altertumswissenschaften
+http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#261
+54.086355, 12.107757
++49 381 498-8793
++49 381 498-8795
+fbaltertum.ub@uni-rostock.de
+Mo,Di,Mi,Do,Fr 09:00 - 19:00
+Hinweis:
 
 @28262
 UB Rostock: DDR-Geschichte
+http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#262
+54.084651, 12.134185
++49 381 498-8727
+fbddrgeschichte.ub@uni-rostock.de
+Mo,Mi,Do,Fr 09:00 - 14:00, Di 09:00 - 18:00
+Hinweis:
 
 @28361
 UB Rostock: Theologie, Kunst, Lehrerbildungsbibliothek, Zeitschriftenmagazin Geisteswissenschaften
+http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#361
+54.144471, 12.061615
++49 381 498-8775
++49 381 498-8771
+bb2fhm.ub@uni-rostock.de
+Mo,Di,Mi,Do,Fr 10:00 - 18:00
 
 @28361o
 UB Rostock: Außenstelle im Institut für Anwaltsrecht
+http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#361o
+54.170678, 12.080981
++49 381 498-8211
+caroline.wegener2@uni-rostock.de
+Hinweis: Termine nach telefonischer Vereinbarung
 
 @28606
 UB Rostock: Volkskunde
+ http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#606
+54.0822, 12.137527
++49 381 498-8728
+fbvolkskunde.ub@uni-rostock.de
+Mo,Mi,Do,Fr 09:00 - 14:00, Do 09:00 - 18:00
+Hinweis:
 
 @28bb1hap
 UB Rostock: Handapparate BB1
+http://web10.ub.uni-rostock.de/uploads/handapparate/ha_bb1.pdf
++49 381 498-8640
+information-bb1.ub@uni-rostock.de
+Hinweis: Zur Einsichtnahme wenden Sie sich bitte an das zuständige Sekretariat des Lehrstuhls.
 
 @28bb2hap
 UB Rostock: Handapparate BB2
+http://web10.ub.uni-rostock.de/uploads/handapparate/ha_bb2.pdf
++49 381 498-8712
+information-bb2.ub@uni-rostock.de
+Hinweis: Zur Einsichtnahme wenden Sie sich bitte an das zuständige Sekretariat des Lehrstuhls.
 
 @28bb3hap
 UB Rostock: Handapparate BB3
+http://web10.ub.uni-rostock.de/uploads/handapparate/ha_bb3.pdf
++49 381 498-8640
+information-bb1.ub@uni-rostock.de
+Hinweis: Zur Einsichtnahme wenden Sie sich bitte an das zuständige Sekretariat des Lehrstuhls.
 
 @28bb4hap
 UB Rostock: Handapparate BB4
+http://web10.ub.uni-rostock.de/uploads/handapparate/ha_bb4.pdf
++49 381 498-8640
+information-bb1.ub@uni-rostock.de
+Hinweis: Zur Einsichtnahme wenden Sie sich bitte an das zuständige Sekretariat des Lehrstuhls.
 
 @28361hap
 UB Rostock: Handapparate 361
+http://web10.ub.uni-rostock.de/uploads/handapparate/ha_361.pdf
++49 381 498-8771
+bb2fhm.ub@uni-rostock.de
+Hinweis: Zur Einsichtnahme wenden Sie sich bitte an das zuständige Sekretariat des Lehrstuhls.
 
 @wa1
 Leibniz-Institut für Ostseeforschung Warnemünde
+https://www.io-warnemuende.de/bibliothek.html
+54.1793139, 12.081318
++49 381 5197-460
+bibliothek@io-warnemuende.de
+Hinweis: 
 
 @kue3
 Leibniz-Institut für Atmosphärenphysik Kühlungsborn
+https://www.iap-kborn.de/institut/abteilungen-und-infrastruktur/bibliothek/
+54.1169804, 11.7720973
++49 38293 68-420
+vonrein@iap-kborn.de
+Hinweis:
 
 @r48
 Leibniz-Institut für Nutztierbiologie
+https://www.fbn-dummerstorf.de/ueber-uns/wissenschaftsorganisation-und-service/bibliothek/?L=0
+54.0124469, 12.2285557
++49 38208 68-614
+bibliothek@fbn-dummerstorf.de
+Mo,Di,Mi,Do 07:30 - 15:30, Fr 07:30 - 12:30
+Hinweis: Termine auch nach Vereinbarung möglich.
 
 @563
 Hochschule für Musik und Theater Rostock
+https://www.hmt-rostock.de/university/library.html
+54.0914348, 12.1438676
++49 381 5108-252
++49 381 5108-250
+bibliothek@hmt-rostock.de
+kirstin.bloes@hmt-rostock.de
+Mo,Di,Mi,Do 10:00 - 13:00, 14:00 - 16:30, Fr 10:00 - 13:00
+Hinweis:
 
 @gue2161
 Historische Bibliothek des Museums der Barlachstadt Güstrow
-
+http://www.uwe-johnson-bibliothek.de/angebote/historische-bibliothek/
+54.075575, 12.103565
++49 3843 769-465
+uwe.johnson.bibliothek@guestrow.de
+Mo,Di,Do,Fr 10:00 - 18:00, Mi 10:00 - 14:00
+Hinweis: Vorherige Anmeldung erforderlich.
 
