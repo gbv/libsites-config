@@ -19,6 +19,17 @@ https://www.hmt-rostock.de/university/library.html
 bibliothek@hmt-rostock.de
 kirstin.bloes@hmt-rostock.de
 Mo,Di,Mi,Do 10:00 - 13:00, 14:00 - 16:30, Fr 10:00 - 13:00
+Hinweis:ISIL DE-563
+
+ISIL DE-563
+Hochschule für Musik und Theater Rostock
+https://www.hmt-rostock.de/university/library.html
+54.0914348, 12.1438676
++49 381 5108-252
++49 381 5108-250
+bibliothek@hmt-rostock.de
+kirstin.bloes@hmt-rostock.de
+Mo,Di,Mi,Do 10:00 - 13:00, 14:00 - 16:30, Fr 10:00 - 13:00
 Hinweis:
 
 @28itmz
@@ -35,7 +46,7 @@ https://www.iap-kborn.de/institut/abteilungen-und-infrastruktur/bibliothek/
 54.1169804, 11.7720973
 +49 38293 68-420
 vonrein@iap-kborn.de
-Hinweis:
+Hinweis:ISIL DE-Kue3
 
 @r48
 Leibniz-Institut für Nutztierbiologie
@@ -44,7 +55,7 @@ https://www.fbn-dummerstorf.de/ueber-uns/wissenschaftsorganisation-und-service/b
 +49 38208 68-614
 bibliothek@fbn-dummerstorf.de
 Mo,Di,Mi,Do 07:30 - 15:30, Fr 07:30 - 12:30
-Hinweis: Termine auch nach Vereinbarung möglich.
+Hinweis: ISIL DE-R48. Termine auch nach Vereinbarung möglich.
 
 @wa1
 Leibniz-Institut für Ostseeforschung Warnemünde
@@ -52,7 +63,7 @@ https://www.io-warnemuende.de/bibliothek.html
 54.1793139, 12.081318
 +49 381 5197-460
 bibliothek@io-warnemuende.de
-Hinweis: 
+Hinweis: ISIL DE-Wa1
 
 @28pnz
 Patent- und Normenzentrum
@@ -86,11 +97,17 @@ Hinweis: Termine nach telefonischer Vereinbarung
 UB Rostock: Bibliothek Südstadt
 http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#BB1
 54.075575, 12.103565
-+49 381 498-8650
-+49 381 498-8640
++49 381 498-8650 (Ausleihe)
++49 381 498-8640 (Information)
 ausleihe-bb1.ub@uni-rostock.de
 information-bb1.ub@uni-rostock.de
-MO,Di,Mi,Do,Fr 08:00 - 24:00, Sa 10:00 - 24:00, So 12:00 - 24:00
+MO 08:00 - 24:00
+Di 08:00 - 24:00
+Mi 08:00 - 24:00
+Do 08:00 - 24:00
+Fr 08:00 - 24:00
+Sa 10:00 - 24:00
+So 12:00 - 24:00
 Hinweis: 
 
 @28mag
@@ -220,15 +237,4 @@ http://www.ipprdk.uni-rostock.de/testothek/
 +49 381 498-2695
 testothek@uni-rostock.de
 Hinweis: 			
-
-@department-100
-UB Rostock: Bibliothek Südstadt
-http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#BB1
-54.075575, 12.103565
-+49 381 498-8650
-+49 381 498-8640
-ausleihe-bb1.ub@uni-rostock.de
-information-bb1.ub@uni-rostock.de
-MO,Di,Mi,Do,Fr 08:00 - 24:00, Sa 10:00 - 24:00, So 12:00 - 24:00
-Hinweis: 
 
