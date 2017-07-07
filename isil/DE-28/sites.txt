@@ -86,11 +86,17 @@ Hinweis: Termine nach telefonischer Vereinbarung
 UB Rostock: Bibliothek Südstadt
 http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#BB1
 54.075575, 12.103565
-+49 381 498-8650
-+49 381 498-8640
++49 381 498-8650 (Ausleihe)
++49 381 498-8640 (Information)
 ausleihe-bb1.ub@uni-rostock.de
 information-bb1.ub@uni-rostock.de
-MO,Di,Mi,Do,Fr 08:00 - 24:00, Sa 10:00 - 24:00, So 12:00 - 24:00
+MO 08:00 - 24:00
+Di 08:00 - 24:00
+Mi 08:00 - 24:00
+Do 08:00 - 24:00
+Fr 08:00 - 24:00
+Sa 10:00 - 24:00
+So 12:00 - 24:00
 Hinweis: 
 
 @28mag
@@ -220,15 +226,4 @@ http://www.ipprdk.uni-rostock.de/testothek/
 +49 381 498-2695
 testothek@uni-rostock.de
 Hinweis: 			
-
-@department-100
-UB Rostock: Bibliothek Südstadt
-http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#BB1
-54.075575, 12.103565
-+49 381 498-8650
-+49 381 498-8640
-ausleihe-bb1.ub@uni-rostock.de
-information-bb1.ub@uni-rostock.de
-MO,Di,Mi,Do,Fr 08:00 - 24:00, Sa 10:00 - 24:00, So 12:00 - 24:00
-Hinweis: 
 
