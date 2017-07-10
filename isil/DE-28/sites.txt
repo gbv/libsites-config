@@ -7,7 +7,14 @@ http://www.uwe-johnson-bibliothek.de/angebote/historische-bibliothek/
 54.075575, 12.103565
 +49 3843 769-465
 uwe.johnson.bibliothek@guestrow.de
-Mo,Di,Do,Fr 10:00 - 18:00, Mi 10:00 - 14:00
+Mo 10:00 - 18:00
+Di 10:00 - 18:00
+Mi 10:00 - 14:00
+Do 10:00 - 18:00
+Fr 10:00 - 18:00
+Sa -
+So geschlossen
+Hinweis: ISIL DE-1261
 Hinweis: Vorherige Anmeldung erforderlich.
 
 @563
@@ -18,19 +25,12 @@ https://www.hmt-rostock.de/university/library.html
 +49 381 5108-250
 bibliothek@hmt-rostock.de
 kirstin.bloes@hmt-rostock.de
-Mo,Di,Mi,Do 10:00 - 13:00, 14:00 - 16:30, Fr 10:00 - 13:00
+Mo 10:00 - 13:00, 14:00 - 16:30
+Di 10:00 - 13:00, 14:00 - 16:30
+Mi 10:00 - 13:00, 14:00 - 16:30
+Do 10:00 - 13:00, 14:00 - 16:30
+Fr 10:00 - 13:00
 Hinweis:ISIL DE-563
-
-ISIL DE-563
-Hochschule für Musik und Theater Rostock
-https://www.hmt-rostock.de/university/library.html
-54.0914348, 12.1438676
-+49 381 5108-252
-+49 381 5108-250
-bibliothek@hmt-rostock.de
-kirstin.bloes@hmt-rostock.de
-Mo,Di,Mi,Do 10:00 - 13:00, 14:00 - 16:30, Fr 10:00 - 13:00
-Hinweis:
 
 @28itmz
 IT- und Medienzentrum
@@ -46,16 +46,22 @@ https://www.iap-kborn.de/institut/abteilungen-und-infrastruktur/bibliothek/
 54.1169804, 11.7720973
 +49 38293 68-420
 vonrein@iap-kborn.de
-Hinweis:ISIL DE-Kue3
+Hinweis: ISIL DE-Kue3
+Hinweis: Montags bis Freitags ist die Bibliothek von 8-12 Uhr besetzt, ansonsten ist sie für Institutsmitarbeiter ständig geöffnet. 
 
 @r48
-Leibniz-Institut für Nutztierbiologie
+Leibniz-Institut für Nutztierbiologie Dummerstorf
 https://www.fbn-dummerstorf.de/ueber-uns/wissenschaftsorganisation-und-service/bibliothek/?L=0
 54.0124469, 12.2285557
 +49 38208 68-614
 bibliothek@fbn-dummerstorf.de
-Mo,Di,Mi,Do 07:30 - 15:30, Fr 07:30 - 12:30
-Hinweis: ISIL DE-R48. Termine auch nach Vereinbarung möglich.
+Mo 07:30 - 15:30
+Di 07:30 - 15:30
+Mi 07:30 - 15:30
+Do 07:30 - 15:30
+Fr 07:30 - 12:30
+Hinweis: ISIL DE-R48
+Hinweis: Termine auch nach Vereinbarung möglich.
 
 @wa1
 Leibniz-Institut für Ostseeforschung Warnemünde
@@ -64,6 +70,7 @@ https://www.io-warnemuende.de/bibliothek.html
 +49 381 5197-460
 bibliothek@io-warnemuende.de
 Hinweis: ISIL DE-Wa1
+Hinweis: Die Bibliothek ist für die Literaturversorgung der Mitarbeitenden des IOW zuständig. Darüber hinaus steht die Bibliothek auch auswärtigen Nutzern, insbesondere Studierenden, zur Verfügung.
 
 @28pnz
 Patent- und Normenzentrum
@@ -72,7 +79,11 @@ http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#PNZ
 +49 381 498-8674
 +49 381 498-8673
 patente@uni-rostock.de
-Mo,Mi,Do 09:30 - 12:00, 13:00 - 16:00, Di 09:30 - 12:00, 13:00 - 18:00
+Mo 09:30 - 12:00, 13:00 - 16:00
+Di 09:30 - 12:00, 13:00 - 18:00
+Mi 09:30 - 12:00, 13:00 - 16:00
+Do 09:30 - 12:00, 13:00 - 16:00
+Fr Termine nach Vereinbarung
 Hinweis: 
 
 @28261
@@ -82,7 +93,11 @@ http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#261
 +49 381 498-8793
 +49 381 498-8795
 fbaltertum.ub@uni-rostock.de
-Mo,Di,Mi,Do,Fr 09:00 - 19:00
+Mo 09:00 - 19:00
+Di 09:00 - 19:00
+Mi 09:00 - 19:00
+Do 09:00 - 19:00
+Fr 09:00 - 19:00
 Hinweis:
 
 @28361o
@@ -101,7 +116,7 @@ http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#BB1
 +49 381 498-8640 (Information)
 ausleihe-bb1.ub@uni-rostock.de
 information-bb1.ub@uni-rostock.de
-MO 08:00 - 24:00
+Mo 08:00 - 24:00
 Di 08:00 - 24:00
 Mi 08:00 - 24:00
 Do 08:00 - 24:00
@@ -117,8 +132,7 @@ http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#BSP
 +49 381 498-8741
 +49 381 498-8639
 buecherspeicher@uni-rostock.de
-Mo,Di,Mi,Do,Fr 09:00, 11:30, 13:30, 15:30
-Hinweis: 
+Hinweis: Die Bereitstellung der Bücher im Zeitschriftenmagazin Geisteswissenschaften erfolgt von Mo-Fr zu den folgenden Zeiten: 09:00, 11:30, 13:30, 15:30. Die Bereitstellung der Bücher in den Sondersammlungen erfolgt von Mo-Fr zu folgenden Zeiten 09:00, 13:30.
 
 @28262
 UB Rostock: DDR-Geschichte
@@ -126,7 +140,11 @@ http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#262
 54.084651, 12.134185
 +49 381 498-8727
 fbddrgeschichte.ub@uni-rostock.de
-Mo,Mi,Do,Fr 09:00 - 14:00, Di 09:00 - 18:00
+Mo 09:00 - 14:00
+Di 09:00 - 18:00
+Mi 09:00 - 14:00
+Do 09:00 - 14:00
+Fr 09:00 - 14:00
 Hinweis:
 
 @28049
@@ -137,7 +155,12 @@ http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#049
 +49 381 498-8712
 ausleihe-bb2.ub@uni-rostock.de
 information-bb2.ub@uni-rostock.de
-Mo,Di,Mi,Do,Fr 08:00 - 19:00, Sa 10:00 - 16:00
+Mo 08:00 - 19:00
+Di 08:00 - 19:00
+Mi 08:00 - 19:00
+Do 08:00 - 19:00
+Fr 08:00 - 19:00
+Sa 10:00 - 16:00
 Hinweis:
 
 @28260
@@ -146,7 +169,11 @@ http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#260
 54.087131, 12.136277
 +49 381 498-8724
 fbgeschichte.ub@uni-rostock.de
-Mo,Di,Mi,Do,Fr 08:00 - 19:00
+Mo 08:00 - 19:00
+Di 08:00 - 19:00
+Mi 08:00 - 19:00
+Do 08:00 - 19:00
+Fr 08:00 - 19:00
 Hinweis:
 
 @28bb1hap
@@ -191,7 +218,11 @@ http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#361
 +49 381 498-8775
 +49 381 498-8771
 bb2fhm.ub@uni-rostock.de
-Mo,Di,Mi,Do,Fr 10:00 - 18:00
+Mo 10:00 - 18:00
+Di 10:00 - 18:00
+Mi 10:00 - 18:00
+Do 10:00 - 18:00
+Fr 10:00 - 18:00
 
 @28son
 UB Rostock: Sondersammlungen
@@ -200,7 +231,11 @@ http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#SON
 +49 381 498-8754
 +49 381 498-8700
 sondersammlungen@uni-rostock.de
-Mo,Di,Mi,Do,Fr 09:00 - 19:00
+Mo 09:00 - 19:00
+Di 09:00 - 19:00
+Mi 09:00 - 19:00
+Do 09:00 - 19:00
+Fr 09:00 - 19:00
 Hinweis: 
 
 @28
@@ -209,7 +244,11 @@ http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#BB2-FHM
 54.086879, 12.134571
 +49 381 498-8731
 bb2fhm.ub@uni-rostock.de
-Mo,Di,Mi,Do,Fr 09:00 - 19:00
+Mo 09:00 - 19:00
+Di 09:00 - 19:00
+Mi 09:00 - 19:00
+Do 09:00 - 19:00
+Fr 09:00 - 19:00
 Hinweis: Liebe Leserinnen und Leser, aus betrieblichen Gründen steht der PC-Pool vom 4.7.2017 bis zum 7.7.2017 nicht zur Verfügung. 
 
 @28arc
@@ -218,7 +257,9 @@ http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#ARC
 54.088115, 12.133407
 +49 381 498-8621
 universitaetsarchiv@uni-rostock.de
-Di 09:00 - 12:00, 13:00 - 18:00, Mi,Do 09:00 - 12:00, 13:00 - 16:00
+Di 09:00 - 12:00, 13:00 - 18:00
+Mi 09:00 - 12:00, 13:00 - 16:00
+Do 09:00 - 12:00, 13:00 - 16:00
 Hinweis: 
 
 @28606
@@ -227,7 +268,10 @@ UB Rostock: Volkskunde
 54.0822, 12.137527
 +49 381 498-8728
 fbvolkskunde.ub@uni-rostock.de
-Mo,Mi,Do,Fr 09:00 - 14:00, Do 09:00 - 18:00
+Mo 09:00 - 14:00
+Mi 09:00 - 14:00
+Do 09:00 - 18:00
+Fr 09:00 - 14:00
 Hinweis:
 
 @28tes
@@ -236,5 +280,5 @@ http://www.ipprdk.uni-rostock.de/testothek/
 54.085035, 12.133294
 +49 381 498-2695
 testothek@uni-rostock.de
-Hinweis: 			
+Hinweis: Die Testothek ist eine Art Bibliothek für psychologische und pädagogisch-psychologische Testverfahren. Weil psychologische Tests dem Testschutz unterliegen und nur an berechtigte Personen ausgegeben werden dürfen, unterliegt die Einsicht in diese und die Ausleihe dieser Testverfahren besonderen Bestimmungen. Kurz gesagt können nur solche Mitarbeiter/innen und Studierende der Universität Rostock die Testothek nutzen, die für die entsprechenden Verfahren ausgebildet sind oder gerade augebildet werden. Einsicht für oder Ausleihe von Tests an Personen, die nicht der Universität als Mitarbieter/innen oder Studierende angehören, sind generell ausgeschlossen.		
 
