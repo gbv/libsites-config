@@ -1,8 +1,11 @@
 @
 UB Rostock und Bibliotheken im Regionalverbund
+http://www.ub.uni-rostock.de/
+54.075575, 12.103565
++49 381 498-8601 (Direktion) und +49 381 498-8640 (Information)
 
 @gue2161
-Historische Bibliothek des Museums der Barlachstadt Güstrow
+Historische Bibliothek des Museums der Barlachstadt Güstrow 
 http://www.uwe-johnson-bibliothek.de/angebote/historische-bibliothek/
 54.075575, 12.103565
 +49 3843 769-465
@@ -12,13 +15,10 @@ Di 10:00 - 18:00
 Mi 10:00 - 14:00
 Do 10:00 - 18:00
 Fr 10:00 - 18:00
-Sa -
-So geschlossen
-Hinweis: ISIL DE-1261
-Hinweis: Vorherige Anmeldung erforderlich.
+Hinweis: Vorherige Anmeldung erforderlich. 
 
 @563
-Hochschule für Musik und Theater Rostock
+Hochschule für Musik und Theater Rostock 
 https://www.hmt-rostock.de/university/library.html
 54.0914348, 12.1438676
 +49 381 5108-252
@@ -26,11 +26,11 @@ https://www.hmt-rostock.de/university/library.html
 bibliothek@hmt-rostock.de
 kirstin.bloes@hmt-rostock.de
 Mo 10:00 - 13:00, 14:00 - 16:30
-Di 10:00 - 13:00, 14:00 - 16:30
+Di 10:00 - 16:30
 Mi 10:00 - 13:00, 14:00 - 16:30
 Do 10:00 - 13:00, 14:00 - 16:30
 Fr 10:00 - 13:00
-Hinweis:ISIL DE-563
+Hinweis:
 
 @28itmz
 IT- und Medienzentrum
@@ -46,7 +46,6 @@ https://www.iap-kborn.de/institut/abteilungen-und-infrastruktur/bibliothek/
 54.1169804, 11.7720973
 +49 38293 68-420
 vonrein@iap-kborn.de
-Hinweis: ISIL DE-Kue3
 Hinweis: Montags bis Freitags ist die Bibliothek von 8-12 Uhr besetzt, ansonsten ist sie für Institutsmitarbeiter ständig geöffnet. 
 
 @r48
@@ -60,7 +59,6 @@ Di 07:30 - 15:30
 Mi 07:30 - 15:30
 Do 07:30 - 15:30
 Fr 07:30 - 12:30
-Hinweis: ISIL DE-R48
 Hinweis: Termine auch nach Vereinbarung möglich.
 
 @wa1
@@ -69,7 +67,6 @@ https://www.io-warnemuende.de/bibliothek.html
 54.1793139, 12.081318
 +49 381 5197-460
 bibliothek@io-warnemuende.de
-Hinweis: ISIL DE-Wa1
 Hinweis: Die Bibliothek ist für die Literaturversorgung der Mitarbeitenden des IOW zuständig. Darüber hinaus steht die Bibliothek auch auswärtigen Nutzern, insbesondere Studierenden, zur Verfügung.
 
 @28pnz
@@ -83,8 +80,7 @@ Mo 09:30 - 12:00, 13:00 - 16:00
 Di 09:30 - 12:00, 13:00 - 18:00
 Mi 09:30 - 12:00, 13:00 - 16:00
 Do 09:30 - 12:00, 13:00 - 16:00
-Fr Termine nach Vereinbarung
-Hinweis: 
+Hinweis: Freitag Termine nach Vereinbarung.
 
 @28261
 UB Rostock: Altertumswissenschaften
@@ -132,7 +128,8 @@ http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#BSP
 +49 381 498-8741
 +49 381 498-8639
 buecherspeicher@uni-rostock.de
-Hinweis: Die Bereitstellung der Bücher im Zeitschriftenmagazin Geisteswissenschaften erfolgt von Mo-Fr zu den folgenden Zeiten: 09:00, 11:30, 13:30, 15:30. Die Bereitstellung der Bücher in den Sondersammlungen erfolgt von Mo-Fr zu folgenden Zeiten 09:00, 13:30.
+Die Bereitstellung der Bücher im Zeitschriftenmagazin Geisteswissenschaften erfolgt von Mo-Fr zu den folgenden Zeiten: 09:00, 11:30, 13:30, 15:30. Die Bereitstellung der Bücher in den Sondersammlungen erfolgt von Mo-Fr zu folgenden Zeiten 09:00, 13:30.
+Hinweis:
 
 @28262
 UB Rostock: DDR-Geschichte
@@ -223,6 +220,7 @@ Di 10:00 - 18:00
 Mi 10:00 - 18:00
 Do 10:00 - 18:00
 Fr 10:00 - 18:00
+Hinweis:
 
 @28son
 UB Rostock: Sondersammlungen
@@ -249,7 +247,7 @@ Di 09:00 - 19:00
 Mi 09:00 - 19:00
 Do 09:00 - 19:00
 Fr 09:00 - 19:00
-Hinweis: Liebe Leserinnen und Leser, aus betrieblichen Gründen steht der PC-Pool vom 4.7.2017 bis zum 7.7.2017 nicht zur Verfügung. 
+Hinweis: 
 
 @28arc
 UB Rostock: Universitätsarchiv und Kustodie
