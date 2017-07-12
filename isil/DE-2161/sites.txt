@@ -1,8 +1,4 @@
 @
 Historische Bibliothek des Museums der Barlachstadt Güstrow
-
-@gue2161
-Historische Bibliothek des Museums der Barlachstadt Güstrow
-http://uri.gbv.de/organization/isil/DE-28@gue2161
 Hinweis: Mit UB Rostock und Bibliotheken im Regionalverbund (ISIL DE-28, Department @gue2161).
 
