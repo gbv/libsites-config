@@ -607,14 +607,14 @@ Humboldtstr. 33
 
 +49 531 391-2812
 
-5226963,  10.533509999999978
+52.26963,  10.533509999999978
 
 @c8g
 Institut für Psychologie 
 Bültenweg 74/75
 38106 Braunschweig
 
-5227611,  10.534080000000017 
+52.27611,  10.534080000000017 
 
 @c8h
 Institut für Psychologie
@@ -643,7 +643,7 @@ Humboldtstr. 33
 
 +49 531 391-2855
 
-5226963,  10.533509999999978
+52.26963,  10.533509999999978
 
 @c8p
 Institut für Psychologie 
@@ -1546,7 +1546,7 @@ Bültenweg 74/75 (Zimmer 105)
 
 https://www.tu-braunschweig.de/career/literatur
 
-5227611,  10.534080000000017 
+52.27611,  10.534080000000017 
 
 @sv
 Kooperationsstelle Hochschule-Gewerkschaften SON
@@ -1555,7 +1555,7 @@ Bültenweg 74/75
 
 +49 531 391-4280
 
-5227611,  10.534080000000017 
+52.27611,  10.534080000000017 
 
 @sx
 Frauenbibliothek
