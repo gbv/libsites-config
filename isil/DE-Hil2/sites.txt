@@ -101,9 +101,14 @@ Einbandsammlung
 Bitte wenden Sie sich an die Auskunft.
 
 @ztg
+Leselounge
+
+Für ältere Ausgaben wenden Sie sich bitte an die Zeitschriftenstelle.
+
+@zss
 Zeitschriftenstelle
 
-Bitte wenden Sie sich an die Zeitschriftenstelle.
+Die Zeitschriftenstelle ist i.d.R. Mo-Fr bis 10:00 - 16:00 Uhr geöffnet.
 
 @holt
 Arbeitsbibliothek Holthusen
