@@ -484,6 +484,15 @@ Mendelssohnstr. 3
 
 52.28033,  10.547900000000027
 
+@ak
+Peter L. Reichertz Institut für Medizinische Informatik
+Mühlenpfordtstr. 23
+38106 Braunschweig
+
++49 531 391-2130
+
+52.27303,  10.525139999999965
+
 @b1
 Institut für Geoökologie
 Langer Kamp 19c
