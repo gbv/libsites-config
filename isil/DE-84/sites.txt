@@ -58,7 +58,7 @@ Universitätsplatz 1
 
 +49 531 391 5018
 
-Zum Lageplan: https://ub.tu-braunschweig.de/recherche/lesesaal/?Lesesaal=lesesaal4
+https://ub.tu-braunschweig.de/recherche/lesesaal/?Lesesaal=lesesaal4
 
 Mo - Fr	07:00 - 23:45 Uhr
 Sa	10:00 - 21:45 Uhr
@@ -127,7 +127,7 @@ Universitätsplatz 1
 
 +49 531 391 5018
 
-http://www.biblio.tu-bs.de/plan/Lageplan00.html
+https://ub.tu-braunschweig.de/recherche/lesesaal/?Lesesaal=lbs
 
 Mo - Fr	07:00 - 23:45 Uhr
 Sa	10:00 - 21:45 Uhr
@@ -143,7 +143,7 @@ Universitätsplatz 1
 
 +49 531 391 5018
 
-http://www.biblio.tu-bs.de/plan/Lageplan01.html
+https://ub.tu-braunschweig.de/recherche/lesesaal/?Lesesaal=lesesaal1
 
 Mo - Fr	07:00 - 23:45 Uhr
 Sa	10:00 - 21:45 Uhr
@@ -159,7 +159,7 @@ Universitätsplatz 1
 
 +49 531 391 5018
 
-http://www.biblio.tu-bs.de/plan/Lageplan01.html
+https://ub.tu-braunschweig.de/recherche/lesesaal/?Lesesaal=lesesaal1
 
 Mo - Fr	07:00 - 23:45 Uhr
 Sa	10:00 - 21:45 Uhr
@@ -175,7 +175,7 @@ Universitätsplatz 1
 
 +49 531 391 5018
 
-http://www.biblio.tu-bs.de/plan/Lageplan02.html
+https://ub.tu-braunschweig.de/recherche/lesesaal/?Lesesaal=lesesaal2
 
 Mo - Fr	07:00 - 23:45 Uhr
 Sa	10:00 - 21:45 Uhr
@@ -191,7 +191,7 @@ Universitätsplatz 1
 
 +49 531 391 5018
 
-http://www.biblio.tu-bs.de/plan/Lageplan02.html
+https://ub.tu-braunschweig.de/recherche/lesesaal/?Lesesaal=lesesaal2
 
 Mo - Fr	07:00 - 23:45 Uhr
 Sa	10:00 - 21:45 Uhr
@@ -207,7 +207,7 @@ Universitätsplatz 1
 
 +49 531 391 5018
 
-http://www.biblio.tu-bs.de/plan/Lageplan02.html
+https://ub.tu-braunschweig.de/recherche/lesesaal/?Lesesaal=lesesaal2
 
 Mo - Fr	07:00 - 23:45 Uhr
 Sa	10:00 - 21:45 Uhr
@@ -223,7 +223,7 @@ Universitätsplatz 1
 
 +49 531 391 5018
 
-http://www.biblio.tu-bs.de/plan/Lageplan03.html
+https://ub.tu-braunschweig.de/recherche/lesesaal/?Lesesaal=lesesaal3
 
 Mo - Fr	07:00 - 23:45 Uhr
 Sa	10:00 - 21:45 Uhr
@@ -239,7 +239,7 @@ Universitätsplatz 1
 
 +49 531 391 5018
 
-http://www.biblio.tu-bs.de/plan/Lageplan03.html
+https://ub.tu-braunschweig.de/recherche/lesesaal/?Lesesaal=lesesaal3
 
 Mo - Fr	07:00 - 23:45 Uhr
 Sa	10:00 - 21:45 Uhr
@@ -314,8 +314,6 @@ Universitätsplatz 1
 38106 Braunschweig
 
 +49 531 391 5018
-
-http://www.biblio.tu-bs.de/plan/Lageplan00.html
 
 52.274011,10.529346
 
