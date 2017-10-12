@@ -949,12 +949,12 @@ http://www.tu-braunschweig.de/ibb/service/bib
 
 @h7
 Institut für Geodäsie und Photogrammetrie
-Pockelsstr. 3 (3. Etage)
+Bienroder Weg 81
 38106 Braunschweig
 
 +49 531 391-94574
 
-52.272654,  10.527581800000007 
+52.520007,  13.404953999999975
 
 @h8
 Institut für Bauwerkserhaltung und Tragwerk
