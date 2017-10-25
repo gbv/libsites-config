@@ -886,20 +886,11 @@ Schleinitzstr. 21a (Steinbaracke)
 52.27367169999999, 10.526204199999938
 
 @h2
-Institut für Eisenbahnwesen und Verkehrssicherung
+Institut für Eisenbahnwesen und Verkehrssicherung/Institut für Verkehrswesen, Eisenbahnbau und -betrieb
 Pockelsstr. 3 (Okerufer)
 38106 Braunschweig
 
 +49 531 391-94450 (Sekr.)
-http://www.tu-braunschweig.de/ifev/service/bibliothek
-
-52.272654, 10.527581800000007
-
-@h2
-Institut für Verkehrswesen, Eisenbahnbau und -betrieb
-Pockelsstr. 3 (Okerufer)
-38106 Braunschweig
-
 +49 531 391-63600
 http://www.tu-braunschweig.de/ifev/service/bibliothek
 
