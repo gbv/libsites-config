@@ -480,21 +480,11 @@ Mendelssohnstr. 2
 52.28033, 10.5472
 
 @aj
-Institut für Mathematische Physik
+Institut für Mathematische Physik/Institut für Theoretische Physik
 Mendelssohnstr. 3
 38106 Braunschweig
 
 +49 531 391-5201 (Sekr.)
-
-
-52.28033, 10.547900000000027
-
-@aj
-Institut für Theoretische Physik
-Mendelssohnstr. 3
-38106 Braunschweig
-
-+49 531 391-5181
 
 
 52.28033, 10.547900000000027
