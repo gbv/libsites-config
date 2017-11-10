@@ -2,7 +2,7 @@
 
 Dieses git-Repository enthält Konfigurationsdateien zur GBV-Standortverwaltung.
 Weitere Informationen gibt es im Unterverzeichnis `doc/` bzw. auf der Seite
-<http://www.gbv.de/wikis/cls/Standortverwaltung> im GBV-Wiki.
+<https://verbundwiki.gbv.de/display/VZG/GBV-Standortverwaltung> im GBV-Wiki.
 
 Das Repository ist öffentlich unter <https://github.com/gbv/libsites-config>
 einsehbar. Änderungen an der Konfiguration können durch einen
@@ -27,7 +27,7 @@ aus dem ZDB-ISIL/Sigelverzeichnis.
 
 Die Dokumentation steht in der Datei `doc/libsites-config.md`. Mit `make docs`
 lassen sich HTML- und PDF-Version sowie eine MediaWiki-Variante zum Speichern
-unter <http://www.gbv.de/wikis/cls/Konfiguration_der_GBV-Standortverwaltung>
+unter <https://verbundwiki.gbv.de/display/VZG/Konfiguration+der+GBV-Standortverwaltung>
 erstellen.
 
 Das Skript `bin/update` testet, ob das Repository aktualisiert wurde und
