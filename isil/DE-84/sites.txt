@@ -753,13 +753,11 @@ Pockelsstr. 3, 4. OG
 
 @f8
 Institut für Angewandte Mechanik
-Bienroder Weg 87
+Pockelsstr. 3
 38106 Braunschweig
 
 +49 531 391-94351
-
-
-52.2851198, 10.538257899999962
+52.272654, 10.527581800000007
 
 @f9
 Institut für Entwerfen und Baugestaltung
