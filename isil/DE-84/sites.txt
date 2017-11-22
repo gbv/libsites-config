@@ -248,20 +248,6 @@ So 10:00 - 21:45 Uhr (Januar bis März und Juni bis August)
 
 52.274011,10.529346
 
-@ar-m
-Universitätsbibliothek - Magazin
-Universitätsplatz 1
-38106 Braunschweig
-
-+49 531 391 5018
-
-Mo - Fr	09:00 - 18:45 Uhr
-Sa	10:00 - 21:45 Uhr
-
-Publikationen, die an diesem Ort gelagert sind, können bestellt werden. Bestellte Publikationen werden während der Öffnungszeiten des Magazins an die Leihstelle geliefert und können dann an der Leihtheke im Erdgeschoss abgeholt werden.
-
-52.274011,10.529346
-
 @mag
 Universitätsbibliothek - Magazin
 Universitätsplatz 1
