@@ -1,0 +1,6 @@
+@ls
+Lesesaal
+
+Standort: Universitätsbibliothek, 1. Stock.
+
+51.80104, 10.34114
