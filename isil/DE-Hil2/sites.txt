@@ -115,7 +115,7 @@ Arbeitsbibliothek Holthusen
 
 Ehemalige Arbeitsbibliothek des Schriftstellers Hans Egon Holthusen. Benutzung nur vor Ort möglich - bitte wenden Sie sich an die Auskunft.
 
-@cd-rom
+@cdrom
 CD-ROM Einzelplatz
 
 Der Arbeitsplatz befindet sich neben der Auskunft. Für Unterstützung bei der Nutzung wenden Sie sich bitte an die Auskunft.
