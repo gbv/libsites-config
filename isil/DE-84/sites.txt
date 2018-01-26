@@ -1148,7 +1148,7 @@ Schleinitzstr. 20
 38106 Braunschweig
 
 +49 531 391-3099
-http://www.historisches-seminar-braunschweig.de/index.php?id=883
+https://www.ifg-braunschweig.de/index.php?id=883
 
 52.273498, 10.527380999999991
 
@@ -1181,6 +1181,16 @@ Bienroder Weg 97
 http://www.tu-braunschweig.de/wbm/bibliothek
 
 52.2836989, 10.538747899999976
+
+@r0
+Institut für Rechtswissenschaften
+Spielmannstr.8
+38106 Braunschweig
+
++49 531 391-2850
+https://www.tu-braunschweig.de/recht/irw/bibliothek
+
+52.2735837, 10.530597599999965
 
 @r1
 Institut für Marketing
