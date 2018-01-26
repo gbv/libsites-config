@@ -95,14 +95,6 @@ Do 09:00 - 19:00
 Fr 09:00 - 19:00
 Hinweis:
 
-@28361o
-UB Rostock: Außenstelle im Institut für Anwaltsrecht
-http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#361o
-54.170678, 12.080981
-+49 381 498-8211
-caroline.wegener2@uni-rostock.de
-Hinweis: Termine nach telefonischer Vereinbarung
-
 @28bb1
 UB Rostock: Bibliothek Südstadt
 http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#BB1
@@ -130,19 +122,6 @@ buecherspeicher@uni-rostock.de
 Die Bereitstellung der Bücher im Zeitschriftenmagazin Geisteswissenschaften erfolgt von Mo-Fr zu den folgenden Zeiten: 09:00, 11:30, 13:30, 15:30. Die Bereitstellung der Bücher in den Sondersammlungen erfolgt von Mo-Fr zu folgenden Zeiten 09:00, 13:30.
 Hinweis:
 
-@28262
-UB Rostock: DDR-Geschichte
-http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#262
-54.084651, 12.134185
-+49 381 498-8727
-fbddrgeschichte.ub@uni-rostock.de
-Mo 09:00 - 14:00
-Di 09:00 - 18:00
-Mi 09:00 - 14:00
-Do 09:00 - 14:00
-Fr 09:00 - 14:00
-Hinweis:
-
 @28049
 UB Rostock: Geisteswissenschaften
 http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#049
@@ -160,7 +139,7 @@ Sa 10:00 - 16:00
 Hinweis:
 
 @28260
-UB Rostock: Geschichte
+UB Rostock: Theologie und Philosophie
 http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#260
 54.087131, 12.136277
 +49 381 498-8724
@@ -207,20 +186,6 @@ http://web10.ub.uni-rostock.de/uploads/handapparate/ha_361.pdf
 bb2fhm.ub@uni-rostock.de
 Hinweis: Zur Einsichtnahme wenden Sie sich bitte an das zuständige Sekretariat des Lehrstuhls.
 
-@28361
-UB Rostock: Rechtswissenschaft, Slawistik
-http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#361
-54.144471, 12.061615
-+49 381 498-8775
-+49 381 498-8771
-bb2fhm.ub@uni-rostock.de
-Mo 10:00 - 18:00
-Di 10:00 - 18:00
-Mi 10:00 - 18:00
-Do 10:00 - 18:00
-Fr 10:00 - 18:00
-Hinweis:
-
 @28son
 UB Rostock: Sondersammlungen
 http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#SON
@@ -236,7 +201,7 @@ Fr 09:00 - 19:00
 Hinweis: 
 
 @28
-UB Rostock: Theologie, Kunst, Lehrerbildungsbibliothek, Zeitschriftenmagazin Geisteswissenschaften
+UB Rostock: Sprach- und Literaturwissenschaften
 http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#BB2-FHM
 54.086879, 12.134571
 +49 381 498-8731
@@ -260,7 +225,7 @@ Do 09:00 - 12:00, 13:00 - 16:00
 Hinweis: 
 
 @28606
-UB Rostock: Volkskunde
+UB Rostock: Wossidlo-Bibliothek
  http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#606
 54.0822, 12.137527
 +49 381 498-8728
