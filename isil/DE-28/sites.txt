@@ -213,6 +213,14 @@ Do 09:00 - 19:00
 Fr 09:00 - 19:00
 Hinweis: 
 
+@28s3b
+UB Rostock: Verwaltungsgebäude (Direktion)
+http://www.ub.uni-rostock.de/ub/xGeneral/contact_xde.shtml
+54.086961, 12.134040
++49 381 498-8601
+direktion.ub@uni-rostock.de
+Hinweis: 
+
 @28arc
 UB Rostock: Universitätsarchiv und Kustodie
 http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#ARC
