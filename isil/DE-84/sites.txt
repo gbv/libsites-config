@@ -504,7 +504,7 @@ Gaussstr. 17
 38106 Braunschweig
 
 +49 531 391-5339 (Sekr.)
-52.520007, 13.404953999999975
+52.273196, 10.531084
 
 @b8
 Institut für Technische Chemie
@@ -860,7 +860,7 @@ Bienroder Weg 81
 38106 Braunschweig
 
 +49 531 391-94574
-52.520007, 13.404953999999975
+52.286180, 10.539770
 
 @h8
 Institut für Bauwerkserhaltung und Tragwerk
@@ -1453,4 +1453,3 @@ Pockelsstr. 11
 https://www.tu-braunschweig.de/sport/biblio
 
 52.274762, 10.529269
-
