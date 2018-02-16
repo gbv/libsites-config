@@ -1319,13 +1319,18 @@ Institut für Germanistik Did
 Bienroder Weg 80 (Bibliothek: Nr. 95)
 38106 Braunschweig
 
-+49 531 391-8676; -8667 (Sekr.)
++49 531 391-8884; -8883
+https://www.tu-braunschweig.de/fk6/bibliotheken/campusnord
+
 52.28585, 10.538729999999987
 
 @sd
 Institut für Anglistik und Amerikanistik
 Bienroder Weg 80 (Bibliothek: Nr. 95)
 38106 Braunschweig
+
++49 531 391-8884
+https://www.tu-braunschweig.de/fk6/bibliotheken/campusnord
 
 +49 531 391-8884
 https://www.tu-braunschweig.de/fk6/studierende/bibliotheken/biblio/index.html
