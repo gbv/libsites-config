@@ -622,7 +622,7 @@ Mendelssohnstr. 3
 38106 Braunschweig
 
 +49 531 391-5224
-http://www.igep.tu-bs.de/institut/einrichtungen/index.html
+http://www.geophys.tu-bs.de/institut/einrichtungen/index.php
 
 52.28033, 10.547900000000027
 
@@ -752,7 +752,7 @@ Pockelsstr. 4 (Schleinitzstr.)
 38106 Braunschweig
 
 +49 531 391-3571
-http://ite.tu-bs.de/bibliothek/
+https://www.tu-braunschweig.de/ite/lehre/bibliothek
 
 52.2732324, 10.5285666
 
@@ -1138,7 +1138,7 @@ Bienroder Weg 80
 38106 Braunschweig
 
 +49 531 391-8712
-https://www.tu-braunschweig.de/fk6/studierende/bibliotheken/biblio/index.html
+https://www.tu-braunschweig.de/fk6/bibliotheken/campusnord
 
 52.28585, 10.538729999999987
 
@@ -1214,7 +1214,7 @@ Fallersleber-Tor-Wall 23
 38100 Braunschweig
 
 +49 531 391-3608
-http://www.controlling-tubs.de/index.php?id=108
+https://www.tu-braunschweig.de/controlling/institutsbibliothek
 
 52.2698839, 10.530254799999966
 
@@ -1319,7 +1319,9 @@ Institut für Germanistik Did
 Bienroder Weg 80 (Bibliothek: Nr. 95)
 38106 Braunschweig
 
-+49 531 391-8676; -8667 (Sekr.)
++49 531 391-8884; -8883
+https://www.tu-braunschweig.de/fk6/bibliotheken/campusnord
+
 52.28585, 10.538729999999987
 
 @sd
@@ -1328,7 +1330,7 @@ Bienroder Weg 80 (Bibliothek: Nr. 95)
 38106 Braunschweig
 
 +49 531 391-8884
-https://www.tu-braunschweig.de/fk6/studierende/bibliotheken/biblio/index.html
+https://www.tu-braunschweig.de/fk6/bibliotheken/campusnord
 
 52.28585, 10.538729999999987
 
@@ -1338,7 +1340,7 @@ Bienroder Weg 97
 38106 Braunschweig
 
 +49 531 391-8630
-http://www.historisches-seminar-braunschweig.de/index.php?id=884
+https://www.ifg-braunschweig.de/studium/bibliotheken/institutsbibliothek-gd/
 
 52.2836989, 10.538747899999976
 
