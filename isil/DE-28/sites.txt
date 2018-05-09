@@ -2,7 +2,7 @@
 UB Rostock und Bibliotheken im Regionalverbund
 +49 381 498-8601 (Direktion) und +49 381 498-8640 (Information)
 
-@loc_ubhome
+@locubhome
 UB Rostock
 http://www.ub.uni-rostock.de/
 54.075575, 12.103565
@@ -10,7 +10,7 @@ http://www.ub.uni-rostock.de/
 direktion.ub@uni-rostock.de
 Hinweis: 
 
-@loc_ubs3b
+@locubs3b
 UB Rostock: Verwaltungsgebäude (Direktion)
 http://www.ub.uni-rostock.de/ub/xGeneral/contact_xde.shtml
 54.086961, 12.134040
@@ -20,9 +20,9 @@ ub.direktion@uni-rostock.de
 ub.direktion@uni-rostock.de
 Hinweis: Termine nach Vereinbarung.
 
-@loc_ubs3a
+@locubs3a
 UB Rostock: Sprach- und Literaturwissenschaften
-http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#loc_ubs3a
+http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#locubs3a
 54.086879, 12.134571
 +49 381 498-8731
 +49 381 498-8731
@@ -36,9 +36,9 @@ Fr 09:00 - 19:00
 Sa 10:00 - 16:00
 Hinweis: 
 
-@loc_ubarc
+@locubarc
 UB Rostock: Universitätsarchiv und Kustodie
-http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#loc_ubarc
+http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#locubarc
 54.088115, 12.133407
 +49 381 498-8621
 +49 381 498-8621
@@ -49,7 +49,7 @@ Mi 09:00 - 12:00, 13:00 - 16:00
 Do 09:00 - 12:00, 13:00 - 16:00
 Hinweis: 
 
-@loc_ubitmz
+@locubitmz
 IT- und Medienzentrum
 https://www.itmz.uni-rostock.de/
 54.077476, 12.106839
@@ -59,9 +59,9 @@ itmz@uni-rostock.de
 itmz@uni-rostock.de
 Hinweis: 
 
-@loc_ubbsp
+@locubbsp
 UB Rostock: Bücherspeicher
-http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#loc_ubbsp
+http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#locubbsp
 54.087489, 12.134571
 +49 381 498-8739
 +49 381 498-8741
@@ -69,9 +69,9 @@ buecherspeicher@uni-rostock.de
 buecherspeicher@uni-rostock.de
 Hinweis: Bitte achten Sie bei der Bestellung des Mediums auf den Ort der Bereitstellung! Die Bereitstellung erfolgt MO-FR ab 11:00 in der Fachbibliothek Sprach- und Literaturwissenschaften ODER in den Sondersammlungen.
 
-@loc_ubson
+@locubson
 UB Rostock: Sondersammlungen
-http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#loc_ubson
+http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#locubson
 54.087036, 12.136041
 +49 381 498-8700
 +49 381 498-8754
@@ -84,9 +84,9 @@ Do 09:00 - 19:00
 Fr 09:00 - 19:00
 Hinweis: 
 
-@loc_ubpnz
+@locubpnz
 Patent- und Normenzentrum
-http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#loc_ubpnz
+http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#locubpnz
 54.084267, 12.112727
 +49 381 498-8673
 +49 381 498-8674
@@ -99,9 +99,9 @@ Do 09:30 - 12:00, 13:00 - 16:00
 Fr Termine nach Vereinbarung
 Hinweis: 
 
-@loc_ubaes
+@locubaes
 UB Rostock: Bibliothek Südstadt
-http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#loc_ubaes
+http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#locubaes
 54.075575, 12.103565
 +49 381 498-8640
 +49 381 498-8650
@@ -116,9 +116,9 @@ Sa 10:00 - 24:00
 So 12:00 - 24:00
 Hinweis: Servicezeiten (Ausgabe, Information): Montag bis Freitag bis 20:00 Uhr und Samstag bis 16:00 Uhr.
 
-@loc_ubabs
+@locubabs
 UB Rostock: Bildung, Geschichte
-http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#loc_ubabs
+http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#locubabs
 54.085035, 12.133294
 +49 381 498-8712
 +49 381 498-8733
@@ -132,7 +132,7 @@ Fr 08:00 - 19:00
 Sa 10:00 - 16:00
 Hinweis: Der Zugang zur Fachbibliothek ist nicht barrierefrei. Wenn Sie Unterstützung benötigen, bitte vor Ihrem Bibliotheksbesuch anrufen.
 
-@loc_ubtes
+@locubtes
 Inst. für Päd. Psychologie: Testothek
 https://www.ipprdk.uni-rostock.de/institut/einrichtungen-des-instituts/testothek/
 54.085035, 12.133294
@@ -142,9 +142,9 @@ testothek@uni-rostock.de
 testothek@uni-rostock.de
 Hinweis: Die Testothek ist eine Bibliothek für psychologische und pädagogisch-psychologische Testverfahren. Weil psychologische Tests dem Testschutz unterliegen und nur an berechtigte Personen ausgegeben werden dürfen, unterliegt die Einsicht in diese und die Ausleihe dieser Testverfahren besonderen Bestimmungen. Daher können nur solche Mitarbeiter/innen und Studierende der Universität Rostock die Testothek nutzen, die für die entsprechenden Verfahren ausgebildet sind oder gerade augebildet werden. Einsicht für oder Ausleihe von Tests an Personen, die nicht der Universität als Mitarbieter/innen oder Studierende angehören, sind generell ausgeschlossen.
 
-@loc_ubthephi
+@locubthephi
 UB Rostock: Theologie und Philosophie
-http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#loc_ubthephi
+http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#locubthephi
 54.087131, 12.136277
 +49 381 498-8724
 +49 381 498-8724
@@ -155,9 +155,9 @@ Do 08:00 - 19:00
 Fr 08:00 - 19:00
 Hinweis: Der Zugang zur Fachbibliothek ist nicht barrierefrei. Wenn Sie Unterstützung benötigen, bitte vor Ihrem Bibliotheksbesuch anrufen.
 
-@loc_ubalt
+@locubalt
 UB Rostock: Altertumswissenschaften
-http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#loc_ubalt
+http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#locubalt
 54.086355, 12.107757
 +49 381 498-8795
 +49 381 498-8793
@@ -170,9 +170,9 @@ Do 09:00 - 19:00
 Fr 09:00 - 19:00
 Hinweis: 
 
-@loc_ubwos
+@locubwos
 UB Rostock: Wossidlo-Bibliothek für Volkskunde und Regionalgeschichte
-http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#loc_ubwos
+http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#locubwos
 54.0822, 12.137527
 +49 381 498-8728
 +49 381 498-8728
@@ -185,7 +185,7 @@ Do 09:00 - 14:00
 Fr 09:00 - 14:00
 Hinweis: Der Zugang zur Fachbibliothek ist nicht barrierefrei. Wenn Sie Unterstützung benötigen, bitte vor Ihrem Bibliotheksbesuch anrufen.
 
-@loc_ubhap1
+@locubhap1
 UB Rostock: Handapparate BB1
 http://web10.ub.uni-rostock.de/uploads/handapparate/ha_bb1.pdf
 +49 381 498-8640
@@ -194,7 +194,7 @@ information-bb1.ub@uni-rostock.de
 information-bb1.ub@uni-rostock.de
 Hinweis: Zur Einsichtnahme wenden Sie sich bitte an das zuständige Sekretariat des Lehrstuhls.
 
-@loc_ubhap2
+@locubhap2
 UB Rostock: Handapparate BB2
 http://web10.ub.uni-rostock.de/uploads/handapparate/ha_bb2.pdf
 +49 381 498-8712
@@ -203,7 +203,7 @@ information-bb2.ub@uni-rostock.de
 information-bb2.ub@uni-rostock.de
 Hinweis: Zur Einsichtnahme wenden Sie sich bitte an das zuständige Sekretariat des Lehrstuhls.
 
-@loc_ubhap3
+@locubhap3
 UB Rostock: Handapparate BB3
 http://web10.ub.uni-rostock.de/uploads/handapparate/ha_bb3.pdf
 +49 381 498-8640
@@ -212,7 +212,7 @@ information-bb1.ub@uni-rostock.de
 information-bb1.ub@uni-rostock.de
 Hinweis: Zur Einsichtnahme wenden Sie sich bitte an das zuständige Sekretariat des Lehrstuhls.
 
-@loc_ubhap4
+@locubhap4
 UB Rostock: Handapparate BB4
 http://web10.ub.uni-rostock.de/uploads/handapparate/ha_bb4.pdf
 +49 381 498-8640
@@ -221,7 +221,7 @@ information-bb1.ub@uni-rostock.de
 information-bb1.ub@uni-rostock.de
 Hinweis: Zur Einsichtnahme wenden Sie sich bitte an das zuständige Sekretariat des Lehrstuhls.
 
-@loc_ubhapj
+@locubhapj
 UB Rostock: Handapparate 361
 http://web10.ub.uni-rostock.de/uploads/handapparate/ha_361.pdf
 +49 381 498-8771
@@ -230,7 +230,7 @@ bb2fhm.ub@uni-rostock.de
 bb2fhm.ub@uni-rostock.de
 Hinweis: Zur Einsichtnahme wenden Sie sich bitte an das zuständige Sekretariat des Lehrstuhls.
 
-@loc_iow
+@lociow
 Leibniz-Institut für Ostseeforschung Warnemünde
 https://www.io-warnemuende.de/bibliothek.html
 54.1793139, 12.081318
@@ -240,7 +240,7 @@ bibliothek@io-warnemuende.de
 bibliothek@io-warnemuende.de
 Hinweis: 
 
-@loc_iap
+@lociap
 Leibniz-Institut für Atmosphärenphysik Kühlungsborn
 https://www.iap-kborn.de/institut/abteilungen-und-infrastruktur/bibliothek/
 54.1169804, 11.7720973
@@ -255,7 +255,7 @@ Do 08:00 - 12:00
 Fr 08:00 - 12:00
 Hinweis: Montags bis Freitags ist die Bibliothek von 8-12 Uhr besetzt, ansonsten ist sie für Institutsmitarbeiter ständig geöffnet.
 
-@loc_fbn
+@locfbn
 Leibniz-Institut für Nutztierbiologie
 https://www.fbn-dummerstorf.de/ueber-uns/wissenschaftsorganisation-und-service/bibliothek/?L=0
 54.0124469, 12.2285557
@@ -270,7 +270,7 @@ Do 07:30 - 15:30
 Fr 07:30 - 12:30
 Hinweis: Termine auch nach Vereinbarung möglich.
 
-@loc_hmt
+@lochmt
 Hochschule für Musik und Theater Rostock
 https://www.hmt-rostock.de/hochschule/bibliothek.html
 54.091279, 12.144713
@@ -285,7 +285,7 @@ Do 10:00 - 16:30
 Fr 11:00 - 14:00
 Hinweis: Die Öffnungszeiten in der vorlesungsfreien Zeit finden Sie auf unserer Homepage.
 
-@loc_msh
+@locmsh
 Bibliothek des Max-Samuel-Hauses Rostock
 http://www.max-samuel-haus.de/
 54.077844, 12.136551
@@ -300,7 +300,7 @@ Do 09:00 - 16:00
 Fr 09:00 - 16:00
 Hinweis: 
 
-@loc_hbgue
+@lochbgue
 Historische Bibliothek des Museums der Barlachstadt Güstrow
 http://www.uwe-johnson-bibliothek.de/angebote/historische-bibliothek/
 53.792670, 12.171735
@@ -314,5 +314,3 @@ Mi 10:00 - 14:00
 Do 10:00 - 18:00
 Fr 10:00 - 18:00
 Hinweis: Vorherige Anmeldung erforderlich.
- 
-
