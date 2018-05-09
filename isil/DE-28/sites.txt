@@ -8,6 +8,7 @@ http://www.ub.uni-rostock.de/
 54.075575, 12.103565
 +49 381 498-8601
 direktion.ub@uni-rostock.de
+Hinweis: 
 
 @loc_ubs3b
 UB Rostock: Verwaltungsgebäude (Direktion)
@@ -33,6 +34,7 @@ Mi 09:00 - 19:00
 Do 09:00 - 19:00
 Fr 09:00 - 19:00
 Sa 10:00 - 16:00
+Hinweis: 
 
 @loc_ubarc
 UB Rostock: Universitätsarchiv und Kustodie
@@ -45,6 +47,7 @@ universitaetsarchiv@uni-rostock.de
 Di 09:00 - 12:00, 13:00 - 18:00
 Mi 09:00 - 12:00, 13:00 - 16:00
 Do 09:00 - 12:00, 13:00 - 16:00
+Hinweis: 
 
 @loc_ubitmz
 IT- und Medienzentrum
@@ -54,6 +57,7 @@ https://www.itmz.uni-rostock.de/
 +49 381 498-5301
 itmz@uni-rostock.de
 itmz@uni-rostock.de
+Hinweis: 
 
 @loc_ubbsp
 UB Rostock: Bücherspeicher
@@ -78,6 +82,7 @@ Di 09:00 - 19:00
 Mi 09:00 - 19:00
 Do 09:00 - 19:00
 Fr 09:00 - 19:00
+Hinweis: 
 
 @loc_ubpnz
 Patent- und Normenzentrum
@@ -92,6 +97,7 @@ Di 09:30 - 12:00, 13:00 - 18:00
 Mi 09:30 - 12:00, 13:00 - 16:00
 Do 09:30 - 12:00, 13:00 - 16:00
 Fr Termine nach Vereinbarung
+Hinweis: 
 
 @loc_ubaes
 UB Rostock: Bibliothek Südstadt
@@ -107,6 +113,7 @@ Mi 08:00 - 24:00
 Do 08:00 - 24:00
 Fr 08:00 - 24:00
 Sa 10:00 - 24:00
+So 12:00 - 24:00
 Hinweis: Servicezeiten (Ausgabe, Information): Montag bis Freitag bis 20:00 Uhr und Samstag bis 16:00 Uhr.
 
 @loc_ubabs
@@ -161,6 +168,7 @@ Di 09:00 - 19:00
 Mi 09:00 - 19:00
 Do 09:00 - 19:00
 Fr 09:00 - 19:00
+Hinweis: 
 
 @loc_ubwos
 UB Rostock: Wossidlo-Bibliothek für Volkskunde und Regionalgeschichte
@@ -230,6 +238,7 @@ https://www.io-warnemuende.de/bibliothek.html
 +49 381 5197-460
 bibliothek@io-warnemuende.de
 bibliothek@io-warnemuende.de
+Hinweis: 
 
 @loc_iap
 Leibniz-Institut für Atmosphärenphysik Kühlungsborn
@@ -289,6 +298,7 @@ Di 09:00 - 16:00
 Mi 09:00 - 16:00
 Do 09:00 - 16:00
 Fr 09:00 - 16:00
+Hinweis: 
 
 @loc_hbgue
 Historische Bibliothek des Museums der Barlachstadt Güstrow
