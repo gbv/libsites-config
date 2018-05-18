@@ -78,10 +78,10 @@ http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#locubson
 sondersammlungen@uni-rostock.de
 sondersammlungen@uni-rostock.de
 Mo 10:00 - 19:00
-Di 09:00 - 19:00
-Mi 09:00 - 19:00
-Do 09:00 - 19:00
-Fr 09:00 - 19:00
+Di 09:00 - 12:00, 13:00 - 19:00
+Mi 09:00 - 12:00, 13:00 - 19:00
+Do 09:00 - 12:00, 13:00 - 19:00
+Fr 09:00 - 12:00, 13:00 - 19:00
 Hinweis: 
 
 @locubpnz
@@ -314,5 +314,3 @@ Mi 10:00 - 14:00
 Do 10:00 - 18:00
 Fr 10:00 - 18:00
 Hinweis: Vorherige Anmeldung erforderlich.
- 
-
