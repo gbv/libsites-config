@@ -932,7 +932,6 @@ Hans-Sommer-Str. 4
 38106 Braunschweig
 
 +49 531 391-2610
-http://www.iff.tu-bs.de/index.php?id=869
 
 52.27602, 10.536879999999996
 
@@ -1181,16 +1180,6 @@ Bienroder Weg 97
 http://www.tu-braunschweig.de/wbm/bibliothek
 
 52.2836989, 10.538747899999976
-
-@r0
-Institut für Rechtswissenschaften
-Spielmannstr.8
-38106 Braunschweig
-
-+49 531 391-2850
-https://www.tu-braunschweig.de/recht/irw/bibliothek
-
-52.2735837, 10.530597599999965
 
 @r1
 Institut für Marketing
