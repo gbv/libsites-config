@@ -1362,7 +1362,7 @@ https://www.tu-braunschweig.de/musik/bibliothek
 52.2752379, 10.53022379999993
 
 @sr
-Gleichstellungsbüro
+Stabstelle Chancengleichheit
 Bültenweg 17
 38106 Braunschweig
 
