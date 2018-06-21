@@ -315,7 +315,6 @@ So 10:00 - 21:45 Uhr (Januar bis März und Juni bis August)
 
 52.274011,10.529346
 
-
 @a0
 Institut für Wissenschaftliches Rechnen
 Mühlenpfordtstrasse 23, 8. Og
@@ -932,7 +931,6 @@ Hans-Sommer-Str. 4
 38106 Braunschweig
 
 +49 531 391-2610
-
 52.27602, 10.536879999999996
 
 @l9
@@ -1181,6 +1179,16 @@ http://www.tu-braunschweig.de/wbm/bibliothek
 
 52.2836989, 10.538747899999976
 
+@r0
+Institut für Rechtswissenschaften
+Spielmannstr.8
+38106 Braunschweig
+
++49 531 391-2850
+https://www.tu-braunschweig.de/recht/irw/bibliothek
+
+52.2735837, 10.530597599999965
+
 @r1
 Institut für Marketing
 Abt-Jerusalem-Str. 4
@@ -1245,6 +1253,14 @@ Abt-Jerusalem-Str. 7
 +49 531 391-2896 (Sekr.)
 52.2725608, 10.530492900000013
 
+@r8
+Institut für Volkswirtschaftslehre
+Spielmannstr. 9
+38106 Braunschweig
+
++49 531 391-2578 (Sekr.)
+52.273552, 10.530881
+
 @rz
 Gauß-IT-Zentrum
 Hans-Sommer-Str. 65
@@ -1274,7 +1290,7 @@ http://www.tu-braunschweig.de/schulpaedagogik/biblio
 52.2836989, 10.538747899999976
 
 @s4
-Braunschweigische Regionalgeschichte
+Institut für Braunschweigische Regionalgeschichte und Geschichtsvermittlung
 Fallersleber-Tor-Wall 23
 38100 Braunschweig
 
