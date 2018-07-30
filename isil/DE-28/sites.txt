@@ -148,6 +148,8 @@ http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#locubthephi
 54.087131, 12.136277
 +49 381 498-8724
 +49 381 498-8724
+fbgeschichte.ub@uni-rostock.de
+fbgeschichte.ub@uni-rostock.de
 Mo 10:00 - 19:00
 Di 08:00 - 19:00
 Mi 08:00 - 19:00
@@ -178,11 +180,9 @@ http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#locubwos
 +49 381 498-8728
 fbvolkskunde.ub@uni-rostock.de
 fbvolkskunde.ub@uni-rostock.de
-Mo 10:00 - 14:00
-Di 09:00 - 18:00
+Di 09:00 - 14:00
 Mi 09:00 - 14:00
 Do 09:00 - 14:00
-Fr 09:00 - 14:00
 Hinweis: Der Zugang zur Fachbibliothek ist nicht barrierefrei. Wenn Sie Unterstützung benötigen, bitte vor Ihrem Bibliotheksbesuch anrufen.
 
 @locubhap1
@@ -219,15 +219,6 @@ http://web10.ub.uni-rostock.de/uploads/handapparate/ha_bb4.pdf
 +49 381 498-8640
 information-bb1.ub@uni-rostock.de
 information-bb1.ub@uni-rostock.de
-Hinweis: Zur Einsichtnahme wenden Sie sich bitte an das zuständige Sekretariat des Lehrstuhls.
-
-@locubhapj
-UB Rostock: Handapparate 361
-http://web10.ub.uni-rostock.de/uploads/handapparate/ha_361.pdf
-+49 381 498-8771
-+49 381 498-8771
-bb2fhm.ub@uni-rostock.de
-bb2fhm.ub@uni-rostock.de
 Hinweis: Zur Einsichtnahme wenden Sie sich bitte an das zuständige Sekretariat des Lehrstuhls.
 
 @lociow
