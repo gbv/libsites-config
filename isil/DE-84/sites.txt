@@ -301,6 +301,20 @@ Universitätsplatz 1
 
 52.274011,10.529346
 
+@fmleih
+Universitätsbibliothek - Zeitschriftenfreihandmagazin
+Universitätsplatz 1
+38106 Braunschweig
+
++49 531 391 5018
+
+Mo - Fr	07:00 - 23:45 Uhr
+Sa 10:00 - 21:45 Uhr
+So 10:00 - 16:45 Uhr (April, Mai und September bis Dezember)
+So 10:00 - 21:45 Uhr (Januar bis März und Juni bis August)
+
+52.274011,10.529346
+
 @zfm
 Universitätsbibliothek - Zeitschriftenfreihandmagazin
 Universitätsplatz 1
@@ -309,7 +323,7 @@ Universitätsplatz 1
 +49 531 391 5018
 
 Mo - Fr	07:00 - 23:45 Uhr
-Sa	10:00 - 21:45 Uhr
+Sa 10:00 - 21:45 Uhr
 So 10:00 - 16:45 Uhr (April, Mai und September bis Dezember)
 So 10:00 - 21:45 Uhr (Januar bis März und Juni bis August)
 
