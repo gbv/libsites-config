@@ -830,7 +830,7 @@ http://www.tu-braunschweig.de/ifev/service/bibliothek
 @h3
 Institut für Verkehr und Stadtbauwesen
 Hermann-Blenk-Str. 42
-38106 Braunschweig
+38108 Braunschweig
 
 +49 531 391-66800
 https://www.tu-braunschweig.de/ivs/institut/institutsbibliothek
@@ -950,9 +950,10 @@ Hans-Sommer-Str. 4
 @l9
 Institut für Verkehrssicherheit und Automatisierungstechnik
 Hermann-Blenk-Straße 42
-38106 Braunschweig
+38108 Braunschweig
 
 +49 531 391-66301 (Sekr.)
+http://www.iva.ing.tu-bs.de/?iT=1_833
 52.3145378, 10.542056600000024
 
 @lc
@@ -1022,7 +1023,7 @@ Langer Kamp 19a
 @m7
 Institut für Flugantriebe und Strömungsmaschinen
 Hermann-Blenk-Str. 37
-38106 Braunschweig
+38108 Braunschweig
 
 +49 531 391-94202
 52.3142729, 10.543860399999971
@@ -1030,7 +1031,7 @@ Hermann-Blenk-Str. 37
 @m8
 Institut für Verbrennungskraftmaschinen
 Hermann-Blenk-Str. 42
-38106 Braunschweig
+38108 Braunschweig
 
 +49 531 391-66900
 https://www.tu-braunschweig.de/ivb/wir/bibliothek
