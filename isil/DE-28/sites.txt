@@ -67,7 +67,7 @@ http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#locubbsp
 +49 381 498-8741
 buecherspeicher@uni-rostock.de
 buecherspeicher@uni-rostock.de
-Hinweis: Bitte achten Sie bei der Bestellung des Mediums auf den Ort der Bereitstellung! Die Bereitstellung erfolgt MO-FR ab 11:00 in der Fachbibliothek Sprach- und Literaturwissenschaften ODER in den Sondersammlungen.
+Hinweis: Bücher und andere Medien aus dem Bücherspeicher, die ausgeliehen werden können, erhalten Sie in der Fachbibliothek Sprach- und Literaturwissenschaften. Sie erhalten ein E-Mail, wenn die Bestellung für Sie bereit liegt. Die Bücher sind die nächsten 7 Tage auf Ihren Namen reserviert. Sollten Sie ein bestelltes Medium innerhalb dieses Zeitraumes nicht abholen, wird die Bestellung gelöscht.Alte Drucke und Literatur, die nur in den Bibliotheksräumen genutzt werden können, werden in der Regel vier Wochen im Leseraum der Sondersammlungen, zur Einsicht vor Ort zur Verfügung gehalten.
 
 @locubson
 UB Rostock: Sondersammlungen
@@ -116,6 +116,26 @@ Sa 10:00 - 24:00
 So 12:00 - 24:00
 Hinweis: Servicezeiten (Ausgabe, Information): Montag bis Freitag bis 20:00 Uhr und Samstag bis 16:00 Uhr.
 
+@locubaesmag
+UB Rostock: Bibliothek Südstadt - Magazin
+http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#locubaes
+54.075575, 12.103565
++49 381 498-8640
++49 381 498-8650
+information-bb1.ub@uni-rostock.de
+ausleihe-bb1.ub@uni-rostock.de
+Hinweis: Bei der Bestellung von Büchern und anderen Medien aus dem Magazin der Bereichsbibliothek Südstadt beträgt die Bereitstellungsdauer während der Servicezeiten ca. eine Stunde. Nach der Beendigung der Servicezeiten erfolgt die Bereitstellung am nächsten Tag. Sie erhalten ein E-Mail, wenn die Bestellung für Sie bereit liegt. Die Bücher sind die nächsten 7 Tage auf Ihren Namen reserviert. Sollten Sie ein bestelltes Medium innerhalb dieses Zeitraumes nicht abholen, wird die Bestellung gelöscht.
+
+@locubausmag
+UB Rostock: Außenmagazin Tannenweg
+http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#locubaes
+54.075038, 12.064474
++49 381 498-8640
++49 381 498-8650
+information-bb1.ub@uni-rostock.de
+ausleihe-bb1.ub@uni-rostock.de
+Hinweis: Die bestellten Medien sind innerhalb von 7 Tagen für Sie in der Bereichsbibliothek Südstadt abholbereit. Sie erhalten eine E-Mail, wenn die Bestellung für Sie bereit liegt. Die Bücher sind die nächsten 7 Tage auf Ihren Namen reserviert. Sollten Sie ein bestelltes Medium innerhalb dieses Zeitraumes nicht abholen, wird die Bestellung gelöscht.
+
 @locubabs
 UB Rostock: Bildung, Geschichte
 http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#locubabs
@@ -131,6 +151,16 @@ Do 08:00 - 19:00
 Fr 08:00 - 19:00
 Sa 10:00 - 16:00
 Hinweis: Der Zugang zur Fachbibliothek ist nicht barrierefrei. Wenn Sie Unterstützung benötigen, bitte vor Ihrem Bibliotheksbesuch anrufen.
+
+@locubabsmag
+UB Rostock: Bildung, Geschichte - Magazin
+http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#locubabs
+54.085035, 12.133294
++49 381 498-8712
++49 381 498-8733
+information-bb2.ub@uni-rostock.de
+ausleihe-bb2.ub@uni-rostock.de
+Hinweis: Die bestellten Medien sind innerhalb von einer Stunde für Sie in der Fachbibliothek Bildung, Geschichte abholbereit. Sie erhalten ein E-Mail, wenn die Bestellung für Sie bereit liegt. Die Bücher sind die nächsten 7 Tage auf Ihren Namen reserviert. Sollten Sie ein bestelltes Medium innerhalb dieses Zeitraumes nicht abholen, wird die Bestellung gelöscht.
 
 @locubtes
 Inst. für Päd. Psychologie: Testothek
@@ -271,9 +301,9 @@ kirstin.bloes@hmt-rostock.de
 bibliothek@hmt-rostock.de
 Mo 10:00 - 16:30
 Di 10:00 - 16:30
-Mi 12:00 - 16:30
-Do 10:00 - 16:30
-Fr 11:00 - 14:00
+Mi 10:00 - 14:00
+Do 11:00 - 16:30
+Fr 10:00 - 13:00
 Hinweis: Die Öffnungszeiten in der vorlesungsfreien Zeit finden Sie auf unserer Homepage.
 
 @locmsh
