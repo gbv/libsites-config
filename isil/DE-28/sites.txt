@@ -4,7 +4,7 @@ UB Rostock und Bibliotheken im Regionalverbund
 
 @locubhome
 UB Rostock
-http://www.ub.uni-rostock.de/
+https://www.ub.uni-rostock.de/
 54.075575, 12.103565
 +49 381 498-8601
 direktion.ub@uni-rostock.de
@@ -12,7 +12,7 @@ Hinweis:
 
 @locubs3b
 UB Rostock: Verwaltungsgebäude (Direktion)
-http://www.ub.uni-rostock.de/ub/xGeneral/contact_xde.shtml
+https://www.ub.uni-rostock.de/universitaetsbibliothek/dezernate-und-abteilungen/direktion-und-zentralabteilung/
 54.086961, 12.134040
 +49 381 498-8601
 +49 381 498-8601
@@ -22,7 +22,7 @@ Hinweis: Termine nach Vereinbarung.
 
 @locubs3a
 UB Rostock: Sprach- und Literaturwissenschaften
-http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#locubs3a
+https://www.ub.uni-rostock.de/standorte-einrichtungen/campusbibliothek-innenstadt/fachbibliothek-sprach-und-literaturwissenschaften/
 54.086879, 12.134571
 +49 381 498-8731
 +49 381 498-8731
@@ -38,7 +38,7 @@ Hinweis:
 
 @locubarc
 UB Rostock: Universitätsarchiv und Kustodie
-http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#locubarc
+https://www.ub.uni-rostock.de/standorte-einrichtungen/universitaetsarchivkustodie/das-universitaetsarchiv/
 54.088115, 12.133407
 +49 381 498-8621
 +49 381 498-8621
@@ -61,7 +61,7 @@ Hinweis:
 
 @locubbsp
 UB Rostock: Bücherspeicher
-http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#locubbsp
+https://www.ub.uni-rostock.de/standorte-einrichtungen/richard-wossidlo-zentrum/buecherspeicher/
 54.087489, 12.134571
 +49 381 498-8739
 +49 381 498-8741
@@ -71,7 +71,7 @@ Hinweis: Bücher und andere Medien aus dem Bücherspeicher, die ausgeliehen werd
 
 @locubson
 UB Rostock: Sondersammlungen
-http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#locubson
+https://www.ub.uni-rostock.de/standorte-einrichtungen/sondersammlungen/die-sondersammlungen/
 54.087036, 12.136041
 +49 381 498-8700
 +49 381 498-8754
@@ -86,7 +86,7 @@ Hinweis:
 
 @locubpnz
 Patent- und Normenzentrum
-http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#locubpnz
+https://www.ub.uni-rostock.de/standorte-einrichtungen/patent-und-normenzentrum/das-patent-und-normenzentrum/
 54.084267, 12.112727
 +49 381 498-8673
 +49 381 498-8674
@@ -100,8 +100,8 @@ Fr Termine nach Vereinbarung
 Hinweis: 
 
 @locubaes
-UB Rostock: Bibliothek Südstadt
-http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#locubaes
+UB Rostock: Campusbibliothek Südstadt
+https://www.ub.uni-rostock.de/standorte-einrichtungen/campusbibliothek-suedstadt/oeffnungszeiten/
 54.075575, 12.103565
 +49 381 498-8640
 +49 381 498-8650
@@ -117,28 +117,28 @@ So 12:00 - 24:00
 Hinweis: Servicezeiten (Ausgabe, Information): Montag bis Freitag bis 20:00 Uhr und Samstag bis 16:00 Uhr.
 
 @locubaesmag
-UB Rostock: Bibliothek Südstadt - Magazin
-http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#locubaes
+UB Rostock: Campusbibliothek Südstadt - Magazin
+https://www.ub.uni-rostock.de/nutzen-und-leihen/bestellmoeglichkeiten/magazine/
 54.075575, 12.103565
 +49 381 498-8640
 +49 381 498-8650
 information-bb1.ub@uni-rostock.de
 ausleihe-bb1.ub@uni-rostock.de
-Hinweis: Bei der Bestellung von Büchern und anderen Medien aus dem Magazin der Bereichsbibliothek Südstadt beträgt die Bereitstellungsdauer während der Servicezeiten ca. eine Stunde. Nach der Beendigung der Servicezeiten erfolgt die Bereitstellung am nächsten Tag. Sie erhalten ein E-Mail, wenn die Bestellung für Sie bereit liegt. Die Bücher sind die nächsten 7 Tage auf Ihren Namen reserviert. Sollten Sie ein bestelltes Medium innerhalb dieses Zeitraumes nicht abholen, wird die Bestellung gelöscht.
+Hinweis: Bei der Bestellung von Büchern und anderen Medien aus dem Magazin der BereichsCampusbibliothek Südstadt beträgt die Bereitstellungsdauer während der Servicezeiten ca. eine Stunde. Nach der Beendigung der Servicezeiten erfolgt die Bereitstellung am nächsten Tag. Sie erhalten ein E-Mail, wenn die Bestellung für Sie bereit liegt. Die Bücher sind die nächsten 7 Tage auf Ihren Namen reserviert. Sollten Sie ein bestelltes Medium innerhalb dieses Zeitraumes nicht abholen, wird die Bestellung gelöscht.
 
 @locubausmag
 UB Rostock: Außenmagazin Tannenweg
-http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#locubaes
+https://www.ub.uni-rostock.de/nutzen-und-leihen/bestellmoeglichkeiten/magazine/
 54.075038, 12.064474
 +49 381 498-8640
 +49 381 498-8650
 information-bb1.ub@uni-rostock.de
 ausleihe-bb1.ub@uni-rostock.de
-Hinweis: Die bestellten Medien sind innerhalb von 7 Tagen für Sie in der Bereichsbibliothek Südstadt abholbereit. Sie erhalten eine E-Mail, wenn die Bestellung für Sie bereit liegt. Die Bücher sind die nächsten 7 Tage auf Ihren Namen reserviert. Sollten Sie ein bestelltes Medium innerhalb dieses Zeitraumes nicht abholen, wird die Bestellung gelöscht.
+Hinweis: Bestellte Medien sind innerhalb von 7 Tagen für Sie in der BereichsCampusbibliothek Südstadt abholbereit. Sie erhalten eine E-Mail, wenn die Bestellung für Sie bereit liegt. Die Bücher sind die nächsten 7 Tage auf Ihren Namen reserviert. Sollten Sie ein bestelltes Medium innerhalb dieses Zeitraumes nicht abholen, wird die Bestellung gelöscht.
 
 @locubabs
 UB Rostock: Bildung, Geschichte
-http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#locubabs
+https://www.ub.uni-rostock.de/standorte-einrichtungen/campusbibliothek-innenstadt/fachbibliothek-bildung-geschichte/
 54.085035, 12.133294
 +49 381 498-8712
 +49 381 498-8733
@@ -154,13 +154,13 @@ Hinweis: Der Zugang zur Fachbibliothek ist nicht barrierefrei. Wenn Sie Unterst�
 
 @locubabsmag
 UB Rostock: Bildung, Geschichte - Magazin
-http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#locubabs
+https://www.ub.uni-rostock.de/nutzen-und-leihen/bestellmoeglichkeiten/magazine/
 54.085035, 12.133294
 +49 381 498-8712
 +49 381 498-8733
 information-bb2.ub@uni-rostock.de
 ausleihe-bb2.ub@uni-rostock.de
-Hinweis: Die bestellten Medien sind innerhalb von einer Stunde für Sie in der Fachbibliothek Bildung, Geschichte abholbereit. Sie erhalten ein E-Mail, wenn die Bestellung für Sie bereit liegt. Die Bücher sind die nächsten 7 Tage auf Ihren Namen reserviert. Sollten Sie ein bestelltes Medium innerhalb dieses Zeitraumes nicht abholen, wird die Bestellung gelöscht.
+Hinweis: Bestellte Medien sind innerhalb von einer Stunde für Sie in der Fachbibliothek Bildung, Geschichte abholbereit. Sie erhalten ein E-Mail, wenn die Bestellung für Sie bereit liegt. Die Bücher sind die nächsten 7 Tage auf Ihren Namen reserviert. Sollten Sie ein bestelltes Medium innerhalb dieses Zeitraumes nicht abholen, wird die Bestellung gelöscht.
 
 @locubtes
 Inst. für Päd. Psychologie: Testothek
@@ -174,22 +174,22 @@ Hinweis: Die Testothek ist eine Bibliothek für psychologische und pädagogisch-
 
 @locubthephi
 UB Rostock: Theologie und Philosophie
-http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#locubthephi
+https://www.ub.uni-rostock.de/standorte-einrichtungen/campusbibliothek-innenstadt/fachbibliothek-theologie-und-philosophie/
 54.087131, 12.136277
 +49 381 498-8724
 +49 381 498-8724
 fbgeschichte.ub@uni-rostock.de
 fbgeschichte.ub@uni-rostock.de
 Mo 10:00 - 19:00
-Di 08:00 - 19:00
-Mi 08:00 - 19:00
-Do 08:00 - 19:00
-Fr 08:00 - 19:00
+Di 09:00 - 19:00
+Mi 09:00 - 19:00
+Do 09:00 - 19:00
+Fr 09:00 - 19:00
 Hinweis: Der Zugang zur Fachbibliothek ist nicht barrierefrei. Wenn Sie Unterstützung benötigen, bitte vor Ihrem Bibliotheksbesuch anrufen.
 
 @locubalt
 UB Rostock: Altertumswissenschaften
-http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#locubalt
+https://www.ub.uni-rostock.de/standorte-einrichtungen/campusbibliothek-innenstadt/fachbibliothek-altertumswissenschaften/
 54.086355, 12.107757
 +49 381 498-8795
 +49 381 498-8793
@@ -204,7 +204,7 @@ Hinweis:
 
 @locubwos
 UB Rostock: Wossidlo-Bibliothek für Volkskunde und Regionalgeschichte
-http://www.ub.uni-rostock.de/ub/xLibraries/hours_xde.shtml#locubwos
+https://www.ub.uni-rostock.de/standorte-einrichtungen/richard-wossidlo-zentrum/wossidlo-bibliothek/
 54.0822, 12.137527
 +49 381 498-8728
 +49 381 498-8728
@@ -263,7 +263,7 @@ Hinweis:
 
 @lociap
 Leibniz-Institut für Atmosphärenphysik Kühlungsborn
-https://www.iap-kborn.de/institut/abteilungen-und-infrastruktur/bibliothek/
+https://www.iap-kborn.de/bibliothek/
 54.1169804, 11.7720973
 +49 38293 68-420
 +49 38293 68-420
