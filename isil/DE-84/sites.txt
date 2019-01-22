@@ -17,6 +17,13 @@ Publikationen, die an diesem Ort gelagert sind, können bestellt werden.
 
 52.27370999999990,10.53598999999997 
 
+@cbz
+Chemie-Magazin
+
+Publikationen, die an diesem Ort gelagert sind, können bestellt werden.
+
+52.27370999999990,10.53598999999997 
+
 @best
 Universitätsbibliothek - Bestseller
 Universitätsplatz 1
@@ -341,6 +348,7 @@ https://wirelib.sc.cs.tu-bs.de/
 
 @a1
 Physikzentrum der TU
+Bibliothek
 Mendelssohnstr. 2
 38106 Braunschweig
 
@@ -351,6 +359,7 @@ https://www.tu-braunschweig.de/eitp/studium/bibliotheken/physikbibliothek
 
 @a2
 Institut für Pflanzenbiologie
+Abteilung für Molekular- und Zellbiologie der Pflanzen
 Humboldtstr. 1
 38106 Braunschweig
 
@@ -376,7 +385,8 @@ Universitätsplatz 2
 52.27349779999990, 10.529713799999968
 
 @a42
-Institut für Computational Mathematics
+Institut für Analysis und Algebra
+AG Algebra
 Universitätsplatz 2
 38106 Braunschweig
 
@@ -385,6 +395,7 @@ Universitätsplatz 2
 
 @a43
 Institut für Computational Mathematics
+AG Numerik
 Universitätsplatz 2
 38106 Braunschweig
 
@@ -393,6 +404,7 @@ Universitätsplatz 2
 
 @a44
 Institut für Computational Mathematics
+AG Partielle Differentialgleichungen
 Universitätsplatz 2
 38106 Braunschweig
 
@@ -505,6 +517,7 @@ Hagenring 30
 
 @b5
 Institut für Biochemie, Biotechnologie und Bioinformatik
+Abt. Biotechnologie
 Spielmannstr. 7
 38106 Braunschweig
 
@@ -555,6 +568,7 @@ https://www.tu-braunschweig.de/pharmtech/institut/bibliothek
 
 @c5
 Zoologisches Institut
+Evolutionsbiologie
 Mendelssohnstr. 4
 38106 Braunschweig
 
@@ -563,6 +577,7 @@ Mendelssohnstr. 4
 
 @c8a
 Institut für Psychologie
+Abtl. Arbeits-, Organisations- u. Sozialpsychologie
 Spielmannstr. 19
 38106 Braunschweig
 
@@ -571,6 +586,7 @@ Spielmannstr. 19
 
 @c8e
 Institut für Psychologie
+Abtl. Entwicklungs-, Persönlichkeits- u. Forensische Psychologie
 Humboldtstr. 33
 38106 Braunschweig
 
@@ -589,6 +605,7 @@ https://www.tu-braunschweig.de/psychologie/abt/serviceeinrichtungen/institutsbib
 
 @c8i
 Institut für Psychologie
+Abtl. Ingenieur- und Verkehrspsychologie
 Gaussstr. 23
 38106 Braunschweig
 
@@ -597,6 +614,7 @@ Gaussstr. 23
 
 @c8k
 Institut für Psychologie
+Abtl. für Klinische Psychologie, Psychotherapie und Diagnostik
 Humboldtstr. 33
 38106 Braunschweig
 
@@ -605,6 +623,7 @@ Humboldtstr. 33
 
 @c8p
 Institut für Psychologie
+Abtl. für Psychologische Methodenlehre und Biopsychologie
 Spielmannstr. 19
 38106 Braunschweig
 
@@ -621,6 +640,7 @@ Spielmannstr. 7
 
 @d1
 Institut für Medizinische und Pharmazeutische Chemie
+Abt. Geschichte der Pharmazie und der Naturwissenschaften
 Beethovenstr. 55
 38106 Braunschweig
 
@@ -781,6 +801,7 @@ https://www.tu-braunschweig.de/igs/institut/bibliothek
 
 @g7
 Institut für Baustoffe, Massivbau und Brandschutz
+Materialprüfanstalt für das Bauwesen
 Beethovenstr. 52
 38106 Braunschweig
 
@@ -849,6 +870,7 @@ http://www.tu-braunschweig.de/isbs/institut/bibliothek
 
 @h5
 Leichtweiß-Institut für Wasserbau
+Abt. Wasserbau und Gewässermorphologie
 Beethovenstr. 51a
 38106 Braunschweig
 
@@ -924,7 +946,7 @@ Hans-Sommer-Str. 66
 @l6
 Institut für Raumfahrtsysteme
 Hermann-Blenk-Str. 23
-38106 Braunschweig
+38108 Braunschweig
 
 +49 531 391-9961
 52.31395, 10.548990000000003
@@ -954,6 +976,7 @@ Hermann-Blenk-Straße 42
 
 +49 531 391-66301 (Sekr.)
 http://www.iva.ing.tu-bs.de/?iT=1_833
+
 52.3145378, 10.542056600000024
 
 @lc
@@ -977,7 +1000,7 @@ Schleinitzstr. 20
 @m1
 Institut für Flugzeugbau und Leichtbau
 Hermann-Blenk-Str. 35
-38106 Braunschweig
+38108 Braunschweig
 
 +49 531 391-9903
 https://www.tu-braunschweig.de/ifl/bibliothek
@@ -987,7 +1010,7 @@ https://www.tu-braunschweig.de/ifl/bibliothek
 @m3
 Institut für Flugführung
 Hermann-Blenk-Str. 27
-38106 Braunschweig
+38108 Braunschweig
 
 +49 531 391-9802
 52.3138324, 10.548239800000033
@@ -1146,6 +1169,8 @@ Hans-Sommer-Str. 66
 
 @q2
 Institut für Anglistik und Amerikanistik
+Abt. Literatur u. Kulturwissenschaften
+Abt. Sprachwissenschaft
 Bienroder Weg 80
 38106 Braunschweig
 
@@ -1156,6 +1181,7 @@ https://www.tu-braunschweig.de/fk6/bibliotheken/campusnord
 
 @q4
 Institut für Geschichtswissenschaft
+Bibliothek
 Schleinitzstr. 20
 38106 Braunschweig
 
@@ -1175,7 +1201,8 @@ http://www.tu-braunschweig.de/isw/bibliothek/kontakt
 52.2836989, 10.538747899999976
 
 @q6
-Institut für Germanistik Lit
+Institut für Germanistik
+Abt. Linguistik und Mediävistik
 Bienroder Weg 80 (Bibliothek: Nr. 95)
 38106 Braunschweig
 
@@ -1186,6 +1213,7 @@ http://www.tu-braunschweig.de/germanistik/biblio
 
 @q8
 Institut für Erziehungswissenschaften
+Abt. Weiterbildung und Medien
 Bienroder Weg 97
 38106 Braunschweig
 
@@ -1193,16 +1221,6 @@ Bienroder Weg 97
 http://www.tu-braunschweig.de/wbm/bibliothek
 
 52.2836989, 10.538747899999976
-
-@r0
-Institut für Rechtswissenschaften
-Spielmannstr.8
-38106 Braunschweig
-
-+49 531 391-2850
-https://www.tu-braunschweig.de/recht/irw/bibliothek
-
-52.2735837, 10.530597599999965
 
 @r1
 Institut für Marketing
@@ -1268,14 +1286,6 @@ Abt-Jerusalem-Str. 7
 +49 531 391-2896 (Sekr.)
 52.2725608, 10.530492900000013
 
-@r8
-Institut für Volkswirtschaftslehre
-Spielmannstr. 9
-38106 Braunschweig
-
-+49 531 391-2578 (Sekr.)
-52.273552, 10.530881
-
 @rz
 Gauß-IT-Zentrum
 Hans-Sommer-Str. 65
@@ -1296,6 +1306,7 @@ https://www.tu-braunschweig.de/philosophie/bibliothek
 
 @s3
 Institut für Erziehungswissenschaften
+Abt. Schulpäd. U. Allg. Didaktik
 Bienroder Weg 97
 38106 Braunschweig
 
@@ -1316,6 +1327,7 @@ https://www.tu-braunschweig.de/hispaed/personal/lehrbeaufragte/gerdbiegel/index.
 
 @s5
 Institut für Erziehungswissenschaften
+Lernwerkstatt Schulpädagogik
 Bienroder Weg 97
 38106 Braunschweig
 
@@ -1336,6 +1348,7 @@ https://www.tu-braunschweig.de/ipp/studi/bib
 
 @sc
 Institut für Germanistik Did
+Abt. Didaktik der deutschen Sprache und Literatur
 Bienroder Weg 80 (Bibliothek: Nr. 95)
 38106 Braunschweig
 
@@ -1346,6 +1359,7 @@ https://www.tu-braunschweig.de/fk6/bibliotheken/campusnord
 
 @sd
 Institut für Anglistik und Amerikanistik
+Abt. Didaktik
 Bienroder Weg 80 (Bibliothek: Nr. 95)
 38106 Braunschweig
 
@@ -1356,6 +1370,7 @@ https://www.tu-braunschweig.de/fk6/bibliotheken/campusnord
 
 @sg
 Institut für Geschichtswissenschaft
+Abt. Geschichte und Geschichtsdidaktik
 Bienroder Weg 97
 38106 Braunschweig
 
@@ -1366,6 +1381,7 @@ https://www.ifg-braunschweig.de/studium/bibliotheken/institutsbibliothek-gd/
 
 @sk
 Institut für Fachdidaktik der Naturwissenschaften
+Abt. Physik und Physikdidaktik
 Bienroder Weg 82
 38106 Braunschweig
 
@@ -1374,6 +1390,7 @@ Bienroder Weg 82
 
 @sm1
 Institut für Didaktik der Mathematik und Elementarmathematik
+Didaktisches Labor
 Bienroder Weg 97
 38106 Braunschweig
 
@@ -1430,6 +1447,7 @@ https://www.frauenbib-bs.de/die-bibliothek/
 
 @sy
 Institut für Fachdidaktik der Naturwissenschaften
+Sachunterricht und seine Didaktik
 Bienroder Weg 95 (Bibliothek)
 38106 Braunschweig
 
@@ -1458,6 +1476,7 @@ http://www.tu-braunschweig.de/theologie/bibliothek
 
 @t5
 Institut für Fachdidaktik der Naturwissenschaften
+Abt. Chemie und ihre Didaktik
 Bienroder Weg 82
 38106 Braunschweig
 
@@ -1475,3 +1494,11 @@ Pockelsstr. 11
 https://www.tu-braunschweig.de/sport/biblio
 
 52.274762, 10.529269
+
+@r8
+Institut für Volkswirtschaftslehre
+Spielmannstr. 9
+38106 Braunschweig
+
++49 531 391-2578 (Sekr.)
+52.273552, 10.530881
