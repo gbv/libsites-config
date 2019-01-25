@@ -24,6 +24,10 @@ Publikationen, die an diesem Ort gelagert sind, können bestellt werden.
 
 52.27370999999990,10.53598999999997 
 
+@semapp
+Semesterapparat
+https://ub.tu-braunschweig.de/semapp/
+
 @best
 Universitätsbibliothek - Bestseller
 Universitätsplatz 1
