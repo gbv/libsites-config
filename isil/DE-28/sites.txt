@@ -67,7 +67,7 @@ https://www.ub.uni-rostock.de/standorte-einrichtungen/richard-wossidlo-zentrum/b
 +49 381 498-8741
 buecherspeicher@uni-rostock.de
 buecherspeicher@uni-rostock.de
-Hinweis: Bücher und andere Medien aus dem Bücherspeicher, die ausgeliehen werden können, erhalten Sie in der Fachbibliothek Sprach- und Literaturwissenschaften. Sie erhalten eine E-Mail, wenn die Bestellung für Sie bereit liegt. Die Bücher sind die nächsten 7 Tage auf Ihren Namen reserviert. Sollten Sie ein bestelltes Medium innerhalb dieses Zeitraumes nicht abholen, wird die Bestellung gelöscht. Alte Drucke und Literatur, die nur in den Bibliotheksräumen genutzt werden können, werden in der Regel 4 Wochen im Leseraum der Sondersammlungen, zur Einsicht vor Ort zur Verfügung gehalten.
+Hinweis: Bücher und andere Medien aus dem Bücherspeicher, die ausgeliehen werden können, erhalten Sie in der Fachbibliothek Sprach- und Literaturwissenschaften. Sie erhalten eine E-Mail, wenn die Bestellung für Sie bereit liegt. Die Bücher sind die nächsten 7 Tage auf Ihren Namen reserviert. Sollten Sie ein bestelltes Medium innerhalb dieses Zeitraumes nicht abholen, wird die Bestellung gelöscht.Alte Drucke und Literatur, die nur in den Bibliotheksräumen genutzt werden können, werden in der Regel vier Wochen im Leseraum der Sondersammlungen, zur Einsicht vor Ort zur Verfügung gehalten.
 
 @locubson
 UB Rostock: Sondersammlungen
@@ -77,7 +77,6 @@ https://www.ub.uni-rostock.de/standorte-einrichtungen/sondersammlungen/die-sonde
 +49 381 498-8754
 sondersammlungen@uni-rostock.de
 sondersammlungen@uni-rostock.de
-Mo 10:00 - 19:00
 Di 09:00 - 12:00, 13:00 - 19:00
 Mi 09:00 - 12:00, 13:00 - 19:00
 Do 09:00 - 12:00, 13:00 - 19:00
@@ -137,8 +136,8 @@ ausleihe-bb1.ub@uni-rostock.de
 Hinweis: Bestellte Medien sind innerhalb von 7 Tagen für Sie in der Campusbibliothek Südstadt abholbereit. Sie erhalten eine E-Mail, wenn die Bestellung für Sie bereit liegt. Die Bücher sind die nächsten 7 Tage auf Ihren Namen reserviert. Sollten Sie ein bestelltes Medium innerhalb dieses Zeitraumes nicht abholen, wird die Bestellung gelöscht.
 
 @locubabs
-UB Rostock: Bildung, Geschichte
-https://www.ub.uni-rostock.de/standorte-einrichtungen/campusbibliothek-innenstadt/fachbibliothek-bildung-geschichte/
+UB Rostock: Bildung, Geschichte, Altertum
+https://www.ub.uni-rostock.de/standorte-einrichtungen/campusbibliothek-innenstadt/fachbibliothek-bildung-geschichte-altertum/
 54.085035, 12.133294
 +49 381 498-8712
 +49 381 498-8733
@@ -153,7 +152,7 @@ Sa 10:00 - 16:00
 Hinweis: Der Zugang zur Fachbibliothek ist nicht barrierefrei. Wenn Sie Unterstützung benötigen, bitte vor Ihrem Bibliotheksbesuch anrufen.
 
 @locubabsmag
-UB Rostock: Bildung, Geschichte - Magazin
+UB Rostock: Bildung, Geschichte, Altertum - Magazin
 https://www.ub.uni-rostock.de/nutzen-und-leihen/bestellmoeglichkeiten/magazine/
 54.085035, 12.133294
 +49 381 498-8712
@@ -186,21 +185,6 @@ Mi 09:00 - 19:00
 Do 09:00 - 19:00
 Fr 09:00 - 19:00
 Hinweis: Der Zugang zur Fachbibliothek ist nicht barrierefrei. Wenn Sie Unterstützung benötigen, bitte vor Ihrem Bibliotheksbesuch anrufen.
-
-@locubalt
-UB Rostock: Altertumswissenschaften
-https://www.ub.uni-rostock.de/standorte-einrichtungen/campusbibliothek-innenstadt/fachbibliothek-altertumswissenschaften/
-54.086355, 12.107757
-+49 381 498-8795
-+49 381 498-8793
-fbaltertum.ub@uni-rostock.de
-fbaltertum.ub@uni-rostock.de
-Mo 10:00 - 19:00
-Di 09:00 - 19:00
-Mi 09:00 - 19:00
-Do 09:00 - 19:00
-Fr 09:00 - 19:00
-Hinweis: 
 
 @locubwos
 UB Rostock: Wossidlo-Bibliothek für Volkskunde und Regionalgeschichte
