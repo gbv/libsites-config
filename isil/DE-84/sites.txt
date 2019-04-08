@@ -363,7 +363,7 @@ https://www.tu-braunschweig.de/eitp/studium/bibliotheken/physikbibliothek
 
 @a2
 Institut für Pflanzenbiologie
- Abteilung für Molekular- und Zellbiologie der Pflanzen
+Abteilung für Molekular- und Zellbiologie der Pflanzen
 Humboldtstr. 1
 38106 Braunschweig
 
@@ -704,8 +704,7 @@ Institut für Geschichte und Theorie der Architektur und Stadt
 Pockelsstr. 4 (Schleinitzstr.)
 38106 Braunschweig
 
-+49 531 391-2347
-											   
++49 531 391-2347											   
 
 52.2732324, 10.5285665
 
@@ -829,8 +828,7 @@ Bet Tfila, Forschungsstelle für jüdische Architektur in Europa
 Pockelsstr. 4
 38106 Braunschweig
 
-+49 531 391-2525
-										
++49 531 391-2525									
 
 52.2732324, 10.5285662
 
@@ -1426,8 +1424,7 @@ Career Service
 Bültenweg 74/75 (Zimmer 105)
 38106 Braunschweig
 
-+49 531 391-4339
-											   
++49 531 391-4339										   
 
 52.27611, 10.534080000000017
 
@@ -1463,9 +1460,7 @@ Sprachenzentrum der TU Braunschweig
 Bültenweg 74/75, Raum -133
 38106 Braunschweig
 
-+49 531 391-5091
-																 
-
++49 531 391-5091													
 52.27611, 10.534080000000017
 
 @t4
