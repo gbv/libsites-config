@@ -327,7 +327,7 @@ So 10:00 - 21:45 Uhr (Januar bis März und Juni bis August)
 52.274011,10.529346
 
 @zfm
-Universitätsbibliothek - Zeitschriftenfreihandmagazin
+Universitätsbibliothek - Freihandmagazin
 Universitätsplatz 1
 38106 Braunschweig
 
@@ -704,8 +704,7 @@ Institut für Geschichte und Theorie der Architektur und Stadt
 Pockelsstr. 4 (Schleinitzstr.)
 38106 Braunschweig
 
-+49 531 391-2347
-http://www.gtas-braunschweig.de/index.php?id=32
++49 531 391-2347											   
 
 52.2732324, 10.5285665
 
@@ -829,8 +828,7 @@ Bet Tfila, Forschungsstelle für jüdische Architektur in Europa
 Pockelsstr. 4
 38106 Braunschweig
 
-+49 531 391-2525
-http://www.bet-tfila.org/de/c-biblio.htm
++49 531 391-2525									
 
 52.2732324, 10.5285662
 
@@ -889,7 +887,7 @@ Schleinitzstr. 23a
 38106 Braunschweig
 
 +49 531 391-3175
-www.bauwerkserhaltung.tu-braunschweig.de/index.php/menu-institut-de/menu-bibliothek-de
+https://www.bauwerkserhaltung.tu-braunschweig.de/index.php/menu-institut-de/menu-bibliothek-de
 
 52.27377689999999, 10.528196600000001
 
@@ -1211,7 +1209,7 @@ Bienroder Weg 80 (Bibliothek: Nr. 95)
 38106 Braunschweig
 
 +49 531 391-8636
-http://www.tu-braunschweig.de/germanistik/biblio
+https://www.tu-braunschweig.de/germanistik/abt/biblio
 
 52.28585, 10.538729999999987
 
@@ -1426,8 +1424,7 @@ Career Service
 Bültenweg 74/75 (Zimmer 105)
 38106 Braunschweig
 
-+49 531 391-4339
-https://www.tu-braunschweig.de/career/literatur
++49 531 391-4339										   
 
 52.27611, 10.534080000000017
 
@@ -1463,9 +1460,7 @@ Sprachenzentrum der TU Braunschweig
 Bültenweg 74/75, Raum -133
 38106 Braunschweig
 
-+49 531 391-5091
-https://www.tu-braunschweig.de/sprachenzentrum/beratung/mediothek
-
++49 531 391-5091													
 52.27611, 10.534080000000017
 
 @t4
