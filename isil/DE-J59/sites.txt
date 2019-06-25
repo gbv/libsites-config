@@ -5,14 +5,14 @@ Im Nahmagazin befinden sich befristet aufbewahrte Zeitschriften (je nach Titel v
 Befristet aufbewahrte Zeitschriften, die mehr als ein Jahr alt und als Jahrgang komplett sind, werden lose im Nahmagazin aufgestellt. Bei Bedarf kann die Zeitschrift jahrgangsweise oder in Einzelheften an der Ausleihtheke bestellt werden. Sie werden sofort zur Nutzung in der Bibliothek bereitgestellt.
 Die Zeitschriften des laufenden Jahrganges befinden sich im Zeitschriftenlesesaal.
 
-http://www.fh-jena.de/fhj/bib/de/Ausleihe/ortsleihe/Sonderstandorte/Seiten/Nahmagazin.aspx
+http://www.eah-jena.de/fhj/bib/de/Ausleihe/ortsleihe/Sonderstandorte/Seiten/Nahmagazin.aspx
 
 @ez	
 Freihand
 
 Neben der hier systematisch nach einer Wissenschaftsklassifikation aufgestellten Literatur finden Sie im Freihandbereich auch Zeitschriften und zeitschriftenartige Reihen wie z.B. Almanache, Jahrbuch. Weitere Titel einer Reihe finden Sie nur im OPAC unter dem Link „zugehoerige Publikation“. Diese Funktion gibt es in der BibApp leider nicht. 
 	
-http://www.fh-jena.de/fhj/bib/de/Ausleihe/ortsleihe/Sonderstandorte/Seiten/Freihandbereich.aspx
+http://www.eah-jena.de/fhj/bib/de/Ausleihe/ortsleihe/Sonderstandorte/Seiten/Freihandbereich.aspx
 
 @ls	
 Lesesaal
@@ -20,7 +20,7 @@ Lesesaal
 Im Lesesaal befindet sich die nicht ausleihbare Literatur, diese ist mit einem roten Signaturschild gekennzeichnet. Nicht ausleihbare Literatur ist Grundlagenliteratur, die von einem oder von allen Fachgebieten gebraucht/genutzt wird. Lesesaalliteratur kann nur innerhalb der Bibliothek genutzt und nicht ausgeliehen werden.  
 Der Lesesaal befindet sich in der unteren Etage, dort folgen Sie dem Hauptgang und biegen bei den Zeitschriftenregalen links ab. Nach wenigen Treppenstufen geht es rechts in den Lesesaal.
 	
-http://www.fh-jena.de/fhj/bib/de/Ausleihe/ortsleihe/Sonderstandorte/Seiten/Lesesaal.aspx
+http://www.eah-jena.de/fhj/bib/de/Ausleihe/ortsleihe/Sonderstandorte/Seiten/Lesesaal.aspx
 
 @lsn	
 Normenlesesaal und Patentlesesaal
@@ -35,7 +35,7 @@ Im Normenlesesaal findet der Nutzer die DIN-TAB-Reihe, je ein Band der Reihe ist
 Einzelne Normen werden nur Mitgliedern unserer Hochschule bereitgestellt. 
 Das komplette DIN-Normenwerk ist online in der Datenbank Perinorm auf dem Campus der EAH nutzbar.
 
-http://www.fh-jena.de/fhj/bib/de/Ausleihe/ortsleihe/Sonderstandorte/Seiten/Normenlesesaal.aspx
+http://www.eah-jena.de/fhj/bib/de/Ausleihe/ortsleihe/Sonderstandorte/Seiten/Normenlesesaal.aspx
 
 @lsz	
 Zeitschriften-Lesesaal
@@ -53,7 +53,7 @@ WR 	Wirtschaft, Recht
 SW 	Sozialwissenschaften
 HS 	Hoschulschriften, sonstige
 	
-http://www.fh-jena.de/fhj/bib/de/Ausleihe/ortsleihe/Sonderstandorte/Seiten/Zeitschriftenlesesaal.aspx
+http://www.eah-jena.de/fhj/bib/de/Ausleihe/ortsleihe/Sonderstandorte/Seiten/Zeitschriftenlesesaal.aspx
 
 @mag1	
 Magazin 1
@@ -61,7 +61,7 @@ Magazin 1
 Ein Teil unseres Bestandes in unseren Magazinen, zu denen nur Bibliotheksmitarbeiter Zutritt haben, untergebracht.
 Ausleihbare Literatur aus den Magazinen kann im OPAC oder mittels der BibApp bestellt werden. Bei nicht ausleihbaren Titeln wenden Sie sich bitte an die Mitarbeiter der Theke.
 	
-http://www.fh-jena.de/fhj/bib/de/Ausleihe/ortsleihe/Sonderstandorte/Seiten/Literatur-im-Magazin.aspx
+http://www.eah-jena.de/fhj/bib/de/Ausleihe/ortsleihe/Sonderstandorte/Seiten/Literatur-im-Magazin.aspx
 
 @mag2	
 Magazin 2	
@@ -69,7 +69,7 @@ Magazin 2
 Ein Teil unseres Bestandes in unseren Magazinen, zu denen nur Bibliotheksmitarbeiter Zutritt haben, untergebracht.
 Ausleihbare Literatur aus den Magazinen kann im OPAC oder mittels der BibApp bestellt werden. Bei nicht ausleihbaren Titeln wenden Sie sich bitte an die Mitarbeiter der Theke.
 
-http://www.fh-jena.de/fhj/bib/de/Ausleihe/ortsleihe/Sonderstandorte/Seiten/Literatur-im-Magazin.aspx
+http://www.eah-jena.de/fhj/bib/de/Ausleihe/ortsleihe/Sonderstandorte/Seiten/Literatur-im-Magazin.aspx
 
 @sem	
 Semesterapparat	
@@ -79,7 +79,7 @@ Dort sind die Titel nach Fachbereichen und Professorennamen sortiert und haben z
 Literatur, die im Semesterapparat steht, ist generell nicht ausleihbar. 
 Jeder Professor kann maximal 20 Titel in seinen Semesterapparat aufnehmen.
 
-http://www.fh-jena.de/fhj/bib/de/Ausleihe/ortsleihe/Sonderstandorte/Seiten/Semesterapparat.aspx
+http://www.eah-jena.de/fhj/bib/de/Ausleihe/ortsleihe/Sonderstandorte/Seiten/Semesterapparat.aspx
 
 @spie	
 Proceedings of SPIE
@@ -88,7 +88,7 @@ Die Bibliothek besitzt viele Titel der Reihe "SPIE Proceedings". SPIE ist die "I
 Diese stehen in unserer Bibliothek in der ersten unteren Etage neben dem Fachbereich Informatik. Wenn Sie den Treppen bei der Theke nach unten folgen, sind die Proceedings auf der rechten Seite hinter dem Glasdurchgang untergebracht.
 Dort sind sie nach, den von SPIE-vergebenen, Volumes geordnet, bspw. 2096.
 	
-http://www.fh-jena.de/fhj/bib/de/Ausleihe/ortsleihe/Sonderstandorte/Seiten/SPIE-.aspx
+http://www.eah-jena.de/fhj/bib/de/Ausleihe/ortsleihe/Sonderstandorte/Seiten/SPIE-.aspx
 
 @stpl	
 Stadtplan
@@ -97,7 +97,7 @@ Wir haben eine Auswahl an Karten von deutschen Staedten; in der Regel bis auf Kr
 Sie befinden sich im Rundregal zwischen den ersten beiden Regalen in der Eingangsebene. Dort sind sie alphabetisch nach Namen sortiert. 
 Weiteres Kartenmaterial, wie Landkarten und Atlanten, befindet sich im Freihandbereich entsprechend der Bibliothekssystematik.
 	
-http://www.fh-jena.de/fhj/bib/de/Ausleihe/ortsleihe/Sonderstandorte/Seiten/Stadtpläne.aspx
+http://www.eah-jena.de/fhj/bib/de/Ausleihe/ortsleihe/Sonderstandorte/Seiten/Stadtpläne.aspx
 
 @thek	
 Ausleihtheke	
@@ -106,7 +106,7 @@ An der Ausleihtheke sind physische elektronischen Medien wie CDs, MCs, DVDs, Vid
 Des Weiteren werden an der Theke Literatur aus den Magazinen, Glasvitrinen und Mikrofiches ausgegeben.
 Bitte geben Sie der jeweiligen Mitarbeiterin an der Theke die Signatur des gesuchten Mediums, oder im Falle von Beilagen, die des Hauptwerkes, damit diese Ihnen Ihren Titel heraussuchen kann.
 
-http://www.fh-jena.de/fhj/bib/de/Ausleihe/ortsleihe/Sonderstandorte/Seiten/Ausleihtheke.aspx
+http://www.eah-jena.de/fhj/bib/de/Ausleihe/ortsleihe/Sonderstandorte/Seiten/Ausleihtheke.aspx
 
 @uz	
 Zeitschriften	
@@ -118,13 +118,13 @@ Grundlagen der Pflege → Grundlagen Pflege
  
 Zeitschriftenausgaben, die vor 1990 erschienen sind, befinden sich im Magazin der Bibliothek. An der Theke halten wir Bestellscheine zum Bestellen von Zeitschriften aus dem Magazin vor.  Die bestellten Zeitschriften liegen ab dem darauffolgenden Werktag an der Theke zur Nutzung bereit.
 
-http://www.fh-jena.de/fhj/bib/de/Ausleihe/ortsleihe/Sonderstandorte/Seiten/Zeitschriften.aspx
+http://www.eah-jena.de/fhj/bib/de/Ausleihe/ortsleihe/Sonderstandorte/Seiten/Zeitschriften.aspx
 
 @vdi	
-VDI-Berichte	
+VDI Berichte	
 
 Die VDI-Berichte haben in unserer Bibliothek einen eigenen Standort.
 Sie befinden sich im Freihandbereich auf der Eingangsebene. Das Regal ist auf der anderen Seite des Ganges neben der Gruppe 51.00.
 Die Berichte sind nach ihrer Berichtsnummer sortiert.
 
-http://www.fh-jena.de/fhj/bib/de/Ausleihe/ortsleihe/Sonderstandorte/Seiten/VDI-Berichte.aspx
+http://www.eah-jena.de/fhj/bib/de/Ausleihe/ortsleihe/Sonderstandorte/Seiten/VDI-Berichte.aspx
