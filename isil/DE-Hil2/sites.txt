@@ -90,6 +90,11 @@ Abschlussarbeiten
 
 Regale links neben der Auskunft. Bitte entnehmen Sie Titel dort selbst aus den Regalen.
 
+@prr
+Präsentationsregal
+
+Regal neben dem Kopierraum. Die Titel im Präsentationsregal sind nicht ausleihbar.
+
 @sem
 Semesterapparate
 
