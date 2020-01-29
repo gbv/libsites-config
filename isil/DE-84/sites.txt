@@ -677,7 +677,7 @@ Beethovenstr. 51
 38106 Braunschweig
 
 +49 531 391-3376
-https://www.stahlbau.tu-braunschweig.de/index.php/menu-institut-de/menu-bibliothek2-de
+https://www.stahlbau.tu-braunschweig.de/index.php/de/menu-institut-de/menu-bibliothek-de
 
 52.2823958, 10.544349300000022
 
@@ -704,7 +704,7 @@ Institut für Geschichte und Theorie der Architektur und Stadt
 Pockelsstr. 4 (Schleinitzstr.)
 38106 Braunschweig
 
-+49 531 391-2347											   
++49 531 391-2347
 
 52.2732324, 10.5285665
 
@@ -716,6 +716,14 @@ Pockelsstr. 3, 12. OG
 +49 531 391-3537; -3538
 http://www.tu-braunschweig-ise.de/
 
+52.272654, 10.527581800000007
+
+@f7
+Institut für Städtebau und Entwurfsmethodik
+Pockelsstr. 3, 13. OG
+38106 Braunschweig
+
++49 531 391-3538
 52.272654, 10.527581800000007
 
 @f71
@@ -798,7 +806,7 @@ Mühlenpfordtstr. 23
 38106 Braunschweig
 
 +49 531 391-3555
-https://www.tu-braunschweig.de/igs/institut/bibliothek
+													  
 
 52.27303, 10.525139999999965
 
@@ -828,7 +836,7 @@ Bet Tfila, Forschungsstelle für jüdische Architektur in Europa
 Pockelsstr. 4
 38106 Braunschweig
 
-+49 531 391-2525									
++49 531 391-2525
 
 52.2732324, 10.5285662
 
@@ -846,7 +854,7 @@ Pockelsstr. 3 (Okerufer)
 38106 Braunschweig
 
 +49 531 391-94450 (Sekr.); 63600
-http://www.tu-braunschweig.de/ifev/service/bibliothek
+https://www.tu-braunschweig.de/ive/lehre/bibliothek
 
 52.272654, 10.527581800000007
 
@@ -959,7 +967,7 @@ Langer Kamp 19b
 38106 Braunschweig
 
 +49 531 391-7601
-https://www.tu-braunschweig.de/iwf/ueberuns/bibliothek
+https://www.tu-braunschweig.de/iwf/bibliothek
 
 52.27703, 10.537710000000061
 
@@ -987,7 +995,7 @@ Alte Salzdahlumer Str. 203
 38124 Braunschweig
 
 +49 531 391-9750
-http://www.imt.tu-bs.de/de/ausstattung/sonstiges/bibliothek
+https://www.tu-braunschweig.de/imt/forschung/ausstattung/vorlage-fuer-geraete-1
 
 52.24352, 10.533680000000004
 
@@ -1023,7 +1031,7 @@ Langer Kamp 6
 38106 Braunschweig
 
 +49 531 391-2681
-https://www.tu-braunschweig.de/iaf/institut/institutsbibliothek
+															   
 
 52.27739, 10.538540000000012
 
@@ -1059,7 +1067,7 @@ Hermann-Blenk-Str. 42
 38108 Braunschweig
 
 +49 531 391-66900
-https://www.tu-braunschweig.de/ivb/wir/bibliothek
+												 
 
 52.3145378, 10.542056600000024
 
@@ -1177,7 +1185,7 @@ Bienroder Weg 80
 38106 Braunschweig
 
 +49 531 391-8712
-https://www.tu-braunschweig.de/fk6/bibliotheken/campusnord
+https://www.tu-braunschweig.de/fk6/institute-einrichtungen/bibliotheken/campus-nord
 
 52.28585, 10.538729999999987
 
@@ -1209,7 +1217,7 @@ Bienroder Weg 80 (Bibliothek: Nr. 95)
 38106 Braunschweig
 
 +49 531 391-8636
-https://www.tu-braunschweig.de/germanistik/abt/biblio
+https://www.tu-braunschweig.de/fk6/institute-einrichtungen/bibliotheken/campus-nord
 
 52.28585, 10.538729999999987
 
@@ -1223,6 +1231,17 @@ Bienroder Weg 97
 http://www.tu-braunschweig.de/wbm/bibliothek
 
 52.2836989, 10.538747899999976
+
+@r0
+Institut für Rechtswissenschaften
+Bürgerliches Recht und Unternehmensrecht
+Spielmannstr.8
+38106 Braunschweig
+
++49 531 391-2850
+https://www.tu-braunschweig.de/recht/irw/bibliothek
+
+52.2735837, 10.530597599999965
 
 @r1
 Institut für Marketing
@@ -1323,7 +1342,7 @@ Fallersleber-Tor-Wall 23
 38100 Braunschweig
 
 +49 531 1219674 (Sekr.)
-https://www.tu-braunschweig.de/hispaed/personal/lehrbeaufragte/gerdbiegel/index.html
+https://www.tu-braunschweig.de/ibrg
 
 52.2698839, 10.530254799999966
 
@@ -1334,7 +1353,7 @@ Bienroder Weg 97
 38106 Braunschweig
 
 +49 531 391-8845
-https://www.tu-braunschweig.de/schulpaedagogik/lernwerkstatt-schulpaedagogik/index.html
+https://www.tu-braunschweig.de/schulpaedagogik/lernwerkstatt-schulpaedagogik
 
 52.2836989, 10.538747899999976
 
@@ -1355,7 +1374,7 @@ Bienroder Weg 80 (Bibliothek: Nr. 95)
 38106 Braunschweig
 
 +49 531 391-8884; -8883
-https://www.tu-braunschweig.de/fk6/bibliotheken/campusnord
+https://www.tu-braunschweig.de/fk6/institute-einrichtungen/bibliotheken/campus-nord
 
 52.28585, 10.538729999999987
 
@@ -1366,7 +1385,7 @@ Bienroder Weg 80 (Bibliothek: Nr. 95)
 38106 Braunschweig
 
 +49 531 391-8884
-https://www.tu-braunschweig.de/fk6/bibliotheken/campusnord
+https://www.tu-braunschweig.de/fk6/institute-einrichtungen/bibliotheken/campus-nord
 
 52.28585, 10.538729999999987
 
@@ -1424,7 +1443,7 @@ Career Service
 Bültenweg 74/75 (Zimmer 105)
 38106 Braunschweig
 
-+49 531 391-4339										   
++49 531 391-4339
 
 52.27611, 10.534080000000017
 
@@ -1453,6 +1472,8 @@ Bienroder Weg 95 (Bibliothek)
 38106 Braunschweig
 
 +49 531 391-8884
+https://www.tu-braunschweig.de/fk6/institute-einrichtungen/bibliotheken/campus-nord
+
 52.2852197, 10.53827810000007
 
 @t2
@@ -1460,7 +1481,7 @@ Sprachenzentrum der TU Braunschweig
 Bültenweg 74/75, Raum -133
 38106 Braunschweig
 
-+49 531 391-5091													
++49 531 391-5091
 52.27611, 10.534080000000017
 
 @t4
@@ -1490,7 +1511,7 @@ Pockelsstr. 11
 38106 Braunschweig
 
 +49 531 391-3433
-https://www.tu-braunschweig.de/sport/biblio
+https://www.tu-braunschweig.de/sportwissenschaft/biblio
 
 52.274762, 10.529269
 
