@@ -74,16 +74,3 @@ infoelsi@ub.uni-osnabrueck.de
 52.269336, 8.047916
 
 Mo-Fr 9:00-20:00
-
-@ikfnimis
-Gemeinsame Forschungsbibliothek IKFN/IMIS
-Neuer Graben 19-21
-49074 Osnabrück
-
-+49-541-9694776
-
-infoiknfimis@ub.uni-osnabrueck.de
-
-52.271681, 8.046082
-
-Mo-Fr 9:00-18:00
