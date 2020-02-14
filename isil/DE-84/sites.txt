@@ -718,14 +718,6 @@ http://www.tu-braunschweig-ise.de/
 
 52.272654, 10.527581800000007
 
-@f7
-Institut für Städtebau und Entwurfsmethodik
-Pockelsstr. 3, 13. OG
-38106 Braunschweig
-
-+49 531 391-3538
-52.272654, 10.527581800000007
-
 @f71
 Institut für Landschaftsarchitektur
 Pockelsstr. 3, 4. OG
