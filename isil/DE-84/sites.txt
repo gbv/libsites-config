@@ -1472,3 +1472,10 @@ Spielmannstr. 9
 +49 531 391-2578 (Sekr.)
 52.273552, 10.530881
 
+@museum
+Staatliches Naturhistorisches Museum
+Pockelsstr. 10
+38107 Braunschweig
+
++49 531 1225-3000
+52275333, 10.530451
