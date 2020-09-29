@@ -360,7 +360,7 @@ https://www.tu-braunschweig.de/eitp/bibliotheken#c648239
 
 @a2
 Institut für Pflanzenbiologie
-Abteilung für Molekular- und Zellbiologie der Pflanzen
+ Abteilung für Molekular- und Zellbiologie der Pflanzen
 Humboldtstr. 1
 38106 Braunschweig
 
@@ -1151,7 +1151,7 @@ Abt. Sprachwissenschaft
 Bienroder Weg 80
 38106 Braunschweig
 
-+49 531 391-8884
++49 531 391-8883
 https://www.tu-braunschweig.de/fk6/institute-einrichtungen/bibliotheken/campus-nord
 
 52.28585, 10.538729999999987
@@ -1183,7 +1183,7 @@ Abt. Linguistik und Mediävistik
 Bienroder Weg 80 (Bibliothek: Nr. 95)
 38106 Braunschweig
 
-+49 531 391-8884
++49 531 391-8883
 https://www.tu-braunschweig.de/fk6/institute-einrichtungen/bibliotheken/campus-nord
 
 52.28585, 10.538729999999987
@@ -1268,7 +1268,7 @@ Seminar für Philosophie
 Bienroder Weg 80 (Bibliothek: Nr. 95)
 38106 Braunschweig
 
-+49 531 391-8884
++49 531 391-8883
 https://www.tu-braunschweig.de/philosophie/bibliothek
 
 52.28585, 10.538729999999987
@@ -1321,7 +1321,7 @@ Abt. Didaktik der deutschen Sprache und Literatur
 Bienroder Weg 80 (Bibliothek: Nr. 95)
 38106 Braunschweig
 
-+49 531 391-8884; -8883
++49 531 391-8883
 https://www.tu-braunschweig.de/fk6/institute-einrichtungen/bibliotheken/campus-nord
 
 52.28585, 10.538729999999987
@@ -1332,7 +1332,7 @@ Abt. Didaktik
 Bienroder Weg 80 (Bibliothek: Nr. 95)
 38106 Braunschweig
 
-+49 531 391-8884
++49 531 391-8883
 https://www.tu-braunschweig.de/fk6/institute-einrichtungen/bibliotheken/campus-nord
 
 52.28585, 10.538729999999987
@@ -1420,7 +1420,7 @@ Sachunterricht und seine Didaktik
 Bienroder Weg 95 (Bibliothek)
 38106 Braunschweig
 
-+49 531 391-8884
++49 531 391-8883
 https://www.tu-braunschweig.de/fk6/institute-einrichtungen/bibliotheken/campus-nord
 
 52.2852197, 10.53827810000007
@@ -1471,3 +1471,11 @@ Spielmannstr. 9
 
 +49 531 391-2578 (Sekr.)
 52.273552, 10.530881
+
+@museum
+Staatliches Naturhistorisches Museum
+Pockelsstr. 10
+38107 Braunschweig
+
++49 531 1225-3000
+52275333, 10.530451
