@@ -339,15 +339,12 @@ So 10:00 - 16:45 Uhr (April, Mai und September bis Dezember)
 So 10:00 - 21:45 Uhr (Januar bis März und Juni bis August)
 
 52.274011,10.529346
-
 @a0
 Institut für Wissenschaftliches Rechnen
 Mühlenpfordtstrasse 23, 8. Og
 38106 Braunschweig
 
-+49 531 391-3000
-https://wirelib.sc.cs.tu-bs.de/
-
++49 531 391-2280
 52.27303, 10.525139999999965
 
 @a1
@@ -357,7 +354,7 @@ Mendelssohnstr. 2
 38106 Braunschweig
 
 +49 531 391-5028
-https://www.tu-braunschweig.de/eitp/studium/bibliotheken/physikbibliothek
+https://www.tu-braunschweig.de/eitp/bibliotheken
 
 52.28033, 10.5471
 
@@ -376,7 +373,7 @@ Universitätsplatz 2
 38106 Braunschweig
 
 +49 531 391-7508
-http://www.mathematik.tu-bs.de/bmi/index.htm
+http://www.mathematik.tu-bs.de/bmi/
 
 52.27349779999990, 10.529713799999968
 
@@ -487,22 +484,16 @@ Mühlenpfordtstr. 23
 
 @b1
 Institut für Geoökologie
+Landschaftsökologie & Umweltsystemanalyse
 Langer Kamp 19c
 38106 Braunschweig
 
 +49 531 391-5628
 52.27674, 10.53774999999996
 
-@b2
-Chemiebibliothek
-Hagenring 30
-38106 Braunschweig
-
-+49 531 391-5034
-52.27370999999990, 10.53598999999997
-
 @b3
 Institut für Mikrobiologie
+Molekulare Infektionsbiologie
 Spielmannstr. 7
 38106 Braunschweig
 
@@ -514,7 +505,7 @@ Institut für Organische Chemie
 Hagenring 30
 38106 Braunschweig
 
-+49 531 391-5256
++49 531 391-5271
 52.27370999999990, 10.53598999999997
 
 @b5
@@ -559,19 +550,19 @@ Beethovenstr. 55
 52.28048, 10.54517999999996
 
 @c2
-Institut für Pharmazeutische Technologie
+Institut für Pharmazeutische Technologie und Biopharmazie
 Mendelssohnstr. 1
 38106 Braunschweig
 
-+49 531 391-5646
++49 531 391-5658
 https://www.tu-braunschweig.de/pharmtech/institut/bibliothek
 
 52.2799713, 10.547182600000042
 
 @c5
 Zoologisches Institut
-Evolutionsbiologie
-Mendelssohnstr. 4
+Zellphysiologie
+Spielmannstr. 7/8
 38106 Braunschweig
 
 +49 531 391-3231
@@ -798,8 +789,7 @@ Mühlenpfordtstr. 23
 52.27303, 10.525139999999965
 
 @g7
-Institut für Baustoffe, Massivbau und Brandschutz
-Materialprüfanstalt für das Bauwesen
+Institut für Baustoffe, Massivbau und Brandschutz
 Beethovenstr. 52
 38106 Braunschweig
 
@@ -860,13 +850,10 @@ Beethovenstr. 51b
 38106 Braunschweig
 
 +49 531 391-62062
-http://www.tu-braunschweig.de/isbs/institut/bibliothek
-
 52.28297999999990, 10.548620000000028
 
 @h5
 Leichtweiß-Institut für Wasserbau
-Abt. Wasserbau und Gewässermorphologie
 Beethovenstr. 51a
 38106 Braunschweig
 
@@ -881,7 +868,7 @@ Schleinitzstr. 23a
 38106 Braunschweig
 
 +49 531 391-3175
-https://www.bauwerkserhaltung.tu-braunschweig.de/index.php/menu-institut-de/menu-bibliothek-de
+https://www.tu-braunschweig.de/ibb/service/bib
 
 52.27377689999999, 10.528196600000001
 
@@ -908,8 +895,8 @@ Institut für Siedlungswasserwirtschaft
 Pockelsstr. 2a (Okerufer)
 38106 Braunschweig
 
-+49 531 391-7936
-https://www.tu-braunschweig.de/isww
++49 531 391-7946
+https://www.tu-braunschweig.de/isww/team
 
 52.2726899, 10.526943200000005
 
@@ -926,9 +913,7 @@ Institut für Nachrichtentechnik
 Schleinitzstr. 22
 38106 Braunschweig
 
-+49 531 391-2420
-http://www.ifn.ing.tu-bs.de/ifn/general/library
-
++49 531 391-2474
 52.273423, 10.525879000000032
 
 @l5
@@ -1042,7 +1027,7 @@ Institut für Flugantriebe und Strömungsmaschinen
 Hermann-Blenk-Str. 37
 38108 Braunschweig
 
-+49 531 391-94202
++49 531 391-94201
 52.3142729, 10.543860399999971
 
 @m8
@@ -1166,7 +1151,7 @@ Abt. Sprachwissenschaft
 Bienroder Weg 80
 38106 Braunschweig
 
-+49 531 391-8712
++49 531 391-8884
 https://www.tu-braunschweig.de/fk6/institute-einrichtungen/bibliotheken/campus-nord
 
 52.28585, 10.538729999999987
@@ -1178,7 +1163,7 @@ Schleinitzstr. 20
 38106 Braunschweig
 
 +49 531 391-3099
-https://www.ifg-braunschweig.de/index.php?id=883
+https://www.ifg-braunschweig.de/studium/bibliotheken/hans-ulrich-ludewig-bibliothek-institutsbibliothek-fw/
 
 52.273498, 10.527380999999991
 
@@ -1188,7 +1173,7 @@ Bienroder Weg 97
 38106 Braunschweig
 
 +49 531 391-8925 (Bibl)
-http://www.tu-braunschweig.de/isw/bibliothek/kontakt
+https://www.tu-braunschweig.de/isw/bibliothek
 
 52.2836989, 10.538747899999976
 
@@ -1198,7 +1183,7 @@ Abt. Linguistik und Mediävistik
 Bienroder Weg 80 (Bibliothek: Nr. 95)
 38106 Braunschweig
 
-+49 531 391-8636
++49 531 391-8884
 https://www.tu-braunschweig.de/fk6/institute-einrichtungen/bibliotheken/campus-nord
 
 52.28585, 10.538729999999987
@@ -1278,20 +1263,12 @@ Abt-Jerusalem-Str. 7
 +49 531 391-2896 (Sekr.)
 52.2725608, 10.530492900000013
 
-@rz
-Gauß-IT-Zentrum
-Hans-Sommer-Str. 65
-38106 Braunschweig
-
-+49 531 391-63700
-52.27635, 10.541569999999979
-
 @s1
 Seminar für Philosophie
 Bienroder Weg 80 (Bibliothek: Nr. 95)
 38106 Braunschweig
 
-+49 531 391-8617 (Sekr.)
++49 531 391-8884
 https://www.tu-braunschweig.de/philosophie/bibliothek
 
 52.28585, 10.538729999999987
@@ -1333,7 +1310,7 @@ Institut für Pädagogische Psychologie
 Bienroder Weg 82 im Keller
 38106 Braunschweig
 
-+49 531 391-94019
++49 531 391-94000
 https://www.tu-braunschweig.de/ipp/studi/bib
 
 52.2850261, 10.53865769999993
@@ -1367,7 +1344,7 @@ Bienroder Weg 97
 38106 Braunschweig
 
 +49 531 391-8630
-https://www.ifg-braunschweig.de/studium/bibliotheken/institutsbibliothek-gd/
+https://www.ifg-braunschweig.de/studium/bibliotheken/institutsbibliothek-gd/?L=0
 
 52.2836989, 10.538747899999976
 
@@ -1407,11 +1384,13 @@ Bültenweg 17
 38106 Braunschweig
 
 +49 531 391-4545
+https://www.tu-braunschweig.de/chancengleichheit/bibliothek
+
 52.27442449999990, 10.533511699999963
 
 @su
 Career Service
-Bültenweg 74/75 (Zimmer 105)
+Rebenring 33
 38106 Braunschweig
 
 +49 531 391-4339
@@ -1419,7 +1398,7 @@ Bültenweg 74/75 (Zimmer 105)
 
 @sv
 Kooperationsstelle Hochschule-Gewerkschaften SON
-Bültenweg 74/75
+Bültenweg 17
 38106 Braunschweig
 
 +49 531 391-4280
@@ -1447,11 +1426,11 @@ https://www.tu-braunschweig.de/fk6/institute-einrichtungen/bibliotheken/campus-n
 52.2852197, 10.53827810000007
 
 @t2
-Sprachenzentrum der TU Braunschweig
+Sprachenzentrum der TU Braunschweig / International House
 Bültenweg 74/75, Raum -133
 38106 Braunschweig
 
-+49 531 391-5091
++49 531 391-5086
 52.27611, 10.534080000000017
 
 @t4
