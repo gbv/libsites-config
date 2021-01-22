@@ -337,8 +337,9 @@ So 10:00 - 16:45 Uhr (April, Mai und September bis Dezember)
 So 10:00 - 21:45 Uhr (Januar bis März und Juni bis August)
 
 52.274011,10.529346
+
 @a0
-Institut für Wissenschaftliches Rechnen
+Institut für Wissenschaftliches Rechnen
 Mühlenpfordtstrasse 23, 8. Og
 38106 Braunschweig
 
@@ -346,13 +347,13 @@ Mühlenpfordtstrasse 23, 8. Og
 52.27303, 10.525139999999965
 
 @a1
-Physikzentrum der TU
+Physikzentrum der TU
 Bibliothek
 Mendelssohnstr. 2
 38106 Braunschweig
 
 +49 531 391-5028
-https://www.tu-braunschweig.de/eitp/bibliotheken#c648239
+https://www.tu-braunschweig.de/eitp/bibliotheken
 
 52.28033, 10.5471
 
@@ -366,7 +367,7 @@ Humboldtstr. 1
 52.270187, 10.533381200000008
 
 @a4
-Bibliothek der mathematischen Institute
+Bibliothek der mathematischen Institute
 Universitätsplatz 2
 38106 Braunschweig
 
@@ -417,7 +418,7 @@ Universitätsplatz 2
 52.27349779999990, 10.529713799999968
 
 @a46
-Institut für Mathematische Stochastik
+Institut für Mathematische Stochastik
 Universitätsplatz 2
 38106 Braunschweig
 
@@ -425,7 +426,7 @@ Universitätsplatz 2
 52.27349779999990, 10.529713799999968
 
 @a5
-Institut für Pharmazeutische Biologie
+Institut für Pharmazeutische Biologie
 Mendelssohnstr. 1
 38106 Braunschweig
 
@@ -433,7 +434,7 @@ Mendelssohnstr. 1
 52.2799713, 10.547182600000042
 
 @a6
-Institut für Pharmakologie, Toxikologie und klinische Pharmazie
+Institut für Pharmakologie, Toxikologie und klinische Pharmazie
 Mendelssohnstr. 1
 38106 Braunschweig
 
@@ -507,7 +508,7 @@ Hagenring 30
 52.27370999999990, 10.53598999999997
 
 @b5
-Institut für Biochemie, Biotechnologie und Bioinformatik
+Institut für Biochemie, Biotechnologie und Bioinformatik
 Abt. Biotechnologie
 Spielmannstr. 7
 38106 Braunschweig
@@ -516,7 +517,7 @@ Spielmannstr. 7
 52.2735043, 10.53028919999997
 
 @b6
-Institut für Physikalische und Theoretische Chemie
+Institut für Physikalische und Theoretische Chemie
 Gaussstr. 17
 38106 Braunschweig
 
@@ -524,7 +525,7 @@ Gaussstr. 17
 52.273196, 10.531084
 
 @b8
-Institut für Technische Chemie
+Institut für Technische Chemie
 Hagenring 30
 38106 Braunschweig
 
@@ -540,7 +541,7 @@ Schleinitzstr. 20, 3. OG
 52.273498, 10.527380999999991
 
 @c1
-Institut für Medizinische und Pharmazeutische Chemie
+Institut für Medizinische und Pharmazeutische Chemie
 Beethovenstr. 55
 38106 Braunschweig
 
@@ -630,7 +631,7 @@ Spielmannstr. 7
 52.2735043, 10.53028919999997
 
 @d1
-Institut für Medizinische und Pharmazeutische Chemie
+Institut für Medizinische und Pharmazeutische Chemie
 Abt. Geschichte der Pharmazie und der Naturwissenschaften
 Beethovenstr. 55
 38106 Braunschweig
@@ -641,7 +642,7 @@ https://www.tu-braunschweig.de/pharmaziegeschichte/bibliothek
 52.28048, 10.54517999999996
 
 @e2
-Institut für Geophysik und Extraterrestrische Physik
+Institut für Geophysik und Extraterrestrische Physik
 Mendelssohnstr. 3
 38106 Braunschweig
 
@@ -695,7 +696,7 @@ Pockelsstr. 4 (Schleinitzstr.)
 52.2732324, 10.5285665
 
 @f7
-Inst. f. Nachhaltigen Städtebau (Sustainable Urbanism)u. Inst. f. Städtebau u. Entwurfsmethodik
+Inst. f. Nachhaltigen Städtebau u. Inst. f. Städtebau u. Entwurfsmethodik
 Pockelsstr. 3, 12. OG
 38106 Braunschweig
 
@@ -713,7 +714,7 @@ Pockelsstr. 3, 4. OG
 52.272654, 10.527581800000007
 
 @f8
-Institut für Angewandte Mechanik
+Institut für Angewandte Mechanik
 Pockelsstr. 3
 38106 Braunschweig
 
@@ -745,7 +746,7 @@ Pockelsstr. 4 (Schleinitzstr. 20)
 52.2732324, 10.5285664
 
 @g1
-Institut für Industriebau und konstruktives Entwerfen
+Institut für konstruktives Entwerfen, Industrie- und Gesundheitsbau
 Pockelsstr. 3 (Okerufer)
 38106 Braunschweig
 
@@ -779,7 +780,7 @@ https://www.tu-braunschweig.de/ite/lehre/bibliothek
 52.2732324, 10.5285666
 
 @g6
-Institut für Gebäude- und Solartechnik
+Institut für Gebäude- und Solartechnik
 Mühlenpfordtstr. 23
 38106 Braunschweig
 
@@ -791,7 +792,7 @@ Institut für Baustoffe, Massivbau und Brandschutz
 Beethovenstr. 52
 38106 Braunschweig
 
-+49 531 391-5454
+ 
 http://www.ibmb.tu-braunschweig.de/index.php/bibliothek.html
 
 52.28173, 10.54498000000001
@@ -815,7 +816,7 @@ Pockelsstr. 4
 52.2732324, 10.5285662
 
 @h1
-Institut für Baukonstruktion und Holzbau
+Institut für Baukonstruktion und Holzbau
 Schleinitzstr. 21a (Steinbaracke)
 38106 Braunschweig
 
@@ -833,7 +834,7 @@ https://www.tu-braunschweig.de/ive/lehre/bibliothek
 52.272654, 10.527581800000007
 
 @h3
-Institut für Verkehr und Stadtbauwesen
+Institut für Verkehr und Stadtbauwesen
 Hermann-Blenk-Str. 42
 38108 Braunschweig
 
@@ -861,7 +862,7 @@ https://www.tu-braunschweig.de/lwi/bibliothek
 52.2840858, 10.548185500000045
 
 @h6
-Institut für Bauwirtschaft und -betrieb
+Institut für Bauwirtschaft und -betrieb
 Schleinitzstr. 23a
 38106 Braunschweig
 
@@ -871,7 +872,7 @@ https://www.tu-braunschweig.de/ibb/service/bib
 52.27377689999999, 10.528196600000001
 
 @h7
-Institut für Geodäsie und Photogrammetrie
+Institut für Geodäsie und Photogrammetrie
 Bienroder Weg 81
 38106 Braunschweig
 
@@ -931,7 +932,7 @@ Hermann-Blenk-Str. 23
 52.31395, 10.548990000000003
 
 @l7
-Institut für Werkzeugmaschinen und Fertigungstechnik
+Institut für Werkzeugmaschinen und Fertigungstechnik
 Langer Kamp 19b
 38106 Braunschweig
 
@@ -949,7 +950,7 @@ Hans-Sommer-Str. 4
 52.27602, 10.536879999999996
 
 @l9
-Institut für Verkehrssicherheit und Automatisierungstechnik
+Institut für Verkehrssicherheit und Automatisierungstechnik
 Hermann-Blenk-Straße 42
 38108 Braunschweig
 
@@ -977,7 +978,7 @@ Schleinitzstr. 20
 52.273498, 10.527380999999991
 
 @m1
-Institut für Flugzeugbau und Leichtbau
+Institut für Flugzeugbau und Leichtbau
 Hermann-Blenk-Str. 35
 38108 Braunschweig
 
@@ -995,7 +996,7 @@ Hermann-Blenk-Str. 27
 52.3138324, 10.548239800000033
 
 @m4
-Institut für Adaptronik und Funktionsintegration
+Institut für Mechanik und Adaptronik
 Langer Kamp 6
 38106 Braunschweig
 
@@ -1013,7 +1014,7 @@ https://www.tu-braunschweig.de/ik/institut/ausstattung
 52.27799, 10.538000000000011
 
 @m6
-Institut für mobile Maschinen und Nutzfahrzeuge
+Institut für mobile Maschinen und Nutzfahrzeuge
 Langer Kamp 19a
 38106 Braunschweig
 
@@ -1069,7 +1070,7 @@ Volkmaroder Str. 5
 52.28763, 10.565510000000017
 
 @n5
-Institut für Fabrikbetriebslehre und Unternehmensforschung
+Institut für Fabrikbetriebslehre und Unternehmensforschung
 Langer Kamp 19
 38106 Braunschweig
 
@@ -1093,7 +1094,7 @@ Langer Kamp 8
 52.27799, 10.538000000000011
 
 @n9
-Institut für Elektrische Maschinen, Antriebe und Bahnen
+Institut für Elektrische Maschinen, Antriebe und Bahnen
 Hans-Sommer-Str. 66
 38106 Braunschweig
 
@@ -1101,7 +1102,7 @@ Hans-Sommer-Str. 66
 52.276328, 10.54024800000002
 
 @o0
-Institut für Hochspannungstechnik und Elektr. Energieanl.
+Institut für Hochspannungstechnik und Elektr. Energieanl.
 Schleinitzstr. 23
 38106 Braunschweig
 
@@ -1119,7 +1120,7 @@ https://www.ifr.ing.tu-bs.de/de/institut/bibliothek/
 52.276328, 10.54024800000002
 
 @o3
-Institut für Elektrische Meßtechnik und Grundlagen der Elektrotechnik
+Institut für Elektrische Meßtechnik und Grundlagen der Elektrotechnik
 Hans-Sommer-Str. 66
 38106 Braunschweig
 
@@ -1127,7 +1128,7 @@ Hans-Sommer-Str. 66
 52.276328, 10.54024800000002
 
 @o4
-Institut für Elektronische Bauelemente und Schaltungstechnik
+Institut für Elektrische Bauelemente und Schaltungstechnik
 Hans-Sommer-Str. 66
 38106 Braunschweig
 
@@ -1135,7 +1136,7 @@ Hans-Sommer-Str. 66
 52.276328, 10.54024800000002
 
 @o5
-Institut für Datentechnik und Kommunikationsnetze
+Institut für Datentechnik und Kommunikationsnetze
 Hans-Sommer-Str. 66
 38106 Braunschweig
 
@@ -1166,7 +1167,7 @@ https://www.ifg-braunschweig.de/studium/bibliotheken/hans-ulrich-ludewig-bibliot
 52.273498, 10.527380999999991
 
 @q5
-Institut für Sozialwissenschaften
+Bibliothek für Sozialwissenschaften
 Bienroder Weg 97
 38106 Braunschweig
 
@@ -1206,7 +1207,7 @@ Abt-Jerusalem-Str. 4
 52.2728698, 10.530482099999972
 
 @r2
-Institut für Robotik und Prozeßinformatik
+Institut für Robotik und Prozeßinformatik
 Mühlenpfordtstr. 23
 38106 Braunschweig
 
@@ -1304,7 +1305,7 @@ https://www.tu-braunschweig.de/schulpaedagogik/lernwerkstatt-schulpaedagogik
 52.2836989, 10.538747899999976
 
 @s6
-Institut für Pädagogische Psychologie
+Institut für Pädagogische Psychologie
 Bienroder Weg 82 im Keller
 38106 Braunschweig
 
@@ -1337,7 +1338,7 @@ https://www.tu-braunschweig.de/fk6/institute-einrichtungen/bibliotheken/campus-n
 
 @sg
 Institut für Geschichtswissenschaft
-Abt. Geschichte und Geschichtsdidaktik
+Abt. Geschichte und Geschichtsdidaktik
 Bienroder Weg 97
 38106 Braunschweig
 
@@ -1347,8 +1348,8 @@ https://www.ifg-braunschweig.de/studium/bibliotheken/institutsbibliothek-gd/?L=0
 52.2836989, 10.538747899999976
 
 @sk
-Institut für Fachdidaktik der Naturwissenschaften
-Abt. Physik und Physikdidaktik
+Institut für Fachdidaktik der Naturwissenschaften
+Abt. Physik und Physikdidaktik
 Bienroder Weg 82
 38106 Braunschweig
 
@@ -1432,7 +1433,7 @@ Bültenweg 74/75, Raum -133
 52.27611, 10.534080000000017
 
 @t4
-Seminar für Evangelische Theologie und Religionspädagogik
+Seminar für Evangelische Theologie und Religionspädagogik
 Bienroder Weg 97
 38106 Braunschweig
 
@@ -1442,7 +1443,7 @@ http://www.tu-braunschweig.de/theologie/bibliothek
 52.2836989, 10.538747899999976
 
 @t5
-Institut für Fachdidaktik der Naturwissenschaften
+Institut für Fachdidaktik der Naturwissenschaften
 Abt. Chemie und ihre Didaktik
 Bienroder Weg 82
 38106 Braunschweig
@@ -1453,7 +1454,7 @@ https://www.tu-braunschweig.de/ifdn/chemie/bibliothek
 52.2850261, 10.53865769999993
 
 @t6
-Institut für Sportwissenschaft und Bewegungspädagogik
+Institut für Sportwissenschaft und Bewegungspädagogik
 Pockelsstr. 11
 38106 Braunschweig
 
