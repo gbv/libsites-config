@@ -425,14 +425,6 @@ Universitätsplatz 2
 +49 531 391-7567
 52.27349779999990, 10.529713799999968
 
-@a5
-Institut für Pharmazeutische Biologie
-Mendelssohnstr. 1
-38106 Braunschweig
-
-+49 531 391-5680
-52.2799713, 10.547182600000042
-
 @a6
 Institut für Pharmakologie, Toxikologie und klinische Pharmazie
 Mendelssohnstr. 1
@@ -1347,15 +1339,6 @@ https://www.ifg-braunschweig.de/studium/bibliotheken/institutsbibliothek-gd/?L=0
 
 52.2836989, 10.538747899999976
 
-@sk
-Institut für Fachdidaktik der Naturwissenschaften
-Abt. Physik und Physikdidaktik
-Bienroder Weg 82
-38106 Braunschweig
-
-+49 531 391-94130
-52.2850261, 10.53865769999993
-
 @sm1
 Institut für Didaktik der Mathematik und Elementarmathematik
 Didaktisches Labor
@@ -1474,7 +1457,15 @@ Spielmannstr. 9
 @museum
 Staatliches Naturhistorisches Museum
 Pockelsstr. 10
-38107 Braunschweig
+38106 Braunschweig
 
 +49 531 1225-3000
 52275333, 10.530451
+
+@l3
+Institut für Akustik
+Langer Kamp 19
+38106 Braunschweig
+
++49 531 391-8771 (Sekr.)
+52.27791999999990, 10.537329999999997
