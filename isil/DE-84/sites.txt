@@ -324,6 +324,15 @@ So 10:00 - 21:45 Uhr (Januar bis März und Juni bis August)
 
 52.274011,10.529346
 
+@snhm
+Universitätsbibliothek - Magazin
+Universitätsplatz 1
+38106 Braunschweig
+
++49 531 391 5018
+
+52.274011,10.529346
+
 @zfm
 Universitätsbibliothek - Freihandmagazin
 Universitätsplatz 1
@@ -1355,7 +1364,7 @@ Institut für Musik und ihre Vermittlung
 Rebenring 58
 38106 Braunschweig
 
-+49 531 391-3487
++49 531 391-3488
 https://www.tu-braunschweig.de/musik/bibliothek
 
 52.2752379, 10.53022379999993
