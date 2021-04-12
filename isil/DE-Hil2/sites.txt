@@ -8,7 +8,7 @@ Für Titel aus dem Magazin Mediothek nutzen Sie bitte den Bestellen-Link.
 Bestellte Titel stehen am nächsten Tag an der Leihtheke für Sie bereit.
 
 @azp
-AZP - Bibliothek
+AZP - Bibliothek des Instituts für Philosophie
 Kulturcampus Domäne Marienburg
 Weißes Haus (Haus 46), Raum 003
 Domänenstraße 46
@@ -17,8 +17,6 @@ Domänenstraße 46
 +49 5121 8 83-21110
 
 52.115046, 9.982790
-
-Mo 12:00-15:00
 
 @cwm
 Center for World Music
@@ -61,14 +59,14 @@ Das Magazin wird wie folgt bedient: Mo - Do bis 16:00 Uhr, Fr. bis 14:00 Uhr. Sp
 @alt
 Magazin
 
-Für Titel aus dem Magazin nutzen Sie bitte den Bestellen-Link. 
-Bestellte Titel werden Mo - Fr von 9:00 bis 17:00 Uhr stündlich an der Leihtheke bereitgestellt.
+Für Titel aus dem Magazin nutzen Sie bitte den Bestellen-Link. Bestellte Bücher werden zu jeder vollen Stunde aus dem Magazin geholt und ca. 15 Minuten später an der Leihstelle bereitgestellt. Innerhalb einer Woche können Sie bestellte Titel abholen.
+Das Magazin wird wie folgt bedient: Mo - Do bis 16:00 Uhr, Fr. bis 14:00 Uhr. Später eingehende Bestellungen erhalten Sie am nächsten Werktag.
 
 @rara
 Magazin
 
-Für Titel aus dem Magazin nutzen Sie bitte den Bestellen-Link. 
-Bestellte Titel werden Mo - Fr von 9:00 bis 17:00 Uhr stündlich an der Leihtheke bereitgestellt.
+Für Titel aus dem Magazin nutzen Sie bitte den Bestellen-Link. Bestellte Bücher werden zu jeder vollen Stunde aus dem Magazin geholt und ca. 15 Minuten später an der Leihstelle bereitgestellt. Innerhalb einer Woche können Sie bestellte Titel abholen.
+Das Magazin wird wie folgt bedient: Mo - Do bis 16:00 Uhr, Fr. bis 14:00 Uhr. Später eingehende Bestellungen erhalten Sie am nächsten Werktag.
 
 @zsmag
 Zeitschriftenmagazin
