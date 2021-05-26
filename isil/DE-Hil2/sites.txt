@@ -68,6 +68,12 @@ Magazin
 Für Titel aus dem Magazin nutzen Sie bitte den Bestellen-Link. Bestellte Bücher werden zu jeder vollen Stunde aus dem Magazin geholt und ca. 15 Minuten später an der Leihstelle bereitgestellt. Innerhalb einer Woche können Sie bestellte Titel abholen.
 Das Magazin wird wie folgt bedient: Mo - Do bis 16:00 Uhr, Fr. bis 14:00 Uhr. Später eingehende Bestellungen erhalten Sie am nächsten Werktag.
 
+@ls-ntz
+Lesesaalnutzung
+
+Diese Titel müssen aus dem Magazin bestellt werden und können dann nur vor Ort im Lesesal genutzt und nicht ausgeliehen werden. Bitte benutzen Sie den  Bestellen-Link. Bücher werden zu jeder vollen Stunde aus dem Magazin geholt und ca. 15 Minuten später an der Leihstelle bereitgestellt. 
+Das Magazin wird wie folgt bedient: Mo - Do bis 16:00 Uhr, Fr. bis 14:00 Uhr. Später eingehende Bestellungen erhalten Sie am nächsten Werktag.
+
 @zsmag
 Zeitschriftenmagazin
 
