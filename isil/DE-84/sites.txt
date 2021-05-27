@@ -269,6 +269,20 @@ Publikationen, die an diesem Ort gelagert sind, können bestellt werden. Bestell
 
 52.274011,10.529346
 
+@pda
+Universitätsbibliothek - Nutzungsgesteuerte Erwerbung (PDA)
+Universitätsplatz 1
+38106 Braunschweig
+
++49 531 391 5018
+
+Mo - Fr	09:00 - 18:45 Uhr
+Sa	10:00 - 21:45 Uhr
+
+Titel, die mit diesem Standort gekennzeichnet werden, gehören noch nicht zum Bestand der Universitätsbibliothek. Für bestellte Publikationen wird von der Universitätsbibliothek ein Kauf geprüft. Die Bereitstellung erfolgt bei E-Books als Freischaltung für das Universitätsnetz und bei gedruckten Büchern über die Leihstelle der UB. Über die Erwerbungsentscheidung wird der Besteller / die Bestellerin zuvor informiert.
+
+52.274011,10.529346
+
 @sek
 Universitätsbibliothek - Magazin
 Universitätsplatz 1
