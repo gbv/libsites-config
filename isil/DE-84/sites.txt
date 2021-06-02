@@ -795,7 +795,7 @@ https://www.tu-braunschweig.de/ite/lehre/bibliothek
 52.2732324, 10.5285666
 
 @g6
-Institut für Gebäude- und Solartechnik
+Institut für Bauklima und Energie der Architektur
 Mühlenpfordtstr. 23
 38106 Braunschweig
 
@@ -1490,5 +1490,6 @@ Institut für Akustik
 Langer Kamp 19
 38106 Braunschweig
 
-+49 531 391-8771 (Sekr.)
++49 531 391-8771 (Sekr.
 52.27791999999990, 10.537329999999997
+
