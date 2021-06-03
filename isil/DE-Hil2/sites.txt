@@ -31,14 +31,14 @@ Timotheus Platz / Schillstraße
 @hand
 Handapparat
 
-Bestände, die im Katalog mit "Handapparat" gekennzeichnet sind, stehen nicht in der Universitätsbibliothek und sind nicht regulär benutzbar. Bei dringendem Bedarf können Sie sich jedoch bei dem Eigner des Handapparates nach einer Benutzungsmöglichkeit erkundigen. Meist finden Sie aber auch ein weiteres Exemplar im regulären Bestand der UB. Eine Übersicht, wo sich die einzelnen Handapparate befinden finden Sie auf der folgenden Seite:
-https://www.uni-hildesheim.de/bibliothek/benutzen-lernen-arbeiten/wo-finde-ich-was/handapparate/ 
+Bestände, die im Katalog mit "Handapparat" gekennzeichnet sind, stehen nicht in der Universitätsbibliothek und sind nicht regulär benutzbar. Bei dringendem Bedarf können Sie sich jedoch bei dem Eigner des Handapparates nach einer Benutzungsmöglichkeit erkundigen. Meist finden Sie aber auch ein weiteres Exemplar im regulären Bestand der UB. Eine Übersicht, wo sich die einzelnen Handapparate befinden, finden Sie auf unserer Homepage unter Lernen & Arbeiten › Wo finde ich was? › Handapparate.
+https://www.uni-hildesheim.de/bibliothek/lernen-arbeiten/wo-finde-ich-was/handapparate/ 
 
 @ha
 Handapparat
 
-Bestände, die im Katalog mit "Handapparat" gekennzeichnet sind, stehen nicht in der Universitätsbibliothek und sind nicht regulär benutzbar. Bei dringendem Bedarf können Sie sich jedoch bei dem Eigner des Handapparates nach einer Benutzungsmöglichkeit erkundigen. Meist finden Sie aber auch ein weiteres Exemplar im regulären Bestand der UB. Eine Übersicht, wo sich die einzelnen Handapparate befinden finden Sie auf der folgenden Seite:
-https://www.uni-hildesheim.de/bibliothek/benutzen-lernen-arbeiten/wo-finde-ich-was/handapparate/
+Bestände, die im Katalog mit "Handapparat" gekennzeichnet sind, stehen nicht in der Universitätsbibliothek und sind nicht regulär benutzbar. Bei dringendem Bedarf können Sie sich jedoch bei dem Eigner des Handapparates nach einer Benutzungsmöglichkeit erkundigen. Meist finden Sie aber auch ein weiteres Exemplar im regulären Bestand der UB. Eine Übersicht, wo sich die einzelnen Handapparate befinden, finden Sie auf unserer Homepage unter Lernen & Arbeiten › Wo finde ich was? › Handapparate.
+https://www.uni-hildesheim.de/bibliothek/lernen-arbeiten/wo-finde-ich-was/handapparate/
 
 @fh
 Freihandbestand
@@ -53,22 +53,19 @@ Bitte entnehmen Sie Titel selbst aus den Regalen.
 @mag
 Magazin
 
-Für Titel aus dem Magazin nutzen Sie bitte den Bestellen-Link. Bestellte Bücher werden zu jeder vollen Stunde aus dem Magazin geholt und ca. 15 Minuten später an der Leihstelle bereitgestellt. Innerhalb einer Woche können Sie bestellte Titel abholen.
-Das Magazin wird wie folgt bedient: Mo - Do bis 16:00 Uhr, Fr. bis 14:00 Uhr. Später eingehende Bestellungen erhalten Sie am nächsten Werktag.
+Für Titel aus dem Magazin nutzen Sie bitte den Bestellen-Link. Bestellte Bücher stehen i.d.R. am nächsten Werktag (außer Sa.) zur Abholung an der Leihstelle bereit. Die Frist zur Abholung beträgt eine Woche.
 
 @alt
 Magazin
 
-Für Titel aus dem Magazin nutzen Sie bitte den Bestellen-Link. Bestellte Bücher werden zu jeder vollen Stunde aus dem Magazin geholt und ca. 15 Minuten später an der Leihstelle bereitgestellt. Innerhalb einer Woche können Sie bestellte Titel abholen.
-Das Magazin wird wie folgt bedient: Mo - Do bis 16:00 Uhr, Fr. bis 14:00 Uhr. Später eingehende Bestellungen erhalten Sie am nächsten Werktag.
+Für Titel aus dem Magazin nutzen Sie bitte den Bestellen-Link. Bestellte Bücher stehen i.d.R. am nächsten Werktag (außer Sa.) zur Abholung an der Leihstelle bereit. Die Frist zur Abholung beträgt eine Woche.
 
 @rara
 Magazin
 
-Für Titel aus dem Magazin nutzen Sie bitte den Bestellen-Link. Bestellte Bücher werden zu jeder vollen Stunde aus dem Magazin geholt und ca. 15 Minuten später an der Leihstelle bereitgestellt. Innerhalb einer Woche können Sie bestellte Titel abholen.
-Das Magazin wird wie folgt bedient: Mo - Do bis 16:00 Uhr, Fr. bis 14:00 Uhr. Später eingehende Bestellungen erhalten Sie am nächsten Werktag.
+Für Titel aus dem Magazin nutzen Sie bitte den Bestellen-Link. Bestellte Bücher stehen i.d.R. am nächsten Werktag (außer Sa.) zur Abholung an der Leihstelle bereit. Die Frist zur Abholung beträgt eine Woche.
 
-@ls-ntz
+@lsntz
 Lesesaalnutzung
 
 Diese Titel müssen aus dem Magazin bestellt werden und können dann nur vor Ort im Lesesal genutzt und nicht ausgeliehen werden. Bitte benutzen Sie den  Bestellen-Link. Bücher werden zu jeder vollen Stunde aus dem Magazin geholt und ca. 15 Minuten später an der Leihstelle bereitgestellt. 
