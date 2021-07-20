@@ -1143,7 +1143,7 @@ Hans-Sommer-Str. 66
 52.276328, 10.54024800000002
 
 @o4
-Institut für Elektrische Bauelemente und Schaltungstechnik
+Institut für CMOS Design
 Hans-Sommer-Str. 66
 38106 Braunschweig
 
@@ -1492,4 +1492,3 @@ Langer Kamp 19
 
 +49 531 391-8771 (Sekr.
 52.27791999999990, 10.537329999999997
-
