@@ -11,66 +11,2298 @@ http://www.ub.uni-osnabrueck.de/
 
 
 @b
-Bibliothek Alte Münze Geb.10
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
 Alte Münze 16
 49074 Osnabrück
 
-+49-541-9694488
+52.2731726, 8.0457204
+
++49-541/969-4488
 
 info@ub.uni-osnabrueck.de
 
-52.272910, 8.045333
 
-Mo-Fr 9:00-22:00, Sa 11:00-18:00
+@ball
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
+Alte Münze 16
+ Osnabrück
+
+52.2731726, 8.0457204
+
++49-541/969-4488
+
+info@ub.uni-osnabrueck.de
+
+
+@bbub
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
+Alte Münze 16
+ Osnabrück
+
+52.2731726, 8.0457204
+
++49-541/969-4488
+
+info@ub.uni-osnabrueck.de
+
+
+@bclk
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
+Alte Münze 16
+ Osnabrück
+
+52.2731726, 8.0457204
+
++49-541/969-4488
+
+info@ub.uni-osnabrueck.de
+
+
+@bcsc
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
+Alte Münze 16
+ Osnabrück
+
+52.2731726, 8.0457204
+
++49-541/969-4488
+
+info@ub.uni-osnabrueck.de
+
+
+@bfem
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
+Alte Münze 16
+ Osnabrück
+
+52.2731726, 8.0457204
+
++49-541/969-4488
+
+info@ub.uni-osnabrueck.de
+
+
+@b-freihand-magazin
+Freihand-Magazin Bibliothek Alte Münze (UG)
+Alte Münze 16
+ Osnabrück
+
+52.2731726, 8.0457204
+
++49-541/969-4488
+
+info@ub.uni-osnabrueck.de
+
+
+@bgeo
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
+Alte Münze 16
+ Osnabrück
+
+52.2731726, 8.0457204
+
++49-541/969-4488
+
+info@ub.uni-osnabrueck.de
+
+
+@bhis
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
+Alte Münze 16
+ Osnabrück
+
+52.2731726, 8.0457204
+
++49-541/969-4488
+
+info@ub.uni-osnabrueck.de
+
+
+@bhwd
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
+Alte Münze 16
+ Osnabrück
+
+52.2731726, 8.0457204
+
++49-541/969-4488
+
+info@ub.uni-osnabrueck.de
+
+
+@bibliothekrengstorf
+Nachlass Rengstorf im Magazin der Bibliothek Alte Münze
+Alte Münze 16
+ Osnabrück
+
+52.2731726, 8.0457204
+
++49-541/969-4488
+
+info@ub.uni-osnabrueck.de
+
+
+@bibliothekwittler
+Nachlass Wittler im Magazin der Bibliothek Alte Münze
+Alte Münze 16
+ Osnabrück
+
+52.2731726, 8.0457204
+
++49-541/969-4488
+
+info@ub.uni-osnabrueck.de
+
+
+@b-igb-referenzwerke
+Referenzwerke der Islamischen Gelehrtenbibliothek in der Bibliothek Alte Münze (2. OG)
+Alte Münze 16
+ Osnabrück
+
++49-541/969-4488
+
+info@ub.uni-osnabrueck.de
+
+
+@b-ikfn
+Bibliothek des Interdisziplinären Instituts für Kulturgeschichte der Frühen Neuzeit (IKFN)
+Alte Münze 16 / Kamp
+ Osnabrück
+
++49-541/969-4776
+
+beate.mrohs@uni-osnabrueck.de
+
+
+@b-ikfn-altdrucke
+Altdrucke der Bibliothek des Interdisziplinären Instituts für Kulturgeschichte der Frühen Neuzeit (IKFN)
+Alte Münze 16 / Kamp
+ Osnabrück
+
++49-541/969-4776
+
+beate.mrohs@uni-osnabrueck.de
+
+
+@b-imis
+Bibliothek des Instituts für Migrationsforschung und Interkulturelle Studien (IMIS)
+Alte Münze 16 / Kamp
+ Osnabrück
+
++49-541/969-4776
+
+beate.mrohs@uni-osnabrueck.de
+
+
+@b-kartenschrank
+Kartensammlung Bibliothek Alte Münze (3.OG)
+Alte Münze 16
+ Osnabrück
+
+52.2731726, 8.0457204
+
++49-541/969-4329
+
+lesesaal@ub.uni-osnabrueck.de
+
+
+@bkun
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
+Alte Münze 16
+ Osnabrück
+
+52.2731726, 8.0457204
+
++49-541/969-4488
+
+info@ub.uni-osnabrueck.de
+
+
+@b-lesesaal1
+Lesesaal 1. OG in der Bereichsbibliothek Philologien / Kulturwissenschaften
+Alte Münze 16
+ Osnabrück
+
+52.2731726, 8.0457204
+
++49-541/969-4348
+
+lesesaal@ub.uni-osnabrueck.de
+
+
+@b-lesesaal2
+Lesesaal 2. OG in der Bereichsbibliothek Philologien / Kulturwissenschaften
+Alte Münze 16
+ Osnabrück
+
+52.2731726, 8.0457204
+
++49-541/969-4329
+
+lesesaal@ub.uni-osnabrueck.de
+
+
+@b-lesesaal3
+Lesesaal 3. OG in der Bereichsbibliothek Philologien / Kulturwissenschaften
+Alte Münze 16
+ Osnabrück
+
+52.2731726, 8.0457204
+
++49-541/969-4330
+
+lesesaal@ub.uni-osnabrueck.de
+
+
+@blit
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
+Alte Münze 16
+ Osnabrück
+
+52.2731726, 8.0457204
+
++49-541/969-4488
+
+info@ub.uni-osnabrueck.de
+
+
+@b-magazin
+Magazin Bibliothek Alte Münze
+Alte Münze 16
+ Osnabrück
+
+52.2731726, 8.0457204
+
++49-541/969-4488
+
+info@ub.uni-osnabrueck.de
+
+
+@b-mediothek
+Mediothek Bibliothek Alte Münze
+Alte Münze 16
+ Osnabrück
+
+52.2731726, 8.0457204
+
++49-541/969-4490
+
+ub-mediothek@ub.uni-osnabrueck.de
+
+
+@bmus
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
+Alte Münze 16
+ Osnabrück
+
+52.2731726, 8.0457204
+
++49-541/969-4488
+
+info@ub.uni-osnabrueck.de
+
+
+@bmwi
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
+Alte Münze 16
+ Osnabrück
+
+52.2731726, 8.0457204
+
++49-541/969-4488
+
+info@ub.uni-osnabrueck.de
+
+
+@bosn
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
+Alte Münze 16
+ Osnabrück
+
+52.2731726, 8.0457204
+
++49-541/969-4488
+
+info@ub.uni-osnabrueck.de
+
+
+@bpae
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
+Alte Münze 16
+ Osnabrück
+
+52.2731726, 8.0457204
+
++49-541/969-4488
+
+info@ub.uni-osnabrueck.de
+
+
+@bphi
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
+Alte Münze 16
+ Osnabrück
+
+52.2731726, 8.0457204
+
++49-541/969-4488
+
+info@ub.uni-osnabrueck.de
+
+
+@bpsy
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
+Alte Münze 16
+ Osnabrück
+
+52.2731726, 8.0457204
+
++49-541/969-4488
+
+info@ub.uni-osnabrueck.de
+
+
+@brel
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
+Alte Münze 16
+ Osnabrück
+
+52.2731726, 8.0457204
+
++49-541/969-4488
+
+info@ub.uni-osnabrueck.de
+
+
+@b-schulbuchsammlung
+Schulbuchsammlung Bibliothek Alte Münze (UG)
+Alte Münze 16
+ Osnabrück
+
+52.2731726, 8.0457204
+
++49-541/969-4876
+
+lesesaal@ub.uni-osnabrueck.de
+
+
+@bspo
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
+Alte Münze 16
+ Osnabrück
+
+52.2731726, 8.0457204
+
++49-541/969-4488
+
+info@ub.uni-osnabrueck.de
+
+
+@bsta
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
+Alte Münze 16
+ Osnabrück
+
+52.2731726, 8.0457204
+
++49-541/969-4488
+
+info@ub.uni-osnabrueck.de
+
+
+@btec
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
+Alte Münze 16
+ Osnabrück
+
+52.2731726, 8.0457204
+
++49-541/969-4488
+
+info@ub.uni-osnabrueck.de
+
+
+@b-testothek
+Testothek Bibliothek Alte Münze
+Alte Münze 16
+ Osnabrück
+
+52.2731726, 8.0457204
+
++49-541/969-4490
+
+lesesaal@ub.uni-osnabrueck.de
+
+
+@b-zimeliensaal
+Zimeliensaal Bibliothek Alte Münze, Altbau
+Alte Münze 16
+ Osnabrück
+
+52.2729018, 8.0454991
+
+info@ub.uni-osnabrueck.de
+
+
+@c-2
+Alte Geschichte und Archäologie
+Schloßstr. 8
+ Osnabrück
+
+52.2700348, 8.0466873
+
++49-541/969-4389
+
+cdiekamp@uni-osnabrueck.de
+
+
+@c-3
+Kartensammlung Geographie
+Seminarstr. 19a/b
+ Osnabrück
+
+52.2715296, 8.0460594
+
++49-541/969-4428
+
+geokarte@uos.de
+
+
+@c-4
+Handbibliothek Geographie
+Seminarstr. 19a/b
+ Osnabrück
+
+52.2715296, 8.0460594
+
++49-541/969-4839
+
+geobibli@uos.de
+
+
+@d
+Dienstexemplare UB
+
+ Osnabrück
+
+52.266837, 8.049741
+
+
+@dl-1
+Diathek Kunstgeschichte
+Katharinenstr. 5
+ Osnabrück
+
+52.2729853, 8.0414467
+
++49-541/969-4595
+
+
+@e-2
+AV-Sammlung Sport
+Jahnstr. 75 (Sportzentrum)
+ Osnabrück
+
+52.2680954, 8.0316413
+
++49-541/969-4297
+
+sekretariat.sport@uni-osnabrueck.de
+
+
+@e-3
+AV-Sammlung Ev. Theologie
+Neuer Graben/Schloss 29
+ Osnabrück
+
+52.2712701, 8.0442156
+
++49-541/969-4244
+
+
+@e-4
+Pädagogik
+Artilleriestr. 34
+ Osnabrück
+
+52.2728106, 8.0409425
+
++49-541/969-3564
+
+nina.keeb@uni-osnabrueck.de
+
+
+@e-5
+Sachunterricht
+Neuer Graben 7-9
+ Osnabrück
+
+52.27215315, 8.04744963322975
+
++49-541/969-4133
+
+eglaeser@uos.de
+
+
+@e-6
+Examensapparat Ev. Theologie
+Neuer Graben/Schloss
+ Osnabrück
+
+52.2712701, 8.0442156
+
++49-541/969-4285
+
+
+@f
+Gleichstellungsbüro
+Neuer Graben 7 / 9
+ Osnabrück
+
+52.27215315, 8.04744963322975
+
++49-541/969-4487
+
+Gleichstellungsbüro@Uni-Osnabrueck.de
+
 
 @g
-Bereichsbibliothek Sozialwissenschaften Geb.5
+Bereichsbibliothek Sozialwissenschaften
 Seminarstraße 33
 49074 Osnabrück
 
-+49-541-9694577
+52.271725, 8.047717
+
++49-541/969-4577
 
 infog@ub.uni-osnabrueck.de
 
-52.271725, 8.047717
 
-Mo-Fr 9:00-21:00
+@gall
+Bereichsbibliothek Sozialwissenschaften
+Seminarstr. 34
+ Osnabrück
+
+52.2712963, 8.0478835
+
++49-541/969-4578
+
+infog@ub.uni-osnabrueck.de
+
+
+@gbbg
+Bereichsbibliothek Sozialwissenschaften
+Seminarstr. 34
+ Osnabrück
+
+52.2712963, 8.0478835
+
++49-541/969-4578
+
+infog@ub.uni-osnabrueck.de
+
+
+@g-freihand-magazin
+Freihand-Magazin der Bereichsbibliothek Sozialwissenschaften
+Große Rosenstr. 20 / Seminarstr. 33
+ Osnabrück
+
+52.2712963, 8.0478835
+
++49-541/969-4577
+
+infog@ub.uni-osnabrueck.de
+
+
+@ghis
+Bereichsbibliothek Sozialwissenschaften
+Seminarstr. 34
+ Osnabrück
+
+52.2712963, 8.0478835
+
++49-541/969-4578
+
+infog@ub.uni-osnabrueck.de
+
+
+@gjzs
+Bereichsbibliothek Sozialwissenschaften
+Seminarstr. 34
+ Osnabrück
+
+52.2712963, 8.0478835
+
++49-541/969-4578
+
+infog@ub.uni-osnabrueck.de
+
+
+@g-lb
+Lehrbuchsammlung der Bereichsbibliothek Sozialwissenschaften
+Große Rosenstr. 20 / Seminarstr. 33
+ Osnabrück
+
+52.2712963, 8.0478835
+
++49-541/969-4577
+
+infog@ub.uni-osnabrueck.de
+
+
+@g-magazin
+Magazin der Bereichsbibliothek Sozialwissenschaften
+Große Rosenstr. 20 / Seminarstr. 33
+ Osnabrück
+
+52.2712963, 8.0478835
+
++49-541/969-4577
+
+infog@ub.uni-osnabrueck.de
+
+
+@g-medienschrank
+Medienschrank der Bereichsbibliothek Sozialwissenschaften
+Große Rosenstr. 20 / Seminarstr. 33
+ Osnabrück
+
+52.2712963, 8.0478835
+
++49-541/969-4577
+
+infog@ub.uni-osnabrueck.de
+
+
+@g-raraschrank
+Bereichsbibliothek Sozialwissenschaften
+Große Rosenstr. 20 / Seminarstr. 33
+ Osnabrück
+
++49-541/969-4577
+
+infog@ub.uni-osnabrueck.de
+
+
+@gsow
+Bereichsbibliothek Sozialwissenschaften
+Seminarstr. 34
+ Osnabrück
+
+52.2712963, 8.0478835
+
++49-541/969-4578
+
+infog@ub.uni-osnabrueck.de
+
+
+@gsta
+Bereichsbibliothek Sozialwissenschaften
+Seminarstr. 34
+ Osnabrück
+
+52.2712963, 8.0478835
+
++49-541/969-4578
+
+infog@ub.uni-osnabrueck.de
+
+
+@gvwl
+Bereichsbibliothek Sozialwissenschaften
+Seminarstr. 34
+ Osnabrück
+
+52.2712963, 8.0478835
+
++49-541/969-4578
+
+infog@ub.uni-osnabrueck.de
+
+
+@islamischegelehrtenbibliothek
+Islamische Gelehrtenbibliothek im Magazin der Bibliothek Alte Münze
+Alte Münze 16
+ Osnabrück
+
+52.2731726, 8.0457204
+
++49-541/969-4488
+
+info@ub.uni-osnabrueck.de
+
 
 @j
-Bereichsbibliothek Rechts- und Wirtschaftswissenschaften Geb.21/22
+Rechtswissenschaften in der Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
 Martinistraße 2-6/ Heger-Tor-Wall 14
 49078 Osnabrück
 
-+49-541-9696209
+52.272677, 8.039954
+
++49-541/969-6209
 
 infojw@ub.uni-osnabrueck.de
 
-52.272677, 8.039954
 
-Mo-Fr 8:00-24:00, Sa 8:00-24:00, So 10:00-24:00
+@j-1
+Handapparat Prof. Dr. Krack
+Heger-Tor-Wall 14
+ Osnabrück
+
+52.2726198, 8.0398727
+
++49-541/969-6136
+
+ls-krack@uos.de
+
+
+@j-10
+Handapparat Prof. Dr. Hartmann
+Martinistr. 8
+ Osnabrück
+
+52.2720551, 8.0386166
+
++49-541/969-6168
+
+ls-hartmann@uos.de
+
+
+@j-11
+Handapparat Prof. Dr. Schmitz
+Heger-Tor-Wall 14
+ Osnabrück
+
+52.2726198, 8.0398727
+
++49-541/969-6136
+
+instwsr@uni-osnabrueck.de
+
+
+@j-12
+Handapparat Prof. Dr. Foerste
+Heger-Tor-Wall 14
+ Osnabrück
+
+52.2726198, 8.0398727
+
++49-541/969-4529
+
+Ufoerste@uni-osnabrueck.de
+
+
+@j-13
+Handapparat Prof. Dr. Sinn
+Heger-Tor-Wall 14
+ Osnabrück
+
+52.2726198, 8.0398727
+
++49-541/969-6133
+
+
+@j-14
+Handapparat Prof. Dr. McGuire
+Katharinenstr. 13-15
+ Osnabrück
+
+52.2728097, 8.0391544
+
++49-541/969-4837
+
+ls-mcguire@uos.de
+
+
+@j-15
+Handapparat Prof. Dr. Fuchs
+Katharinenstr. 13-15
+ Osnabrück
+
+52.2728097, 8.0391544
+
++49-541/969-4538
+
+http://www.fuchs.jura.uni-osnabrueck.de/
+
+
+@j-16
+Handapparat Prof. Dr. Zoll
+Süsterstr. 28
+ Osnabrück
+
+52.2693977, 8.0483092
+
++49-541/969-4492
+
+ls-zoll@uos.de
+
+
+@j-17
+Handapparat Prof. Dr. Groß
+Süsterstr. 28
+ Osnabrück
+
+52.2693977, 8.0483092
+
++49-541/969-4501
+
+elsi.public.law@uos.de
+
+
+@j-18
+Handapparat Prof. Dr. Busch
+Süsterstr. 28
+ Osnabrück
+
+52.2693977, 8.0483092
+
++49-541/969-6056
+
+ls-busch@uos.de
+
+
+@j-19
+Handapparat Prof. Dr. Dörr
+Süsterstr. 28
+ Osnabrück
+
+52.2693977, 8.0483092
+
++49-541/969-6051
+
+LS-Doerr@uos.de
+
+
+@j-2
+Handapparat Prof. Dr. Schulte-Nölke
+Süsterstr. 28
+ Osnabrück
+
+52.2693977, 8.0483092
+
++49-541/969-4822
+
+LS-schulte-noelke@uni-osnabrueck.de
+
+
+@j-20
+Handapparat Prof. Dr. Gesk
+Katharinenstr. 13-15
+ Osnabrück
+
+52.2728097, 8.0391544
+
++49-541/969-6110
+
+ls-gesk@uni-osnabrueck.de
+
+
+@j-3
+Handapparat Prof. Dr. Bieder
+Katharinenstr. 13-15
+ Osnabrück
+
+52.2728097, 8.0391544
+
++49-541/969-6091
+
+
+@j-4
+Handapparat Prof. Dr. von Bar
+Süsterstr. 28
+ Osnabrück
+
+52.2693977, 8.0483092
+
++49-541/969-4462
+
+stefanie.kaemmerer@uni-osnabrueck.de
+
+
+@j-5
+Handapparat Prof. Dr. Lampert
+Martinistr. 8
+ Osnabrück
+
+52.2720947, 8.0391113
+
++49-541/969-6168
+
+instfsr@uos.de
+
+
+@j-6
+Handapparat Prof. Dr. Ipsen
+Martinistr. 12
+ Osnabrück
+
+52.2720551, 8.0386166
+
++49-541/969-6169
+
+instkr@uni-osnabrueck.de
+
+
+@j-7
+Handapparat Prof. Dr. Cancik
+Martinistr. 12
+ 49078 Osnabrück
+
+52.2720551, 8.0386166
+
++49-541/969-6022
+
+LS-Cancik@uni-osnabrueck.de
+
+
+@j-8
+Handapparat Prof. Dr. Leuschner
+Heger-Tor-Wall 14
+ Osnabrück
+
+52.2726198, 8.0398727
+
++49-541/969-4540
+
+heike.hoepke@uos.de
+
+
+@j-9
+Handapparat Prof. Dr. Lampert
+Martinistr. 8
+ Osnabrück
+
+52.2720716, 8.0388458
+
++49-541/969-6168
+
+instfsr@uos.de
+
+
+@jall
+Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Heger-Tor-Wall 14
+ Osnabrück
+
+52.2722885, 8.0397963
+
++49-541/969-6209
+
+infojw@ub.uni-osnabrueck.de
+
+
+@jarb
+Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Heger-Tor-Wall 14
+ Osnabrück
+
+52.2722885, 8.0397963
+
++49-541/969-6209
+
+infojw@ub.uni-osnabrueck.de
+
+
+@j-cip
+CIP-Pool Rechtswissenschaften Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Heger-Tor-Wall 14
+ Osnabrück
+
+52.2722885, 8.0397963
+
++49-541/969-6193
+
+jura-cip@uos.de
+
+
+@j-ed
+Europäisches Dokumentationszentrum in der Bibliothek des European Legal Studies Institute
+Süsterstr. 28
+ Osnabrück
+
+52.2693977, 8.0483092
+
++49-541/969-6228
+
+christoph.neumann@ub.uni-osnabrueck.de
+
+
+@j-eu
+Bibliothek des European Legal Studies Institute
+Süsterstr. 28
+ Osnabrück
+
+52.2693977, 8.0483092
+
++49-541/969-6228
+
+infoelsi@uni-osnabrueck.de
+
+
+@j-euall
+Bibliothek des European Legal Studies Institute
+Süsterstr. 28
+ Osnabrück
+
+52.2693977, 8.0483092
+
++49-541/969-4508
+
+christoph.Neumann@ub.uni-osnabrueck.de
+
+
+@j-eu-medienschrank
+Medienschrank in der Bibliothek des European Legal Studies Institute
+Süsterstr. 28
+ Osnabrück
+
+52.2693977, 8.0483092
+
++49-541/969-6228
+
+christoph.Neumann@ub.uni-osnabrueck.de
+
+
+@j-euoef
+Bibliothek des European Legal Studies Institute
+Süsterstr. 28
+ Osnabrück
+
+52.2693977, 8.0483092
+
++49-541/969-4508
+
+christoph.Neumann@ub.uni-osnabrueck.de
+
+
+@j-eupri
+Bibliothek des European Legal Studies Institute
+Süsterstr. 28
+ Osnabrück
+
+52.2693977, 8.0483092
+
++49-541/969-4508
+
+christoph.Neumann@ub.uni-osnabrueck.de
+
+
+@j-eu-raraschrank
+Raraschrank in der Bibliothek des European Legal Studies Institute
+Süsterstr. 28
+ Osnabrück
+
+52.2693977, 8.0483092
+
++49-541/969-4508
+
+christoph.neumann@ub.uni-osnabrueck.de
+
+
+@j-eurec
+Bibliothek des European Legal Studies Institute
+Süsterstr. 28
+ Osnabrück
+
+52.2693977, 8.0483092
+
++49-541/969-4508
+
+christoph.Neumann@ub.uni-osnabrueck.de
+
+
+@j-eustr
+Bibliothek des European Legal Studies Institute
+
+ Osnabrück
+
+52.2693977, 8.0483092
+
+
+@j-freihand-magazin
+Freihand-Magazin Bibliothek Rechts- und Wirtschaftswissenschaften (UG)
+Heger-Tor-Wall 14
+ Osnabrück
+
+52.2722885, 8.0397963
+
++49-541/969-6209
+
+infojw@ub.uni-osnabrueck.de
+
+
+@j-fs
+Institut für Finanz- und Steuerrecht
+Martinistr. 8-10
+ Osnabrück
+
+52.2720947, 8.0391113
+
++49-541/969-6168
+
+instFSR@uos.de
+
+
+@j-fs-bibliothekschindhelm
+Bibliothek Schindhelm in der Institutsbibliothek Finanz- und Steuerrecht
+Martinistr. 8
+ Osnabrück
+
+52.2720716, 8.0388458
+
++49-541/969-6168
+
+instFSR@uos.de
+
+
+@j-fs-magazin
+Magazin der Institutsbibliothek Finanz- und Steuerrecht
+Heger-Tor-Wall 14
+ Osnabrück
+
+52.2722885, 8.0397963
+
++49-541/969-6100
+
+infojw@ub.uni-osnabrueck.de
+
+
+@j-fs-medienschrank
+Medienschrank im Institut für Finanz- und Steuerrecht
+Martinistr. 10
+ Osnabrück
+
+52.2720716, 8.0388458
+
++49-541/969-6168
+
+instfsr@uni-osnabrueck.de
+
+
+@j-fs-raraschrank
+Raraschrank im Institut für Finanz- und Steuerrecht
+Martinistr. 10
+ Osnabrück
+
+52.2722885, 8.0397963
+
++49-541/969-6100
+
+infojw@ub.uni-osnabrueck.de
+
+
+@j-ic
+Ius-Commune-Bibliothek
+Heger-Tor-Wall 14
+ Osnabrück
+
+52.2722885, 8.0397963
+
++49-541/969-6106
+
+friederike.dauer@ub.uni-osnabrueck.de
+
+
+@j-kr
+Institut für Kommunalrecht
+Martinistr. 12
+ Osnabrück
+
+52.2720551, 8.0386166
+
++49-541/969-6099
+
+instkr@uni-osnabrueck.de
+
+
+@j-kr-raraschrank
+Raraschrank im Institut für Kommunalrecht
+Martinistr. 12
+ Osnabrück
+
+52.2720551, 8.0386166
+
++49-541/969-6169
+
+instkr@uni-osnabrueck.de
+
+
+@j-lb
+Lehrbuchsammlung Rechtswissenschaften in der Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Heger-Tor-Wall 14
+ Osnabrück
+
+52.2722885, 8.0397963
+
++49-541/969-6100
+
+infojw@ub.uni-osnabrueck.de
+
+
+@j-magazin
+Magazin Rechtswissenschaften in der Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Heger-Tor-Wall 14
+ Osnabrück
+
+52.2722885, 8.0397963
+
++49-541/969-6100
+
+infojw@ub.uni-osnabrueck.de
+
+
+@j-medienschrank
+Medienschrank der Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Heger-Tor-Wall 14
+ Osnabrück
+
+52.2722885, 8.0397963
+
++49-541/969-6100
+
+infojw@ub.uni-osnabrueck.de
+
+
+@jmuk
+Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Heger-Tor-Wall 14
+ Osnabrück
+
+52.2722885, 8.0397963
+
++49-541/969-6209
+
+infojw@ub.uni-osnabrueck.de
+
+
+@joef
+Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Heger-Tor-Wall 14
+ Osnabrück
+
+52.2722885, 8.0397963
+
++49-541/969-6209
+
+infojw@ub.uni-osnabrueck.de
+
+
+@jpri
+Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Heger-Tor-Wall 14
+ Osnabrück
+
+52.2722885, 8.0397963
+
++49-541/969-6209
+
+infojw@ub.uni-osnabrueck.de
+
+
+@j-raraschrank
+Raraschränke der Rechtswissenschaften in der Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Heger-Tor-Wall 14
+ Osnabrück
+
+52.2726198, 8.0398727
+
++49-541/969-6100
+
+infojw@ub.uni-osnabrueck.de
+
+
+@jrec
+Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Heger-Tor-Wall 14
+ Osnabrück
+
+52.2722885, 8.0397963
+
++49-541/969-6209
+
+infojw@ub.uni-osnabrueck.de
+
+
+@jsoz
+Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Heger-Tor-Wall 14
+ Osnabrück
+
++49-541/969-6209
+
+infojw@ub.uni-osnabrueck.de
+
+
+@jstr
+Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Heger-Tor-Wall 14
+ Osnabrück
+
+52.2722885, 8.0397963
+
++49-541/969-6209
+
+infojw@ub.uni-osnabrueck.de
+
+
+@jumw
+Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Heger-Tor-Wall 14
+ Osnabrück
+
+52.2722885, 8.0397963
+
++49-541/969-6209
+
+infojw@ub.uni-osnabrueck.de
+
+
+@jvoe
+Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Heger-Tor-Wall 14
+ Osnabrück
+
+52.2722885, 8.0397963
+
++49-541/969-6209
+
+infojw@ub.uni-osnabrueck.de
+
+
+@j-vr
+Institut für Verfahrensrecht
+Heger-Tor-Wall 14
+ Osnabrück
+
+52.2726198, 8.0398727
+
++49-541/969-4529
+
+ufoerste@uos.de
+
+
+@j-vr-raraschrank
+Raraschrank im Institut für Verfahrensrecht
+Heger-Tor-Wall 14
+ Osnabrück
+
+52.2726198, 8.0398727
+
++49-541/969-4529
+
+monika.giordano@uos.de
+
+
+@j-wr
+Institut für Unternehmens- und Wirtschaftsrecht
+Katharinenstr. 13-15
+ Osnabrück
+
+52.2728097, 8.0391544
+
++49-541 / 969-6091
+
+ls-bieder@uos.de
+
+
+@j-ws
+Institut für Wirtschaftsstrafrecht
+Heger-Tor-Wall 14
+ Osnabrück
+
+52.2726198, 8.0398727
+
++49-541/969-4665
+
+instwsr@uni-osnabrueck.de
+
+
+@konrad-liebmann-stiftung
+Ausstellungsbestand Konrad-Liebmann-Stiftung
+Alte Münze 14/16
+ Osnabrück
+
+52.2729018, 8.0454991
+
++49-541/969-4488
+
+info@ub.uni-osnabrueck.de
+
+
+@l
+Apparat Biologie
+Barbarastr. 11
+ Osnabrück
+
+52.28249, 8.0226021
+
++49-541/969-3511
+
+florian.fiebelkorn@biologie.uni-osnabrueck.de
+
+
+@l-6
+Botanischer Garten
+Albrechtstr. 29
+ 49076  Osnabrück
+
+52.28210045, 8.02729061045611
+
++49-541/969-2739
+
+bg-buero@biologie.uni-osnabrueck.de
+
+
+@l-8
+Chemie
+Barbarastr. 7
+ Osnabrück
+
+52.2846307, 8.0243862
+
++49-541/969-2778
+
+Hans.Reuter@uos.de
+
+
+@m-1
+FB Physik: Elekronikwerkstatt
+Barbarastr. 7
+ Osnabrück
+
+52.2847053, 8.025104
+
++49-541/969-2615
+
+hans-dieter.sobieralski@uni-osnabrueck.de
+
+
+@m-10
+Nanowissenschaften
+Barbarastr. 7
+ Osnabrück
+
+52.2847053, 8.025104
+
++49-541/969-3460
+
+sosmanovic@uos.de
+
+
+@m-11
+Stochastische Prozesse und Anwendungen
+Albrechtstr. 28a
+ Osnabrück
+
+52.2842206, 8.0259672
+
++49-541/969-2562
+
+jones@mathematik.Uni-Osnabrueck.de
+
+
+@m-12
+Handapparat Angewandte Analysis
+Albrechtstraße 28a
+ Osnabrück
+
+52.2842206, 8.0259672
+
++49-541/969-2562
+
+sjones@uni-osnabrueck.de
+
+
+@m-2
+Handbibliothek  Physik
+Barbarastr. 7
+ Osnabrück
+
+52.2847053, 8.025104
+
++49-541/969-2692
+
+
+@m-4
+Handbibliothek Labor mit Schulversuchen
+Barbarastr. 7
+ Osnabrück
+
+52.2847053, 8.025104
+
++49-541/969-2616
+
+jwoellermann@uni-osnabrueck.de
+
+
+@m-5
+Informatik
+Wachsbleiche 27
+ Osnabrück
+
+52.2852077, 8.036889
+
++49-541/969-2480
+
+sekretariat@informatik.uni-osnabrueck.de
+
+
+@m-6
+FB Physik: Feinmechanische Werkstatt
+Barbarastr. 7
+ Osnabrück
+
+52.2847053, 8.025104
+
++49-541/969-2603
+
+uwe.klink@uni-osnabrueck.de
+
+
+@m-7
+Algebraische Topologie
+Albrechtstr. 28a
+ Osnabrück
+
+52.2842206, 8.0259672
+
++49-541/969-2564
+
+marianne@mathematik.Uni-Osnabrueck.de
+
+
+@m-8
+Angewandte Systemwissenschaft
+Barbarastr. 12
+ Osnabrück
+
+52.2829951, 8.0230169
+
++49-541/969-2499
+
+malchow@Uni-osnabrueck.de
+
+
+@m-9
+Handapparat AG Mathematikdidaktik
+Albrechtstr. 28a
+ 49076 Osnabrück
+
+52.2842206, 8.0259672
+
++49-541/969-2519
+
+m9@uni-osnabrueck.de
+
 
 @n
-Bereichsbibliothek Naturwissenschaften/Mathematik Geb.96 
+Bereichsbibliothek Naturwissenschaften / Mathematik
 Nelson-Mandela-Platz 1
 49076 Osnabrück
 
-+49-541-9692543
+52.286090, 8.022946
+
++49-541/969-2544
 
 infon@ub.uni-osnabrueck.de
 
-52.286090, 8.022946
 
-Mo-Fr 9:00-20:00
+@nagr
+Bereichsbibliothek Naturwissenschaften / Mathematik
+Nelson-Mandela-Platz 1
+ Osnabrück
 
-@elsi
-Forschungsbibliothek des ELSI
-Süsterstraße 28
-49074 Osnabrück
+52.2859949, 8.0237713
 
-+49-541-9696228
++49-541/969-2544
 
-infoelsi@ub.uni-osnabrueck.de
+infon@ub.uni-osnabrueck.de
 
-52.269336, 8.047916
 
-Mo-Fr 9:00-20:00
+@nbio
+Bereichsbibliothek Naturwissenschaften / Mathematik
+Nelson-Mandela-Platz 1
+ Osnabrück
+
+52.2859949, 8.0237713
+
++49-541/969-2544
+
+infon@ub.uni-osnabrueck.de
+
+
+@nche
+Bereichsbibliothek Naturwissenschaften / Mathematik
+Nelson-Mandela-Platz 1
+ Osnabrück
+
+52.2859949, 8.0237713
+
++49-541/969-2544
+
+infon@ub.uni-osnabrueck.de
+
+
+@nclk
+Bereichsbibliothek Naturwissenschaften / Mathematik
+Nelson-Mandela-Platz 1
+ Osnabrück
+
+52.2859949, 8.0237713
+
++49-541/969-2544
+
+infon@ub.uni-osnabrueck.de
+
+
+@ncsc
+Bereichsbibliothek Naturwissenschaften / Mathematik
+Nelson-Mandela-Platz 1
+ Osnabrück
+
+52.2859949, 8.0237713
+
++49-541/969-2544
+
+infon@ub.uni-osnabrueck.de
+
+
+@ngeo
+Bereichsbibliothek Naturwissenschaften / Mathematik
+Nelson-Mandela-Platz 1
+ Osnabrück
+
+52.2859949, 8.0237713
+
++49-541/969-2544
+
+infon@ub.uni-osnabrueck.de
+
+
+@n-hochschulschriften-magazin
+Hochschulschriften-Magazin der Bereichsbibliothek Naturwissenschaften / Mathematik
+Nelson-Mandela-Platz 1
+ Osnabrück
+
+52.2859949, 8.0237713
+
++49-541/969-2543
+
+infon@ub.uni-osnabrueck.de
+
+
+@ninf
+Bereichsbibliothek Naturwissenschaften / Mathematik
+Nelson-Mandela-Platz 1
+ Osnabrück
+
+52.2859949, 8.0237713
+
++49-541/969-2544
+
+infon@ub.uni-osnabrueck.de
+
+
+@ning
+Bereichsbibliothek Naturwissenschaften / Mathematik
+Nelson-Mandela-Platz 1
+ Osnabrück
+
+52.2859949, 8.0237713
+
++49-541/969-2544
+
+infon@ub.uni-osnabrueck.de
+
+
+@n-lb
+Lehrbuchsammlung der Bereichsbibliothek Naturwissenschaften / Mathematik
+Nelson-Mandela-Platz 1
+ Osnabrück
+
+52.2859949, 8.0237713
+
++49-541/969-2544
+
+infon@ub.uni-osnabrueck.de
+
+
+@n-magazin
+Magazin in der Bereichsbibliothek Naturwissenschaften / Mathematik
+Nelson-Mandela-Platz 1
+ Osnabrück
+
+52.2859949, 8.0237713
+
++49-541/969-2543
+
+infon@ub.uni-osnabrueck.de
+
+
+@nmat
+Bereichsbibliothek Naturwissenschaften / Mathematik
+Nelson-Mandela-Platz 1
+ Osnabrück
+
+52.2859949, 8.0237713
+
++49-541/969-2544
+
+infon@ub.uni-osnabrueck.de
+
+
+@nmed
+Bereichsbibliothek Naturwissenschaften / Mathematik
+Nelson-Mandela-Platz 1
+ Osnabrück
+
+52.2859949, 8.0237713
+
++49-541/969-2544
+
+infon@ub.uni-osnabrueck.de
+
+
+@n-medienschrank
+Medienschrank in der Bereichsbibliothek Naturwissenschaften / Mathematik
+Nelson-Mandela-Platz 1
+ Osnabrück
+
+52.2859949, 8.0237713
+
++49-541/969-2543
+
+infon@ub.uni-osnabrueck.de
+
+
+@nnat
+Bereichsbibliothek Naturwissenschaften / Mathematik
+Nelson-Mandela-Platz 1
+ Osnabrück
+
+52.2859949, 8.0237713
+
++49-541/969-2544
+
+infon@ub.uni-osnabrueck.de
+
+
+@npae
+Bereichsbibliothek Naturwissenschaften / Mathematik
+Nelson-Mandela-Platz 1
+ Osnabrück
+
+52.2859949, 8.0237713
+
++49-541/969-2544
+
+infon@ub.uni-osnabrueck.de
+
+
+@nphy
+Bereichsbibliothek Naturwissenschaften / Mathematik
+Nelson-Mandela-Platz 1
+ Osnabrück
+
+52.2859949, 8.0237713
+
++49-541/969-2544
+
+infon@ub.uni-osnabrueck.de
+
+
+@npsy
+Bereichsbibliothek Naturwissenschaften / Mathematik
+Nelson-Mandela-Platz 1
+ Osnabrück
+
+52.2859949, 8.0237713
+
++49-541/969-2544
+
+infon@ub.uni-osnabrueck.de
+
+
+@nvwl
+Bereichsbibliothek Naturwissenschaften / Mathematik
+Nelson-Mandela-Platz 1
+ Osnabrück
+
+52.2859949, 8.0237713
+
++49-541/969-2544
+
+infon@ub.uni-osnabrueck.de
+
+
+@p-3
+Kunstdrucke
+Seminarstr. 33
+ Osnabrück
+
+52.2712963, 8.0478835
+
+N.N. 0541/969-4928 oder apl. Prof. Rohrmann -4375
+
+thomas.rohrmann@uos.de
+
+
+@p-6
+Mediothek Musik: Tonträger, Medien
+Neuer Graben / Schloss
+ Osnabrück
+
+52.2712701, 8.0442156
+
+Mediothek 0541 /969-4954
+
+mediothek.musik@uos.de
+
+
+@p-7
+Mediothek Musik: Partituren
+Neuer Graben / Schloss
+ Osnabrück
+
+52.2712701, 8.0442156
+
+Mediothek 0541/969-4954
+
+mediothek.musik@uos.de
+
+
+@q-1
+Gesundheitswissenschaften
+Barbarastr. 22c
+ Osnabrück
+
+52.2851493, 8.0207256
+
++49-541/969-2559
+
+msisic@uni-osnabrueck.de
+
+
+@q-2
+Dermatologie, Umweltmedizin und Gesundheitstheorie
+Am Finkenhügel 7A
+ Osnabrück
+
+52.2797001, 8.003635
+
++49-541/969-2357
+
+johnderm@uos.de
+
+
+@s-1
+Mediothek des Fachbereichs Sprach- und Literaturwissenschaft
+Neuer Graben 40
+ Osnabrück
+
+52.2722754, 8.0422477
+
++49-541/969-4158
+
+Peter.Nowotny@uni-osnabrueck.de
+
+
+@s-4
+Bibliothek des Interdisziplinären Instituts für Kulturgeschichte der Frühen Neuzeit (IKFN)
+Neuer Graben 19/21, Altes Haus der Landwirtschaft, Eingang Erdgeschoss
+ Osnabrück
+
+52.2716854, 8.0460977
+
++49-541/969-4776
+
+bmrohs@uos.de
+
+
+@s-6
+Erich Maria Remarque-Archiv / Forschungsstelle Krieg und Literatur
+Markt 6
+ Osnabrück
+
+52.2773496, 8.0419884
+
++49-541/969-2430
+
+remarque-zentrum@uni-osnabrueck.de
+
+
+@u-1
+AV-Sammlung Katholische Theologie
+Schloßstr. 4
+ Osnabrück
+
+52.270224, 8.0470196
+
+
+@u-3
+DFG-Projekt Pentateuch / Judaistik
+Schloßstr. 4
+ Osnabrück
+
+52.270224, 8.0470196
+
++49-541/969-4203
+
+Georg.Steins@uni-osnabrueck.de
+
+
+@u-4
+Studienapparat Eder
+Schloßstr. 4
+ Osnabrück
+
+52.270224, 8.0470196
+
++49-541/969-4290
+
+Manfred.Eder@uni-osnabrueck.de
+
+
+@v
+Universitätsverwaltung
+Neuer Graben 29 (Schloß, Westflügel)
+ Osnabrück
+
+52.2716272, 8.043592
+
+
+@w
+Wirtschaftswissenschaften in der Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Heger-Tor-Wall 14
+ Osnabrück
+
+52.2722885, 8.0397963
+
++49-541/969-6209
+
+infojw@ub.uni-osnabrueck.de
+
+
+@w-1
+Handapparat Prof. Dr. Thomas
+Parkstraße 40
+ Osnabrück
+
+52.27299, 8.0420065
+
++49-541/969-4810
+
+alexandra.konert@uni-osnabrueck.de
+
+
+@w-10
+Handapparat Prof. Dr. Wosnitza
+Rolandstr. 8
+ Osnabrück
+
+52.2740703, 8.0372415
+
++49-541/969-2760
+
+karnke@uni-osnabrueck.de
+
+
+@w-11
+Handapparat Prof. Dr. Braulke
+Rolandstr. 8
+ Osnabrück
+
+52.2740703, 8.0372415
+
++49-541/969-2741
+
+Braulke@uni-osnabrueck.de
+
+
+@w-12
+Handapparat Prof. Dr. Grundke
+Katharinenstr. 7
+ Osnabrück
+
+52.27295635, 8.04115981715049
+
++49-541/969-4721
+
+sekretariat.buf@uni-osnabrueck.de
+
+
+@w-13
+Handapparat Prof. Dr. Knüppel
+Rolandstr. 8
+ Osnabrück
+
+52.2740703, 8.0372415
+
++49-541/969-2505
+
+wibke.meyer.zu.westerhausen@uni-osnabrueck.de
+
+
+@w-14
+Handapparat Prof. Dr. Rieger
+Katharinenstr. 3
+ Osnabrück
+
+52.27299, 8.0420065
+
++49-541/969-4825
+
+jstelter@uos.de
+
+
+@w-15
+Handapparat  Prof. Dr. Scholze
+Rolandstr. 8
+ Osnabrück
+
+52.2740703, 8.0372415
+
++49-541/969-2703
+
+angkuehn@uni-osnabrueck.de
+
+
+@w-16
+Handapparat  Prof. Dr. Teuteberg
+Katharinenstr. 1
+ Osnabrück
+
+52.27299, 8.0420065
+
++49-541/969-4523
+
+marita.imhorst@uos.de
+
+
+@w-18
+Handapparat Prof. Dr. Gillenkirch
+Rolandstrasse 8
+ 49078 Osnabrück
+
+52.2740703, 8.0372415
+
++49-541/969-2731
+
+monika.schramm@uni-osnabrueck.de
+
+
+@w-19
+Handapparat Prof. Dr. Hausberg
+Rolandstr. 8
+ Osnabrück
+
+52.2740703, 8.0372415
+
++49-541/969-2750
+
+piet.hausberg@uni-osnabrueck.de
+
+
+@w-2
+Handapparat Prof. Dr. Baumgartner
+Rolandstr. 8
+ Osnabrück
+
+52.2740703, 8.0372415
+
++49-541/969-3907
+
+mechthild.brunzel@uos.de
+
+
+@w-20
+Handapparat Prof. Dr. Müller
+Rolandstr. 8
+ Osnabrück
+
++49-541/969-2758
+
+marion.rahimy@uni-osnabrueck.de
+
+
+@w-3
+Handapparat Prof. Dr. Hoppe
+Katharinenstr. 1
+ Osnabrück
+
+52.27299, 8.0420065
+
++49-541/969-4963
+
+ursula.wiesner@uni-osnabrueck.de
+
+
+@w-4
+Handapparat Prof. Dr. Ossadnik
+Rolandstr. 8
+ Osnabrück
+
+52.2740703, 8.0372415
+
++49-541/969-2721
+
+fabian.burrey@uni-osnabrueck.de
+
+
+@w-5
+Handapparat Prof. Humphrey, Ph. D.
+Rolandstr. 8
+ Osnabrück
+
+52.2740703, 8.0372415
+
++49-541/969-2726
+
+kira.dellert@uni-osnabrueck.de
+
+
+@w-6
+Handapparat Prof. Dr. Dinger
+Rolandstr. 8
+ Osnabrück
+
+52.2740703, 8.0372415
+
++49-541/969-2768
+
+angela.kuehn@uni-osnabrueck.de
+
+
+@w-7
+Handapparat Prof. Dr. Westermann
+Rolandstr. 8
+ Osnabrück
+
+52.2740703, 8.0372415
+
++49-541/969-2632
+
+karin.wessler-rensmann@uni-osnabrueck.de
+
+
+@w-8
+Handapparat Prof. Dr. Gaube
+Rolandstr. 8
+ Osnabrück
+
+52.2740703, 8.0372415
+
++49-541/969-2742
+
+ sekretariat.fiwi@uni-osnabrueck.de
+
+
+@w-9
+Handapparat Prof. Dr. Wilde
+Rolandstr. 8
+ Osnabrück
+
+52.2740703, 8.0372415
+
++49-541/969-2745
+
+mechtild.brunzel@uni-osnabrueck.de
+
+
+@wbwl
+Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Heger-Tor-Wall 14
+ Osnabrück
+
+52.2722885, 8.0397963
+
++49-541/969-6209
+
+infojw@ub.uni-osnabrueck.de
+
+
+@w-lb
+Lehrbuchsammlung Wirtschaftswissenschaften in der Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Heger-Tor-Wall 14
+ Osnabrück
+
+52.2722885, 8.0397963
+
++49-541/969-6209
+
+infojw@ub.uni-osnabrueck.de
+
+
+@w-magazin
+Magazin Wirtschaftswissenschaften in der Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Heger-Tor-Wall
+ Osnabrück
+
+52.2722885, 8.0397963
+
++49-541/969-6100
+
+infojw@ub.uni-osnabrueck.de
+
+
+@w-medienschrank
+Medienschrank der Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Heger-Tor-Wall 14
+ Osnabrück
+
+52.2722885, 8.0397963
+
++49-541/969-6100
+
+infojw@ub.uni-osnabrueck.de
+
+
+@wvwl
+Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Heger-Tor-Wall 14
+ Osnabrück
+
+52.2722885, 8.0397963
+
++49-541/969-6209
+
+infojw@ub.uni-osnabrueck.de
+
+
+@x
+VirtUOS Zentrum für Informationsmanagement und virtuelle Lehre
+Heger-Tor-Wall 12
+ Osnabrück
+
+52.2724861, 8.04108275545508
+
++49-541/969-6513
+
+noesting@uni-osnabrueck.de
+
+
+@y
+Zentrale Studienberatungsstelle (ZSB), StudiOS
+Neuer Graben 27
+ Osnabrück
+
+52.2715195, 8.0452872
+
++49-541/969-4999
+
+info@zsb-os.de
+
+
+@z
+Zentrum für Lehrerbildung (ZLB)
+Neuer Graben 7-9
+ Osnabrück
+
+52.27215315, 8.04744963322975
+
++49-541/969-4227
+
+Elke.Umlauf@uni-osnabrueck.de
+
+
