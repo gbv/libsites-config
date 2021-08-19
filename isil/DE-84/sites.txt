@@ -269,6 +269,15 @@ Publikationen, die an diesem Ort gelagert sind, können bestellt werden. Bestell
 
 52.274011,10.529346
 
+@mag10
+Universitätsbibliothek - Ausweichmagazin
+Universitätsplatz 1
+38106 Braunschweig
+
++49 531 391 5018
+
+52.274011,10.529346
+
 @pda
 Universitätsbibliothek - Nutzungsgesteuerte Erwerbung (PDA)
 Universitätsplatz 1
