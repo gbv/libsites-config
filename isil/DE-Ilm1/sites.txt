@@ -13,21 +13,6 @@ auskunft.ub@tu-ilmenau.de
 Mo-Fr 8:00-20:00, Sa 9:00-17:00
 
 
-@curie
-Curiebibliothek
-Weimarer Str. 25 
-98693 Ilmenau
-
-+49 3677 69 32 82
-
-curie.ub@tu-ilmenau.de
-
-50.68857, 10.91961
-
-Mo, Di, Do: 12:00-16:00
-Mi, Fr: 09:00-13:00
-
-
 @mag
 Magazin
 Diese Bestände sind nicht frei zugänglich. Bitte lösen Sie eine Magazinbestellung aus.
