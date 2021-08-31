@@ -3,31 +3,25 @@ Hochschulbibliothek Neubrandenburg
 +49 395 5693-1510
 
 @hinweise
-HSB Neubrandenburg
-https://www.hs-nb.de/bibliothek/hauptmenue/informieren/nutzungshinweise/ausleihe-bibliotheksbenutzung/
-+49 395 5693-1510
+Hochschulbibliothek Neubrandenburg
+https://www.hs-nb.de/bibliothek/
+53.55561, 13.24780
 +49 395 5693-1510
 hsb@hs-nb.de
-hsb@hs-nb.de
-Mo 09:00 - 19:00
-Di 09:00 - 19:00
-Mi 09:00 - 19:00
-Do 09:00 - 19:00
-Fr 09:00 - 19:00
-Sa 10:00 - 16:00
-Hinweis: 
+Hinweis: Bitte beachten Sie unsere aktuellen Öffnungs- und Servicezeiten.
 
-@standorte
-HSB Neubrandenburg
+@lochsbbest
+Hochschulbibliothek Neubrandenburg
 https://www.hs-nb.de/bibliothek/hauptmenue/informieren/nutzungshinweise/ausleihe-bibliotheksbenutzung/standortbezeichnungen/
-+49 395 5693-1510
+53.55553, 13.24774
 +49 395 5693-1510
 hsb@hs-nb.de
+Hinweis: Bitte beachten Sie unsere aktuellen Öffnungs- und Servicezeiten.
+
+@lochsb
+Hochschulbibliothek Neubrandenburg
+https://www.hs-nb.de/bibliothek/
+53.55553, 13.24774
++49 395 5693-1510
 hsb@hs-nb.de
-Mo 09:00 - 19:00
-Di 09:00 - 19:00
-Mi 09:00 - 19:00
-Do 09:00 - 19:00
-Fr 09:00 - 19:00
-Sa 10:00 - 16:00
-Hinweis: 
+Hinweis: Bitte beachten Sie unsere aktuellen Öffnungs- und Servicezeiten.
