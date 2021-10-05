@@ -11,7 +11,7 @@ http://www.ub.uni-osnabrueck.de/
 
 
 @b
-Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften (= B)
 Alte Münze 16
 49074 Osnabrück
 
@@ -23,7 +23,7 @@ info@ub.uni-osnabrueck.de
 
 
 @ball
-Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften (= B all)
 Alte Münze 16
  Osnabrück
 
@@ -35,7 +35,7 @@ info@ub.uni-osnabrueck.de
 
 
 @bbub
-Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften (= B bub)
 Alte Münze 16
  Osnabrück
 
@@ -47,7 +47,7 @@ info@ub.uni-osnabrueck.de
 
 
 @bclk
-Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften (= B clk)
 Alte Münze 16
  Osnabrück
 
@@ -59,7 +59,7 @@ info@ub.uni-osnabrueck.de
 
 
 @bcsc
-Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften (= B csc)
 Alte Münze 16
  Osnabrück
 
@@ -71,7 +71,7 @@ info@ub.uni-osnabrueck.de
 
 
 @bfem
-Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften (= B fem)
 Alte Münze 16
  Osnabrück
 
@@ -83,7 +83,7 @@ info@ub.uni-osnabrueck.de
 
 
 @bfreihandmagazin
-Freihand-Magazin Bibliothek Alte Münze (UG)
+Freihand-Magazin Bibliothek Alte Münze (UG) (= B-Freihand-Magazin)
 Alte Münze 16
  Osnabrück
 
@@ -95,7 +95,7 @@ info@ub.uni-osnabrueck.de
 
 
 @bgeo
-Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften (= B geo)
 Alte Münze 16
  Osnabrück
 
@@ -107,7 +107,7 @@ info@ub.uni-osnabrueck.de
 
 
 @bhis
-Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften (= B his)
 Alte Münze 16
  Osnabrück
 
@@ -119,7 +119,7 @@ info@ub.uni-osnabrueck.de
 
 
 @bhwd
-Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften (= B hwd)
 Alte Münze 16
  Osnabrück
 
@@ -131,7 +131,7 @@ info@ub.uni-osnabrueck.de
 
 
 @bibliothekrengstorf
-Nachlass Rengstorf im Magazin der Bibliothek Alte Münze
+Nachlass Rengstorf im Magazin der Bibliothek Alte Münze (= Bibliothek Rengstorf)
 Alte Münze 16
  Osnabrück
 
@@ -143,7 +143,7 @@ info@ub.uni-osnabrueck.de
 
 
 @bibliothekwittler
-Nachlass Wittler im Magazin der Bibliothek Alte Münze
+Nachlass Wittler im Magazin der Bibliothek Alte Münze (= Bibliothek Wittler)
 Alte Münze 16
  Osnabrück
 
@@ -155,7 +155,7 @@ info@ub.uni-osnabrueck.de
 
 
 @bigbreferenzwerke
-Referenzwerke der Islamischen Gelehrtenbibliothek in der Bibliothek Alte Münze (2. OG)
+Referenzwerke der Islamischen Gelehrtenbibliothek in der Bibliothek Alte Münze (2. OG) (= B-IGB-Referenzwerke)
 Alte Münze 16
  Osnabrück
 
@@ -165,7 +165,7 @@ info@ub.uni-osnabrueck.de
 
 
 @bikfn
-Bibliothek des Interdisziplinären Instituts für Kulturgeschichte der Frühen Neuzeit (IKFN)
+Bibliothek des Interdisziplinären Instituts für Kulturgeschichte der Frühen Neuzeit (IKFN) (= B-IKFN)
 Alte Münze 16 / Kamp
  Osnabrück
 
@@ -175,7 +175,7 @@ beate.mrohs@uni-osnabrueck.de
 
 
 @bikfnaltdrucke
-Altdrucke der Bibliothek des Interdisziplinären Instituts für Kulturgeschichte der Frühen Neuzeit (IKFN)
+Altdrucke der Bibliothek des Interdisziplinären Instituts für Kulturgeschichte der Frühen Neuzeit (IKFN) (= B-IKFN-Altdrucke)
 Alte Münze 16 / Kamp
  Osnabrück
 
@@ -185,7 +185,7 @@ beate.mrohs@uni-osnabrueck.de
 
 
 @bimis
-Bibliothek des Instituts für Migrationsforschung und Interkulturelle Studien (IMIS)
+Bibliothek des Instituts für Migrationsforschung und Interkulturelle Studien (IMIS) (= B-IMIS)
 Alte Münze 16 / Kamp
  Osnabrück
 
@@ -195,7 +195,7 @@ beate.mrohs@uni-osnabrueck.de
 
 
 @bkartenschrank
-Kartensammlung Bibliothek Alte Münze (3.OG)
+Kartensammlung Bibliothek Alte Münze (3.OG) (= B-Kartenschrank)
 Alte Münze 16
  Osnabrück
 
@@ -207,7 +207,7 @@ lesesaal@ub.uni-osnabrueck.de
 
 
 @bkun
-Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften (= B kun)
 Alte Münze 16
  Osnabrück
 
@@ -219,7 +219,7 @@ info@ub.uni-osnabrueck.de
 
 
 @blesesaal1
-Lesesaal 1. OG in der Bereichsbibliothek Philologien / Kulturwissenschaften
+Lesesaal 1. OG in der Bereichsbibliothek Philologien / Kulturwissenschaften (= B-Lesesaal 1)
 Alte Münze 16
  Osnabrück
 
@@ -231,7 +231,7 @@ lesesaal@ub.uni-osnabrueck.de
 
 
 @blesesaal2
-Lesesaal 2. OG in der Bereichsbibliothek Philologien / Kulturwissenschaften
+Lesesaal 2. OG in der Bereichsbibliothek Philologien / Kulturwissenschaften (= B-Lesesaal 2)
 Alte Münze 16
  Osnabrück
 
@@ -243,7 +243,7 @@ lesesaal@ub.uni-osnabrueck.de
 
 
 @blesesaal3
-Lesesaal 3. OG in der Bereichsbibliothek Philologien / Kulturwissenschaften
+Lesesaal 3. OG in der Bereichsbibliothek Philologien / Kulturwissenschaften (= B-Lesesaal 3)
 Alte Münze 16
  Osnabrück
 
@@ -255,7 +255,7 @@ lesesaal@ub.uni-osnabrueck.de
 
 
 @blit
-Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften (= B lit)
 Alte Münze 16
  Osnabrück
 
@@ -267,7 +267,7 @@ info@ub.uni-osnabrueck.de
 
 
 @bmagazin
-Magazin Bibliothek Alte Münze
+Magazin Bibliothek Alte Münze (= B-Magazin)
 Alte Münze 16
  Osnabrück
 
@@ -279,7 +279,7 @@ info@ub.uni-osnabrueck.de
 
 
 @bmediothek
-Mediothek Bibliothek Alte Münze
+Mediothek Bibliothek Alte Münze (= B-Mediothek)
 Alte Münze 16
  Osnabrück
 
@@ -291,7 +291,7 @@ ub-mediothek@ub.uni-osnabrueck.de
 
 
 @bmus
-Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften (= B mus)
 Alte Münze 16
  Osnabrück
 
@@ -303,7 +303,7 @@ info@ub.uni-osnabrueck.de
 
 
 @bmwi
-Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften (= B mwi)
 Alte Münze 16
  Osnabrück
 
@@ -315,7 +315,7 @@ info@ub.uni-osnabrueck.de
 
 
 @bosn
-Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften (= B osn)
 Alte Münze 16
  Osnabrück
 
@@ -327,7 +327,7 @@ info@ub.uni-osnabrueck.de
 
 
 @bpae
-Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften (= B pae)
 Alte Münze 16
  Osnabrück
 
@@ -339,7 +339,7 @@ info@ub.uni-osnabrueck.de
 
 
 @bphi
-Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften (= B phi)
 Alte Münze 16
  Osnabrück
 
@@ -351,7 +351,7 @@ info@ub.uni-osnabrueck.de
 
 
 @bpsy
-Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften (= B psy)
 Alte Münze 16
  Osnabrück
 
@@ -363,7 +363,7 @@ info@ub.uni-osnabrueck.de
 
 
 @brel
-Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften (= B rel)
 Alte Münze 16
  Osnabrück
 
@@ -375,7 +375,7 @@ info@ub.uni-osnabrueck.de
 
 
 @bschulbuchsammlung
-Schulbuchsammlung Bibliothek Alte Münze (UG)
+Schulbuchsammlung Bibliothek Alte Münze (UG) (= B-Schulbuchsammlung)
 Alte Münze 16
  Osnabrück
 
@@ -387,7 +387,7 @@ lesesaal@ub.uni-osnabrueck.de
 
 
 @bspo
-Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften (= B spo)
 Alte Münze 16
  Osnabrück
 
@@ -399,7 +399,7 @@ info@ub.uni-osnabrueck.de
 
 
 @bsta
-Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften (= B sta)
 Alte Münze 16
  Osnabrück
 
@@ -411,7 +411,7 @@ info@ub.uni-osnabrueck.de
 
 
 @btec
-Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften
+Bibliothek Alte Münze, Bereichsbibliothek Philologien / Kulturwissenschaften (= B tec)
 Alte Münze 16
  Osnabrück
 
@@ -423,7 +423,7 @@ info@ub.uni-osnabrueck.de
 
 
 @btestothek
-Testothek Bibliothek Alte Münze
+Testothek Bibliothek Alte Münze (= B-Testothek)
 Alte Münze 16
  Osnabrück
 
@@ -435,7 +435,7 @@ lesesaal@ub.uni-osnabrueck.de
 
 
 @bzimeliensaal
-Zimeliensaal Bibliothek Alte Münze, Altbau
+Zimeliensaal Bibliothek Alte Münze, Altbau (= B-Zimeliensaal)
 Alte Münze 16
  Osnabrück
 
@@ -445,7 +445,7 @@ info@ub.uni-osnabrueck.de
 
 
 @c2
-Alte Geschichte und Archäologie
+Alte Geschichte und Archäologie (= C-2)
 Schloßstr. 8
  Osnabrück
 
@@ -457,7 +457,7 @@ cdiekamp@uni-osnabrueck.de
 
 
 @c3
-Kartensammlung Geographie
+Kartensammlung Geographie (= C-3)
 Seminarstr. 19a/b
  Osnabrück
 
@@ -469,7 +469,7 @@ geokarte@uos.de
 
 
 @c4
-Handbibliothek Geographie
+Handbibliothek Geographie (= C-4)
 Seminarstr. 19a/b
  Osnabrück
 
@@ -481,7 +481,7 @@ geobibli@uos.de
 
 
 @d
-Dienstexemplare UB
+Dienstexemplare UB (= D)
 
  Osnabrück
 
@@ -489,7 +489,7 @@ Dienstexemplare UB
 
 
 @dl1
-Diathek Kunstgeschichte
+Diathek Kunstgeschichte (= DL-1)
 Katharinenstr. 5
  Osnabrück
 
@@ -499,7 +499,7 @@ Katharinenstr. 5
 
 
 @e2
-AV-Sammlung Sport
+AV-Sammlung Sport (= E-2)
 Jahnstr. 75 (Sportzentrum)
  Osnabrück
 
@@ -511,7 +511,7 @@ sekretariat.sport@uni-osnabrueck.de
 
 
 @e3
-AV-Sammlung Ev. Theologie
+AV-Sammlung Ev. Theologie (= E-3)
 Neuer Graben/Schloss 29
  Osnabrück
 
@@ -521,7 +521,7 @@ Neuer Graben/Schloss 29
 
 
 @e4
-Pädagogik
+Pädagogik (= E-4)
 Artilleriestr. 34
  Osnabrück
 
@@ -533,7 +533,7 @@ nina.keeb@uni-osnabrueck.de
 
 
 @e5
-Sachunterricht
+Sachunterricht (= E-5)
 Neuer Graben 7-9
  Osnabrück
 
@@ -545,7 +545,7 @@ eglaeser@uos.de
 
 
 @e6
-Examensapparat Ev. Theologie
+Examensapparat Ev. Theologie (= E-6)
 Neuer Graben/Schloss
  Osnabrück
 
@@ -555,7 +555,7 @@ Neuer Graben/Schloss
 
 
 @f
-Gleichstellungsbüro
+Gleichstellungsbüro (= F)
 Neuer Graben 7 / 9
  Osnabrück
 
@@ -567,7 +567,7 @@ Gleichstellungsbüro@Uni-Osnabrueck.de
 
 
 @g
-Bereichsbibliothek Sozialwissenschaften
+Bereichsbibliothek Sozialwissenschaften (= G)
 Seminarstraße 33
 49074 Osnabrück
 
@@ -579,7 +579,7 @@ infog@ub.uni-osnabrueck.de
 
 
 @gall
-Bereichsbibliothek Sozialwissenschaften
+Bereichsbibliothek Sozialwissenschaften (= G all)
 Seminarstr. 34
  Osnabrück
 
@@ -591,7 +591,7 @@ infog@ub.uni-osnabrueck.de
 
 
 @gbbg
-Bereichsbibliothek Sozialwissenschaften
+Bereichsbibliothek Sozialwissenschaften (= G bbg)
 Seminarstr. 34
  Osnabrück
 
@@ -603,7 +603,7 @@ infog@ub.uni-osnabrueck.de
 
 
 @gfreihandmagazin
-Freihand-Magazin der Bereichsbibliothek Sozialwissenschaften
+Freihand-Magazin der Bereichsbibliothek Sozialwissenschaften (= G-Freihand-Magazin)
 Große Rosenstr. 20 / Seminarstr. 33
  Osnabrück
 
@@ -615,7 +615,7 @@ infog@ub.uni-osnabrueck.de
 
 
 @ghis
-Bereichsbibliothek Sozialwissenschaften
+Bereichsbibliothek Sozialwissenschaften (= G his)
 Seminarstr. 34
  Osnabrück
 
@@ -627,7 +627,7 @@ infog@ub.uni-osnabrueck.de
 
 
 @gjzs
-Bereichsbibliothek Sozialwissenschaften
+Bereichsbibliothek Sozialwissenschaften (= G jzs)
 Seminarstr. 34
  Osnabrück
 
@@ -639,7 +639,7 @@ infog@ub.uni-osnabrueck.de
 
 
 @glb
-Lehrbuchsammlung der Bereichsbibliothek Sozialwissenschaften
+Lehrbuchsammlung der Bereichsbibliothek Sozialwissenschaften (= G-LB)
 Große Rosenstr. 20 / Seminarstr. 33
  Osnabrück
 
@@ -651,7 +651,7 @@ infog@ub.uni-osnabrueck.de
 
 
 @gmagazin
-Magazin der Bereichsbibliothek Sozialwissenschaften
+Magazin der Bereichsbibliothek Sozialwissenschaften (= G-Magazin)
 Große Rosenstr. 20 / Seminarstr. 33
  Osnabrück
 
@@ -663,7 +663,7 @@ infog@ub.uni-osnabrueck.de
 
 
 @gmedienschrank
-Medienschrank der Bereichsbibliothek Sozialwissenschaften
+Medienschrank der Bereichsbibliothek Sozialwissenschaften (= G-Medienschrank)
 Große Rosenstr. 20 / Seminarstr. 33
  Osnabrück
 
@@ -675,7 +675,7 @@ infog@ub.uni-osnabrueck.de
 
 
 @graraschrank
-Bereichsbibliothek Sozialwissenschaften
+Bereichsbibliothek Sozialwissenschaften (= G-Raraschrank)
 Große Rosenstr. 20 / Seminarstr. 33
  Osnabrück
 
@@ -685,7 +685,7 @@ infog@ub.uni-osnabrueck.de
 
 
 @gsow
-Bereichsbibliothek Sozialwissenschaften
+Bereichsbibliothek Sozialwissenschaften (= G sow)
 Seminarstr. 34
  Osnabrück
 
@@ -697,7 +697,7 @@ infog@ub.uni-osnabrueck.de
 
 
 @gsta
-Bereichsbibliothek Sozialwissenschaften
+Bereichsbibliothek Sozialwissenschaften (= G sta)
 Seminarstr. 34
  Osnabrück
 
@@ -709,7 +709,7 @@ infog@ub.uni-osnabrueck.de
 
 
 @gvwl
-Bereichsbibliothek Sozialwissenschaften
+Bereichsbibliothek Sozialwissenschaften (= G vwl)
 Seminarstr. 34
  Osnabrück
 
@@ -721,7 +721,7 @@ infog@ub.uni-osnabrueck.de
 
 
 @islamischegelehrtenbibliothek
-Islamische Gelehrtenbibliothek im Magazin der Bibliothek Alte Münze
+Islamische Gelehrtenbibliothek im Magazin der Bibliothek Alte Münze (= Islamische Gelehrtenbibliothek)
 Alte Münze 16
  Osnabrück
 
@@ -733,7 +733,7 @@ info@ub.uni-osnabrueck.de
 
 
 @j
-Rechtswissenschaften in der Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Rechtswissenschaften in der Bereichsbibliothek Rechts- und Wirtschaftswissenschaften (= J)
 Martinistraße 2-6/ Heger-Tor-Wall 14
 49078 Osnabrück
 
@@ -745,7 +745,7 @@ infojw@ub.uni-osnabrueck.de
 
 
 @j1
-Handapparat Prof. Dr. Krack
+Handapparat Prof. Dr. Krack (= J-1)
 Heger-Tor-Wall 14
  Osnabrück
 
@@ -757,7 +757,7 @@ ls-krack@uos.de
 
 
 @j10
-Handapparat Prof. Dr. Hartmann
+Handapparat Prof. Dr. Hartmann (= J-10)
 Martinistr. 8
  Osnabrück
 
@@ -769,7 +769,7 @@ ls-hartmann@uos.de
 
 
 @j11
-Handapparat Prof. Dr. Schmitz
+Handapparat Prof. Dr. Schmitz (= J-11)
 Heger-Tor-Wall 14
  Osnabrück
 
@@ -781,7 +781,7 @@ instwsr@uni-osnabrueck.de
 
 
 @j12
-Handapparat Prof. Dr. Foerste
+Handapparat Prof. Dr. Foerste (= J-12)
 Heger-Tor-Wall 14
  Osnabrück
 
@@ -793,7 +793,7 @@ Ufoerste@uni-osnabrueck.de
 
 
 @j13
-Handapparat Prof. Dr. Sinn
+Handapparat Prof. Dr. Sinn (= J-13)
 Heger-Tor-Wall 14
  Osnabrück
 
@@ -803,7 +803,7 @@ Heger-Tor-Wall 14
 
 
 @j14
-Handapparat Prof. Dr. McGuire
+Handapparat Prof. Dr. McGuire (= J-14)
 Katharinenstr. 13-15
  Osnabrück
 
@@ -815,7 +815,7 @@ ls-mcguire@uos.de
 
 
 @j15
-Handapparat Prof. Dr. Fuchs
+Handapparat Prof. Dr. Fuchs (= J-15)
 Katharinenstr. 13-15
  Osnabrück
 
@@ -827,7 +827,7 @@ http://www.fuchs.jura.uni-osnabrueck.de/
 
 
 @j16
-Handapparat Prof. Dr. Zoll
+Handapparat Prof. Dr. Zoll (= J-16)
 Süsterstr. 28
  Osnabrück
 
@@ -839,7 +839,7 @@ ls-zoll@uos.de
 
 
 @j17
-Handapparat Prof. Dr. Groß
+Handapparat Prof. Dr. Groß (= J-17)
 Süsterstr. 28
  Osnabrück
 
@@ -851,7 +851,7 @@ elsi.public.law@uos.de
 
 
 @j18
-Handapparat Prof. Dr. Busch
+Handapparat Prof. Dr. Busch (= J-18)
 Süsterstr. 28
  Osnabrück
 
@@ -863,7 +863,7 @@ ls-busch@uos.de
 
 
 @j19
-Handapparat Prof. Dr. Dörr
+Handapparat Prof. Dr. Dörr (= J-19)
 Süsterstr. 28
  Osnabrück
 
@@ -875,7 +875,7 @@ LS-Doerr@uos.de
 
 
 @j2
-Handapparat Prof. Dr. Schulte-Nölke
+Handapparat Prof. Dr. Schulte-Nölke (= J-2)
 Süsterstr. 28
  Osnabrück
 
@@ -887,7 +887,7 @@ LS-schulte-noelke@uni-osnabrueck.de
 
 
 @j20
-Handapparat Prof. Dr. Gesk
+Handapparat Prof. Dr. Gesk (= J-20)
 Katharinenstr. 13-15
  Osnabrück
 
@@ -899,7 +899,7 @@ ls-gesk@uni-osnabrueck.de
 
 
 @j3
-Handapparat Prof. Dr. Bieder
+Handapparat Prof. Dr. Bieder (= J-3)
 Katharinenstr. 13-15
  Osnabrück
 
@@ -909,7 +909,7 @@ Katharinenstr. 13-15
 
 
 @j4
-Handapparat Prof. Dr. von Bar
+Handapparat Prof. Dr. von Bar (= J-4)
 Süsterstr. 28
  Osnabrück
 
@@ -921,7 +921,7 @@ stefanie.kaemmerer@uni-osnabrueck.de
 
 
 @j5
-Handapparat Prof. Dr. Lampert
+Handapparat Prof. Dr. Lampert (= J-5)
 Martinistr. 8
  Osnabrück
 
@@ -933,7 +933,7 @@ instfsr@uos.de
 
 
 @j6
-Handapparat Prof. Dr. Ipsen
+Handapparat Prof. Dr. Ipsen (= J-6)
 Martinistr. 12
  Osnabrück
 
@@ -945,7 +945,7 @@ instkr@uni-osnabrueck.de
 
 
 @j7
-Handapparat Prof. Dr. Cancik
+Handapparat Prof. Dr. Cancik (= J-7)
 Martinistr. 12
  49078 Osnabrück
 
@@ -957,7 +957,7 @@ LS-Cancik@uni-osnabrueck.de
 
 
 @j8
-Handapparat Prof. Dr. Leuschner
+Handapparat Prof. Dr. Leuschner (= J-8)
 Heger-Tor-Wall 14
  Osnabrück
 
@@ -969,7 +969,7 @@ heike.hoepke@uos.de
 
 
 @j9
-Handapparat Prof. Dr. Lampert
+Handapparat Prof. Dr. Lampert (= J-9)
 Martinistr. 8
  Osnabrück
 
@@ -981,7 +981,7 @@ instfsr@uos.de
 
 
 @jall
-Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Bereichsbibliothek Rechts- und Wirtschaftswissenschaften (= J all)
 Heger-Tor-Wall 14
  Osnabrück
 
@@ -993,7 +993,7 @@ infojw@ub.uni-osnabrueck.de
 
 
 @jarb
-Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Bereichsbibliothek Rechts- und Wirtschaftswissenschaften (= J arb)
 Heger-Tor-Wall 14
  Osnabrück
 
@@ -1005,7 +1005,7 @@ infojw@ub.uni-osnabrueck.de
 
 
 @jcip
-CIP-Pool Rechtswissenschaften Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+CIP-Pool Rechtswissenschaften Bereichsbibliothek Rechts- und Wirtschaftswissenschaften (= J-CIP)
 Heger-Tor-Wall 14
  Osnabrück
 
@@ -1017,7 +1017,7 @@ jura-cip@uos.de
 
 
 @jed
-Europäisches Dokumentationszentrum in der Bibliothek des European Legal Studies Institute
+Europäisches Dokumentationszentrum in der Bibliothek des European Legal Studies Institute (= J-ED)
 Süsterstr. 28
  Osnabrück
 
@@ -1029,7 +1029,7 @@ christoph.neumann@ub.uni-osnabrueck.de
 
 
 @jeu
-Bibliothek des European Legal Studies Institute
+Bibliothek des European Legal Studies Institute (= J-EU)
 Süsterstr. 28
  Osnabrück
 
@@ -1041,7 +1041,7 @@ infoelsi@uni-osnabrueck.de
 
 
 @jeuall
-Bibliothek des European Legal Studies Institute
+Bibliothek des European Legal Studies Institute (= J-EU all)
 Süsterstr. 28
  Osnabrück
 
@@ -1053,7 +1053,7 @@ christoph.Neumann@ub.uni-osnabrueck.de
 
 
 @jeumedienschrank
-Medienschrank in der Bibliothek des European Legal Studies Institute
+Medienschrank in der Bibliothek des European Legal Studies Institute (= J-EU-Medienschrank)
 Süsterstr. 28
  Osnabrück
 
@@ -1065,7 +1065,7 @@ christoph.Neumann@ub.uni-osnabrueck.de
 
 
 @jeuoef
-Bibliothek des European Legal Studies Institute
+Bibliothek des European Legal Studies Institute (= J-EU oef)
 Süsterstr. 28
  Osnabrück
 
@@ -1077,7 +1077,7 @@ christoph.Neumann@ub.uni-osnabrueck.de
 
 
 @jeupri
-Bibliothek des European Legal Studies Institute
+Bibliothek des European Legal Studies Institute (= J-EU pri)
 Süsterstr. 28
  Osnabrück
 
@@ -1089,7 +1089,7 @@ christoph.Neumann@ub.uni-osnabrueck.de
 
 
 @jeuraraschrank
-Raraschrank in der Bibliothek des European Legal Studies Institute
+Raraschrank in der Bibliothek des European Legal Studies Institute (= J-EU-Raraschrank)
 Süsterstr. 28
  Osnabrück
 
@@ -1101,7 +1101,7 @@ christoph.neumann@ub.uni-osnabrueck.de
 
 
 @jeurec
-Bibliothek des European Legal Studies Institute
+Bibliothek des European Legal Studies Institute (= J-EU rec)
 Süsterstr. 28
  Osnabrück
 
@@ -1113,7 +1113,7 @@ christoph.Neumann@ub.uni-osnabrueck.de
 
 
 @jeustr
-Bibliothek des European Legal Studies Institute
+Bibliothek des European Legal Studies Institute (= J-EU str)
 
  Osnabrück
 
@@ -1121,7 +1121,7 @@ Bibliothek des European Legal Studies Institute
 
 
 @jfreihandmagazin
-Freihand-Magazin Bibliothek Rechts- und Wirtschaftswissenschaften (UG)
+Freihand-Magazin Bibliothek Rechts- und Wirtschaftswissenschaften (UG) (= J-Freihand-Magazin)
 Heger-Tor-Wall 14
  Osnabrück
 
@@ -1133,7 +1133,7 @@ infojw@ub.uni-osnabrueck.de
 
 
 @jfs
-Institut für Staats-, Verwaltungs- und Wirtschaftsrecht, Standort Finanz- und Steuerrecht
+Institut für Staats-, Verwaltungs- und Wirtschaftsrecht, Standort Finanz- und Steuerrecht (= J-FS)
 Martinistr. 8-10
  Osnabrück
 
@@ -1145,7 +1145,7 @@ instFSR@uos.de
 
 
 @jfsbibliothekschindhelm
-Bibliothek Schindhelm in der Institutsbibliothek für Staats-, Verwaltungs- und Wirtschaftsrecht, Standort Finanz- und Steuerrecht
+Bibliothek Schindhelm in der Institutsbibliothek für Staats-, Verwaltungs- und Wirtschaftsrecht, Standort Finanz- und Steuerrecht (= J-FS-Bibliothek Schindhelm)
 Martinistr. 8
  Osnabrück
 
@@ -1157,7 +1157,7 @@ instFSR@uos.de
 
 
 @jfsmagazin
-Magazin der Institutsbibliothek für Staats-, Verwaltungs- und Wirtschaftsrecht, Standort Finanz- und Steuerrecht
+Magazin der Institutsbibliothek für Staats-, Verwaltungs- und Wirtschaftsrecht, Standort Finanz- und Steuerrecht (= J-FS-Magazin)
 Heger-Tor-Wall 14
  Osnabrück
 
@@ -1169,7 +1169,7 @@ infojw@ub.uni-osnabrueck.de
 
 
 @jfsmedienschrank
-Medienschrank im Institut für Staats-, Verwaltungs- und Wirtschaftsrecht, Standort Finanz- und Steuerrecht
+Medienschrank im Institut für Staats-, Verwaltungs- und Wirtschaftsrecht, Standort Finanz- und Steuerrecht (= J-FS-Medienschrank)
 Martinistr. 10
  Osnabrück
 
@@ -1181,7 +1181,7 @@ instfsr@uni-osnabrueck.de
 
 
 @jfsraraschrank
-Raraschrank im Institut für Staats-, Verwaltungs- und Wirtschaftsrecht, Standort Finanz- und Steuerrecht
+Raraschrank im Institut für Staats-, Verwaltungs- und Wirtschaftsrecht, Standort Finanz- und Steuerrecht (= J-FS-Raraschrank)
 Martinistr. 10
  Osnabrück
 
@@ -1193,7 +1193,7 @@ infojw@ub.uni-osnabrueck.de
 
 
 @jic
-Ius-Commune-Bibliothek
+Ius-Commune-Bibliothek (= J-IC)
 Heger-Tor-Wall 14
  Osnabrück
 
@@ -1205,7 +1205,7 @@ friederike.dauer@ub.uni-osnabrueck.de
 
 
 @jkr
-Institut für Staats-, Verwaltungs- und Wirtschaftsrecht, Standort Kommunalrecht
+Institut für Staats-, Verwaltungs- und Wirtschaftsrecht, Standort Kommunalrecht (= J-KR)
 Martinistr. 12
  Osnabrück
 
@@ -1217,7 +1217,7 @@ instkr@uni-osnabrueck.de
 
 
 @jkrraraschrank
-Raraschrank im Institut für Staats-, Verwaltungs- und Wirtschaftsrecht, Standort Kommunalrecht
+Raraschrank im Institut für Staats-, Verwaltungs- und Wirtschaftsrecht, Standort Kommunalrecht (= J-KR-Raraschrank)
 Martinistr. 12
  Osnabrück
 
@@ -1229,7 +1229,7 @@ instkr@uni-osnabrueck.de
 
 
 @jlb
-Lehrbuchsammlung Rechtswissenschaften in der Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Lehrbuchsammlung Rechtswissenschaften in der Bereichsbibliothek Rechts- und Wirtschaftswissenschaften (= J-LB)
 Heger-Tor-Wall 14
  Osnabrück
 
@@ -1241,7 +1241,7 @@ infojw@ub.uni-osnabrueck.de
 
 
 @jmagazin
-Magazin Rechtswissenschaften in der Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Magazin Rechtswissenschaften in der Bereichsbibliothek Rechts- und Wirtschaftswissenschaften (= J-Magazin)
 Heger-Tor-Wall 14
  Osnabrück
 
@@ -1253,7 +1253,7 @@ infojw@ub.uni-osnabrueck.de
 
 
 @jmedienschrank
-Medienschrank der Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Medienschrank der Bereichsbibliothek Rechts- und Wirtschaftswissenschaften (= J-Medienschrank)
 Heger-Tor-Wall 14
  Osnabrück
 
@@ -1265,7 +1265,7 @@ infojw@ub.uni-osnabrueck.de
 
 
 @jmuk
-Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Bereichsbibliothek Rechts- und Wirtschaftswissenschaften (= J muk)
 Heger-Tor-Wall 14
  Osnabrück
 
@@ -1277,7 +1277,7 @@ infojw@ub.uni-osnabrueck.de
 
 
 @joef
-Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Bereichsbibliothek Rechts- und Wirtschaftswissenschaften (= J oef)
 Heger-Tor-Wall 14
  Osnabrück
 
@@ -1289,7 +1289,7 @@ infojw@ub.uni-osnabrueck.de
 
 
 @jpri
-Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Bereichsbibliothek Rechts- und Wirtschaftswissenschaften (= J pri)
 Heger-Tor-Wall 14
  Osnabrück
 
@@ -1301,7 +1301,7 @@ infojw@ub.uni-osnabrueck.de
 
 
 @jraraschrank
-Raraschränke der Rechtswissenschaften in der Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Raraschränke der Rechtswissenschaften in der Bereichsbibliothek Rechts- und Wirtschaftswissenschaften (= J-Raraschrank)
 Heger-Tor-Wall 14
  Osnabrück
 
@@ -1313,7 +1313,7 @@ infojw@ub.uni-osnabrueck.de
 
 
 @jrec
-Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Bereichsbibliothek Rechts- und Wirtschaftswissenschaften (= J rec)
 Heger-Tor-Wall 14
  Osnabrück
 
@@ -1325,7 +1325,7 @@ infojw@ub.uni-osnabrueck.de
 
 
 @jsoz
-Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Bereichsbibliothek Rechts- und Wirtschaftswissenschaften (= J soz)
 Heger-Tor-Wall 14
  Osnabrück
 
@@ -1335,7 +1335,7 @@ infojw@ub.uni-osnabrueck.de
 
 
 @jstr
-Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Bereichsbibliothek Rechts- und Wirtschaftswissenschaften (= J str)
 Heger-Tor-Wall 14
  Osnabrück
 
@@ -1347,7 +1347,7 @@ infojw@ub.uni-osnabrueck.de
 
 
 @jumw
-Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Bereichsbibliothek Rechts- und Wirtschaftswissenschaften (= J umw)
 Heger-Tor-Wall 14
  Osnabrück
 
@@ -1359,7 +1359,7 @@ infojw@ub.uni-osnabrueck.de
 
 
 @jvoe
-Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Bereichsbibliothek Rechts- und Wirtschaftswissenschaften (= J voe)
 Heger-Tor-Wall 14
  Osnabrück
 
@@ -1371,7 +1371,7 @@ infojw@ub.uni-osnabrueck.de
 
 
 @jvr
-Institut für Verfahrensrecht
+Institut für Verfahrensrecht (= J-VR)
 Heger-Tor-Wall 14
  Osnabrück
 
@@ -1383,7 +1383,7 @@ ufoerste@uos.de
 
 
 @jwr
-Institut für Unternehmens- und Wirtschaftsrecht
+Institut für Unternehmens- und Wirtschaftsrecht (= J-WR)
 Katharinenstr. 13-15
  Osnabrück
 
@@ -1395,7 +1395,7 @@ ls-bieder@uos.de
 
 
 @jws
-Institut für Wirtschaftsstrafrecht
+Institut für Wirtschaftsstrafrecht (= J-WS)
 Heger-Tor-Wall 14
  Osnabrück
 
@@ -1407,7 +1407,7 @@ instwsr@uni-osnabrueck.de
 
 
 @konradliebmannstiftung
-Ausstellungsbestand Konrad-Liebmann-Stiftung
+Ausstellungsbestand Konrad-Liebmann-Stiftung (= Konrad-Liebmann-Stiftung)
 Alte Münze 14/16
  Osnabrück
 
@@ -1419,7 +1419,7 @@ info@ub.uni-osnabrueck.de
 
 
 @l
-Apparat Biologie
+Apparat Biologie (= L)
 Barbarastr. 11
  Osnabrück
 
@@ -1431,7 +1431,7 @@ florian.fiebelkorn@biologie.uni-osnabrueck.de
 
 
 @l6
-Botanischer Garten
+Botanischer Garten (= L-6)
 Albrechtstr. 29
  49076  Osnabrück
 
@@ -1443,7 +1443,7 @@ bg-buero@biologie.uni-osnabrueck.de
 
 
 @l8
-Chemie
+Chemie (= L-8)
 Barbarastr. 7
  Osnabrück
 
@@ -1455,7 +1455,7 @@ Hans.Reuter@uos.de
 
 
 @m1
-FB Physik: Elekronikwerkstatt
+FB Physik: Elekronikwerkstatt (= M-1)
 Barbarastr. 7
  Osnabrück
 
@@ -1467,7 +1467,7 @@ hans-dieter.sobieralski@uni-osnabrueck.de
 
 
 @m10
-Nanowissenschaften
+Nanowissenschaften (= M-10)
 Barbarastr. 7
  Osnabrück
 
@@ -1479,7 +1479,7 @@ sosmanovic@uos.de
 
 
 @m11
-Stochastische Prozesse und Anwendungen
+Stochastische Prozesse und Anwendungen (= M-11)
 Albrechtstr. 28a
  Osnabrück
 
@@ -1491,7 +1491,7 @@ jones@mathematik.Uni-Osnabrueck.de
 
 
 @m12
-Handapparat Angewandte Analysis
+Handapparat Angewandte Analysis (= M-12)
 Albrechtstraße 28a
  Osnabrück
 
@@ -1503,7 +1503,7 @@ sjones@uni-osnabrueck.de
 
 
 @m2
-Handbibliothek  Physik
+Handbibliothek  Physik (= M-2)
 Barbarastr. 7
  Osnabrück
 
@@ -1513,7 +1513,7 @@ Barbarastr. 7
 
 
 @m4
-Handbibliothek Labor mit Schulversuchen
+Handbibliothek Labor mit Schulversuchen (= M-4)
 Barbarastr. 7
  Osnabrück
 
@@ -1525,7 +1525,7 @@ jwoellermann@uni-osnabrueck.de
 
 
 @m5
-Informatik
+Informatik (= M-5)
 Wachsbleiche 27
  Osnabrück
 
@@ -1537,7 +1537,7 @@ sekretariat@informatik.uni-osnabrueck.de
 
 
 @m6
-FB Physik: Feinmechanische Werkstatt
+FB Physik: Feinmechanische Werkstatt (= M-6)
 Barbarastr. 7
  Osnabrück
 
@@ -1549,7 +1549,7 @@ uwe.klink@uni-osnabrueck.de
 
 
 @m7
-Algebraische Topologie
+Algebraische Topologie (= M-7)
 Albrechtstr. 28a
  Osnabrück
 
@@ -1561,7 +1561,7 @@ marianne@mathematik.Uni-Osnabrueck.de
 
 
 @m8
-Angewandte Systemwissenschaft
+Angewandte Systemwissenschaft (= M-8)
 Barbarastr. 12
  Osnabrück
 
@@ -1573,7 +1573,7 @@ malchow@Uni-osnabrueck.de
 
 
 @m9
-Handapparat AG Mathematikdidaktik
+Handapparat AG Mathematikdidaktik (= M-9)
 Albrechtstr. 28a
  49076 Osnabrück
 
@@ -1585,7 +1585,7 @@ m9@uni-osnabrueck.de
 
 
 @n
-Bereichsbibliothek Naturwissenschaften / Mathematik
+Bereichsbibliothek Naturwissenschaften / Mathematik (= N)
 Nelson-Mandela-Platz 1
 49076 Osnabrück
 
@@ -1597,7 +1597,7 @@ infon@ub.uni-osnabrueck.de
 
 
 @nagr
-Bereichsbibliothek Naturwissenschaften / Mathematik
+Bereichsbibliothek Naturwissenschaften / Mathematik (= N agr)
 Nelson-Mandela-Platz 1
  Osnabrück
 
@@ -1609,7 +1609,7 @@ infon@ub.uni-osnabrueck.de
 
 
 @nbio
-Bereichsbibliothek Naturwissenschaften / Mathematik
+Bereichsbibliothek Naturwissenschaften / Mathematik (= N bio)
 Nelson-Mandela-Platz 1
  Osnabrück
 
@@ -1621,7 +1621,7 @@ infon@ub.uni-osnabrueck.de
 
 
 @nche
-Bereichsbibliothek Naturwissenschaften / Mathematik
+Bereichsbibliothek Naturwissenschaften / Mathematik (= N che)
 Nelson-Mandela-Platz 1
  Osnabrück
 
@@ -1633,7 +1633,7 @@ infon@ub.uni-osnabrueck.de
 
 
 @nclk
-Bereichsbibliothek Naturwissenschaften / Mathematik
+Bereichsbibliothek Naturwissenschaften / Mathematik (= N clk)
 Nelson-Mandela-Platz 1
  Osnabrück
 
@@ -1645,7 +1645,7 @@ infon@ub.uni-osnabrueck.de
 
 
 @ncsc
-Bereichsbibliothek Naturwissenschaften / Mathematik
+Bereichsbibliothek Naturwissenschaften / Mathematik (= N csc)
 Nelson-Mandela-Platz 1
  Osnabrück
 
@@ -1657,7 +1657,7 @@ infon@ub.uni-osnabrueck.de
 
 
 @ngeo
-Bereichsbibliothek Naturwissenschaften / Mathematik
+Bereichsbibliothek Naturwissenschaften / Mathematik (= N geo)
 Nelson-Mandela-Platz 1
  Osnabrück
 
@@ -1669,7 +1669,7 @@ infon@ub.uni-osnabrueck.de
 
 
 @nhochschulschriftenmagazin
-Hochschulschriften-Magazin der Bereichsbibliothek Naturwissenschaften / Mathematik
+Hochschulschriften-Magazin der Bereichsbibliothek Naturwissenschaften / Mathematik (= N-Hochschulschriften-Magazin)
 Nelson-Mandela-Platz 1
  Osnabrück
 
@@ -1681,7 +1681,7 @@ infon@ub.uni-osnabrueck.de
 
 
 @ninf
-Bereichsbibliothek Naturwissenschaften / Mathematik
+Bereichsbibliothek Naturwissenschaften / Mathematik (= N inf)
 Nelson-Mandela-Platz 1
  Osnabrück
 
@@ -1693,7 +1693,7 @@ infon@ub.uni-osnabrueck.de
 
 
 @ning
-Bereichsbibliothek Naturwissenschaften / Mathematik
+Bereichsbibliothek Naturwissenschaften / Mathematik (= N ing)
 Nelson-Mandela-Platz 1
  Osnabrück
 
@@ -1705,7 +1705,7 @@ infon@ub.uni-osnabrueck.de
 
 
 @nlb
-Lehrbuchsammlung der Bereichsbibliothek Naturwissenschaften / Mathematik
+Lehrbuchsammlung der Bereichsbibliothek Naturwissenschaften / Mathematik (= N-LB)
 Nelson-Mandela-Platz 1
  Osnabrück
 
@@ -1717,7 +1717,7 @@ infon@ub.uni-osnabrueck.de
 
 
 @nmagazin
-Magazin in der Bereichsbibliothek Naturwissenschaften / Mathematik
+Magazin in der Bereichsbibliothek Naturwissenschaften / Mathematik (= N-Magazin)
 Nelson-Mandela-Platz 1
  Osnabrück
 
@@ -1729,7 +1729,7 @@ infon@ub.uni-osnabrueck.de
 
 
 @nmat
-Bereichsbibliothek Naturwissenschaften / Mathematik
+Bereichsbibliothek Naturwissenschaften / Mathematik (= N mat)
 Nelson-Mandela-Platz 1
  Osnabrück
 
@@ -1741,7 +1741,7 @@ infon@ub.uni-osnabrueck.de
 
 
 @nmed
-Bereichsbibliothek Naturwissenschaften / Mathematik
+Bereichsbibliothek Naturwissenschaften / Mathematik (= N med)
 Nelson-Mandela-Platz 1
  Osnabrück
 
@@ -1753,7 +1753,7 @@ infon@ub.uni-osnabrueck.de
 
 
 @nmedienschrank
-Medienschrank in der Bereichsbibliothek Naturwissenschaften / Mathematik
+Medienschrank in der Bereichsbibliothek Naturwissenschaften / Mathematik (= N-Medienschrank)
 Nelson-Mandela-Platz 1
  Osnabrück
 
@@ -1765,7 +1765,7 @@ infon@ub.uni-osnabrueck.de
 
 
 @nnat
-Bereichsbibliothek Naturwissenschaften / Mathematik
+Bereichsbibliothek Naturwissenschaften / Mathematik (= N nat)
 Nelson-Mandela-Platz 1
  Osnabrück
 
@@ -1777,7 +1777,7 @@ infon@ub.uni-osnabrueck.de
 
 
 @npae
-Bereichsbibliothek Naturwissenschaften / Mathematik
+Bereichsbibliothek Naturwissenschaften / Mathematik (= N pae)
 Nelson-Mandela-Platz 1
  Osnabrück
 
@@ -1789,7 +1789,7 @@ infon@ub.uni-osnabrueck.de
 
 
 @nphy
-Bereichsbibliothek Naturwissenschaften / Mathematik
+Bereichsbibliothek Naturwissenschaften / Mathematik (= N phy)
 Nelson-Mandela-Platz 1
  Osnabrück
 
@@ -1801,7 +1801,7 @@ infon@ub.uni-osnabrueck.de
 
 
 @npsy
-Bereichsbibliothek Naturwissenschaften / Mathematik
+Bereichsbibliothek Naturwissenschaften / Mathematik (= N psy)
 Nelson-Mandela-Platz 1
  Osnabrück
 
@@ -1813,7 +1813,7 @@ infon@ub.uni-osnabrueck.de
 
 
 @nvwl
-Bereichsbibliothek Naturwissenschaften / Mathematik
+Bereichsbibliothek Naturwissenschaften / Mathematik (= N vwl)
 Nelson-Mandela-Platz 1
  Osnabrück
 
@@ -1825,7 +1825,7 @@ infon@ub.uni-osnabrueck.de
 
 
 @p3
-Kunstdrucke
+Kunstdrucke (= P-3)
 Seminarstr. 33
  Osnabrück
 
@@ -1837,7 +1837,7 @@ thomas.rohrmann@uos.de
 
 
 @p6
-Mediothek Musik: Tonträger, Medien
+Mediothek Musik: Tonträger, Medien (= P-6)
 Neuer Graben / Schloss
  Osnabrück
 
@@ -1849,7 +1849,7 @@ mediothek.musik@uos.de
 
 
 @p7
-Mediothek Musik: Partituren
+Mediothek Musik: Partituren (= P-7)
 Neuer Graben / Schloss
  Osnabrück
 
@@ -1861,7 +1861,7 @@ mediothek.musik@uos.de
 
 
 @q1
-Gesundheitswissenschaften
+Gesundheitswissenschaften (= Q-1)
 Barbarastr. 22c
  Osnabrück
 
@@ -1873,7 +1873,7 @@ msisic@uni-osnabrueck.de
 
 
 @q2
-Dermatologie, Umweltmedizin und Gesundheitstheorie
+Dermatologie, Umweltmedizin und Gesundheitstheorie (= Q-2)
 Am Finkenhügel 7A
  Osnabrück
 
@@ -1885,7 +1885,7 @@ johnderm@uos.de
 
 
 @s1
-Mediothek des Fachbereichs Sprach- und Literaturwissenschaft
+Mediothek des Fachbereichs Sprach- und Literaturwissenschaft (= S-1)
 Neuer Graben 40
  Osnabrück
 
@@ -1897,7 +1897,7 @@ Peter.Nowotny@uni-osnabrueck.de
 
 
 @s4
-Bibliothek des Interdisziplinären Instituts für Kulturgeschichte der Frühen Neuzeit (IKFN)
+Bibliothek des Interdisziplinären Instituts für Kulturgeschichte der Frühen Neuzeit (IKFN) (= S-4)
 Neuer Graben 19/21, Altes Haus der Landwirtschaft, Eingang Erdgeschoss
  Osnabrück
 
@@ -1909,7 +1909,7 @@ bmrohs@uos.de
 
 
 @s6
-Erich Maria Remarque-Archiv / Forschungsstelle Krieg und Literatur
+Erich Maria Remarque-Archiv / Forschungsstelle Krieg und Literatur (= S-6)
 Markt 6
  Osnabrück
 
@@ -1921,7 +1921,7 @@ remarque-zentrum@uni-osnabrueck.de
 
 
 @u1
-AV-Sammlung Katholische Theologie
+AV-Sammlung Katholische Theologie (= U-1)
 Schloßstr. 4
  Osnabrück
 
@@ -1929,7 +1929,7 @@ Schloßstr. 4
 
 
 @u3
-DFG-Projekt Pentateuch / Judaistik
+DFG-Projekt Pentateuch / Judaistik (= U-3)
 Schloßstr. 4
  Osnabrück
 
@@ -1941,7 +1941,7 @@ Georg.Steins@uni-osnabrueck.de
 
 
 @u4
-Studienapparat Eder
+Studienapparat Eder (= U-4)
 Schloßstr. 4
  Osnabrück
 
@@ -1953,7 +1953,7 @@ Manfred.Eder@uni-osnabrueck.de
 
 
 @v
-Universitätsverwaltung
+Universitätsverwaltung (= V)
 Neuer Graben 29 (Schloß, Westflügel)
  Osnabrück
 
@@ -1961,7 +1961,7 @@ Neuer Graben 29 (Schloß, Westflügel)
 
 
 @w
-Wirtschaftswissenschaften in der Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Wirtschaftswissenschaften in der Bereichsbibliothek Rechts- und Wirtschaftswissenschaften (= W)
 Heger-Tor-Wall 14
  Osnabrück
 
@@ -1973,7 +1973,7 @@ infojw@ub.uni-osnabrueck.de
 
 
 @w1
-Handapparat Prof. Dr. Thomas
+Handapparat Prof. Dr. Thomas (= W-1)
 Parkstraße 40
  Osnabrück
 
@@ -1985,7 +1985,7 @@ alexandra.konert@uni-osnabrueck.de
 
 
 @w10
-Handapparat Prof. Dr. Wosnitza
+Handapparat Prof. Dr. Wosnitza (= W-10)
 Rolandstr. 8
  Osnabrück
 
@@ -1997,7 +1997,7 @@ daniel.mergner@uni-osnabrueck.de
 
 
 @w11
-Handapparat Prof. Dr. Braulke
+Handapparat Prof. Dr. Braulke (= W-11)
 Rolandstr. 8
  Osnabrück
 
@@ -2009,7 +2009,7 @@ Braulke@uni-osnabrueck.de
 
 
 @w12
-Handapparat Prof. Dr. Grundke
+Handapparat Prof. Dr. Grundke (= W-12)
 Katharinenstr. 7
  Osnabrück
 
@@ -2021,19 +2021,19 @@ sekretariat.buf@uni-osnabrueck.de
 
 
 @w13
-Handapparat Prof. Dr. Knüppel
-Rolandstr. 8
+Handapparat Prof. Dr. Schöbel (= W-13)
+Katharinenstr. 3
  Osnabrück
 
 52.2740703, 8.0372415
 
-+49-541/969-2505
++49-541/969-4825
 
-wibke.meyer.zu.westerhausen@uni-osnabrueck.de
+jutta.stelter@uni-osnabrueck.de
 
 
 @w14
-Handapparat Prof. Dr. Rieger
+Handapparat Prof. Dr. Rieger (= W-14)
 Katharinenstr. 3
  Osnabrück
 
@@ -2045,7 +2045,7 @@ jstelter@uos.de
 
 
 @w15
-Handapparat  Prof. Dr. Scholze
+Handapparat  Prof. Dr. Scholze (= W-15)
 Rolandstr. 8
  Osnabrück
 
@@ -2057,7 +2057,7 @@ angkuehn@uni-osnabrueck.de
 
 
 @w16
-Handapparat  Prof. Dr. Teuteberg
+Handapparat  Prof. Dr. Teuteberg (= W-16)
 Katharinenstr. 1
  Osnabrück
 
@@ -2069,7 +2069,7 @@ marita.imhorst@uos.de
 
 
 @w18
-Handapparat Prof. Dr. Gillenkirch
+Handapparat Prof. Dr. Gillenkirch (= W-18)
 Rolandstrasse 8
  49078 Osnabrück
 
@@ -2081,7 +2081,7 @@ monika.schramm@uni-osnabrueck.de
 
 
 @w19
-Handapparat Prof. Dr. Hausberg
+Handapparat Prof. Dr. Hausberg (= W-19)
 Rolandstr. 8
  Osnabrück
 
@@ -2093,7 +2093,7 @@ piet.hausberg@uni-osnabrueck.de
 
 
 @w2
-Handapparat Prof. Dr. Baumgartner
+Handapparat Prof. Dr. Baumgartner (= W-2)
 Rolandstr. 8
  Osnabrück
 
@@ -2105,7 +2105,7 @@ mechthild.brunzel@uos.de
 
 
 @w20
-Handapparat Prof. Dr. Müller
+Handapparat Prof. Dr. Müller (= W-20)
 Rolandstr. 8
  Osnabrück
 
@@ -2115,7 +2115,7 @@ marion.rahimy@uni-osnabrueck.de
 
 
 @w3
-Handapparat Prof. Dr. Hoppe
+Handapparat Prof. Dr. Hoppe (= W-3)
 Katharinenstr. 1
  Osnabrück
 
@@ -2127,7 +2127,7 @@ ursula.wiesner@uni-osnabrueck.de
 
 
 @w4
-Handapparat Prof. Dr. Ossadnik
+Handapparat Prof. Dr. Ossadnik (= W-4)
 Rolandstr. 8
  Osnabrück
 
@@ -2139,7 +2139,7 @@ fabian.burrey@uni-osnabrueck.de
 
 
 @w5
-Handapparat Prof. Humphrey, Ph. D.
+Handapparat Prof. Humphrey, Ph. D. (= W-5)
 Rolandstr. 8
  Osnabrück
 
@@ -2151,7 +2151,7 @@ kira.dellert@uni-osnabrueck.de
 
 
 @w6
-Handapparat Prof. Dr. Dinger
+Handapparat Prof. Dr. Dinger (= W-6)
 Rolandstr. 8
  Osnabrück
 
@@ -2163,7 +2163,7 @@ angela.kuehn@uni-osnabrueck.de
 
 
 @w7
-Handapparat Prof. Dr. Westermann
+Handapparat Prof. Dr. Westermann (= W-7)
 Rolandstr. 8
  Osnabrück
 
@@ -2175,7 +2175,7 @@ karin.wessler-rensmann@uni-osnabrueck.de
 
 
 @w8
-Handapparat Prof. Dr. Gaube
+Handapparat Prof. Dr. Gaube (= W-8)
 Rolandstr. 8
  Osnabrück
 
@@ -2187,7 +2187,7 @@ Rolandstr. 8
 
 
 @w9
-Handapparat Prof. Dr. Wilde
+Handapparat Prof. Dr. Wilde (= W-9)
 Rolandstr. 8
  Osnabrück
 
@@ -2199,7 +2199,7 @@ mechtild.brunzel@uni-osnabrueck.de
 
 
 @wbwl
-Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Bereichsbibliothek Rechts- und Wirtschaftswissenschaften (= W bwl)
 Heger-Tor-Wall 14
  Osnabrück
 
@@ -2211,7 +2211,7 @@ infojw@ub.uni-osnabrueck.de
 
 
 @wlb
-Lehrbuchsammlung Wirtschaftswissenschaften in der Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Lehrbuchsammlung Wirtschaftswissenschaften in der Bereichsbibliothek Rechts- und Wirtschaftswissenschaften (= W-LB)
 Heger-Tor-Wall 14
  Osnabrück
 
@@ -2223,7 +2223,7 @@ infojw@ub.uni-osnabrueck.de
 
 
 @wmagazin
-Magazin Wirtschaftswissenschaften in der Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Magazin Wirtschaftswissenschaften in der Bereichsbibliothek Rechts- und Wirtschaftswissenschaften (= W-Magazin)
 Heger-Tor-Wall
  Osnabrück
 
@@ -2235,7 +2235,7 @@ infojw@ub.uni-osnabrueck.de
 
 
 @wmedienschrank
-Medienschrank der Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Medienschrank der Bereichsbibliothek Rechts- und Wirtschaftswissenschaften (= W-Medienschrank)
 Heger-Tor-Wall 14
  Osnabrück
 
@@ -2247,7 +2247,7 @@ infojw@ub.uni-osnabrueck.de
 
 
 @wvwl
-Bereichsbibliothek Rechts- und Wirtschaftswissenschaften
+Bereichsbibliothek Rechts- und Wirtschaftswissenschaften (= W vwl)
 Heger-Tor-Wall 14
  Osnabrück
 
@@ -2259,7 +2259,7 @@ infojw@ub.uni-osnabrueck.de
 
 
 @x
-VirtUOS Zentrum für Informationsmanagement und virtuelle Lehre
+VirtUOS Zentrum für Informationsmanagement und virtuelle Lehre (= X)
 Heger-Tor-Wall 12
  Osnabrück
 
@@ -2271,7 +2271,7 @@ noesting@uni-osnabrueck.de
 
 
 @y
-Zentrale Studienberatungsstelle (ZSB), StudiOS
+Zentrale Studienberatungsstelle (ZSB), StudiOS (= Y)
 Neuer Graben 27
  Osnabrück
 
@@ -2283,7 +2283,7 @@ info@zsb-os.de
 
 
 @z
-Zentrum für Lehrerbildung (ZLB)
+Zentrum für Lehrerbildung (ZLB) (= Z)
 Neuer Graben 7-9
  Osnabrück
 
