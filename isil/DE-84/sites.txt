@@ -1287,7 +1287,7 @@ Abt-Jerusalem-Str. 7
 52.2725608, 10.530492900000013
 
 @s1
-Seminar für Philosophie
+Institut für Philosophie
 Bienroder Weg 80 (Bibliothek: Nr. 95)
 38106 Braunschweig
 
