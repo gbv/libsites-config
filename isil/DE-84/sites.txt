@@ -817,7 +817,7 @@ Beethovenstr. 52
 38106 Braunschweig
 
  
-http://www.ibmb.tu-braunschweig.de/index.php/bibliothek.html
+https://www.tu-braunschweig.de/ibmb/angebote/bibliothek
 
 52.28173, 10.54498000000001
 
@@ -1419,12 +1419,12 @@ Bültenweg 17
 52.27611, 10.534080000000017
 
 @sx
-Frauenbibliothek
+Bunte Bibliothek
 Zimmerstr. 24d
 38106 Braunschweig
 
 +49 531 391-4589
-https://www.frauenbib-bs.de/die-bibliothek/
+https://buntebib.asta.tu-braunschweig.de
 
 52.2729008, 10.534324900000001
 
