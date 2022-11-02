@@ -974,7 +974,7 @@ Hans-Sommer-Str. 4
 52.27602, 10.536879999999996
 
 @l9
-Institut für Verkehrssicherheit und Automatisierungstechnik
+Institut für Intermodale Transport- und Logistiksysteme
 Hermann-Blenk-Straße 42
 38108 Braunschweig
 
