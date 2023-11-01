@@ -370,658 +370,13 @@ So 10:00 - 21:45 Uhr (Januar bis März und Juni bis August)
 
 52.274011,10.529346
 
-@r1
-Institut für Marketing
-Abt-Jerusalem-Str. 4
+@a0
+Institut für Wissenschaftliches Rechnen
+Mühlenpfordtstrasse 23, 8. Og
 38106 Braunschweig
 
-+49 531 391-3202
-52.2728698, 10.530482099999972
- 
-@r5
-Institut für Unternehmensführung und Organisation
-Abt-Jerusalem-Str. 4
-38106 Braunschweig
-
-+49 531 391-2871 (Sekr.)
-https://www.tu-braunschweig.de/orgfue/studium/institutsbibliothek
-
-52.2728698, 10.530482099999972
- 
-@r7
-Institut für Finanzwirtschaft
-Abt-Jerusalem-Str. 7
-38106 Braunschweig
-
-+49 531 391-2896 (Sekr.)
-52.2725608, 10.530492900000013
- 
-@lc
-Institut für Mikrotechnik
-Alte Salzdahlumer Str. 203
-38124 Braunschweig
-
-+49 531 391-9750
-https://www.tu-braunschweig.de/imt/forschung/ausstattung/vorlage-fuer-geraete-1
-
-52.24352, 10.533680000000004
- 
-@f3
-Institut für Stahlbau
-Beethovenstr. 51
-38106 Braunschweig
-
-+49 531 391-3376
-https://www.stahlbau.tu-braunschweig.de/index.php/de/menu-institut-de/menu-bibliothek-de
-
-52.2823958, 10.544349300000022
- 
-@h8
-Institut für Bauwerkserhaltung und Tragwerk
-Beethovenstr. 51
-38106 Braunschweig
-
-+49 531 391-2512
-http://www.ibt.tu-braunschweig.de/index.php/menu-institut-de/menu-bibliothek-de
-
-52.2823958, 10.544349300000022
- 
-@h5
-Leichtweiß-Institut für Wasserbau
-Beethovenstr. 51a
-38106 Braunschweig
-
-+49 531 391-3972
-https://www.tu-braunschweig.de/lwi/bibliothek
-
-52.2840858, 10.548185500000045
- 
-@f4
-Institut für Geomechanik und Geotechnik
-Beethovenstr. 51b
-38106 Braunschweig
-
-+49 531 391-62001 (Sekr.)
-https://www.tu-braunschweig.de/igb/institut/bibliothek
-
-52.28297999999990, 10.548620000000028
- 
-@h4
-Institut für Straßenwesen
-Beethovenstr. 51b
-38106 Braunschweig
-
-+49 531 391-62062
-52.28297999999990, 10.548620000000028
- 
-@g7
-Institut für Baustoffe, Massivbau und Brandschutz
-Beethovenstr. 52
-38106 Braunschweig
-
- 
-https://www.tu-braunschweig.de/ibmb/angebote/bibliothek
-
-52.28173, 10.54498000000001
- 
-@c1
-Institut für Medizinische und Pharmazeutische Chemie
-Beethovenstr. 55
-38106 Braunschweig
-
-+49 531 391-2751
-52.28048, 10.54517999999996
- 
-@d1
-Institut für Medizinische und Pharmazeutische Chemie
-Abt. Geschichte der Pharmazie und der Naturwissenschaften
-Beethovenstr. 55
-38106 Braunschweig
-
-+49 531 391-5997
-https://www.tu-braunschweig.de/pharmaziegeschichte/bibliothek
-
-52.28048, 10.54517999999996
- 
-@q2
-Institut für Anglistik und Amerikanistik
-Abt. Literatur u. Kulturwissenschaften
-Abt. Sprachwissenschaft
-Bienroder Weg 80 (Bibliothek: Nr. 95)
-38106 Braunschweig
-
-+49 531 391-8883
-https://www.tu-braunschweig.de/fk6/institute-einrichtungen/bibliotheken/campus-nord
-
-52.28585, 10.538729999999987
- 
-@q6
-Institut für Germanistik
-Abt. Linguistik und Mediävistik
-Bienroder Weg 80 (Bibliothek: Nr. 95)
-38106 Braunschweig
-
-+49 531 391-8883
-https://www.tu-braunschweig.de/fk6/institute-einrichtungen/bibliotheken/campus-nord
-
-52.28585, 10.538729999999987
- 
-@s1
-Institut für Philosophie
-Bienroder Weg 80 (Bibliothek: Nr. 95)
-38106 Braunschweig
-
-+49 531 391-8883
-https://www.tu-braunschweig.de/philosophie/bibliothek
-
-52.28585, 10.538729999999987
- 
-@sc
-Institut für Germanistik Did
-Abt. Didaktik der deutschen Sprache und Literatur
-Bienroder Weg 80 (Bibliothek: Nr. 95)
-38106 Braunschweig
-
-+49 531 391-8883
-https://www.tu-braunschweig.de/fk6/institute-einrichtungen/bibliotheken/campus-nord
-
-52.28585, 10.538729999999987
- 
-@sd
-Institut für Anglistik und Amerikanistik
-Abt. Didaktik
-Bienroder Weg 80 (Bibliothek: Nr. 95)
-38106 Braunschweig
-
-+49 531 391-8883
-https://www.tu-braunschweig.de/fk6/institute-einrichtungen/bibliotheken/campus-nord
-
-52.28585, 10.538729999999987
- 
-@h7
-Institut für Geodäsie und Photogrammetrie
-Bienroder Weg 81
-38106 Braunschweig
-
-+49 531 391-94574
-52.286180, 10.539770
- 
-@t5
-Institut für Fachdidaktik der Naturwissenschaften
-Abt. Chemie und ihre Didaktik
-Bienroder Weg 82
-38106 Braunschweig
-
-+49 531 391-94111
-https://www.tu-braunschweig.de/ifdn/chemie/bibliothek
-
-52.2850261, 10.53865769999993
- 
-@s6
-Institut für Pädagogische Psychologie
-Bienroder Weg 82 im Keller
-38106 Braunschweig
-
-+49 531 391-94000
-https://www.tu-braunschweig.de/ipp/studi/bib
-
-52.2850261, 10.53865769999993
- 
-@r6
-Institut für Rechtswissenschaften
-Bienroder Weg 87
-38106 Braunschweig
-
-+49 531 391-2461 (Sekr)
-https://www.tu-braunschweig.de/recht/irw/bibliothek
-
-52.2851198, 10.538257899999962
- 
-@sy
-Institut für Fachdidaktik der Naturwissenschaften
-Sachunterricht und seine Didaktik
-Bienroder Weg 95 (Bibliothek)
-38106 Braunschweig
-
-+49 531 391-8883
-https://www.tu-braunschweig.de/fk6/institute-einrichtungen/bibliotheken/campus-nord
-
-52.2852197, 10.53827810000007
- 
-@q5
-Bibliothek für Sozialwissenschaften
-Bienroder Weg 97
-38106 Braunschweig
-
-+49 531 391-8925 (Bibl)
-https://www.tu-braunschweig.de/isw/bibliothek
-
-52.2836989, 10.538747899999976
- 
-@q8
-Institut für Erziehungswissenschaften
-Abt. Weiterbildung und Medien
-Bienroder Weg 97
-38106 Braunschweig
-
-+49 531 391-8816
-http://www.tu-braunschweig.de/wbm/bibliothek
-
-52.2836989, 10.538747899999976
- 
-@s3
-Institut für Erziehungswissenschaften
-Abt. Schulpäd. U. Allg. Didaktik
-Bienroder Weg 97
-38106 Braunschweig
-
-+49 531 391-8808 (Sekr.)
-http://www.tu-braunschweig.de/schulpaedagogik/biblio
-
-52.2836989, 10.538747899999976
- 
-@s5
-Institut für Erziehungswissenschaften
-Lernwerkstatt Schulpädagogik
-Bienroder Weg 97
-38106 Braunschweig
-
-+49 531 391-8845
-https://www.tu-braunschweig.de/schulpaedagogik/lernwerkstatt-schulpaedagogik
-
-52.2836989, 10.538747899999976
- 
-@sg
-Institut für Geschichtswissenschaft
-Abt. Geschichte und Geschichtsdidaktik
-Bienroder Weg 97
-38106 Braunschweig
-
-+49 531 391-8630
-https://www.ifg-braunschweig.de/studium/bibliotheken/institutsbibliothek-gd/?L=0
-
-52.2836989, 10.538747899999976
- 
-@sm1
-Institut für Didaktik der Mathematik und Elementarmathematik
-Didaktisches Labor
-Bienroder Weg 97
-38106 Braunschweig
-
-+49 531 391-8861 (Sekr.)
-http://www.tu-braunschweig.de/idm/labor
-
-52.2836989, 10.538747899999976
- 
-@t4
-Seminar für Evangelische Theologie und Religionspädagogik
-Bienroder Weg 97
-38106 Braunschweig
-
-+49 531 391-8896 (Bibl)
-http://www.tu-braunschweig.de/theologie/bibliothek
-
-52.2836989, 10.538747899999976
- 
-@sr
-Stabstelle Chancengleichheit
-Bültenweg 17
-38106 Braunschweig
-
-+49 531 391-4545
-https://www.tu-braunschweig.de/chancengleichheit/bibliothek
-
-52.27442449999990, 10.533511699999963
- 
-@sv
-Kooperationsstelle Hochschule-Gewerkschaften SON
-Bültenweg 17
-38106 Braunschweig
-
-+49 531 391-4280
-52.27611, 10.534080000000017
- 
-@t2
-Sprachenzentrum der TU Braunschweig / International House
-Bültenweg 74/75, Raum -133
-38106 Braunschweig
-
-+49 531 391-5086
-52.27611, 10.534080000000017
- 
-@r3
-Institut für Controlling und Unternehmensrechnung
-Fallersleber-Tor-Wall 23
-38100 Braunschweig
-
-+49 531 391-3608
-https://www.tu-braunschweig.de/controlling/institutsbibliothek
-
-52.2698839, 10.530254799999966
- 
-@s4
-Institut für Braunschweigische Regionalgeschichte und Geschichtsvermittlung
-Fallersleber-Tor-Wall 23
-38100 Braunschweig
-
-+49 531 1219674 (Sekr.)
-https://www.tu-braunschweig.de/ibrg
-
-52.2698839, 10.530254799999966
- 
-@c8s
-Institut für Psychologie
-Lehrstuhl Psychologie soziotechnischer Systeme
-Fallersleber-Tor-Wall 23
-38100 Braunschweig
-
-+49 531 391 2559 (Sekr.)
-52.2698839, 10.530254799999966
- 
-@n0
-Institut für Energie- und Systemverfahrenstechnik
-Franz-Liszt-Str. 35
-38106 Braunschweig
-
-+49 531 391-3043
-52.27846, 10.539980000000014
- 
-@b6
-Institut für Physikalische und Theoretische Chemie
-Gaussstr. 17
-38106 Braunschweig
-
-+49 531 391-5339 (Sekr.)
-52.273196, 10.531084
- 
-@c8i
-Institut für Psychologie
-Abtl. Ingenieur- und Verkehrspsychologie
-Gaussstr. 23
-38106 Braunschweig
-
-+49 531 391-3651
-52.27303999999990, 10.531770000000051
- 
-@b4
-Institut für Organische Chemie
-Hagenring 30
-38106 Braunschweig
-
-+49 531 391-5271
-52.27370999999990, 10.53598999999997
- 
-@b8
-Institut für Technische Chemie
-Hagenring 30
-38106 Braunschweig
-
-+49 531 391-5360
-52.27370999999990, 10.53598999999997
- 
-@l8
-Institut für Fahrzeugtechnik
-Hans-Sommer-Str. 4
-38106 Braunschweig
-
-+49 531 391-2610
-52.27602, 10.536879999999996
- 
-@m9
-Institut für Thermodynamik
-Hans-Sommer-Str. 5
-38106 Braunschweig
-
-+49 531 391-2627
-52.27627, 10.537609999999972
- 
-@l5
-Institut für Halbleitertechnik
-Hans-Sommer-Str. 66
-38106 Braunschweig
-
-+49 531 391-3774
-52.276328, 10.54024800000002
- 
-@n9
-Institut für Elektrische Maschinen, Antriebe und Bahnen
-Hans-Sommer-Str. 66
-38106 Braunschweig
-
-+49 531 391-3913
-52.276328, 10.54024800000002
- 
-@o2
-Institut für Regelungstechnik
-Hans-Sommer-Str. 66
-38106 Braunschweig
-
-+49 531 391-3840
-https://www.ifr.ing.tu-bs.de/de/institut/bibliothek/
-
-52.276328, 10.54024800000002
- 
-@o3
-Institut für Elektrische Meßtechnik und Grundlagen der Elektrotechnik
-Hans-Sommer-Str. 66
-38106 Braunschweig
-
-+49 531 391-3867
-52.276328, 10.54024800000002
- 
-@o4
-Institut für CMOS Design
-Hans-Sommer-Str. 66
-38106 Braunschweig
-
-+49 531 391-3163
-52.276328, 10.54024800000002
- 
-@o5
-Institut für Datentechnik und Kommunikationsnetze
-Hans-Sommer-Str. 66
-38106 Braunschweig
-
-+49 531 391-3734
-52.276328, 10.54024800000002
- 
-@l6
-Institut für Raumfahrtsysteme
-Hermann-Blenk-Str. 23
-38108 Braunschweig
-
-+49 531 391-9961
-52.31395, 10.548990000000003
- 
-@m3
-Institut für Flugführung
-Hermann-Blenk-Str. 27
-38108 Braunschweig
-
-+49 531 391-9802
-52.3138324, 10.548239800000033
- 
-@m1
-Institut für Flugzeugbau und Leichtbau
-Hermann-Blenk-Str. 35
-38108 Braunschweig
-
-+49 531 391-9903
-https://www.tu-braunschweig.de/ifl/bibliothek
-
-52.31403049999990, 10.546158300000002
- 
-@m7
-Institut für Flugantriebe und Strömungsmaschinen
-Hermann-Blenk-Str. 37
-38108 Braunschweig
-
-+49 531 391-94201
-52.3142729, 10.543860399999971
- 
-@h3
-Institut für Verkehr und Stadtbauwesen
-Hermann-Blenk-Str. 42
-38108 Braunschweig
-
-+49 531 391-66800
-https://www.tu-braunschweig.de/ivs/institut/institutsbibliothek
-
-52.3145378, 10.542056600000024
- 
-@m8
-Institut für Verbrennungskraftmaschinen
-Hermann-Blenk-Str. 42
-38108 Braunschweig
-
-+49 531 391-66900
-52.3145378, 10.542056600000024
- 
-@l9
-Institut für Intermodale Transport- und Logistiksysteme
-Hermann-Blenk-Straße 42
-38108 Braunschweig
-
-+49 531 391-66301 (Sekr.)
-52.3145378, 10.542056600000024
- 
-@a2
-Institut für Pflanzenbiologie
- Abteilung für Molekular- und Zellbiologie der Pflanzen
-Humboldtstr. 1
-38106 Braunschweig
-
-+49 531 391-5871
-52.270187, 10.533381200000008
- 
-@c8e
-Institut für Psychologie
-Abtl. Entwicklungs-, Persönlichkeits- u. Forensische Psychologie
-Humboldtstr. 33
-38106 Braunschweig
-
-+49 531 391-2812
-52.26963, 10.533509999999978
- 
-@c8k
-Institut für Psychologie
-Abtl. für Klinische Psychologie, Psychotherapie und Diagnostik
-Humboldtstr. 33
-38106 Braunschweig
-
-+49 531 391-2855
-52.26963, 10.533509999999978
- 
-@n5
-Institut für Fabrikbetriebslehre und Unternehmensforschung
-Langer Kamp 19
-38106 Braunschweig
-
-+49 531 391-2710
-52.27791999999990, 10.537329999999997
- 
-@l3
-Institut für Akustik
-Langer Kamp 19
-38106 Braunschweig
-
-+49 531 391-8771 (Sekr.)
-52.27791999999990, 10.537329999999997
- 
-@m6
-Institut für mobile Maschinen und Nutzfahrzeuge
-Langer Kamp 19a
-38106 Braunschweig
-
-+49 531 391-2672
-52.27776, 10.537410000000023
- 
-@l7
-Institut für Werkzeugmaschinen und Fertigungstechnik
-Langer Kamp 19b
-38106 Braunschweig
-
-+49 531 391-7601
-https://www.tu-braunschweig.de/iwf/bibliothek
-
-52.27703, 10.537710000000061
- 
-@b1
-Institut für Geoökologie
-Landschaftsökologie & Umweltsystemanalyse
-Langer Kamp 19c
-38106 Braunschweig
-
-+49 531 391-5628
-52.27674, 10.53774999999996
- 
-@a9
-Institut für Geosysteme und Bioindikation
-Langer Kamp 19c
-38106 Braunschweig
-
-+49 531 391-7246
-52.27674, 10.53774999999996
- 
-@m4
-Institut für Mechanik und Adaptronik
-Langer Kamp 6
-38106 Braunschweig
-
-+49 531 391-2681
-52.27739, 10.538540000000012
- 
-@n1
-Institut für chemische und thermische Verfahrenstechnik
-Langer Kamp 7
-38106 Braunschweig
-
-+49 531 391-2781
-52.27773999999990, 10.540340000000015
- 
-@m5
-Institut für Konstruktionstechnik
-Langer Kamp 8
-38106 Braunschweig
-
-+49 531 391-3343
-https://www.tu-braunschweig.de/ik/institut/ausstattung
-
-52.27799, 10.538000000000011
- 
-@n6
-Institut für Füge- und Schweißtechnik
-Langer Kamp 8
-38106 Braunschweig
-
-+49 531 391-95501
-52.27799, 10.538000000000011
- 
-@n7
-Institut für Werkstoffe
-Langer Kamp 8
-38106 Braunschweig
-
-+49 531 391-3068
-52.27799, 10.538000000000011
- 
-@a6
-Institut für Pharmakologie, Toxikologie und klinische Pharmazie
-Mendelssohnstr. 1
-38106 Braunschweig
-
-+49 531 391-5665
-52.2799713, 10.547182600000042
- 
-@c2
-Institut für Pharmazeutische Technologie und Biopharmazie
-Mendelssohnstr. 1
-38106 Braunschweig
-
-+49 531 391-5658
-https://www.tu-braunschweig.de/pharmtech/institut/bibliothek
-
-52.2799713, 10.547182600000042
++49 531 391-2280
+52.27303, 10.525139999999965
  
 @a1
 Physikzentrum der TU
@@ -1034,395 +389,13 @@ https://www.tu-braunschweig.de/eitp/bibliotheken
 
 52.28033, 10.5471
  
-@af
-Institut für Angewandte Physik
-Mendelssohnstr. 2
+@a2
+Institut für Pflanzenbiologie Abteilung für Molekular- und Zellbiologie der Pflanzen
+Humboldtstr. 1
 38106 Braunschweig
 
-+49 531 391-8500
-52.28033, 10.5472
- 
-@aj
-Inst. f. Theor. Physik u. Inst. f. Mathem. Physik
-Mendelssohnstr. 3
-38106 Braunschweig
-
-+49 531 391-5181; 391-5201 (Sekr)
-52.28033, 10.547900000000027
- 
-@e2
-Institut für Geophysik und Extraterrestrische Physik
-Mendelssohnstr. 3
-38106 Braunschweig
-
-+49 531 391-5224
-http://www.geophys.tu-bs.de/institut/einrichtungen/index.php
-
-52.28033, 10.547900000000027
- 
-@ae
-Institut für Computergraphik
-Mühlenpfordstr. 23
-38106 Braunschweig
-
-+49 531 391-2102
-52.27303, 10.525139999999965
- 
-@ak
-Peter L. Reichertz Institut für Medizinische Informatik
-Mühlenpfordtstr. 23
-38106 Braunschweig
-
-+49 531 391-2130
-52.27303, 10.525139999999965
- 
-@g6
-Institut für Bauklima und Energie der Architektur
-Mühlenpfordtstr. 23
-38106 Braunschweig
-
-+49 531 391-3555
-52.27303, 10.525139999999965
- 
-@r2
-Institut für Robotik und Prozeßinformatik
-Mühlenpfordtstr. 23
-38106 Braunschweig
-
-+49 531 391-7451
-52.27303, 10.525139999999965
- 
-@r4
-Institut für Wirtschaftsinformatik, Lehrstuhl für Decision Support
-Mühlenpfordtstr. 23, 5.OG
-38106 Braunschweig
-
-+49 531 391-3211
-https://www.tu-braunschweig.de/winfo/team/sekretariat
-
-52.27303, 10.525139999999965
- 
-@a0
-Institut für Wissenschaftliches Rechnen
-Mühlenpfordtstrasse 23, 8. Og
-38106 Braunschweig
-
-+49 531 391-2280
-52.27303, 10.525139999999965
- 
-@museum
-Staatliches Naturhistorisches Museum
-Pockelsstr. 10
-38106 Braunschweig
-
-+49 531 1225-3000
-52.275333, 10.530451
- 
-@t6
-Institut für Sportwissenschaft und Bewegungspädagogik
-Pockelsstr. 11
-38106 Braunschweig
-
-+49 531 391-3433
-https://www.tu-braunschweig.de/sportwissenschaft/biblio
-
-52.274762, 10.529269
- 
-@i0
-Institut für Siedlungswasserwirtschaft
-Pockelsstr. 2a (Okerufer)
-38106 Braunschweig
-
-+49 531 391-7946
-https://www.tu-braunschweig.de/isww/team
-
-52.2726899, 10.526943200000005
- 
-@f1
-Institut für Entwerfen und Raumkompositionen
-Pockelsstr. 3
-38106 Braunschweig
-
-+49 531 391-3588
-52.272654, 10.527581800000007
- 
-@f8
-Institut für Angewandte Mechanik
-Pockelsstr. 3
-38106 Braunschweig
-
-+49 531 391-94351
-52.272654, 10.527581800000007
- 
-@fb
-Institut für rechnergestützte Modellierung im Bauingenieurswesen
-Pockelsstr. 3
-38106 Braunschweig
-
-+49 531 391-94501
-52.272654, 10.527581800000007
- 
-@f5
-Institut für Entwerfen und Gebäudelehre
-Pockelsstr. 3 (Okerufer)
-38106 Braunschweig
-
-+49 531 391-94400
-52.272654, 10.527581800000007
- 
-@f9
-Institut für Entwerfen und Baugestaltung
-Pockelsstr. 3 (Okerufer)
-38106 Braunschweig
-
-+49 531 391-2523
-52.272654, 10.527581800000007
- 
-@g1
-Institut für konstruktives Entwerfen, Industrie- und Gesundheitsbau
-Pockelsstr. 3 (Okerufer)
-38106 Braunschweig
-
-+49 531 391-2544
-52.272654, 10.527581800000007
- 
-@h2
-Inst. f. Eisenbahnwesen u. Verkehrssicherung u. Inst. f. Verkehrswesen, Eisenbahnbau u. -betrieb
-Pockelsstr. 3 (Okerufer)
-38106 Braunschweig
-
-+49 531 391-94450 (Sekr.); 63600
-https://www.tu-braunschweig.de/ive/lehre/bibliothek
-
-52.272654, 10.527581800000007
- 
-@f7
-Inst. f. Nachhaltigen Städtebau u. Inst. f. Städtebau u. Entwurfsmethodik
-Pockelsstr. 3, 12. OG
-38106 Braunschweig
-
-+49 531 391-3537; -3538
-http://www.tu-braunschweig-ise.de/
-
-52.272654, 10.527581800000007
- 
-@f71
-Institut für Landschaftsarchitektur
-Pockelsstr. 3, 4. OG
-38106 Braunschweig
-
-+49 531 391-2365
-52.272654, 10.527581800000007
- 
-@g81
-Bet Tfila, Forschungsstelle für jüdische Architektur in Europa
-Pockelsstr. 4
-38106 Braunschweig
-
-+49 531 391-2525
-52.2732324, 10.5285662
- 
-@g0
-Institut für Experimentelles Entwerfen
-Pockelsstr. 4 (Schleinitzstr. 20)
-38106 Braunschweig
-
-+49 531 391-2515
-52.2732324, 10.5285664
- 
-@f6
-Institut für Geschichte und Theorie der Architektur und Stadt
-Pockelsstr. 4 (Schleinitzstr.)
-38106 Braunschweig
-
-+49 531 391-2347
-52.2732324, 10.5285665
- 
-@g5
-Institut für Tragwerksentwurf
-Pockelsstr. 4 (Schleinitzstr.)
-38106 Braunschweig
-
-+49 531 391-3571
-https://www.tu-braunschweig.de/ite/lehre/bibliothek
-
-52.2732324, 10.5285666
- 
-@g8
-Institut für Baugeschichte
-Pockelsstr. 4 (Schleinitzstr.)
-38106 Braunschweig
-
-+49 531 391-2524
-https://www.tu-braunschweig.de/baugeschichte/bibliothek
-
-52.2732324, 10.5285667
- 
-@su
-Career Service
-Rebenring 33
-38106 Braunschweig
-
-+49 531 391-4339
-52.27611, 10.534080000000017
- 
-@sp
-Institut für Musik und ihre Vermittlung
-Rebenring 58
-38106 Braunschweig
-
-+49 531 391-3488
-https://www.tu-braunschweig.de/musik/bibliothek
-
-52.2752379, 10.53022379999993
- 
-@l1
-Mechanikzentrum
-Schleinitzstr. 20
-38106 Braunschweig
-
-+49 531 391-7002
-52.273498, 10.527380999999991
- 
-@m0
-Institut für Produktionsmeßtechnik
-Schleinitzstr. 20
-38106 Braunschweig
-
-+49 531 391-7028
-52.273498, 10.527380999999991
- 
-@q4
-Institut für Geschichtswissenschaft
-Bibliothek
-Schleinitzstr. 20
-38106 Braunschweig
-
-+49 531 391-3099
-https://www.ifg-braunschweig.de/studium/bibliotheken/hans-ulrich-ludewig-bibliothek-institutsbibliothek-fw/
-
-52.273498, 10.527380999999991
- 
-@b9
-Institut für Lebensmittelchemie
-Schleinitzstr. 20, 3. OG
-38106 Braunschweig
-
-+49 531 391-7202
-52.273498, 10.527380999999991
- 
-@h1
-Institut für Baukonstruktion und Holzbau
-Schleinitzstr. 21a (Steinbaracke)
-38106 Braunschweig
-
-+49 531 391-7801
-52.27367169999999, 10.526204199999938
- 
-@g4
-Institut für Baukonstruktion
-Schleinitzstr. 21b (Steinbaracke)
-38106 Braunschweig
-
-+49 531 391-5922
-52.27367169999999, 10.526204199999938
- 
-@l4
-Institut für Nachrichtentechnik
-Schleinitzstr. 22
-38106 Braunschweig
-
-+49 531 391-2474
-52.273423, 10.525879000000032
- 
-@o0
-Institut für Hochspannungstechnik und Elektr. Energieanl.
-Schleinitzstr. 23
-38106 Braunschweig
-
-+49 531 391-7737
-52.27377689999999, 10.528196600000001
- 
-@h6
-Institut für Bauwirtschaft und -betrieb
-Schleinitzstr. 23a
-38106 Braunschweig
-
-+49 531 391-3175
-https://www.tu-braunschweig.de/ibb/lehre/institutsbibliothek
-
-52.27377689999999, 10.528196600000001
- 
-@c8a
-Institut für Psychologie
-Abtl. Arbeits-, Organisations- u. Sozialpsychologie
-Spielmannstr. 19
-38106 Braunschweig
-
-+49 531 391-2547
-52.2732939, 10.530632200000014
- 
-@c8h
-Institut für Psychologie
-Spielmannstr. 19
-38106 Braunschweig
-
-+49 531 391-3145
-https://www.tu-braunschweig.de/psychologie/abt/serviceeinrichtungen/institutsbibliothek
-
-52.2732939, 10.530632200000014
- 
-@c8p
-Institut für Psychologie
-Abtl. für Psychologische Methodenlehre und Biopsychologie
-Spielmannstr. 19
-38106 Braunschweig
-
-+49 531 391-3145
-52.2732939, 10.530632200000014
- 
-@b3
-Institut für Mikrobiologie
-Molekulare Infektionsbiologie
-Spielmannstr. 7
-38106 Braunschweig
-
-+49 531 391-5800
-52.2735043, 10.53028919999997
- 
-@b5
-Institut für Biochemie, Biotechnologie und Bioinformatik
-Abt. Biotechnologie
-Spielmannstr. 7
-38106 Braunschweig
-
-+49 531 391-5732
-52.2735043, 10.53028919999997
- 
-@d0
-Institut für Genetik
-Spielmannstr. 7
-38106 Braunschweig
-
-+49 531 391-5773
-52.2735043, 10.53028919999997
- 
-@c5
-Zoologisches Institut
-Zellphysiologie
-Spielmannstr. 7/8
-38106 Braunschweig
-
-+49 531 391-3231
-52.28041, 10.548670000000016
- 
-@r8
-Institut für Volkswirtschaftslehre
-Spielmannstr. 9
-38106 Braunschweig
-
-+49 531 391-2578 (Sekr.)
-52.273552, 10.530881
++49 531 391-5871
+52.270187, 10.533381200000008
  
 @a4
 Bibliothek der mathematischen Institute
@@ -1443,8 +416,7 @@ Universitätsplatz 2
 52.27349779999990, 10.529713799999968
  
 @a42
-Institut für Analysis und Algebra
-AG Algebra
+Institut für Analysis und Algebra AG Algebra
 Universitätsplatz 2
 38106 Braunschweig
 
@@ -1483,13 +455,316 @@ Universitätsplatz 2
 +49 531 391-7567
 52.27349779999990, 10.529713799999968
  
-@n3
-Institut für Partikeltechnik
-Volkmaroder Str. 5
-38104 Braunschweig
+@a6
+Institut für Pharmakologie, Toxikologie und klinische Pharmazie
+Mendelssohnstr. 1
+38106 Braunschweig
 
-+49 531 391-9611
-52.28763, 10.565510000000017
++49 531 391-5665
+52.2799713, 10.547182600000042
+ 
+@a9
+Institut für Geosysteme und Bioindikation
+Langer Kamp 19c
+38106 Braunschweig
+
++49 531 391-7246
+52.27674, 10.53774999999996
+ 
+@ae
+Institut für Computergraphik
+Mühlenpfordstr. 23
+38106 Braunschweig
+
++49 531 391-2102
+52.27303, 10.525139999999965
+ 
+@af
+Institut für Angewandte Physik
+Mendelssohnstr. 2
+38106 Braunschweig
+
++49 531 391-8500
+52.28033, 10.5472
+ 
+@aj
+Inst. f. Theor. Physik u. Inst. f. Mathem. Physik
+Mendelssohnstr. 3
+38106 Braunschweig
+
++49 531 391-5181; 391-5201 (Sekr)
+52.28033, 10.547900000000027
+ 
+@ak
+Peter L. Reichertz Institut für Medizinische Informatik
+Mühlenpfordtstr. 23
+38106 Braunschweig
+
++49 531 391-2130
+52.27303, 10.525139999999965
+ 
+@b1
+Institut für Geoökologie
+Landschaftsökologie & Umweltsystemanalyse
+Langer Kamp 19c
+38106 Braunschweig
+
++49 531 391-5628
+52.27674, 10.53774999999996
+ 
+@b3
+Institut für Mikrobiologie Molekulare Infektionsbiologie
+Spielmannstr. 7
+38106 Braunschweig
+
++49 531 391-5800
+52.2735043, 10.53028919999997
+ 
+@b4
+Institut für Organische Chemie
+Hagenring 30
+38106 Braunschweig
+
++49 531 391-5271
+52.27370999999990, 10.53598999999997
+ 
+@b5
+Institut für Biochemie, Biotechnologie und Bioinformatik Abt. Biotechnologie
+Spielmannstr. 7
+38106 Braunschweig
+
++49 531 391-5732
+52.2735043, 10.53028919999997
+ 
+@b6
+Institut für Physikalische und Theoretische Chemie
+Gaussstr. 17
+38106 Braunschweig
+
++49 531 391-5339 (Sekr.)
+52.273196, 10.531084
+ 
+@b8
+Institut für Technische Chemie
+Hagenring 30
+38106 Braunschweig
+
++49 531 391-5360
+52.27370999999990, 10.53598999999997
+ 
+@b9
+Institut für Lebensmittelchemie
+Schleinitzstr. 20, 3. OG
+38106 Braunschweig
+
++49 531 391-7202
+52.273498, 10.527380999999991
+ 
+@c1
+Institut für Medizinische und Pharmazeutische Chemie
+Beethovenstr. 55
+38106 Braunschweig
+
++49 531 391-2751
+52.28048, 10.54517999999996
+ 
+@c2
+Institut für Pharmazeutische Technologie und Biopharmazie
+Mendelssohnstr. 1
+38106 Braunschweig
+
++49 531 391-5658
+https://www.tu-braunschweig.de/pharmtech/institut/bibliothek
+
+52.2799713, 10.547182600000042
+ 
+@c5
+Zoologisches Institut Zellphysiologie
+Spielmannstr. 7/8
+38106 Braunschweig
+
++49 531 391-3231
+52.28041, 10.548670000000016
+ 
+@c8a
+Institut für Psychologie Abtl. Arbeits-, Organisations- u. Sozialpsychologie
+Spielmannstr. 19
+38106 Braunschweig
+
++49 531 391-2547
+52.2732939, 10.530632200000014
+ 
+@c8e
+Institut für Psychologie Abtl. Entwicklungs-, Persönlichkeits- u. Forensische Psychologie
+Humboldtstr. 33
+38106 Braunschweig
+
++49 531 391-2812
+52.26963, 10.533509999999978
+ 
+@c8h
+Institut für Psychologie
+Spielmannstr. 19
+38106 Braunschweig
+
++49 531 391-3145
+https://www.tu-braunschweig.de/psychologie/abt/serviceeinrichtungen/institutsbibliothek
+
+52.2732939, 10.530632200000014
+ 
+@c8i
+Institut für Psychologie Abtl. Ingenieur- und Verkehrspsychologie
+Gaussstr. 23
+38106 Braunschweig
+
++49 531 391-3651
+52.27303999999990, 10.531770000000051
+ 
+@c8k
+Institut für Psychologie Abtl. für Klinische Psychologie, Psychotherapie und Diagnostik
+Humboldtstr. 33
+38106 Braunschweig
+
++49 531 391-2855
+52.26963, 10.533509999999978
+ 
+@c8p
+Institut für Psychologie Abtl. für Psychologische Methodenlehre und Biopsychologie
+Spielmannstr. 19
+38106 Braunschweig
+
++49 531 391-3145
+52.2732939, 10.530632200000014
+ 
+@d0
+Institut für Genetik
+Spielmannstr. 7
+38106 Braunschweig
+
++49 531 391-5773
+52.2735043, 10.53028919999997
+ 
+@d1
+Institut für Medizinische und Pharmazeutische Chemie Abt. Geschichte der Pharmazie und der Naturwissenschaften
+Beethovenstr. 55
+38106 Braunschweig
+
++49 531 391-5997
+https://www.tu-braunschweig.de/pharmaziegeschichte/bibliothek
+
+52.28048, 10.54517999999996
+ 
+@e2
+Institut für Geophysik und Extraterrestrische Physik
+Mendelssohnstr. 3
+38106 Braunschweig
+
++49 531 391-5224
+http://www.geophys.tu-bs.de/institut/einrichtungen/index.php
+
+52.28033, 10.547900000000027
+ 
+@f1
+Institut für Entwerfen und Raumkompositionen
+Pockelsstr. 3
+38106 Braunschweig
+
++49 531 391-3588
+52.272654, 10.527581800000007
+ 
+@f3
+Institut für Stahlbau
+Beethovenstr. 51
+38106 Braunschweig
+
++49 531 391-3376
+https://www.stahlbau.tu-braunschweig.de/index.php/de/menu-institut-de/menu-bibliothek-de
+
+52.2823958, 10.544349300000022
+ 
+@f4
+Institut für Geomechanik und Geotechnik
+Beethovenstr. 51b
+38106 Braunschweig
+
++49 531 391-62001 (Sekr.)
+https://www.tu-braunschweig.de/igb/institut/bibliothek
+
+52.28297999999990, 10.548620000000028
+ 
+@f5
+Institut für Entwerfen und Gebäudelehre
+Pockelsstr. 3 (Okerufer)
+38106 Braunschweig
+
++49 531 391-94400
+52.272654, 10.527581800000007
+ 
+@f6
+Institut für Geschichte und Theorie der Architektur und Stadt
+Pockelsstr. 4 (Schleinitzstr.)
+38106 Braunschweig
+
++49 531 391-2347
+52.2732324, 10.5285665
+ 
+@f7
+Inst. f. Nachhaltigen Städtebau u. Inst. f. Städtebau u. Entwurfsmethodik
+Pockelsstr. 3, 12. OG
+38106 Braunschweig
+
++49 531 391-3537; -3538
+http://www.tu-braunschweig-ise.de/
+
+52.272654, 10.527581800000007
+ 
+@f71
+Institut für Landschaftsarchitektur
+Pockelsstr. 3, 4. OG
+38106 Braunschweig
+
++49 531 391-2365
+52.272654, 10.527581800000007
+ 
+@f8
+Institut für Angewandte Mechanik
+Pockelsstr. 3
+38106 Braunschweig
+
++49 531 391-94351
+52.272654, 10.527581800000007
+ 
+@f9
+Institut für Entwerfen und Baugestaltung
+Pockelsstr. 3 (Okerufer)
+38106 Braunschweig
+
++49 531 391-2523
+52.272654, 10.527581800000007
+ 
+@fb
+Institut für rechnergestützte Modellierung im Bauingenieurswesen
+Pockelsstr. 3
+38106 Braunschweig
+
++49 531 391-94501
+52.272654, 10.527581800000007
+ 
+@g0
+Institut für Experimentelles Entwerfen
+Pockelsstr. 4 (Schleinitzstr. 20)
+38106 Braunschweig
+
++49 531 391-2515
+52.2732324, 10.5285664
+ 
+@g1
+Institut für konstruktives Entwerfen, Industrie- und Gesundheitsbau
+Pockelsstr. 3 (Okerufer)
+38106 Braunschweig
+
++49 531 391-2544
+52.272654, 10.527581800000007
  
 @g3
 Institut für Mediales Entwerfen
@@ -1498,6 +773,633 @@ Zimmerstr. 24
 
 +49 531 391-3559
 52.2732, 10.53449999999998
+ 
+@g4
+Institut für Baukonstruktion
+Schleinitzstr. 21b (Steinbaracke)
+38106 Braunschweig
+
++49 531 391-5922
+52.27367169999999, 10.526204199999938
+ 
+@g5
+Institut für Tragwerksentwurf
+Pockelsstr. 4 (Schleinitzstr.)
+38106 Braunschweig
+
++49 531 391-3571
+https://www.tu-braunschweig.de/ite/lehre/bibliothek
+
+52.2732324, 10.5285666
+ 
+@g6
+Institut für Bauklimatik und Energie der Architektur
+Mühlenpfordtstr. 23
+38106 Braunschweig
+
++49 531 391-3555
+52.27303, 10.525139999999965
+ 
+@g7
+Institut für Baustoffe, Massivbau und Brandschutz
+Beethovenstr. 52
+38106 Braunschweig
+
+ 
+https://www.tu-braunschweig.de/ibmb/angebote/bibliothek
+
+52.28173, 10.54498000000001
+ 
+@g8
+Institut für Baugeschichte
+Pockelsstr. 4 (Schleinitzstr.)
+38106 Braunschweig
+
++49 531 391-2524
+https://www.tu-braunschweig.de/baugeschichte/bibliothek
+
+52.2732324, 10.5285667
+ 
+@g81
+Bet Tfila, Forschungsstelle für jüdische Architektur in Europa
+Pockelsstr. 4
+38106 Braunschweig
+
++49 531 391-2525
+52.2732324, 10.5285662
+ 
+@h1
+Institut für Baukonstruktion und Holzbau
+Schleinitzstr. 21a (Steinbaracke)
+38106 Braunschweig
+
++49 531 391-7801
+52.27367169999999, 10.526204199999938
+ 
+@h2
+Inst. f. Eisenbahnwesen u. Verkehrssicherung u. Inst. f. Verkehrswesen, Eisenbahnbau u. -betrieb
+Pockelsstr. 3 (Okerufer)
+38106 Braunschweig
+
++49 531 391-94450 (Sekr.); 63600
+https://www.tu-braunschweig.de/ive/lehre/bibliothek
+
+52.272654, 10.527581800000007
+ 
+@h3
+Institut für Verkehr und Stadtbauwesen
+Hermann-Blenk-Str. 42
+38108 Braunschweig
+
++49 531 391-66800
+https://www.tu-braunschweig.de/ivs/institut/institutsbibliothek
+
+52.3145378, 10.542056600000024
+ 
+@h4
+Institut für Straßenwesen
+Beethovenstr. 51b
+38106 Braunschweig
+
++49 531 391-62062
+52.28297999999990, 10.548620000000028
+ 
+@h5
+Leichtweiß-Institut für Wasserbau
+Beethovenstr. 51a
+38106 Braunschweig
+
++49 531 391-3972
+https://www.tu-braunschweig.de/lwi/bibliothek
+
+52.2840858, 10.548185500000045
+ 
+@h6
+Institut für Bauwirtschaft und -betrieb
+Schleinitzstr. 23a
+38106 Braunschweig
+
++49 531 391-3175
+https://www.tu-braunschweig.de/ibb/lehre/institutsbibliothek
+
+52.27377689999999, 10.528196600000001
+ 
+@h7
+Institut für Geodäsie und Photogrammetrie
+Bienroder Weg 81
+38106 Braunschweig
+
++49 531 391-94574
+52.286180, 10.539770
+ 
+@h8
+Institut für Bauwerkserhaltung und Tragwerk
+Beethovenstr. 51
+38106 Braunschweig
+
++49 531 391-2512
+http://www.ibt.tu-braunschweig.de/index.php/menu-institut-de/menu-bibliothek-de
+
+52.2823958, 10.544349300000022
+ 
+@i0
+Institut für Siedlungswasserwirtschaft
+Pockelsstr. 2a (Okerufer)
+38106 Braunschweig
+
++49 531 391-7946
+https://www.tu-braunschweig.de/isww/team
+
+52.2726899, 10.526943200000005
+ 
+@l1
+Mechanikzentrum
+Schleinitzstr. 20
+38106 Braunschweig
+
++49 531 391-7002
+52.273498, 10.527380999999991
+ 
+@l4
+Institut für Nachrichtentechnik
+Schleinitzstr. 22
+38106 Braunschweig
+
++49 531 391-2474
+52.273423, 10.525879000000032
+ 
+@l5
+Institut für Halbleitertechnik
+Hans-Sommer-Str. 66
+38106 Braunschweig
+
++49 531 391-3774
+52.276328, 10.54024800000002
+ 
+@l6
+Institut für Raumfahrtsysteme
+Hermann-Blenk-Str. 23
+38108 Braunschweig
+
++49 531 391-9961
+52.31395, 10.548990000000003
+ 
+@l7
+Institut für Werkzeugmaschinen und Fertigungstechnik
+Langer Kamp 19b
+38106 Braunschweig
+
++49 531 391-7601
+https://www.tu-braunschweig.de/iwf/bibliothek
+
+52.27703, 10.537710000000061
+ 
+@l8
+Institut für Fahrzeugtechnik
+Hans-Sommer-Str. 4
+38106 Braunschweig
+
++49 531 391-2610
+52.27602, 10.536879999999996
+ 
+@l9
+Institut für Intermodale Transport- und Logistiksysteme
+Hermann-Blenk-Straße 42
+38108 Braunschweig
+
++49 531 391-66301 (Sekr.)
+52.3145378, 10.542056600000024
+ 
+@lc
+Institut für Mikrotechnik
+Alte Salzdahlumer Str. 203
+38124 Braunschweig
+
++49 531 391-9750
+https://www.tu-braunschweig.de/imt/forschung/ausstattung/vorlage-fuer-geraete-1
+
+52.24352, 10.533680000000004
+ 
+@m0
+Institut für Produktionsmeßtechnik
+Schleinitzstr. 20
+38106 Braunschweig
+
++49 531 391-7028
+52.273498, 10.527380999999991
+ 
+@m1
+Institut für Flugzeugbau und Leichtbau
+Hermann-Blenk-Str. 35
+38108 Braunschweig
+
++49 531 391-9903
+https://www.tu-braunschweig.de/ifl/bibliothek
+
+52.31403049999990, 10.546158300000002
+ 
+@m3
+Institut für Flugführung
+Hermann-Blenk-Str. 27
+38108 Braunschweig
+
++49 531 391-9802
+52.3138324, 10.548239800000033
+ 
+@m4
+Institut für Mechanik und Adaptronik
+Langer Kamp 6
+38106 Braunschweig
+
++49 531 391-2681
+52.27739, 10.538540000000012
+ 
+@m5
+Institut für Konstruktionstechnik
+Langer Kamp 8
+38106 Braunschweig
+
++49 531 391-3343
+https://www.tu-braunschweig.de/ik/institut/ausstattung
+
+52.27799, 10.538000000000011
+ 
+@m6
+Institut für mobile Maschinen und Nutzfahrzeuge
+Langer Kamp 19a
+38106 Braunschweig
+
++49 531 391-2672
+52.27776, 10.537410000000023
+ 
+@m7
+Institut für Flugantriebe und Strömungsmaschinen
+Hermann-Blenk-Str. 37
+38108 Braunschweig
+
++49 531 391-94201
+52.3142729, 10.543860399999971
+ 
+@m8
+Institut für Verbrennungskraftmaschinen
+Hermann-Blenk-Str. 42
+38108 Braunschweig
+
++49 531 391-66900
+52.3145378, 10.542056600000024
+ 
+@m9
+Institut für Thermodynamik
+Hans-Sommer-Str. 5
+38106 Braunschweig
+
++49 531 391-2627
+52.27627, 10.537609999999972
+ 
+@n0
+Institut für Energie- und Systemverfahrenstechnik
+Franz-Liszt-Str. 35
+38106 Braunschweig
+
++49 531 391-3043
+52.27846, 10.539980000000014
+ 
+@n1
+Institut für chemische und thermische Verfahrenstechnik
+Langer Kamp 7
+38106 Braunschweig
+
++49 531 391-2781
+52.27773999999990, 10.540340000000015
+ 
+@n3
+Institut für Partikeltechnik
+Volkmaroder Str. 5
+38104 Braunschweig
+
++49 531 391-9611
+52.28763, 10.565510000000017
+ 
+@n5
+Institut für Fabrikbetriebslehre und Unternehmensforschung
+Langer Kamp 19
+38106 Braunschweig
+
++49 531 391-2710
+52.27791999999990, 10.537329999999997
+ 
+@n6
+Institut für Füge- und Schweißtechnik
+Langer Kamp 8
+38106 Braunschweig
+
++49 531 391-95501
+52.27799, 10.538000000000011
+ 
+@n7
+Institut für Werkstoffe
+Langer Kamp 8
+38106 Braunschweig
+
++49 531 391-3068
+52.27799, 10.538000000000011
+ 
+@n9
+Institut für Elektrische Maschinen, Antriebe und Bahnen
+Hans-Sommer-Str. 66
+38106 Braunschweig
+
++49 531 391-3913
+52.276328, 10.54024800000002
+ 
+@o0
+Institut für Hochspannungstechnik und Elektr. Energieanl.
+Schleinitzstr. 23
+38106 Braunschweig
+
++49 531 391-7737
+52.27377689999999, 10.528196600000001
+ 
+@o2
+Institut für Regelungstechnik
+Hans-Sommer-Str. 66
+38106 Braunschweig
+
++49 531 391-3840
+https://www.ifr.ing.tu-bs.de/de/institut/bibliothek/
+
+52.276328, 10.54024800000002
+ 
+@o3
+Institut für Elektrische Meßtechnik und Grundlagen der Elektrotechnik
+Hans-Sommer-Str. 66
+38106 Braunschweig
+
++49 531 391-3867
+52.276328, 10.54024800000002
+ 
+@o4
+Institut für CMOS Design
+Hans-Sommer-Str. 66
+38106 Braunschweig
+
++49 531 391-3163
+52.276328, 10.54024800000002
+ 
+@o5
+Institut für Datentechnik und Kommunikationsnetze
+Hans-Sommer-Str. 66
+38106 Braunschweig
+
++49 531 391-3734
+52.276328, 10.54024800000002
+ 
+@q2
+Institut für Anglistik und Amerikanistik
+Abt. Literatur u. Kulturwissenschaften
+Abt. Sprachwissenschaft
+Bienroder Weg 80 (Bibliothek: Nr. 95)
+38106 Braunschweig
+
++49 531 391-8883
+https://www.tu-braunschweig.de/fk6/institute-einrichtungen/bibliotheken/campus-nord
+
+52.28585, 10.538729999999987
+ 
+@q4
+Institut für Geschichtswissenschaft Bibliothek
+Schleinitzstr. 20
+38106 Braunschweig
+
++49 531 391-3099
+https://www.ifg-braunschweig.de/studium/bibliotheken/hans-ulrich-ludewig-bibliothek-institutsbibliothek-fw/
+
+52.273498, 10.527380999999991
+ 
+@q5
+Bibliothek für Sozialwissenschaften
+Bienroder Weg 97
+38106 Braunschweig
+
++49 531 391-8925 (Bibl)
+https://www.tu-braunschweig.de/isw/bibliothek
+
+52.2836989, 10.538747899999976
+ 
+@q6
+Institut für Germanistik Abt. Linguistik und Mediävistik
+Bienroder Weg 80 (Bibliothek: Nr. 95)
+38106 Braunschweig
+
++49 531 391-8883
+https://www.tu-braunschweig.de/fk6/institute-einrichtungen/bibliotheken/campus-nord
+
+52.28585, 10.538729999999987
+ 
+@q8
+Institut für Erziehungswissenschaften Abt. Weiterbildung und Medien
+Bienroder Weg 97
+38106 Braunschweig
+
++49 531 391-8816
+http://www.tu-braunschweig.de/wbm/bibliothek
+
+52.2836989, 10.538747899999976
+ 
+@r1
+Institut für Marketing
+Abt-Jerusalem-Str. 4
+38106 Braunschweig
+
++49 531 391-3202
+52.2728698, 10.530482099999972
+ 
+@r2
+Institut für Robotik und Prozeßinformatik
+Mühlenpfordtstr. 23
+38106 Braunschweig
+
++49 531 391-7451
+52.27303, 10.525139999999965
+ 
+@r3
+Institut für Controlling und Unternehmensrechnung
+Fallersleber-Tor-Wall 23
+38100 Braunschweig
+
++49 531 391-3608
+https://www.tu-braunschweig.de/controlling/institutsbibliothek
+
+52.2698839, 10.530254799999966
+ 
+@r4
+Institut für Wirtschaftsinformatik, Lehrstuhl für Decision Support
+Mühlenpfordtstr. 23, 5.OG
+38106 Braunschweig
+
++49 531 391-3211
+https://www.tu-braunschweig.de/winfo/team/sekretariat
+
+52.27303, 10.525139999999965
+ 
+@r5
+Institut für Unternehmensführung und Organisation
+Abt-Jerusalem-Str. 4
+38106 Braunschweig
+
++49 531 391-2871 (Sekr.)
+https://www.tu-braunschweig.de/orgfue/studium/institutsbibliothek
+
+52.2728698, 10.530482099999972
+ 
+@r6
+Institut für Rechtswissenschaften
+Bienroder Weg 87
+38106 Braunschweig
+
++49 531 391-2461 (Sekr)
+https://www.tu-braunschweig.de/recht/irw/bibliothek
+
+52.2851198, 10.538257899999962
+ 
+@r7
+Institut für Finanzwirtschaft
+Abt-Jerusalem-Str. 7
+38106 Braunschweig
+
++49 531 391-2896 (Sekr.)
+52.2725608, 10.530492900000013
+ 
+@s1
+Institut für Philosophie
+Bienroder Weg 80 (Bibliothek: Nr. 95)
+38106 Braunschweig
+
++49 531 391-8883
+https://www.tu-braunschweig.de/philosophie/bibliothek
+
+52.28585, 10.538729999999987
+ 
+@s3
+Institut für Erziehungswissenschaften Abt. Schulpäd. U. Allg. Didaktik
+Bienroder Weg 97
+38106 Braunschweig
+
++49 531 391-8808 (Sekr.)
+http://www.tu-braunschweig.de/schulpaedagogik/biblio
+
+52.2836989, 10.538747899999976
+ 
+@s4
+Institut für Braunschweigische Regionalgeschichte und Geschichtsvermittlung
+Fallersleber-Tor-Wall 23
+38100 Braunschweig
+
++49 531 1219674 (Sekr.)
+https://www.tu-braunschweig.de/ibrg
+
+52.2698839, 10.530254799999966
+ 
+@s5
+Institut für Erziehungswissenschaften
+Lernwerkstatt Schulpädagogik
+Bienroder Weg 97
+38106 Braunschweig
+
++49 531 391-8845
+https://www.tu-braunschweig.de/schulpaedagogik/lernwerkstatt-schulpaedagogik
+
+52.2836989, 10.538747899999976
+ 
+@s6
+Institut für Pädagogische Psychologie
+Bienroder Weg 82 im Keller
+38106 Braunschweig
+
++49 531 391-94000
+https://www.tu-braunschweig.de/ipp/studi/bib
+
+52.2850261, 10.53865769999993
+ 
+@sc
+Institut für Germanistik Did
+Abt. Didaktik der deutschen Sprache und Literatur
+Bienroder Weg 80 (Bibliothek: Nr. 95)
+38106 Braunschweig
+
++49 531 391-8883
+https://www.tu-braunschweig.de/fk6/institute-einrichtungen/bibliotheken/campus-nord
+
+52.28585, 10.538729999999987
+ 
+@sd
+Institut für Anglistik und Amerikanistik
+Abt. Didaktik
+Bienroder Weg 80 (Bibliothek: Nr. 95)
+38106 Braunschweig
+
++49 531 391-8883
+https://www.tu-braunschweig.de/fk6/institute-einrichtungen/bibliotheken/campus-nord
+
+52.28585, 10.538729999999987
+ 
+@sg
+Institut für Geschichtswissenschaft
+Abt. Geschichte und Geschichtsdidaktik
+Bienroder Weg 97
+38106 Braunschweig
+
++49 531 391-8630
+https://www.ifg-braunschweig.de/studium/bibliotheken/institutsbibliothek-gd/?L=0
+
+52.2836989, 10.538747899999976
+ 
+@sm1
+Institut für Didaktik der Mathematik und Elementarmathematik
+Didaktisches Labor
+Bienroder Weg 97
+38106 Braunschweig
+
++49 531 391-8861 (Sekr.)
+http://www.tu-braunschweig.de/idm/labor
+
+52.2836989, 10.538747899999976
+ 
+@sp
+Institut für Musik und ihre Vermittlung
+Rebenring 58
+38106 Braunschweig
+
++49 531 391-3488
+https://www.tu-braunschweig.de/musik/bibliothek
+
+52.2752379, 10.53022379999993
+ 
+@sr
+Stabstelle Chancengleichheit
+Bültenweg 17
+38106 Braunschweig
+
++49 531 391-4545
+https://www.tu-braunschweig.de/chancengleichheit/bibliothek
+
+52.27442449999990, 10.533511699999963
+ 
+@su
+Career Service
+Rebenring 33
+38106 Braunschweig
+
++49 531 391-4339
+52.27611, 10.534080000000017
+ 
+@sv
+Kooperationsstelle Hochschule-Gewerkschaften SON
+Bültenweg 17
+38106 Braunschweig
+
++49 531 391-4280
+52.27611, 10.534080000000017
  
 @sx
 Bunte Bibliothek
@@ -1509,5 +1411,86 @@ https://buntebib.asta.tu-braunschweig.de
 
 52.2729008, 10.534324900000001
  
-+49 531 391-8771 (Sekr.
+@sy
+Institut für Fachdidaktik der Naturwissenschaften
+Sachunterricht und seine Didaktik
+Bienroder Weg 95 (Bibliothek)
+38106 Braunschweig
+
++49 531 391-8883
+https://www.tu-braunschweig.de/fk6/institute-einrichtungen/bibliotheken/campus-nord
+
+52.2852197, 10.53827810000007
+ 
+@t2
+Sprachenzentrum der TU Braunschweig / International House
+Bültenweg 74/75, Raum -133
+38106 Braunschweig
+
++49 531 391-5086
+52.27611, 10.534080000000017
+ 
+@t4
+Seminar für Evangelische Theologie und Religionspädagogik
+Bienroder Weg 97
+38106 Braunschweig
+
++49 531 391-8896 (Bibl)
+http://www.tu-braunschweig.de/theologie/bibliothek
+
+52.2836989, 10.538747899999976
+ 
+@t5
+Institut für Fachdidaktik der Naturwissenschaften
+Abt. Chemie und ihre Didaktik
+Bienroder Weg 82
+38106 Braunschweig
+
++49 531 391-94111
+https://www.tu-braunschweig.de/ifdn/chemie/bibliothek
+
+52.2850261, 10.53865769999993
+ 
+@t6
+Institut für Sportwissenschaft und Bewegungspädagogik
+Pockelsstr. 11
+38106 Braunschweig
+
++49 531 391-3433
+https://www.tu-braunschweig.de/sportwissenschaft/biblio
+
+52.274762, 10.529269
+ 
+@r8
+Institut für Volkswirtschaftslehre
+Spielmannstr. 9
+38106 Braunschweig
+
++49 531 391-2578 (Sekr.)
+52.273552, 10.530881
+ 
+@museum
+Staatliches Naturhistorisches Museum
+Pockelsstr. 10
+38106 Braunschweig
+
++49 531 1225-3000
+52.275333, 10.530451
+ 
+@l3
+Institut für Akustik und Dynamik
+Langer Kamp 19
+38106 Braunschweig
+
++49 531 391-8771 (Sekr.)
 52.27791999999990, 10.537329999999997
+ 
+@c8s
+Institut für Psychologie
+Lehrstuhl Psychologie soziotechnischer Systeme
+Fallersleber-Tor-Wall 23
+38100 Braunschweig
+
++49 531 391 2559 (Sekr.)
+52.2698839, 10.530254799999966
+ 
