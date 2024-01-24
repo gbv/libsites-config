@@ -385,7 +385,6 @@ Mendelssohnstr. 2
 38106 Braunschweig
 
 +49 531 391-5028
-https://www.tu-braunschweig.de/eitp/bibliotheken
 
 52.28033, 10.5471
  
@@ -574,7 +573,6 @@ Mendelssohnstr. 1
 38106 Braunschweig
 
 +49 531 391-5658
-https://www.tu-braunschweig.de/pharmtech/institut/bibliothek
 
 52.2799713, 10.547182600000042
  
@@ -994,7 +992,6 @@ Hermann-Blenk-Str. 35
 38108 Braunschweig
 
 +49 531 391-9903
-https://www.tu-braunschweig.de/ifl/bibliothek
 
 52.31403049999990, 10.546158300000002
  
@@ -1172,7 +1169,7 @@ Schleinitzstr. 20
 38106 Braunschweig
 
 +49 531 391-3099
-https://www.ifg-braunschweig.de/studium/bibliotheken/hans-ulrich-ludewig-bibliothek-institutsbibliothek-fw/
+https://www.tu-braunschweig.de/inge/institut/bibliothek/hans-ulrich-ludewig-bibliothek-institutsbibliothek-fw
 
 52.273498, 10.527380999999991
  
@@ -1258,7 +1255,7 @@ Bienroder Weg 87
 38106 Braunschweig
 
 +49 531 391-2461 (Sekr)
-https://www.tu-braunschweig.de/recht/irw/bibliothek
+https://www.tu-braunschweig.de/recht/bibliothek
 
 52.2851198, 10.538257899999962
  
@@ -1350,7 +1347,7 @@ Bienroder Weg 97
 38106 Braunschweig
 
 +49 531 391-8630
-https://www.ifg-braunschweig.de/studium/bibliotheken/institutsbibliothek-gd/?L=0
+https://www.tu-braunschweig.de/inge/institut/bibliothek/institutsbibliothek-gd
 
 52.2836989, 10.538747899999976
  
