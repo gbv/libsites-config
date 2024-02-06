@@ -1037,7 +1037,7 @@ Hermann-Blenk-Str. 37
 52.3142729, 10.543860399999971
  
 @m8
-Institut für Verbrennungskraftmaschinen
+Institut für Verbrennungskraftmaschinen und Brennstoffzellen
 Hermann-Blenk-Str. 42
 38108 Braunschweig
 
