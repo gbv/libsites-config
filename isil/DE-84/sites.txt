@@ -764,7 +764,7 @@ Pockelsstr. 3 (Okerufer)
 52.272654, 10.527581800000007
  
 @g3
-Institut für Mediales Entwerfen
+Institut für Gestaltungsmethodik und Darstellung
 Zimmerstr. 24
 38106 Braunschweig
 
