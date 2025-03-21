@@ -647,7 +647,7 @@ Institut für Medizinische und Pharmazeutische Chemie Abt. Geschichte der Pharma
 Beethovenstr. 55
 38106 Braunschweig
 
-+49 531 391-5997
++49 531 391-5990
 https://www.tu-braunschweig.de/pharmaziegeschichte/bibliothek
 
 52.28048, 10.54517999999996
@@ -1012,13 +1012,13 @@ Langer Kamp 6
  
 @m5
 Institut für Konstruktionstechnik
-Langer Kamp 8
+Hermann-Blenk-Str. 42
 38106 Braunschweig
 
 +49 531 391-3343
 https://www.tu-braunschweig.de/ik/institut/ausstattung
 
-52.27799, 10.538000000000011
+52.3145378, 10.542056600000024
  
 @m6
 Institut für mobile Maschinen und Nutzfahrzeuge
@@ -1426,6 +1426,17 @@ Bültenweg 74/75, Raum -133
 +49 531 391-5086
 52.27611, 10.534080000000017
  
+@t3
+Institut für Fachdidaktik der Naturwissenschaften
+Abt. Biologiedidaktik
+Bienroder Weg 82
+38106 Braunschweig
+
++49 531 391-94095
+https://www.tu-braunschweig.de/ifdn/biologie/bibliothek
+
+52.28569220210539, 10.540427003403979
+
 @t4
 Seminar für Evangelische Theologie und Religionspädagogik
 Bienroder Weg 97
