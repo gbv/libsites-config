@@ -1164,13 +1164,15 @@ https://www.tu-braunschweig.de/fk6/institute-einrichtungen/bibliotheken/campus-n
  
 @q4
 Institut für Geschichtswissenschaft Bibliothek
-Schleinitzstr. 20
+Bienroder Weg 95
 38106 Braunschweig
 
-+49 531 391-3099
-https://www.tu-braunschweig.de/inge/institut/bibliothek/hans-ulrich-ludewig-bibliothek-institutsbibliothek-fw
+Tel: +49 531 391-8883
+ 
 
-52.273498, 10.527380999999991
+https://www.tu-braunschweig.de/fk6/institute-einrichtungen/bibliotheken/campus-nord
+
+52.28585, 10.538729999999987
  
 @q5
 Bibliothek für Sozialwissenschaften
